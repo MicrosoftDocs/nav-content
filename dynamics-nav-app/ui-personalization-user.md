@@ -2,7 +2,6 @@
 title: Personalizing Your Workspace Using the Dynamics NAV Web Client
 description: Learn how to customize the user interface to suit your way of working.
 documentationcenter: ''
-author: jswymer
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
