@@ -3,7 +3,7 @@ Welcome to the repository for the application help content for Dynamics NAV! Dyn
 
 The content is available as markdown files (.md), where each file represents an article in the help. You can edit these markdown files, and then convert them to HTML files for application.
 
-If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at navua@microsoft.com.
+If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
 
 ## Getting Started
 1. Fork this repo
@@ -14,7 +14,7 @@ If you have any questions, please contact the Dynamics NAV User Assistance (UA) 
 
     GitHub Desktop makes is easy to work and collaborate with repos locally from your own desktop. For more information, see [GitHub Desktop](https://desktop.github.com/).   
 
-2. Get hold of your favorite Markdown editor, and start making changes.
+2. Get hold of your favorite MarkDown editor, and start making changes.
 
     The help content is stored in the articles folder of the repo. Articles use a syntax for formatting text called GitHub Flavored Markdown. To learn more about working with markdown, see [Getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/).
 
@@ -32,7 +32,7 @@ One way you can build the HTML files is by using DocFX, which is an open source 
 
     By default the files will be saved in the folder *c:/output*. The output folder is set in the NAVdocfx.json file. If you want to change this folder, do the following:
 
-    a. In the folder *[clone path]\nav-content\articles\*, open the NAVdocfx.json file in your editor.
+    a. In the folder *[clone path]\nav-content\articles\*, open the NAVdocfx.json file in your editor.  
     b.  Set the "dest:" parameter to your output folder, and save the changes.  
 
 3.  Go to your desktop and open a command prompt.
@@ -146,7 +146,7 @@ For example, you want to link to payables-manage-payables.md from ui-work-genera
 - articles
     - ui-work-general-journals.md
 - ManagePayables
-    - conManagePayables.md
+    - payables-manage-payables.md
 
 Here is the link:
 ```[Manage Payables](ManagePayables/payables-manage-payables.md)```
@@ -202,15 +202,7 @@ In the editor, add two blank spaces at the end of the sentence and hit return. T
 Enter four spaces in front of the non-step para. Otherwise, the non-step para will restart the step sequence.
 
 ### TOC
-The TOC structure of the TOC file is as follows:
-
-```
-#[Overview](overview.md)
- ##[Topic 1](topic-1.md)
- ##[Topic 2](topic-2.md)
- ##[Topic 3](topic-3.md)
- ##[Topic 4](topic-4.md)
-```
+This repo contains two TOC files. One is in MarkDown format and the other is in XML format. For the Dynamics NAV Help Server, you must use the XML file. For more information, see [Microsoft Dynamics NAV Help Server](https://msdn.microsoft.com/en-us/dynamics-nav/microsoft-dynamics-nav-help-server).
 
 ### Standard Phrases
 All fields in Dynamics NAV have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    
@@ -221,7 +213,7 @@ All fields in Dynamics NAV have tooltips. Therefore, do not document fields in H
 #### Rules
 - No spaces or punctuation characters. Use hyphens to separate the words in the file name.
 - Use all lowercase letters
-- No more than 80 characters - this is a publishing system limit
+- No more than 80 characters
 - Use action verbs that are specific such as develop, buy, build, troubleshoot. No -ing words.
 - No small words - don't include a, and, the, in, or, etc.
 - Country-specific article file names are prefixed with the country code. Example: "ca-" for Canada.
@@ -235,12 +227,10 @@ All fields in Dynamics NAV have tooltips. Therefore, do not document fields in H
 |Enter Criteria in Filters|ui-enter-criteria-filters.md|
 |Troubleshooting: Record Locked by Another User|ui-troubleshoot-record-locked-another-user.md|
 |Changing Role Center|ui-change-role-center.md|
-|||
 |Set Up Currencies|finance-setup-currencies.md|
 |How to: Set Up Purchasers|purchases-how-setup-purchasers.md|
 |Understanding Session Timeouts|admin-understand-session-timeouts.md|
 |Manage Data Encryption|admin-manage-data-encryption.md|
-|||
 |How to: Work With GIFI Codes in Canada|ca-finance-work-GiFI-codes.md|
 
 Naming consists of the following elements: ```<country prefix>-<category prefix>-<topic title>.<extension>```
@@ -255,5 +245,3 @@ To give readers the impression that the content library is truly country-specifi
 - Link to country-specific content from generic content whenever relevant. The more you link to and from country-specific content, the more integrated it will feel. As for all other links, the link name must be the same as the title of the target article.
 - In navigation tables; the To/See tables in top-level topics, create rows for country-specific references at the bottom of the table. Prefix the text in the **To** column with ```<country>:``` Example: "Canada: How to: Work With GIFI Codes in Canada".
 - Do not create TOC entries for country-specific content. TOC entries will make the content library appear less country-specific.
-
->>>>>>> refs/remotes/Microsoft/master
