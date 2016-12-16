@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Node Name="DynamicsHelp" DisplayName="Help" Page="across-get-started.html">
+  <Node Name="GettingStarted" DisplayName="Getting Started with Dynamics NAV" Page="across-get-started.html">
+    <Node Name="BasicSettings" DisplayName="Changing Basic Settings" Page="ui-change-basic-settings.html"/>
+    <Node Name="Search" DisplayName="Using Search for Page or Report" Page="ui-search.html"/>
+    <Node Name="Sorting" DisplayName="Sorting" Page="ui-sorting.html"/>
+    <Node Name="EnterCriteriainFilters" DisplayName="Enter Criteria in Filters" Page="ui-enter-criteria-filters.html"/>
+    <Node Name="ManReportLayouts" DisplayName="Manage Report Layouts" Page="ui-manage-report-layouts.html"/>
+    <Node Name="MandatoryFields" DisplayName="Mandatory Fields" Page="ui-mandatory-fields.html"/>
+    <Node Name="GenJournals" DisplayName="Work with General Journals" Page="ui-work-general-journals.html"/>
+    <Node Name="Posting" DisplayName="Posting Documents and Journals" Page="ui-post-documents-journals.html"/>
+    <Node Name="RunBatchJobs" DisplayName="How to: Run Batch Jobs" Page="ui-how-run-batch-jobs.html"/>
+    <Node Name="SendDocsAsEmail" DisplayName="How to: Send Documents by Email" Page="ui-how-send-documents-email.html"/>
+    <Node Name="LetDynamicsNAVSuggest Values" DisplayName="Letting Dynamics NAV Suggest Values" Page="ui-let-system-suggest-values.html"/>
+    <Node Name="Extensions" DisplayName="Customizing Dynamics NAV Using Extensions" Page="ui-extensions.html"/>
+  </Node>
+<Node Name="Finance" DisplayName="Finance" Page="finance-setup.html">
+  <Node Name="GeneralLedger" DisplayName="The General Ledger and the Chart of Accounts" Page="finance-setup-general-ledger.html" />
+  <Node Name="Dimensions" DisplayName="Dimensions" Page="finance-setup-dimensions.html" />
+  <Node Name="AccountSchedules" DisplayName="Account Schedules" Page="finance-setup-account-schedule.html" />
+  <Node Name="DeferRevenuesExpenses" DisplayName="How to: Defer Revenues and Expenses" Page="finance-setup-how-defer-revenue-expenses.html" />
+  <Node Name="ImportPayrollTransactions" DisplayName="How to: Import Payroll Transactions" Page="finance-setup-how-import-payroll-transactions.html" />
+  <Node Name="CloseYearsPeriods" DisplayName="Close Years and Periods" Page="year-close-years-periods.html" />
+  <Node Name="ManageReceivables" DisplayName="Manage Receivables" Page="receivables-manage-receivables.html">
+   <Node Name="ApplyPaymentsAutomaticallyReconcileBankAccounts" DisplayName="Apply Payments Automatically and Reconcile Bank Accounts" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html" />
+   <Node Name="ReconcileCustomerPaymentsFromListUnpaidSalesDocuments" DisplayName="Reconcile Customer Payments Manually From a List of Unpaid Sales Documents" Page="receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.html" />
+   <Node Name="tskApplySalesTransactionsManually" DisplayName="Apply Sales Transactions Manually" Page="receivables-how-apply-sales-transactions-manually.html" />
+   <Node Name="CollectOutstandingBalances" DisplayName="Collect Outstanding Balances" Page="receivables-collect-outstanding-balances.html" />
+  </Node>
+  <Node Name="ManagePayables" DisplayName="Manage Payables" Page="payables-manage-payables.html">
+   <Node Name="MakePayments" DisplayName="Make Payments" Page="payables-make-payments.html" />
+   <Node Name="ApplyPaymentsAutomaticallyReconcileBankAccounts" DisplayName="Apply Payments Automatically and Reconcile Bank Accounts" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html" />
+   <Node Name="ApplyPurchaseTransactionsManually" DisplayName="How to: Apply Vendor Payments Manually" Page="payables-how-apply-purchase-transactions-manually.html" />
+   </Node>
+  <Node Name="ManageBankAccounts" DisplayName="Manage Bank Accounts" Page="bank-manage-bank-accounts.html">
+   <Node Name="ApplyPaymentsAutomaticallyReconcileBankAccounts" DisplayName="Apply Payments Automatically and Reconcile Bank Accounts" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html" />
+   <Node Name="ReconcileBankAccountsSeparately" DisplayName="How to: Reconcile Bank Accounts Separately" Page="bank-how-reconcile-bank-accounts-separately.html" />
+   <Node Name="TransferBankFunds" DisplayName="How to: Transfer Bank Funds" Page="bank-how-transfer-bank-funds.html" />
+   </Node>
+</Node>
+<Node Name="ManageSales" DisplayName="Sales" Page="sales-manage-sales.html">
+  <Node Name="MakeOffers" DisplayName="How to: Make Offers" Page="sales-how-make-offers.html" />
+  <Node Name="InvoiceSales" DisplayName="How to: Invoice Sales" Page="sales-how-invoice-sales.html" />
+  <Node Name="SellProducts" DisplayName="How to: Sell Products" Page="sales-how-sell-products.html" />
+  <Node Name="DropShipments" DisplayName="How to: Make Drop Shipments" Page="sales-how-drop-shipment.html" />
+  <Node Name="ProcessSalesdReturnsAndCancellations" DisplayName="How to: Process Sales Returns or Cancellations" Page="sales-how-process-sales-returns-cancellations.html" />
+  <Node Name="RegisterNewCustomers" DisplayName="How to: Register New Customers" Page="sales-how-register-new-customers.html" />
+ </Node>
+<Node Name="ManagePurchasing" DisplayName="Purchasing" Page="purchasing-manage-purchasing.html">
+  <Node Name="RecordPurchases" DisplayName="How to: Record Purchases" Page="purchasing-how-record-purchases.html" />
+  <Node Name="PurchaseProductsForSale" DisplayName="How to: Purchase Products for a Sale" Page="purchasing-how-purchase-products-sale.html" />
+  <Node Name="ProcessPurchaseReturnsCancellations" DisplayName="How to: Process Purchase Returns or Cancellations" Page="purchasing-how-process-purchase-returns-cancellations.html" />
+  <Node Name="RegisterNewVendors" DisplayName="How to: Register New Vendors" Page="purchasing-how-register-new-vendors.html" />
+ </Node>
+<Node Name="ManageInventory" DisplayName="Inventory" Page="inventory-manage-inventory.html">
+  <Node Name="RegisterNewProducts" DisplayName="How to: Register New Products" Page="inventory-how-register-new-products.html" />
+  <Node Name="CategorizeItems" DisplayName="How to: Categorize Items" Page="inventory-how-categorize-items.html" />
+  <Node Name="WorkItemAttributes" DisplayName="How to: Work with Item Attributes" Page="inventory-how-work-item-attributes.html" />
+  <Node Name="WorkNonStockItems" DisplayName="How to: Work with Nonstock Items" Page="inventory-how-work-nonstock-items.html" />
+  <Node Name="AdjustItemCosts" DisplayName="How to: Adjust Item Costs" Page="inventory-how-adjust-item-costs.html" />
+  <Node Name="tskPostInventoryCostToGL" DisplayName="How to: Post Inventory Costs to the General Ledger" Page="inventory-how-post-inventory-cost-gl.html" />
+ </Node>
+<Node Name="RelMgmnt" DisplayName="Relationship Management" Page="marketing-relationship-management.html">
+  <Node Name="SetUpMarketing" DisplayName="Marketing and Contact Management Setup" Page="marketing-setup-marketing.html" />
+  <Node Name="Contacts" DisplayName="Manage Contacts" Page="marketing-contacts.html" />
+  <Node Name="Interactions" DisplayName="Manage Interactions" Page="marketing-interactions.html" />
+  <Node Name="Segments" DisplayName="Manage Segments" Page="marketing-segments.html" />
+  <Node Name="Opportunities" DisplayName="Manage Sales Opportunities" Page="marketing-manage-sales-opportunities.html" />
+</Node>
+<Node Name="ManageFixedAssets" DisplayName="Fixed Assets" Page="fa-manage.html">
+  <Node Name="SetupFixedAssets" DisplayName="Set Up Fixed Assets" Page="fa-setup.html" />
+  <Node Name="HowAcquireFixedAssets" DisplayName="How to: Acquire Fixed Assets" Page="fa-how-acquire.html" />
+  <Node Name="HowMaintainFixedAssets" DisplayName="How to: Maintain Fixed Assets" Page="fa-how-maintain.html" />
+  <Node Name="HowInsureFixedAssets" DisplayName="How to: Insure Fixed Assets" Page="fa-how-insure.html" />
+  <Node Name="HowTransferSplitCombineFixedAssets" DisplayName="How to: Transfer, Split, or Combine Assets" Page="fa-how-trans-split-combine.html" />
+  <Node Name="HowRevalueFixedAssets" DisplayName="How to: Revalue Fixed Assets" Page="fa-how-revalue.html" />
+  <Node Name="HowDepreciateAmortizeFixedAssets" DisplayName="How to: Depreciate or Amortize Fixed Assets" Page="fa-how-depreciate-amortize.html" />
+  <Node Name="HowDisposeRetireFixedAssets" DisplayName="How to: Dispose of or Retire Fixed Assets" Page="fa-how-dispose-retire.html" />
+  <Node Name="HowManageBudgetsFixedAssets" DisplayName="How to: Manage Budgets for Fixed Assets" Page="fa-how-manage-budgets.html" />
+ </Node>
+<Node Name="AcrossBusinessAreas" DisplayName="Across Business Areas" Page="ui-across-business-areas.html">
+  <Node Name="CreateNumberSeries" DisplayName="Create Number Series" Page="ui-create-number-series.html" />
+  <Node Name="DefineExtTexts" DisplayName="Define Extended Texts" Page="ui-how-define-ext-text.html" />
+  <Node Name="Extensions" DisplayName="Customizing Dynamics NAV Using Extensions" Page="ui-extensions.html" />
+  <Node Name="ManageGeneralJournal" DisplayName="Manage General Journals" Page="ui-work-general-journals.html" />
+  <Node Name="SendDocumentsByEmail" DisplayName="How to: Send Documents by Email" Page="ui-how-send-documents-email.html" />
+  <Node Name="AllocationKeys" DisplayName="How to: Use Allocation Keys in General Journals" Page="ui-how-use-allocation-keys-general-journals.html" />
+  <Node Name="ScheduleReport" DisplayName="Schedule a Report to Run" Page="ui-schedule-report.html" />
+  <Node Name="ManageReportLayout" DisplayName="Manage Report Layouts" Page="ui-manage-report-layouts.html" />
+  <Node Name="UseApprovalWorkflows" DisplayName="How to: Use Approval Workflows" Page="across-how-use-approval-workflows.html" />
+  <Node Name="IncomingDocuments" DisplayName="Manage Incoming Documents" Page="across-income-documents.html" />
+  <Node Name="SetUpIncomingDocuments" DisplayName="How to: Set Up Incoming Documents" Page="across-how-setup-income-documents.html" />
+  <Node Name="ProcessIncomingDocuments" DisplayName="Process Incoming Documents" Page="across-process-income-documents.html" />
+  <Node Name="ReportSettings" DisplayName="Saved Settings on Reports" Page="reports-saving-reusing-settings.html"/>
+</Node>
+<Node Name="Setup" DisplayName="Set Up Your Dynamics NAV" Page="setup.html">
+    <Node Name="SetUpFinance" DisplayName="Set Up Finance" Page="finance-setup-setup-finance-setup.html">
+      <Node Name="TransferYourData" DisplayName="Import Data from Other Finance Systems" Page="upload-data.html" />
+      <Node Name="SetUpPostingPeriods" DisplayName="How to: Set Up Posting Periods" Page="finance-setup-how-specify-posting-periods.html" />
+      <Node Name="SetUpPaymentMethods" DisplayName="How to: Set Up Payment Methods" Page="finance-setup-payment-methods.html" />
+      <Node Name="SetUpCurr" DisplayName="How to: Set Up Currencies" Page="finance-setup-setup-currencies.html" />
+      <Node Name="SetUpCheckLayouts" DisplayName="How to: Define Check Layouts" Page="finance-setup-how-define-check-layouts.html" />
+      <Node Name="EnableApplnMultiCurr" DisplayName="How to: Allow Enable Application of Ledger Entries in Different Currencies" Page="finance-setup-how-enable-application-ledger-entries-different-currencies.html" />
+      <Node Name="OpenFiscalYear" DisplayName="How to: Open a New Fiscal Year" Page="finance-setup-how-open-new-fiscal-year.html" />
+      <Node Name="SetUpDimensions" DisplayName="Set Up Dimensions" Page="finance-setup-setup-dimensions.html" />
+    </Node>
+    <Node Name="SetUpBanking" DisplayName="Set Up Banking" Page="bank-setup-banking.html">
+      <Node Name="SetUpBankAcc" DisplayName="How to: Set Up Bank Accounts" Page="bank-how-setup-bank-accounts.html"/>
+      <Node Name="SetUpBankStmntSrv" DisplayName="How to: Set Up the Envestnet Yodlee Bank Feeds Service" Page="bank-how-setup-bank-statement-service.html"/>
+      <Node Name="SetUpBankConvSrv" DisplayName="How to: Set Up the Bank Data Conversion Service" Page="bank-how-setup-bank-data-conversion-service.html"/>
+    </Node>
+    <Node Name="SetUpSales" DisplayName="Set Up Sales" Page="sales-setup-sales.html">
+      <Node Name="EnablePayPalPayments" DisplayName="How to: Enable Customer Payments Through PayPal" Page="sales-how-enable-customer-payments-paypal.html"/>
+      <Node Name="RecordSalesDiscount" DisplayName="How to: Record Sales Prices and Discounts" Page="sales-how-record-sales-price-discount-payment-agreements.html"/>
+      <Node Name="SetUpDocSendingProfiles" DisplayName="How to: Set Up Document Sending Profiles" Page="sales-how-setup-document-send-profiles.html"/>
+      <Node Name="SetUpSalesPeople" DisplayName="How to: Set Up Salespeople" Page="sales-how-setup-salespeople.html"/>
+    </Node>
+    <Node Name="SetUpPurchasing" DisplayName="Set Up Purchasing" Page="purchasing-setup-purchasing.html">
+      <Node Name="RecordPurchaseDiscount" DisplayName="How to: Record Purchase Prices and Discounts" Page="purchasing-how-record-purchase-price-discount-payment-agreements.html"/>
+      <Node Name="PrioritizeVendors" DisplayName="How to: Prioritize Vendors" Page="purchasing-how-prioritize-vendors.html"/>
+      <Node Name="SetUpPurchasers" DisplayName="How to: Set Up Purchasers" Page="purchasing-how-setup-purchasers.html"/>
+    </Node>
+  </Node>
+</Node>

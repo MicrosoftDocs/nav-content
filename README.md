@@ -3,7 +3,7 @@ Welcome to the repository for the application help content for Dynamics NAV! Dyn
 
 The content is available as markdown files (.md), where each file represents an article in the help. You can edit these markdown files, and then convert them to HTML files for application.
 
-If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at navua@microsoft.com. 
+If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at navua@microsoft.com.
 
 ## Getting Started
 1. Fork this repo
@@ -13,7 +13,7 @@ If you have any questions, please contact the Dynamics NAV User Assistance (UA) 
 2.  Install GitHub Desktop (optional) and clone your forked repo.
 
     GitHub Desktop makes is easy to work and collaborate with repos locally from your own desktop. For more information, see [GitHub Desktop](https://desktop.github.com/).   
-     
+
 2. Get hold of your favorite Markdown editor, and start making changes.
 
     The help content is stored in the articles folder of the repo. Articles use a syntax for formatting text called GitHub Flavored Markdown. To learn more about working with markdown, see [Getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/).
@@ -22,11 +22,11 @@ If you have any questions, please contact the Dynamics NAV User Assistance (UA) 
 
 
 ## Building the HTML files from the markdown files
-One way you can build the HTML files is by using DocFX, which is an open source tool for converting markdown files. This section provides some guidance on how you can use DocFX to publish HTML files that use the same style as Dynamics NAV content. 
+One way you can build the HTML files is by using DocFX, which is an open source tool for converting markdown files. This section provides some guidance on how you can use DocFX to publish HTML files that use the same style as Dynamics NAV content.
 
 1.  Install DocFX on your computer.
 
-    For more information, see [DocFx](https://dotnet.github.io/docfx/). 
+    For more information, see [DocFx](https://dotnet.github.io/docfx/).
 
 2.  Specify the output folder in which to store the generated HTML files.
 
@@ -35,16 +35,16 @@ One way you can build the HTML files is by using DocFX, which is an open source 
     a. In the folder *[clone path]\nav-content\articles\*, open the NAVdocfx.json file in your editor.
     b.  Set the "dest:" parameter to your output folder, and save the changes.  
 
-3.  Go to your desktop and open a command prompt. 
+3.  Go to your desktop and open a command prompt.
 
-3.  Go to the docfx installation folder. 
+3.  Go to the docfx installation folder.
 
-4.  Run the following command: 
+4.  Run the following command:
     ```
     docfx "[clone path]\nav-content\articles\NAVdocfx.json"'
     ```
 
-The files are generated as .html files and stored in the specified output. 
+The files are generated as .html files and stored in the specified output.
 
 ## Contributing to Dynamics NAV content
 A benefit of GitHub is the ability for you to contribute to the core content that the Dynamics NAV UA team provides in the nav-content repo. For example, you might have a new article that you think would be beneficial or you might have a correction to an existing article. If you would like to contribute to the nav-content repo, you create what is called a *pull request* from your repo to the nav-content repo. The Dynamics NAV UA team will then review the request and include the changes as appropriate.
@@ -256,3 +256,4 @@ To give readers the impression that the content library is truly country-specifi
 - In navigation tables; the To/See tables in top-level topics, create rows for country-specific references at the bottom of the table. Prefix the text in the **To** column with ```<country>:``` Example: "Canada: How to: Work With GIFI Codes in Canada".
 - Do not create TOC entries for country-specific content. TOC entries will make the content library appear less country-specific.
 
+>>>>>>> refs/remotes/Microsoft/master
