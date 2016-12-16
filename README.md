@@ -245,3 +245,6 @@ To give readers the impression that the content library is truly country-specifi
 - Link to country-specific content from generic content whenever relevant. The more you link to and from country-specific content, the more integrated it will feel. As for all other links, the link name must be the same as the title of the target article.
 - In navigation tables; the To/See tables in top-level topics, create rows for country-specific references at the bottom of the table. Prefix the text in the **To** column with ```<country>:``` Example: "Canada: How to: Work With GIFI Codes in Canada".
 - Do not create TOC entries for country-specific content. TOC entries will make the content library appear less country-specific.
+
+## Code of Conduct
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
