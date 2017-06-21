@@ -30,13 +30,12 @@ For some quick, nice-to-know tricks, see:
 For more information, see [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).  
 
 ## The Home pages
-Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts. Check out the various Home pages by choosing the **Settings** icon ![Settings](media/ui-experience/settings_icon_small.png "Settings icon for role center") in the top right corner,  choosing **My Settings**, and then the Role Center to explore. Sign in again to apply the change. For more information, see [Changing the Role Center](change-role.md).  
+Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts.  
 
 ## See Also
 [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Setting Up [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)  
-[Finance](finance.md)  
+[Finance](finance-setup.md)  
 [Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)  
-[Using [!INCLUDE[navnow](includes/navnow_md.md)] as my Business Inbox in Outlook](madeira-outlook.md)  
+[Using [!INCLUDE[navnow](includes/navnow_md.md)] as my Business Inbox in Outlook](across-outlook.md)  
 [Getting [!INCLUDE[navnow](includes/navnow_md.md)] on Your Mobile Device](install-mobile-app.md)  
-[Microsoft Dynamics 365 documentation](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
