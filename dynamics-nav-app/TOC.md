@@ -1,4 +1,4 @@
-# [Welcome to Dynamics NAV](across-get-started.md)
+# [Welcome to Dynamics NAV](index.md)
 
 # [Work with Dynamics NAV](ui-work-product.md)
 ## [Changing Basic Settings](ui-change-basic-settings.md)

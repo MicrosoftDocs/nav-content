@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Node Name="DynamicsHelp" DisplayName="Help" Page="across-get-started.html">
-  <Node Name="GettingStarted" DisplayName="Getting Started with Dynamics NAV" Page="across-get-started.html">
+<Node Name="DynamicsHelp" DisplayName="Help" Page="index.html">
+  <Node Name="GettingStarted" DisplayName="Getting Started with Dynamics NAV" Page="index.html">
     <Node Name="BasicSettings" DisplayName="Changing Basic Settings" Page="ui-change-basic-settings.html"/>
     <Node Name="Search" DisplayName="Using Search for Page or Report" Page="ui-search.html"/>
     <Node Name="Sorting" DisplayName="Sorting" Page="ui-sorting.html"/>
