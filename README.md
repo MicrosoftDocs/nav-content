@@ -32,7 +32,7 @@ One way you can build the HTML files is by using DocFX, which is an open source 
 
     By default the files will be saved in the folder *c:/output*. The output folder is set in the NAVdocfx.json file. If you want to change this folder, do the following:
 
-    a. In the folder *[clone path]\nav-content\articles\*, open the NAVdocfx.json file in your editor.  
+    a. In the folder *[clone path]\nav-content\dynamics-nav-app\*, open the NAVdocfx.json file in your editor.  
     b.  Set the "dest:" parameter to your output folder, and save the changes.  
 
 3.  Go to your desktop and open a command prompt.
@@ -41,7 +41,7 @@ One way you can build the HTML files is by using DocFX, which is an open source 
 
 4.  Run the following command:
     ```
-    docfx "[clone path]\nav-content\articles\NAVdocfx.json"'
+    docfx "[clone path]\nav-content\dynamics-nav-app\NAVdocfx.json"'
     ```
 
 The files are generated as .html files and stored in the specified output.
