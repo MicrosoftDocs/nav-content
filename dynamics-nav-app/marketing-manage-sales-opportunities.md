@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Manage Sales Opportunities
 Any incoming lead can be considered a sales opportunity. You can create opportunities and associate them to a salesperson so that you can keep track of potential sales.

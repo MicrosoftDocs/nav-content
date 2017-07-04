@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Set Up Business Relations on Contact Companies
 You can use business relations to indicate the business relationship you have with your contacts, for example, a prospect, bank, consultant, service supplier, and so on.

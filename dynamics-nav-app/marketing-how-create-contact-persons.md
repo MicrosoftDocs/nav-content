@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Create Contact Persons
 You can create a contact card for each contact who works for the companies you interact with. For each contact company you can enter as many contact persons as you want. You can also create contact cards for the persons that you want to record as independent.

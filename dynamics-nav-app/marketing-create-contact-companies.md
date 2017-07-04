@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Create Contact Companies
 Your company regularly meets prospective companies that usually develop into future business relationships. When a new contact is made, this information needs to be recorded so that communication can continue.

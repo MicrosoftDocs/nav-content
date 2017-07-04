@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Close Income Statement
 When a fiscal year is over, you must close the periods that comprise it. To do this, you run the **Close Income Statement** batch job. This job transfers the year's result to an account in the balance sheet and closes the income statement accounts. You do this by creating lines in a journal, which you then can post.

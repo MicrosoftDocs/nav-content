@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Manage Segments
 You create segments to select a group of contacts according to specific criteria. For example, a segment could be the industry that the contacts belong to or your business relationship with the contacts. You can create a segment to select the contacts you want to target with a campaign.

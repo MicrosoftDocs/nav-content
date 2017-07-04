@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Close Books
 After you ensure that all your accounts are up-to-date, and you allocate costs and income, then you can close the books for a fiscal year or period.

@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Saved Settings on Reports
 Depending on the report that is run, you might be presented with a page that lets you to set certain options and filters for changing the data that is included in the generated report. This page is known as the report request page. A report can include one or more *saved settings* that you can apply to the report from the request page. *Saved settings* are basically predefined options and filters. Using saved settings is a fast and reliable way to consistently generate reports that contain the correct data.

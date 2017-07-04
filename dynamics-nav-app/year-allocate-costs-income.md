@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Allocate Costs and Income
 You can allocate an entry in a general journal to several different accounts when you post the journal. The allocation can be made by three different methods:

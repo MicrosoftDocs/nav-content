@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Close Periods
 The application does not force you to close periods, however, there are many period-end (month-end) activities that can be performed in the application if you want. This topic provides an overview of these processes and activities, which may or may not be necessary for your company.
