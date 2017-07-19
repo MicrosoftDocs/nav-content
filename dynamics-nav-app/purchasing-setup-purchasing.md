@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Set Up Purchasing
@@ -19,7 +19,7 @@ A separate series of tasks related to creating vendor master data is to record t
 
 The periodic activity of creating vendor cards for new vendors is covered in the Manage Purchasing section. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).
 
-Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section. For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).
+Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section. For more information, see [Set Up Finance](finance-setup-finance.md).
 
 |To |See |
 |---|----|

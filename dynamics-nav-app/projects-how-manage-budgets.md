@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # How to: Manage Job Budgets
@@ -41,7 +41,7 @@ For information about recording budgeted versus actual job prices and costs, see
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)      
 [Work With Dynamics NAV](ui-work-product.md)  

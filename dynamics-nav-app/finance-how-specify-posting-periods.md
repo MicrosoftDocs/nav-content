@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # How to: Specify Posting Periods
@@ -24,5 +24,5 @@ The dates that you define here apply to the company and to all users.
 
 
 ## See Also
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Completing Period-End Processes](year-how-complete-period-end-processes.md)

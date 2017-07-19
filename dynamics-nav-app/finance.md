@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 #Finance
@@ -26,14 +26,14 @@ The following table describes a sequence of tasks, with links to the topics that
 |Reconcile bank accounts and transfer funds between bank accounts.|[Manage Bank Accounts](bank-manage-bank-accounts.md)|
 |Understand the general ledger and the chart of accounts.|[The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md)|
 |Add dimensions for richer business intelligence.|[Dimensions](finance-setup-dimensions.md)|
-|Use account schedules to get detailed insights into your financial data.|[Account Schedules](finance-setup-account-schedule.md)|
-|Recognize revenues and expenses in other periods than when the transactions were posted.|[How to: Defer Revenues and Expenses](finance-setup-how-defer-revenue-expenses.md)|
-|Import salary transactions from your payroll provider into the general ledger.|[How to: Import Payroll Transactions](finance-setup-how-import-payroll-transactions.md)|
-|Open a fiscal year.|[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)|  
+|Use account schedules to get detailed insights into your financial data.|[Account Schedules](finance-account-schedule.md)|
+|Recognize revenues and expenses in other periods than when the transactions were posted.|[How to: Defer Revenues and Expenses](finance-how-defer-revenue-expenses.md)|
+|Import salary transactions from your payroll provider into the general ledger.|[How to: Import Payroll Transactions](finance-how-import-payroll-transactions.md)|
+|Open a fiscal year.|[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)|  
 |Prepare to close a fiscal year or period.|[Close Years and Periods](year-close-years-periods.md)|
 
 ##See Also
-[Set Up Core Financial Processes](finance-setup-setup-finance-setup.md)  
+[Set Up Core Financial Processes](finance-setup-finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Close Fiscal Periods](year-close-years-periods.md)  

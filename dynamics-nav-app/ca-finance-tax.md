@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Sales Tax and Goods and Services Tax in Canada
@@ -18,6 +18,6 @@ For more information about sales tax, see [Sales Tax and Tax Groups in the US an
 The tax information in purchase documents is used to generate a GST/HST internet file transfer that you must  provided to the tax authorities. This file includes goods and services tax (GST) and harmonized sales tax (HST). The file is created in a .tax file format, which can be transferred via the internet.  
 
 ## See Also
-[Finance](finance-setup.md)  
-[Set Up Finance](finance-setup-setup-finance-setup.md)  
+[Finance](Finance.md)  
+[Set Up Finance](finance-setup-finance.md)  
 [Sales Tax and Tax Groups in the US and Canada](us-finance-setup-sales-tax.md)

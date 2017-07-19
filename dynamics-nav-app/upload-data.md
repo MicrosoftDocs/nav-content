@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Import Data from Other Finance Systems
@@ -21,6 +21,6 @@ For example, if your IIF file includes customers and vendors, you can choose to 
 The assisted setup includes an option to change the default configuration of the transfer, but we recommend that you only enter this advanced setup if you are familiar with database tables. In the vast majority of businesses, the default mapping from QuickBooks to Dynamics NAV will transfer the information that you want.
 
 ## See Also
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Customizing Dynamics NAV Using Extensions](ui-extensions.md)   
 [Set Up Your Dynamics NAV](setup.md)

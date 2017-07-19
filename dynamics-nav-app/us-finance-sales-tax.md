@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Sales Tax and Tax Groups in the US and Canada
@@ -29,7 +29,7 @@ The **Tax Details** window shows different combinations of sales tax jurisdictio
 In the United States, when you sell to a customer at a location where you do not have a *situs*—or a legal location in that state—you do not collect sales tax. For locations in which you do not have a situs, ensure that both the **Tax Below Minimum** and **Tax Above Maximum** fields are 0.00.  
 
 ## See Also
-[Finance](finance-setup.md)  
-[Set Up Finance](finance-setup-setup-finance-setup.md)  
+[Finance](Finance.md)  
+[Set Up Finance](finance-setup-finance.md)  
 [Sales Tax and Goods and Services Tax in Canada](ca-finance-setup-tax.md)  
 [Sales Tax setup made easy](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy)  

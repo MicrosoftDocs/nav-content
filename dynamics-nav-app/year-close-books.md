@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Close Books
 After you ensure that all your accounts are up-to-date, and you allocate costs and income, then you can close the books for a fiscal year or period.
@@ -46,4 +46,4 @@ The system then generates a closing entry, but it does not post the entry automa
 You can post in a previous fiscal year, even after the income statement accounts have been closed, if you run the Close Income Statement batch job again afterward.
 
 ## See Also
-[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)

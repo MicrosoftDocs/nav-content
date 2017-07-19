@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # How to: Reconcile Customer Payments Manually
@@ -114,7 +114,7 @@ If you sell to a customer in one currency and receive payment in another currenc
 
 If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2. The relevant exchange rate is found in the **Currency Exchange Rates** window.
 
-Applying customer ledger entries in different currencies must be enabled. For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-setup-how-enable-application-ledger-entries-different-currencies.md).
+Applying customer ledger entries in different currencies must be enabled. For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-how-enable-application-ledger-entries-different-currencies.md).
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipts Journal**, and choose the related link.
 2. Open the journal you want, and fill the first empty journal line using a currency code.

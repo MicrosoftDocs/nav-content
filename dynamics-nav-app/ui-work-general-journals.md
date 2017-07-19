@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Work with General Journals
@@ -32,5 +32,5 @@ A recurring journal is a general journal with specific fields for managing trans
 
 ## See Also
 [How to: Use Allocation Keys in General Journals](ui-how-use-allocation-keys-general-journals.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Work with Dynamics NAV](ui-work-product.md)

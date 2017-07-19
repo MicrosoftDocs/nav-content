@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Set Up Your Dynamics NAV
@@ -18,7 +18,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 | To                                                                  | See                      |
 |---------------------------------------------------------------------|--------------------------|
-|Set up core financial processes|[Finance](finance-setup-setup-finance-setup.md)|
+|Set up core financial processes|[Finance](finance-setup-finance.md)|
 |Set up banking.|[Set Up Banking](bank-setup-banking.md)|
 |Set up sales processes.|[Set Up Sales](sales-setup-sales.md)|
 |Set up purchase processes.|[Set Up Purchasing](purchasing-setup-purchasing.md)|
@@ -26,7 +26,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Get access to Azure services by registering your Dynamics NAV|[How to: Register Dynamics NAV in the Azure Management Portal](ui-how-register-dynamics-nav-azure.md)|
 
 ##See Also
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Welcome to Dynamics NAV](across-get-started.md)  

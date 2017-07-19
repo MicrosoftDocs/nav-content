@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Prepare for Setting Up Contacts
 When creating contacts, you can enter specific information, such as the industry that the contact companies belong to and your business relationship with the contacts.

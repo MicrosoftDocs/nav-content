@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # How to: Create Segments
 You can create segments to select a group of contacts, for example, if you want to create an interaction involving several contacts, such as direct mail.

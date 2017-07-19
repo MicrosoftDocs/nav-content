@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Set Up Dimensions
@@ -29,4 +29,4 @@ Finally, you can also make a dimension required, so that it is not possible to p
 
 ## See Also
 [Dimensions](finance-setup-dimensions.md)  
-[Set Up Core Financial Processes](finance-setup-setup-finance-setup.md)
+[Set Up Core Financial Processes](finance-setup-finance.md)

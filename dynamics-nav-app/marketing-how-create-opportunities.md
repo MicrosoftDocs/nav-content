@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # How to: Create Sales Opportunities
 You can create opportunities for the sales opportunities you have on your contacts. All opportunities must be assigned to a salesperson or purchaser and must have a contact.

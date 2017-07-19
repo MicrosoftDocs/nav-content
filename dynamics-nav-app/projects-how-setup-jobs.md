@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # How to: Set Up Jobs
@@ -75,7 +75,7 @@ The value in the **Unit Price** field for the general ledger job expense will be
 ## To set up job posting groups  
 One aspect of planning jobs is deciding which posting accounts to use for job costing. To be able to post jobs, you set up accounts for posting for each job posting group. A posting group represents a link between the job and how it should be treated in the general ledger. When you create a job, you specify a posting group, and by default, each task you create for the job is associated with that posting group. However, as you create tasks, you can override the default and select a posting group that is more appropriate.  
 
-**Note**: The necessary accounts in the chart of accounts must be set up before you set up posting groups. For more information, see [Set Up or Change the Chart of Accounts](finance-setup-setup-chart-accounts.md).  
+**Note**: The necessary accounts in the chart of accounts must be set up before you set up posting groups. For more information, see [Set Up or Change the Chart of Accounts](finance-setup-chart-accounts.md).  
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Posting Groups**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the account fields as described in the following table.  
@@ -101,7 +101,7 @@ One aspect of planning jobs is deciding which posting accounts to use for job co
 ## See Also
 [Set Up Project Management](projects-setup-projects.md)  
 [Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)      
 [Work With Dynamics NAV](ui-work-product.md)  

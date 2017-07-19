@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # How to: Close Accounting Periods
 When a fiscal year is over, you must close the periods that comprise it.
@@ -30,4 +30,4 @@ After a fiscal year is closed, you must close the income statement accounts and 
 ## See Also
 [Close Books](year-close-books.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
-[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)

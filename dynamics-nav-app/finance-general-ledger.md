@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # The General Ledger and the Chart of Accounts
@@ -33,6 +33,6 @@ You can group the account categories by indenting individual subcategories. This
 For each subcategory, you can specify if accounts of this category must be included in specific types of financial reports. The account categories help define the layout of your financial statements. For example, the default balance statement has a single entry for cash under assets. If you want the balance statement to have subentries for petty cash and your checking account, then you can add two new subcategories, specify the additional report definition Cash Accounts for each of them, and indent them under the Cash subcategory. Then, when you have generated account schedules based on your changes, your next balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.     
 
 ##See Also
-[Finance](finance-setup.md)  
-[Set Up or Change the Chart of Accounts](finance-setup-setup-chart-accounts.md)  
-[Account Schedules](finance-setup-account-schedule.md)  
+[Finance](Finance.md)  
+[Set Up or Change the Chart of Accounts](finance-setup-chart-accounts.md)  
+[Account Schedules](finance-account-schedule.md)  

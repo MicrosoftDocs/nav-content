@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Payment Methods
@@ -15,4 +15,4 @@ Payment methods define how an invoice will be paid. You can set up any number of
 Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.
 
 ## See Also
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  

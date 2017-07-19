@@ -5,7 +5,7 @@
 ## [Using Search for Page or Report](ui-search.md)
 ## [Sorting](ui-sorting.md)
 
-# [Finance](finance-setup.md)
+# [Finance](Finance.md)
 # [Sales](sales-manage-sales.md)
 # [Purchasing](purchasing-manage-purchasing.md)
 # [Inventory](inventory-manage-inventory.md)

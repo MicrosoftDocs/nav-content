@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 #How to: Work With GIFI Codes in Canada
@@ -54,5 +54,5 @@ You can export balance information using GIFI codes and save the exported file i
 * Negative numbers are represented as positive number in brackets. Accordingly, -123 is represented as (123).
 
 ## See Also
-[Finance](finance-setup.md)   
-[Set Up Core Financial Processes](finance-setup-setup-finance-setup.md)
+[Finance](Finance.md)   
+[Set Up Core Financial Processes](finance-setup-finance.md)

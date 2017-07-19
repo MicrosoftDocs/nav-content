@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # How to: Create Interactions on Contacts and Segments
 You can create interactions to record all the interactions and communications you have with your contacts and segments, for example, direct mail.

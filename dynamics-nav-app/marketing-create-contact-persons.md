@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 # Create Contact Persons
 You create a contact by setting up a contact card for the person. You can create contact persons from existing contact companies, or you can create independent contact persons.

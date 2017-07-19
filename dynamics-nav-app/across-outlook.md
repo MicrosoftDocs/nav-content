@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Using Dynamics NAV as your Business Inbox in Outlook
@@ -38,6 +38,6 @@ In the Document Links add-in, you can modify and take actions with the document,
 
 ## See Also
 [Welcome to Dynamics NAV](across-get-started.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  

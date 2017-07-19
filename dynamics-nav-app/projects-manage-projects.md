@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2017"
 ---
 
 # Manage Projects
@@ -33,5 +33,5 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Project Management](projects-setup-projects.md)    
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)    
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Work With Dynamics NAV](ui-work-product.md)  
