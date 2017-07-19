@@ -339,5 +339,5 @@ When you enter an entry in B1 in the fixed asset G/L journal and place a check m
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

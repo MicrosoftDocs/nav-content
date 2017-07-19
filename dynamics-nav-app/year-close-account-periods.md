@@ -30,4 +30,4 @@ After a fiscal year is closed, you must close the income statement accounts and 
 ## See Also
 [Close Books](year-close-books.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
-[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)

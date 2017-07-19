@@ -46,4 +46,4 @@ The system then generates a closing entry, but it does not post the entry automa
 You can post in a previous fiscal year, even after the income statement accounts have been closed, if you run the Close Income Statement batch job again afterward.
 
 ## See Also
-[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)

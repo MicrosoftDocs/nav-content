@@ -17,9 +17,9 @@
 <Node Name="Finance" DisplayName="Finance" Page="finance-setup.html">
   <Node Name="GeneralLedger" DisplayName="The General Ledger and the Chart of Accounts" Page="finance-setup-general-ledger.html" />
   <Node Name="Dimensions" DisplayName="Dimensions" Page="finance-setup-dimensions.html" />
-  <Node Name="AccountSchedules" DisplayName="Account Schedules" Page="finance-setup-account-schedule.html" />
-  <Node Name="DeferRevenuesExpenses" DisplayName="How to: Defer Revenues and Expenses" Page="finance-setup-how-defer-revenue-expenses.html" />
-  <Node Name="ImportPayrollTransactions" DisplayName="How to: Import Payroll Transactions" Page="finance-setup-how-import-payroll-transactions.html" />
+  <Node Name="AccountSchedules" DisplayName="Account Schedules" Page="finance-account-schedule.html" />
+  <Node Name="DeferRevenuesExpenses" DisplayName="How to: Defer Revenues and Expenses" Page="finance-how-defer-revenue-expenses.html" />
+  <Node Name="ImportPayrollTransactions" DisplayName="How to: Import Payroll Transactions" Page="finance-how-import-payroll-transactions.html" />
   <Node Name="CloseYearsPeriods" DisplayName="Close Years and Periods" Page="year-close-years-periods.html" />
   <Node Name="ManageReceivables" DisplayName="Manage Receivables" Page="receivables-manage-receivables.html">
    <Node Name="ApplyPaymentsAutomaticallyReconcileBankAccounts" DisplayName="Apply Payments Automatically and Reconcile Bank Accounts" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html" />
@@ -94,15 +94,15 @@
   <Node Name="ReportSettings" DisplayName="Saved Settings on Reports" Page="reports-saving-reusing-settings.html"/>
 </Node>
 <Node Name="Setup" DisplayName="Set Up Your Dynamics NAV" Page="setup.html">
-    <Node Name="SetUpFinance" DisplayName="Set Up Finance" Page="finance-setup-setup-finance-setup.html">
+    <Node Name="SetUpFinance" DisplayName="Set Up Finance" Page="finance-setup-finance.html">
       <Node Name="TransferYourData" DisplayName="Import Data from Other Finance Systems" Page="upload-data.html" />
-      <Node Name="SetUpPostingPeriods" DisplayName="How to: Set Up Posting Periods" Page="finance-setup-how-specify-posting-periods.html" />
-      <Node Name="SetUpPaymentMethods" DisplayName="How to: Set Up Payment Methods" Page="finance-setup-payment-methods.html" />
-      <Node Name="SetUpCurr" DisplayName="How to: Set Up Currencies" Page="finance-setup-setup-currencies.html" />
-      <Node Name="SetUpCheckLayouts" DisplayName="How to: Define Check Layouts" Page="finance-setup-how-define-check-layouts.html" />
-      <Node Name="EnableApplnMultiCurr" DisplayName="How to: Allow Enable Application of Ledger Entries in Different Currencies" Page="finance-setup-how-enable-application-ledger-entries-different-currencies.html" />
-      <Node Name="OpenFiscalYear" DisplayName="How to: Open a New Fiscal Year" Page="finance-setup-how-open-new-fiscal-year.html" />
-      <Node Name="SetUpDimensions" DisplayName="Set Up Dimensions" Page="finance-setup-setup-dimensions.html" />
+      <Node Name="SetUpPostingPeriods" DisplayName="How to: Set Up Posting Periods" Page="finance-how-specify-posting-periods.html" />
+      <Node Name="SetUpPaymentMethods" DisplayName="How to: Set Up Payment Methods" Page="finance-payment-methods.html" />
+      <Node Name="SetUpCurr" DisplayName="How to: Set Up Currencies" Page="finance-setup-currencies.html" />
+      <Node Name="SetUpCheckLayouts" DisplayName="How to: Define Check Layouts" Page="finance-how-define-check-layouts.html" />
+      <Node Name="EnableApplnMultiCurr" DisplayName="How to: Allow Enable Application of Ledger Entries in Different Currencies" Page="finance-how-enable-application-ledger-entries-different-currencies.html" />
+      <Node Name="OpenFiscalYear" DisplayName="How to: Open a New Fiscal Year" Page="finance-how-open-new-fiscal-year.html" />
+      <Node Name="SetUpDimensions" DisplayName="Set Up Dimensions" Page="finance-setup-dimensions.html" />
     </Node>
     <Node Name="SetUpBanking" DisplayName="Set Up Banking" Page="bank-setup-banking.html">
       <Node Name="SetUpBankAcc" DisplayName="How to: Set Up Bank Accounts" Page="bank-how-setup-bank-accounts.html"/>

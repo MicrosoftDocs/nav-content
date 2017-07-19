@@ -102,5 +102,5 @@ If the fixed assets are not integrated with the general ledger, skip steps 4 thr
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

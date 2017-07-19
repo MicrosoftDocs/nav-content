@@ -90,5 +90,5 @@ The copied lines are created in either the fixed asset G/L journal or the fixed 
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

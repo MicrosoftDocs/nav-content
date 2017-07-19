@@ -33,5 +33,5 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Project Management](projects-setup-projects.md)    
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)    
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Work With Dynamics NAV](ui-work-product.md)  

@@ -25,6 +25,6 @@ The accounting periods are added to the page. The **Starting Date** and **Name**
 
 
 ## See Also
-[How to: Specify Posting Periods](finance-setup-how-specify-posting-periods.md)  
+[How to: Specify Posting Periods](finance-how-specify-posting-periods.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  

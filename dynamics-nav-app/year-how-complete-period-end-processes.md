@@ -15,7 +15,7 @@ The application does not force you to close periods, however, there are many per
 ## General Ledger
 * Specify system-wide and user-specific posting period.
 
-	This specifies the dates between which postings are allowed. Depending on your business needs, you may want to restrict user posting date ranges at the start of the period-end process or at later time towards the end of the period. For more information, see [How to: Specify Posting Periods](finance-setup-how-specify-posting-periods.md).
+	This specifies the dates between which postings are allowed. Depending on your business needs, you may want to restrict user posting date ranges at the start of the period-end process or at later time towards the end of the period. For more information, see [How to: Specify Posting Periods](finance-how-specify-posting-periods.md).
 * Make all necessary G/L adjustments.
 * Update and post Recurring Journals.
 <!--* Process Consolidations-->

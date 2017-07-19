@@ -29,5 +29,5 @@ A dimension set is a unique combination of dimension values. It is stored as dim
 When you create a new journal line, document header, or document line, you can specify a combination of dimension values. Instead of explicitly storing each dimension value in the database, a dimension set ID is assigned to the journal line, document header, or document line to specify the dimension set.  
 
 ## See Also
-[Finance](finance-setup.md)  
-[Set Up Dimensions](finance-setup-setup-dimensions.md)  
+[Finance](Finance.md)  
+[Set Up Dimensions](finance-setup-dimensions.md)  

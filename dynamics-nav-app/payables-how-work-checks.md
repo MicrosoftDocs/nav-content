@@ -15,7 +15,7 @@ Dynamics NAV supports electronic and manual check issuance. Both methods use the
 
 The process of issuing checks suggests payments, creates ledger entries, and prints the computer checks.
 
-Your printer must be correctly set up with the check forms, and you must define which check layout to use. For more information, see [How to: Define Check Layouts](finance-setup-how-define-check-layouts.md)
+Your printer must be correctly set up with the check forms, and you must define which check layout to use. For more information, see [How to: Define Check Layouts](finance-how-define-check-layouts.md)
 
 ## To issue checks
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journals**, and then choose the related link.

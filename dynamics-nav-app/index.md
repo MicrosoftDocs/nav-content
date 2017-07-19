@@ -35,7 +35,7 @@ Home pages use a role-centric design to give you fast access to the business pro
 ## See Also
 [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Setting Up [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)  
 [Using [!INCLUDE[navnow](includes/navnow_md.md)] as my Business Inbox in Outlook](across-outlook.md)  
 [Getting [!INCLUDE[navnow](includes/navnow_md.md)] on Your Mobile Device](install-mobile-app.md)  

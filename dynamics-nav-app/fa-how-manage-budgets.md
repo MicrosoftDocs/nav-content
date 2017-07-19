@@ -51,5 +51,5 @@ You can use the **Fixed Asset - Projected Value** report to calculate future dep
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

@@ -83,7 +83,7 @@ In the **Job Ledger Entries** window you can review the entries that are associa
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)      
 [Work With Dynamics NAV](ui-work-product.md)  

@@ -32,7 +32,7 @@ When you have run an assisted setup, it is marked as **Completed**. To run the a
 
 ## See Also
 [Setup](setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Customizing Dynamics NAV Using Extensions](ui-extensions.md)  
 [Work With Dynamics NAV](ui-work-product.md)  
 [Using Dynamics NAV as your Business Inbox in Outlook](across-outlook.md)  

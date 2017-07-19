@@ -39,5 +39,5 @@ The **General Ledger Entries** window opens where you can see the entries that t
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

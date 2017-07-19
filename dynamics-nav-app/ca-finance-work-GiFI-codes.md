@@ -54,5 +54,5 @@ You can export balance information using GIFI codes and save the exported file i
 * Negative numbers are represented as positive number in brackets. Accordingly, -123 is represented as (123).
 
 ## See Also
-[Finance](finance-setup.md)   
-[Set Up Core Financial Processes](finance-setup-setup-finance-setup.md)
+[Finance](Finance.md)   
+[Set Up Core Financial Processes](finance-setup-finance.md)

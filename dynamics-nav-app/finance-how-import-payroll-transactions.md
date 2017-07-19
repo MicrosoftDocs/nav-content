@@ -23,5 +23,5 @@ To account for salary payments and related transactions, you must import and pos
 4. Edit or post the journal lines as for any other general ledger transactions. For more information, see [How to: Work With General Journals](ui-work-general-journals.md).   
 
 ## See Also
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [How to: Work With General Journals](ui-work-general-journals.md)  

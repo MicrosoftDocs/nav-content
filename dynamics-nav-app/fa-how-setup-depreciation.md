@@ -70,5 +70,5 @@ For each depreciation book, you define a default setup of templates and batches.
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

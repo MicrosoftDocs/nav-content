@@ -64,7 +64,7 @@ In addition to price specified on the resource card, you can set up alternate pr
 ## See Also
 [Set Up Project Management](projects-setup-projects.md)  
 [Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)      
 [Work With Dynamics NAV](ui-work-product.md)  

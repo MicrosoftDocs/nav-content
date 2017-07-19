@@ -45,5 +45,5 @@ You can set up batches in an insurance journal template. The values in the journ
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

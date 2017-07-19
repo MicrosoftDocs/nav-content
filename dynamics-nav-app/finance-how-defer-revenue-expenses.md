@@ -76,6 +76,6 @@ G/L entries to be posted to the specified deferral account, for example, Unearne
 3. Choose the **Preview** button.
 
 ## See Also
-[Finance](finance-setup.md)  
-[Set Up Core Financial Processes](finance-setup-setup-finance-setup.md)  
+[Finance](Finance.md)  
+[Set Up Core Financial Processes](finance-setup-finance.md)  
 [How to: Work With General Journals](ui-work-general-journals.md)

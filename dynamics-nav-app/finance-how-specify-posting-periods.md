@@ -24,5 +24,5 @@ The dates that you define here apply to the company and to all users.
 
 
 ## See Also
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Completing Period-End Processes](year-how-complete-period-end-processes.md)

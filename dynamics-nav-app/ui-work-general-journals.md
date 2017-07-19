@@ -32,5 +32,5 @@ A recurring journal is a general journal with specific fields for managing trans
 
 ## See Also
 [How to: Use Allocation Keys in General Journals](ui-how-use-allocation-keys-general-journals.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Work with Dynamics NAV](ui-work-product.md)

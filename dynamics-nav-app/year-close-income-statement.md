@@ -29,4 +29,4 @@ The **Close Income Statement** batch job can be used several times. You can post
 ## See Also
 [Close Books](year-close-books.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
-[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)

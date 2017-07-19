@@ -39,5 +39,5 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

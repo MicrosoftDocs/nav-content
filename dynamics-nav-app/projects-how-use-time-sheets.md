@@ -138,7 +138,7 @@ After you have posted time sheets, you can archive them for future reference. Al
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
 [Set Up Project Management](projects-setup-projects.md)    
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)     
 [Work With Dynamics NAV](ui-work-product.md)  

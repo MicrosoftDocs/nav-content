@@ -20,7 +20,7 @@ A separate series of tasks related to creating customer master data is to record
 
 The periodic activity of creating customer cards for new customers is covered in the Manage Sales section. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).
 
-Finance-related sales setup, such as payment methods and currencies, are covered in the Finance Setup section. For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).
+Finance-related sales setup, such as payment methods and currencies, are covered in the Finance Setup section. For more information, see [Set Up Finance](finance-setup-finance.md).
 
 |To |See |
 |---|----|

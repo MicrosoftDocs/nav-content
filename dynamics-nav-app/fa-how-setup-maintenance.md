@@ -34,5 +34,5 @@ To post maintenance costs, you must first enter an account number in the **FA Po
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Welcome to Dynamics NAV](across-get-started.md)

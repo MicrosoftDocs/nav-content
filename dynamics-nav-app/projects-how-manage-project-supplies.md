@@ -47,7 +47,7 @@ If you incur extraordinary or one-time job expenses, you can use the **Job G/L J
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
+[Finance](Finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)      
 [Work With Dynamics NAV](ui-work-product.md)  
