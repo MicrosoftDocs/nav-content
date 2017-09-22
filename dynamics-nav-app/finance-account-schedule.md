@@ -22,8 +22,8 @@ You can use one of the default layouts for your account schedule, or you can set
 This means that you can create as many customized financial statements as you want. You use the **Account Schedule** window to set up account schedules.  
 
 ## Account Categories and Account Schedules
-You can use account categories to change the layout of your financial statements. When you have set up your account categories in the **G/L Account Categories** window, and you choose the **Generate Account Schedules** action, the underlying account schedules for the core financial reports are updated. the next time you run one of these reports, such as the balance statement, new totals and subentries are added, based on your changes. For more information, see [The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md).    
+You can use account categories to change the layout of your financial statements. When you have set up your account categories in the **G/L Account Categories** window, and you choose the **Generate Account Schedules** action, the underlying account schedules for the core financial reports are updated. the next time you run one of these reports, such as the balance statement, new totals and subentries are added, based on your changes. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).    
 ## See Also
 [Finance](Finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
-[The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md)  
+[The General Ledger and the Chart of Accounts](finance-general-ledger.md)  

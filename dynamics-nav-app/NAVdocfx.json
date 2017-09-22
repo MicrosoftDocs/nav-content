@@ -3,14 +3,23 @@
     "content":
       [
         {
-          "files": ["**/**.md"],
-          "exclude": ["**/obj/**"]
+          "files": ["**/*.md"],
+          "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
         }
       ],
     "resource": [
         {
           "files": ["**/media/**"],
-          "exclude": ["**/obj/**"]
+          "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
         }
     ],
     "globalMetadata": {
@@ -18,7 +27,7 @@
     },
     "externalReference": [
     ],
-    "template": "../Templates",
+    "template": "../Templates/HelpServer",
     "dest": "c:/output"
   }
 }

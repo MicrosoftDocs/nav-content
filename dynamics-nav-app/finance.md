@@ -24,7 +24,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Apply incoming payments, reconcile bank accounts during payment application, and collect outstanding balances. |[Manage Receivables](receivables-manage-receivables.md)|
 |Make payments, apply outgoing payments, and handle work with checks.|[Manage Payables](payables-manage-payables.md)|
 |Reconcile bank accounts and transfer funds between bank accounts.|[Manage Bank Accounts](bank-manage-bank-accounts.md)|
-|Understand the general ledger and the chart of accounts.|[The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md)|
+|Understand the general ledger and the chart of accounts.|[The General Ledger and the Chart of Accounts](finance-general-ledger.md)|
 |Add dimensions for richer business intelligence.|[Dimensions](finance-setup-dimensions.md)|
 |Use account schedules to get detailed insights into your financial data.|[Account Schedules](finance-account-schedule.md)|
 |Recognize revenues and expenses in other periods than when the transactions were posted.|[How to: Defer Revenues and Expenses](finance-how-defer-revenue-expenses.md)|

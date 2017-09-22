@@ -25,7 +25,7 @@ From the chart of accounts, you can open each G/L account and add or change sett
 Dynamics NAV will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
 
 ##See Also  
-[The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md)  
+[The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)  
 [Dimensions](finance-setup-dimensions.md)  
-[How to: Work With GIFI Codes in Canada](ca-finance-setup-work-GiFI-codes.md)
+[How to: Work With GIFI Codes in Canada](ca-finance-work-GiFI-codes.md)

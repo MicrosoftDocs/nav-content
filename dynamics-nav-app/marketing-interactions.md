@@ -14,9 +14,9 @@ In Dynamics NAV, interactions are all types of communications between your compa
 
 The relationship management area enables you to record all the interactions you have with your contacts in order to keep track of the sales and marketing efforts you have directed at your contacts and to improve your future business interactions with them. Setting up your application to record interactions consists of these tasks:
 
-* [Setting up interaction templates](#setting-up-interaction-templates)
-* [Creating interactions on contacts or segments](#creating-interactions-on-contacts-or-segments)
-* [View and manage recorded interactions](#view-and-manage-recorded-interactions)
+* Setting up interaction templates
+* Creating interactions on contacts or segments
+* View and manage recorded interactions
 
 ## Set Up Interaction Templates
 Before you can create and record interactions, you must set up interaction templates. When creating interactions, you must specify the interaction templates they are based on. An interaction template is a model that defines the basic characteristics of an interaction.

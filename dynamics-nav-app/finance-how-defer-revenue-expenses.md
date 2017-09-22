@@ -18,7 +18,7 @@ To distribute revenues or expenses on the involved accounting periods, you set u
 ## To set up a G/L account for deferral
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Chart of Accounts**, and then choose the related link.
 2. Choose the **New** action.
-3. Fill in the fields as necessary to create a G/L account for deferred revenues. For more information, see [The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md).
+3. Fill in the fields as necessary to create a G/L account for deferred revenues. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).
 3. Repeat steps 2 and 3 to create a new G/L account for deferred expenses.
 
 For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses.

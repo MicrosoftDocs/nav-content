@@ -15,7 +15,7 @@
     <Node Name="Extensions" DisplayName="Customizing Dynamics NAV Using Extensions" Page="ui-extensions.html"/>
   </Node>
 <Node Name="Finance" DisplayName="Finance" Page="finance-setup.html">
-  <Node Name="GeneralLedger" DisplayName="The General Ledger and the Chart of Accounts" Page="finance-setup-general-ledger.html" />
+  <Node Name="GeneralLedger" DisplayName="The General Ledger and the Chart of Accounts" Page="finance-general-ledger.html" />
   <Node Name="Dimensions" DisplayName="Dimensions" Page="finance-setup-dimensions.html" />
   <Node Name="AccountSchedules" DisplayName="Account Schedules" Page="finance-account-schedule.html" />
   <Node Name="DeferRevenuesExpenses" DisplayName="How to: Defer Revenues and Expenses" Page="finance-how-defer-revenue-expenses.html" />
