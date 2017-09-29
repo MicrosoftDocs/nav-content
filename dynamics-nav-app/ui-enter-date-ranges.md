@@ -38,6 +38,6 @@ You can also combine the various format types.
 Note that we have used the US date format MMDDYY here. As [!INCLUDE[navnow](includes/navnow_md.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
 ## See Also
-[Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  
 [Entering Criteria in Filters ](ui-enter-criteria-filters.md)  
 [General Business Functionality](ui-across-business-areas.md)

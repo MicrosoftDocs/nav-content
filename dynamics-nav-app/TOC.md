@@ -1,5 +1,4 @@
 # [Getting Started](index.md)
-## [Frequently Asked Questions](across-faq.md)
 ## [Overview of Business Functionality](madeira-business-functionality.md)
 ## [Importing Business Data from Other Finance Systems](upload-data.md)
 ## [Getting Dynamics NAV on Your Mobile Device](install-mobile-app.md)

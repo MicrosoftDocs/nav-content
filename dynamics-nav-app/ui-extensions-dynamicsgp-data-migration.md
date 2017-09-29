@@ -25,7 +25,7 @@ You must have exported some or all of your existing customers, vendors, inventor
 * Item  
 * Vendor  
 
-The Dynamics GP Data Migration extension automatically maps the exported data so that your data is quickly available to you in your new [!INCLUDE[navnow](includes/navnow_md.md)] company. During the process, supporting setup information is created, such as posting groups. Inventory items will be brought into the system with FIFO as the cost valuation method. Accounts will be set up as the main account segment from Dynamics GP with dimensions, because [!INCLUDE[d365fin](includes/d365fin_long_md.md)] does not have account segments.
+The Dynamics GP Data Migration extension automatically maps the exported data so that your data is quickly available to you in your new [!INCLUDE[navnow](includes/navnow_md.md)] company. During the process, supporting setup information is created, such as posting groups. Inventory items will be brought into the system with FIFO as the cost valuation method. Accounts will be set up as the main account segment from Dynamics GP with dimensions, because [!INCLUDE[navnow_md](includes/navnow_md.md)] does not have account segments.
 
 ## See Also
 [Importing Business Data from Other Finance Systems](upload-data.md)  
