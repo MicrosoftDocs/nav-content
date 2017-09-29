@@ -2,7 +2,7 @@
 title: Export Your Financials Data to Excel| Microsoft Docs
 description: You can export your financial reports and business intelligence data from Dynamics NAV  to Excel, or open your Financials data in Excel.
 
- 
+
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"
@@ -59,7 +59,6 @@ We recommend that you also consider exporting data from the following pages:
 >   If you have set up more than one company in [!INCLUDE[navnowlong](includes/navnowlong_md.md)], you must export the relevant data from each company.
 
 ## See Also
-[Canceling Your Subscription for [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](madeira-cancel.md)  
 [Importing Business Data from Other Finance Systems](upload-data.md)  
 [Finance](finance.md)  
 [General Business Functionality](ui-across-business-areas.md)  

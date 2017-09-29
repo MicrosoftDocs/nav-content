@@ -1,6 +1,6 @@
 ---
 title: Assigning and managing tasks| Microsoft Docs
-description: Learn how to assign tasks to users, including your accountant, in Dynamics NAV 
+description: Learn how to assign tasks to users, including your accountant, in Dynamics NAV
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"
@@ -36,4 +36,3 @@ If you want to bulk delete all or some user tasks, you can use the **Delete User
 
 ## See Also
 [Searching for a Page or Report](ui-search.md)  
-[Accountant Experiences in [!INCLUDE[navnow](includes/navnow_md.md)]](finance-accounting.md)  

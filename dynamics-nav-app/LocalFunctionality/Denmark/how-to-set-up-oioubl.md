@@ -32,7 +32,7 @@ You must define a location for storing Offentlig Information Online UBL (OIOUBL)
 
 3.  In the **Default OIOUBL Profile Code** field, select the profile that most of your public sector customers use.  
 
-    When you select a profile, [!INCLUDE[d365fin](../../includes/d365fin_md.md)] updates open sales documents and service documents with the specified profile.  
+    When you select a profile, "[!INCLUDE[navnow](../../includes/navnow_md.md)] updates open sales documents and service documents with the specified profile.  
 
     1.  To create a new profile, choose the **Default OIOUBL Profile Code** field, and then choose **New**.  
     2.  In the **OIOUBL Profile List** window, fill in the fields as described in the following table.  
@@ -67,7 +67,7 @@ You must also add an OIOUBL payment channel to the payment methods that you use 
 
     |Option|Description|  
     |-------------------------------------|---------------------------------------|  
-    |**Payment Slip**|The payment is made by using a payment slip, such as giro or an FI card (Fællesindbetalingskort). **Important:**  This payment channel is not supported in the standard version of [!INCLUDE[d365fin](../../includes/d365fin_md.md)].|  
+    |**Payment Slip**|The payment is made by using a payment slip, such as giro or an FI card (Fællesindbetalingskort). **Important:**  This payment channel is not supported in the standard version of "[!INCLUDE[navnow](../../includes/navnow_md.md)].|  
     |**Account Transfer**|The payment is made by transfer from the customer’s bank account.|  
     |**National Clearing**|The payment is made by transfer from the customer’s bank account and is processed by a clearing house.|  
     |**Direct Debit**|The payment is made by using the unified bank payment service (PBS).|  

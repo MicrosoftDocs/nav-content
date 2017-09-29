@@ -28,7 +28,7 @@ The following table lists some of the general functionality with links to topics
 | Modify the colored indicator on cues. |[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md) |
 | Change basic settings such as company or work date. |[Changing Basic Settings](ui-change-basic-settings.md) |
 | Change the Role Center, and the related Home page, to fit your role. |[How to: Change the Role Center](change-role.md) |
-| Change which fields and actions are shown in the user interface to fit your company's business processes. |[Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md) |
+| Change which fields and actions are shown in the user interface to fit your company's business processes. |[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md) |
 | Get reports to show data from specific date ranges. |[Entering Date Ranges in Dynamics 365 Business edition ](ui-enter-date-ranges.md) |
 
 ## See Also
