@@ -1,7 +1,7 @@
 ---
 title: Application Help for Dynamics NAV | Microsoft Docs
 description: Dynamics NAV is a business management solution for small and mid-sized organizations that automates and streamlines business processes and helps you manage your business.
-documentationcenter: ''
+ 
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"

@@ -1,5 +1,6 @@
 ---
-title: "Work with Dynamics NAV"
+title: Working with the General Functionality in Dynamics NAV
+description: Describes the general functionality you use to interact with data in Dynamics NAV, such as entering values, sorting data, and changing views.
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -9,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: "dynamics-nav-2017"
 ---
-    
+
 # Work with Dynamics NAV
 When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.
 
@@ -17,16 +18,19 @@ For example, you can adjust the size and position of any window, expand the widt
 
 The following table lists some of the general functionality with links to topics that describe them.
 
-|To |See |
-|---|----|
-|Change basic settings such as company or work date.|[Change Basic Settings](ui-change-basic-settings.md)|
-|Read about including symbols and special characters when searching for data.|[Entering Criteria in Filters](ui-enter-criteria-filters.md)|
-|See which fields must be filled in.|[Mandatory Fields](ui-mandatory-fields.md)|
-|Use Search to look for a specific page or report.|[Using Search for Page or Report](ui-search.md)|
-|Learn about how to sort data.|[Sorting](ui-sorting.md)|
-|Read about how to set up reports to print in a specific way.|[Specify Printer Selection for Reports](ui-specify-printer-selection-reports.md)|
-|Modify the colored indicator on cues.|[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md)|
-|Change how you view lists of, for example, customers, vendors, or items.|[Displaying Lists in Different Views](across-display-lists-different-views.md)|
+| To | See |
+| --- | --- |
+| Read about including symbols and special characters when searching for data. |[Entering Criteria in Filters](ui-enter-criteria-filters.md) |
+| See which fields must be filled in. |[Mandatory Fields](ui-mandatory-fields.md) |
+| Use Search to look for a specific page or report. |[Using Search for Page or Report](ui-search.md) |
+| Learn about how to sort data. |[Sorting](ui-sorting.md) |
+| Change how you view lists of, for example, customers, vendors, or items. |[Displaying Lists in Different Ways](across-display-lists-different-views.md) |
+| Modify the colored indicator on cues. |[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md) |
+| Change basic settings such as company or work date. |[Changing Basic Settings](ui-change-basic-settings.md) |
+| Change the Role Center, and the related Home page, to fit your role. |[How to: Change the Role Center](change-role.md) |
+| Change which fields and actions are shown in the user interface to fit your company's business processes. |[Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md) |
+| Get reports to show data from specific date ranges. |[Entering Date Ranges in Dynamics 365 Business edition ](ui-enter-date-ranges.md) |
 
 ## See Also
+[General Business Functionality](ui-across-business-areas.md)  
 [Across Business Areas](ui-across-business-areas.md)

@@ -3,19 +3,38 @@
     "content":
       [
         {
-          "files": ["**/**.md"],
-          "exclude": ["**/obj/**"]
+          "files": ["**/**.md",
+          "**/**.yml"
+	],
+          "exclude": ["**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
         }
       ],
     "resource": [
         {
-          "files": ["**/images/**"],
-          "exclude": ["**/obj/**"]
+          "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif"
+        ],
+          "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
         }
     ],
+    
+    "overwrite": [],
+    "externalReference": [],
     "globalMetadata": {
-        "ROBOTS": "INDEX, FOLLOW"
-    },
+      "searchScope": ["DynamcisNAV"],
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "titleSuffix": "Dynamics NAV",
+      },
     "externalReference": [
     ],
     "template": "op.html",

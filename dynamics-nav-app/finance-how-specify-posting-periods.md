@@ -20,7 +20,8 @@ When you specify posting periods, you limit the period in which posting is allow
 
 The dates that you define here apply to the company and to all users.
 
-**Note**: If you want to define different posting periods for different users, you can set them up for each user in the **User Setup** window. If you enter dates in the **User Setup** window, the dates entered in the **General Ledger Setup** window will not apply to these users.
+> [!NOTE]  
+>   These posting periods apply to the company and to all users. To allow for exceptions, you can define different posting periods for specific users in the **User Setup** window. These posting periods overrule those specified in the **General Ledger Setup** window. For more information, see the "To set up user time constraints" section in [How to: Manage Users and Permissions](ui-how-users-permissions.md).
 
 
 ## See Also

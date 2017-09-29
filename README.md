@@ -3,6 +3,8 @@ Welcome to the repository for the application help content for Dynamics NAV! Dyn
 
 The content is available as markdown files (.md), where each file represents an article in the help. You can edit these markdown files, and then convert them to HTML files for application.
 
+The *live* branch currently contains content that applies to Dynamics NAV 2017. We are preparing to support Dynamics NAV 2018 in the *NAV2018* branch. 
+
 If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
 
 ## Getting Started
@@ -189,12 +191,6 @@ target-heading is the text of the heading that you want to link to, except it is
 For example, to link to the heading "How Autoscaling Works" in the article Autoscaling.md", add the following code:
 ```[link text](Autoscaling.md#how-autoscaling-works)```
 
-### Link to MSDN
-Omit the brackets with the NAV version info. Markdown mistakes that bracket for its own link indication.
-Example:  
-MSDN URL: ```https://msdn.microsoft.com/en-us/library/hh173988(v=nav.80).aspx```  
-Entered in markdown: ```https://msdn.microsoft.com/en-us/library/hh173988.aspx```
-
 ### Line breaks (soft return)
 In the editor, add two blank spaces at the end of the sentence and hit return. This is used in the See Also list. (See Also must be heading 2.)
 
@@ -236,15 +232,8 @@ All fields in Dynamics NAV have tooltips. Therefore, do not document fields in H
 Naming consists of the following elements: ```<country prefix>-<category prefix>-<topic title>.<extension>```
 
 ### Country-specific content
-To simplify content localization and translation, country-specific articles live in the same folder ```/articles``` as the articles for the generic product. We distinguish country-specific article file names by a country prefix.
+To simplify content localization and translation, country-specific articles live in country-specific folders, such as ...\nav-content\dynamics-nav-app\LocalFunctionality\Denmark.
 
-To give readers the impression that the content library is truly country-specific, while maintaining the simple file structure, we integrate country-specific articles in a subtle way by following these guidelines:
-
-- Prefix article file names with the country code. Example: ```ca-``` for Canada.
-- End article titles with ```in <country>```. Example: "How to: Work With GIFI Codes in Canada".
-- Link to country-specific content from generic content whenever relevant. The more you link to and from country-specific content, the more integrated it will feel. As for all other links, the link name must be the same as the title of the target article.
-- In navigation tables; the To/See tables in top-level topics, create rows for country-specific references at the bottom of the table. Prefix the text in the **To** column with ```<country>:``` Example: "Canada: How to: Work With GIFI Codes in Canada".
-- Do not create TOC entries for country-specific content. TOC entries will make the content library appear less country-specific.
 
 ## Code of Conduct
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
