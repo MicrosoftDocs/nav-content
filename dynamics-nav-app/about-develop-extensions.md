@@ -2,7 +2,7 @@
 title: Customize Dynamics NAV | Microsoft Docs
 description: Build, showcase, and promote your apps and extensions for Dynamics NAV .
 
- 
+
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"
@@ -74,5 +74,3 @@ Please find further resources for app development on our [DLP topic page](https:
 [Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](index.md)  
 [Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)  
 [https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365-for-financials&page=1)  
-
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]

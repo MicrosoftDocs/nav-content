@@ -1,7 +1,7 @@
 ---
 title: Manage Customers Using Dynamics 365 for Sales| Microsoft Docs
 description: You can use Dynamics 365 for Sales from inside Dynamics NAV  to map data and have seamless integration and synchronization in the lead-to-cash process.
- 
+
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"
@@ -80,5 +80,3 @@ From the **Dynamics 365 Connection Setup** window, you can get details about ful
 [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)    
 [Onboard your organization and users to Dynamics 365 (online)](https://www.microsoft.com/en-US/Dynamics/crm-customer-center/onboard-your-organization-and-users-to-dynamics-365-online.aspx)  
-
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]

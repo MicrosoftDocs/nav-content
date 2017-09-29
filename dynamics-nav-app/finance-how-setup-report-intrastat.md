@@ -2,7 +2,7 @@
 title: Set Up and Report Intrastat| Microsoft Docs
 description: Learn how to set up Intrastat reporting features, and how to report trade with companies in other EU countries.
 
- 
+
 author: bholtorf
 
 ms.prod: "dynamics-nav-2017"
@@ -111,5 +111,3 @@ Because you must submit an Intrastat report every month, and you create a new jo
 
 ## See Also
 [Financial Management](finance.md)
-
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]

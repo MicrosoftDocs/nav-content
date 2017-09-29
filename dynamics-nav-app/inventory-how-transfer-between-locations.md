@@ -2,7 +2,7 @@
 title: Transfer Items Between Warehouse Locations| Microsoft Docs
 description: Describes how to move inventory from one place or warehouse to another, either with the reclassification journal or with transfer orders.
 
- 
+
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -60,9 +60,7 @@ To transfer items, locations and transfer routes must be set up. For more inform
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
 [How to: Set Up Locations](inventory-how-setup-locations.md)  
-  
+
 [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)  
 [General Business Functionality](ui-across-business-areas.md)
-
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]

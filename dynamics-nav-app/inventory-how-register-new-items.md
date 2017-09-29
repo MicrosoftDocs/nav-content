@@ -1,7 +1,7 @@
 ---
 title: Create Item Cards for Goods or Services| Microsoft Docs
 description: You create item cards for services that you sell as hours and for physical products, such as assembly items, finished goods, components, or raw material, that you sell from your inventory.
- 
+
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -74,5 +74,3 @@ The vendors will now appear in the **Item Vendor Catalog** window, which you ope
   [Purchasing](purchasing-manage-purchasing.md)  
   [Sales](sales-manage-sales.md)  
   [Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)
-
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]

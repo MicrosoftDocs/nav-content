@@ -1,7 +1,7 @@
 ---
 title: Choosing the User Experience to Show or Hide Advanced Features | Microsoft Docs
 description: Learn what the Basic and Suite user experience tiers mean for the user interface, application areas, and your company in Dynamics NAV.
- 
+
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"
@@ -36,5 +36,3 @@ The following table lists the experiences that are currently available.
 [Changing Basic Settings](ui-change-basic-settings.md)  
 [Customizing [!INCLUDE[navnowlong](includes/navnowlong_md.md)] Using Extensions](ui-extensions.md)  
 [Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)
-
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
