@@ -1,6 +1,6 @@
 ---
     title: United States Local Functionality | Microsoft Docs
-    description: The following topics describe the local functionality in the United States version of "[!INCLUDE[navnow](../../includes/navnow_md.md)].
+    description: The following topics describe the local functionality in the United States version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
     
      
     author: SorenGP
@@ -28,4 +28,4 @@ The following topics describe local functionality that is unique to the United S
   [How to: Print Troubleshooting Reports](how-to-print-troubleshooting-reports.md)
 
 ## See Also
-  [Working with "[!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)    
+  [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)    

@@ -1,6 +1,6 @@
 ---
     title: Canada Local Functionality | Microsoft Docs
-    description: The following topics describe the local functionality in the Canadian version of "[!INCLUDE[navnow](../../includes/navnow_md.md)].
+    description: The following topics describe the local functionality in the Canadian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
     
      
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Canada Local Functionality
-The following topics describe local functionality that is unique to the Canadian version of "[!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the Canadian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section
 [Canada Local Functionality](canada-local-functionality.md)  
@@ -29,4 +29,4 @@ The following topics describe local functionality that is unique to the Canadian
 [How to: Print Troubleshooting Reports](how-to-print-troubleshooting-reports.md)
 
 ## See Also
-[Working with "[!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)   
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)   

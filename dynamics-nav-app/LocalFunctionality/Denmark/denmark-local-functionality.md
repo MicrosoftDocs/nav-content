@@ -1,6 +1,6 @@
 ---
     title: Denmark Local Functionality | Microsoft Docs
-    description: This section describes local functionality in "[!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.
+    description: This section describes local functionality in [!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.
     
      
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Denmark Local Functionality
-The following topics describe the local functionality in the Danish version of "[!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.  
+The following topics describe the local functionality in the Danish version of [!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.  
 
 ## In This Section  
 [OIOUBL Electronic Invoicing Overview](oioubl-electronic-invoicing-overview.md)  
@@ -26,4 +26,4 @@ The following topics describe the local functionality in the Danish version of "
 [How to: Print VAT Reconciliation Reports](how-to-print-vat-reconciliation-reports.md)
 
 ## See Also
-[Working with "[!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)   
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)   

@@ -1,6 +1,6 @@
 ---
 title: United Kingdom Local Functionality | Microsoft Docs
-description: Get an overview of local functionality in the United Kingdom version of "[!INCLUDE[navnow](../../includes/navnow_md.md)].
+description: Get an overview of local functionality in the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 author: edupont04
 
 ms.prod: "dynamics-nav-2017"
@@ -14,7 +14,7 @@ ms.author: edupont
 
 ---
 # United Kingdom Local Functionality
-The following topics describe local functionality that is unique to the United Kingdom version of "[!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
 [Multiple Interest Rates Overview](multiple-interest-rates-overview.md)  
@@ -33,4 +33,4 @@ The following topics describe local functionality that is unique to the United K
 [How to: Set Up Reverse Charges on VAT](how-to-set-up-reverse-charges-on-vat.md)  
 
 ## See Also
-[Working with "[!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  
