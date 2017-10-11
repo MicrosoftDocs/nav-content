@@ -24,4 +24,3 @@ There are different ways to customize the application to give you and your colle
 ## See Also
 [Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]

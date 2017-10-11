@@ -33,5 +33,5 @@ The concept of UI customization in [!INCLUDE[navnow_md](includes/navnow_md.md)] 
 
 ## See Also  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)  
-[Customizing the User Interface](ui-customization-overview.md)   
+[Customizing the User Interface](ui-customizing-overview.md)   
 <!-- [Security Overview](../Security%20Overview.md)-->

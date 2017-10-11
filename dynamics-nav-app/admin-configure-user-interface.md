@@ -66,7 +66,7 @@ You can cancel UI customizations that you have made as configuration for a profi
 
     The only situation where UI configuration does overwrite UI personalization is when a UI element is removed by configuration. For example, if the administrator removes a field that the user has renamed or moved, then the field is still removed from the user’s UI.  
   
--   In the **Delete User Personalization** window and with the **Restore Defaults** button in the **Customize** window, users can cancel UI customization that they have made to pages under their own user logon. When they do so, the layout of those pages is reset to any UI customization that the administrator has configured for the profile. If the profile has not been configured, then the layout of the user’s pages is reset to the default profile configuration. For more information about how users cancel personalization, see [Cancelling Personalization](ui-personalization-windows-client#CancelPersonalization).
+-   In the **Delete User Personalization** window and with the **Restore Defaults** button in the **Customize** window, users can cancel UI customization that they have made to pages under their own user logon. When they do so, the layout of those pages is reset to any UI customization that the administrator has configured for the profile. If the profile has not been configured, then the layout of the user’s pages is reset to the default profile configuration. For more information about how users cancel personalization, see [Cancelling Personalization](ui-personalization-windows-client.md#CancelPersonalization).
   
 ### To cancel all UI customization that you have made for a profile  
   
@@ -97,4 +97,4 @@ You can undo changes for that you have made to individual UI areas, such as a ri
 The UI customization for the profile of the particular UI area on the particular page is canceled. The layout of the UI area on the page is reset to the default configuration, as made either by the administrator or as installed with the application.  
   
 ## See Also  
-[Customizing [!INCLUDE[d365fin_md](includes/d365fin_md.md)]](ui-customizing-overview.md)   
+[Customizing [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-customizing-overview.md)   

@@ -361,8 +361,7 @@ Basic UI changes include things like:
 
 
 ## See Also
-[Personalizing Your Workspace in the Dynamics Windows Client](ui-personalization-windows-client.md)  
-[How to: Cancel Personalization](ui-customization-cancel.md)  
+[Personalizing Your Workspace in the Dynamics Web Client](ui-personalization-user.md)  
 [Personalization Overview](ui-personalization-overview.md)  
 
 
