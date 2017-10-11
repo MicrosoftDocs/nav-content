@@ -14,7 +14,7 @@
 ## [Using Search for Page or Report](ui-search.md)
 ## [Changing Basic Settings](ui-change-basic-settings.md)
 ## [How to: Change the Role Center](change-role.md)
-## [Customizing Your Dynamics NAV Experience](ui-experiences.md)
+## [Customizing Dynamics NAV](ui-customizing-overview.md)
 ## [Letting Dynamics NAV Suggest Values](ui-let-system-suggest-values.md)
 ## [Printing a Report](ui-work-report.md#PrintReport)
 ## [Videos on Common Tasks](across-videos.md)
