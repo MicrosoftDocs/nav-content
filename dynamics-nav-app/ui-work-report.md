@@ -1,5 +1,5 @@
 ---
-title: Scheduling a Report to Run at a Specific Date and Time | Microsoft Docs
+title: Scheduling a Report to Run at a Specific Date and Time
 description: Learn about entering a report into a job queue and scheduling it to be processed at a specific date and time.
 
  

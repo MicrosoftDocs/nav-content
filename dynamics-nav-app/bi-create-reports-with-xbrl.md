@@ -1,5 +1,5 @@
 ---
-title: How to Create Reports with XBRL | Microsoft Docs
+title: How to Create Reports with XBRL
 description: XBRL, which stands for eXtensible Business Reporting Language, is an XML-based language for tagging financial data, and enabling businesses to efficiently and accurately process and share their data.
 
  

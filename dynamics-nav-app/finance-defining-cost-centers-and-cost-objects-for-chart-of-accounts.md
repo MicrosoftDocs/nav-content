@@ -1,5 +1,5 @@
 ---
-    title: Defining Cost Centers and Cost Objects for Chart of Accounts | Microsoft Docs
+    title: Defining Cost Centers and Cost Objects for Chart of Accounts
     description: You can automatically transfer the expense and income entries from the general ledger to cost accounting either for each general ledger posting or with a batch job. When you do the transfer, the system only transfers the entries that are already linked to a cost center or a cost object. To establish a meaningful transfer, you must ensure that the cost centers and cost objects are correctly defined.
     
      

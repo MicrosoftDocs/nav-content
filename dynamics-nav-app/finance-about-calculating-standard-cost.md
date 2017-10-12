@@ -1,5 +1,5 @@
 ---
-    title: About Calculating Standard Cost | Microsoft Docs
+    title: About Calculating Standard Cost
     description: A standard cost system determines inventory unit cost based on some reasonable historical or expected cost. Studies of past and estimated future cost data can then provide the basis for standard costs.
     
      

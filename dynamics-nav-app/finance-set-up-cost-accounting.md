@@ -1,5 +1,5 @@
 ---
-    title: Setting Up Cost Accounting | Microsoft Docs
+    title: Setting Up Cost Accounting
     description: Before you start working with cost accounting, you must perform setup tasks.
     
      

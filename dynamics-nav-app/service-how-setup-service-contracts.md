@@ -1,5 +1,5 @@
 ---
-    title: Set Up Service Contractss | Microsoft Docs
+    title: Set Up Service Contractss
     description: Learn how to set up service contracts.
     
      

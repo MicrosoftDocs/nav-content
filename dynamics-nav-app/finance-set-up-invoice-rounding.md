@@ -1,5 +1,5 @@
 ---
-    title: Set Up Invoice Rounding | Microsoft Docs
+    title: Set Up Invoice Rounding
     description: You can round invoice amounts when you create invoices. Additionally, local regulations or custom may require you to round in a specific way, for example, to an amount divisible by 0.05.
     
      

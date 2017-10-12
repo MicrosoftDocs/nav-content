@@ -1,5 +1,5 @@
 ---
-    title: How to Create Special Orders | Microsoft Docs
+    title: How to Create Special Orders
     description: You can create a special order for a specific nonstock item to be shipped to a specific customer. Your vendor ships the item to your warehouse and you can then ship the item on to your customer either independently or together with other items on another order.
     author: SorenGP
 

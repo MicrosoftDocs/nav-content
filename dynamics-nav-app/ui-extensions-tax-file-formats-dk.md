@@ -1,5 +1,5 @@
 ---
-title: Using the Tax File Formats (DK) Extension | Microsoft Docs
+title: Using the Tax File Formats (DK) Extension
 description: This extension makes it easy to export files that are pre-formatted to meet bank requirements for electronic submissions. 
 
  

@@ -1,5 +1,5 @@
 ---
-    title: Set up data exchange | Microsoft Docs
+    title: Set up data exchange
     description: Set up the data exchange framework in Dynamics NAV .
     author: SorenGP
 

@@ -1,5 +1,5 @@
 ---
-title: Extensions for Dynamics NAV  Provided by Other Companies | Microsoft Docs
+title: Extensions for Dynamics NAV  Provided by Other Companies
 description: Lists the apps and extensions to customize Dynamics NAV  provided by other companies.
  
 author: edupont04

@@ -1,5 +1,5 @@
 ---
-    title: Send Electronic Documents | Microsoft Docs
+    title: Send Electronic Documents
     description: learn how to send invoices electronically.
     author: SorenGP
 

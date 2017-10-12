@@ -1,5 +1,5 @@
 ---
-title: Administrative tasks in Dynamics NAV | Microsoft Docs
+title: Administrative tasks in Dynamics NAV
 description: Some tasks in Dynamics NAV requires central administration and setup. See what they are and learn what to do.
 author: edupont04
 

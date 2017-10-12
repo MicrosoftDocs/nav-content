@@ -1,5 +1,5 @@
 ---
-title: Personalizing the Way Information is Displayed for a User Account | Microsoft Docs
+title: Personalizing the Way Information is Displayed for a User Account
 description: Describes how to customize the look and feel of Dynamics 365 for your user account.
 
  

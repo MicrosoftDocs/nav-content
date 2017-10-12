@@ -1,5 +1,5 @@
 ---
-    title: Adding Information to Records to Yourself | Microsoft Docs
+    title: Adding Information to Records to Yourself
     description: Attach a note to any record in the application. For example, if you have extra information about a sales order that does not fit in any of the fields on the sales order, you can write a note.
     author: jswymer
 

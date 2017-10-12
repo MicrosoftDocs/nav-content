@@ -1,5 +1,5 @@
 ---
-title: Set up SEPA Direct Debit | Microsoft Docs
+title: Set up SEPA Direct Debit
 description: Learn how to set up SEPA Direct Debit in Dynamics NAV .
 author: SorenGP
 

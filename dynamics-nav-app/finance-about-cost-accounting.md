@@ -1,5 +1,5 @@
 ---
-    title: About Cost Accounting | Microsoft Docs
+    title: About Cost Accounting
     description: Cost accounting can help you understand the costs of running a business.
     
      

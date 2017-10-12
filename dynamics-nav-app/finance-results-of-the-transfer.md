@@ -1,5 +1,5 @@
 ---
-    title: Results of the Transfer | Microsoft Docs
+    title: Results of the Transfer
     description: This topic describes what happens after you transfer general ledger entries to cost entries.
     
      

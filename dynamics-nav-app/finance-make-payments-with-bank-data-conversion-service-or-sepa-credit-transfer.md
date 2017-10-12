@@ -1,5 +1,5 @@
 ---
-    title: Choose the method of electronic payments | Microsoft Docs
+    title: Choose the method of electronic payments
     description: Process payments to your vendors by exporting a file together with the payment information from the journal lines.
     author: SorenGP
 

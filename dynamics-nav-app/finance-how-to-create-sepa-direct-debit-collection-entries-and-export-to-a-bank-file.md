@@ -1,5 +1,5 @@
 ---
-    title: SEPA Direct Debit Collection | Microsoft Docs
+    title: SEPA Direct Debit Collection
     description: Create a direct-debit collection and export an XML file that you send or upload to your electronic bank for processing.
     author: SorenGP
 

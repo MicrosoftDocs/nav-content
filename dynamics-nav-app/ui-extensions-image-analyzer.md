@@ -1,5 +1,5 @@
 ---
-title: Using the Image Analyzer Extension | Microsoft Docs
+title: Using the Image Analyzer Extension
 description: This extensions lets you analyze images of contact persons and items to find attributes, so you can quickly assign them in Dynamics 365.
  
 author: bholtorf

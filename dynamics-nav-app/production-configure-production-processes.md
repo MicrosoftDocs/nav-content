@@ -1,5 +1,5 @@
 ---
-    title: Configure Production Processes | Microsoft Docs
+    title: Configure Production Processes
     description: To convert material into produced end items, production resources, such as bills of material, routings, machine operators, and machinery must be set up in the system.
     
      

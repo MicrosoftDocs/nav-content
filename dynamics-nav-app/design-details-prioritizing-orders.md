@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Prioritizing Orders | Microsoft Docs
+    title: Design Details - Prioritizing Orders
     description: Read about how to prioritize to meet both demand and supply requirements.
     
      

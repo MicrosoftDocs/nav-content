@@ -1,5 +1,5 @@
 ---
-    title: OIOUBL Electronic Invoicing Overview | Microsoft Docs
+    title: OIOUBL Electronic Invoicing Overview
     description: Companies must send sales invoices, credit memos, finance charge memos, and reminders to the Danish public sector electronically in the Offentlig Information Online UBL (OIOUBL) format. If a company does not send these documents electronically, the authorities can deny payment.
     
      

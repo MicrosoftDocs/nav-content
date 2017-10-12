@@ -1,5 +1,5 @@
 ---
-title: Setting Up Unrealized Value Added Tax | Microsoft Docs
+title: Setting Up Unrealized Value Added Tax
 description: If you're using cash-based accounting, you can specify how to handle unrealized VAT for sales and purchases.
 
  

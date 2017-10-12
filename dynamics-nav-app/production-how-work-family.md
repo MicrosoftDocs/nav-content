@@ -1,5 +1,5 @@
 ---
-    title: How to Use Item Families in Manufacturing | Microsoft Docs
+    title: How to Use Item Families in Manufacturing
     description: The main task in customizing a base calendar for your company, or one of its business partners, is to enter any changes to working and nonworking day status.
     
      

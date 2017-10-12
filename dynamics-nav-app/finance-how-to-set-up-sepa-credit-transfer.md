@@ -1,5 +1,5 @@
 ---
-    title: Set up SEPA credit transfer | Microsoft Docs
+    title: Set up SEPA credit transfer
     description: Learn how to set up SEPA credit transfer in Dynamics NAV .
     author: SorenGP
 

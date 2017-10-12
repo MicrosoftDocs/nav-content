@@ -1,5 +1,5 @@
 ---
-    title: Exchange Data | Microsoft Docs
+    title: Exchange Data
     description: You can exchange data between [!INCLUDE[d365fin](includes/d365fin_md.md)] and external files or streams in connection with common business tasks, such as sending and receiving electronic documents and importing and exporting bank files.
     author: SorenGP
 

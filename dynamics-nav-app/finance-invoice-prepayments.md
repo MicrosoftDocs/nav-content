@@ -1,5 +1,5 @@
 ---
-    title: Invoice Prepayments | Microsoft Docs
+    title: Invoice Prepayments
     description: Prepayments are payments that are invoiced and posted to a sales or purchase prepayment order before final invoicing. You might require a deposit before you manufacture items to order, or you might require payment before you ship items to a customer. The prepayments functionality enables you to invoice and collect deposits required from customers or to remit deposits to vendors. Thus, you can ensure that all payments are posted against an invoice.
     
      

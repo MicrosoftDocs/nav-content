@@ -1,5 +1,5 @@
 ---
-title: Consolidate Data from Multiple Companies | Microsoft Docs
+title: Consolidate Data from Multiple Companies
 description: Get an summary view of the financial health accross your businesses.
  
 author: bholtorf

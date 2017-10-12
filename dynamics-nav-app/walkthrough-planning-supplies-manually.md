@@ -1,5 +1,5 @@
 ---
-    title: Walkthrough - Planning Supplies Manually | Microsoft Docs
+    title: Walkthrough - Planning Supplies Manually
     description: This walkthrough demonstrates the process of planning supply orders to fulfill new demand. You can initiate supply planning at fixed intervals, for example, every morning or every Monday, or when you are notified by sales or production, depending on the type of demand.
     
      

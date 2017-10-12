@@ -1,5 +1,5 @@
 ---
-    title: Importing and Exporting a Report and Document Layout | Microsoft Docs
+    title: Importing and Exporting a Report and Document Layout
     description: You can import and export an existing custom report layout as a file to and from a location on your computer and network.
     
      

@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Closing Demand and Supply | Microsoft Docs
+    title: Design Details - Closing Demand and Supply
     description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
     
      

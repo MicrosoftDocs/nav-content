@@ -1,5 +1,5 @@
 ---
-    title: How to Create a Production Forecast | Microsoft Docs
+    title: How to Create a Production Forecast
     description: You can create sales and production forecasts with the **Production Forecast** window.
     
      

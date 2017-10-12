@@ -1,5 +1,5 @@
 ---
-    title: Denmark Local Functionality | Microsoft Docs
+    title: Denmark Local Functionality
     description: This section describes local functionality in [!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.
     
      

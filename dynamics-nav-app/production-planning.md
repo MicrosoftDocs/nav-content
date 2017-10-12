@@ -1,5 +1,5 @@
 ---
-    title: Supply Planning | Microsoft Docs
+    title: Supply Planning
     description: Prepare a detailed executable plan and the final-assembly production schedule for sales and production demand.
     
      

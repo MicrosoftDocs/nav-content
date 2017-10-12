@@ -1,5 +1,5 @@
 ---
-    title: Design Details | Microsoft Docs
+    title: Design Details
     description: This content contains detailed technical information about complex application features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     
      

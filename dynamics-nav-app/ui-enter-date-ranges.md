@@ -1,5 +1,5 @@
 ---
-title: Setting date ranges in Dynamics NAV  | Microsoft Docs
+title: Setting date ranges in Dynamics NAV 
 description: Learn about getting a report to show data from specific time periods using date ranges in Dynamics NAV .
  
 author: edupont04

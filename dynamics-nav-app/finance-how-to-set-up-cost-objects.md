@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Cost Objects | Microsoft Docs
+    title: How to Set Up Cost Objects
     description: Learn how to set up cost objects, which are similar to dimensions for the general ledger.
     
      

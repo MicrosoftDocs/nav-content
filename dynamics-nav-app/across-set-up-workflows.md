@@ -1,5 +1,5 @@
 ---
-    title: Setting Up Workflows | Microsoft Docs
+    title: Setting Up Workflows
     description: You can set up and use workflows that connect business-process tasks performed by different users. System tasks, such as automatic posting, can be included as steps in workflows, preceded or followed by user tasks. Requesting and granting approval to create new records are typical workflow steps.
     
      

@@ -1,5 +1,5 @@
 ---
-title: Migrate Data from Dynamics GP with the Data Migration Extension | Microsoft Docs
+title: Migrate Data from Dynamics GP with the Data Migration Extension
 description: Use the Dynamics GP Data Migration extension to migrate customers, vendors, inventory items, and accounts from Dynamics GP to Dynamics NAV .
  
 author: edupont04

@@ -1,5 +1,5 @@
 ---
-    title: How to Cross-Dock Items | Microsoft Docs
+    title: How to Cross-Dock Items
     description: Cross-docking functionality is available to you if you have set up your location to require warehouse receive and put-away processing.
     
      

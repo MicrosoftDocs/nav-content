@@ -1,5 +1,5 @@
 ---
-    title: Payment Tolerance and Payment Discount Tolerance | Microsoft Docs
+    title: Payment Tolerance and Payment Discount Tolerance
     description: You can set up payment tolerance to close an invoice when the payment does not fully cover the amount on the invoice.
     
      

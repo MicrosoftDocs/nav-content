@@ -1,5 +1,5 @@
 ---
-title: Customize Dynamics NAV | Microsoft Docs
+title: Customize Dynamics NAV
 description: Build, showcase, and promote your apps and extensions for Dynamics NAV .
 
 

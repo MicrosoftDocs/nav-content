@@ -1,5 +1,5 @@
 ---
-    title: How to Allocate Resources | Microsoft Docs
+    title: How to Allocate Resources
     description: You can change the annual amount of the service contract or contract quote to correct the amount that will be invoiced annually.
     author: bholtorf
 

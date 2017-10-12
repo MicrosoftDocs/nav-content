@@ -1,5 +1,5 @@
 ---
-    title: How to Create Production Orders from Sales Orders | Microsoft Docs
+    title: How to Create Production Orders from Sales Orders
     description: You can create production orders from sales orders in the Sales & Marketing department.
     
      

@@ -1,5 +1,5 @@
 ---
-title: Set up email in Dynamics NAV | Microsoft Docs
+title: Set up email in Dynamics NAV
 description: Describes how to use the company's SMTP server to send and receive email messages within Dynamics NAV, or alternatively how to use the email server settings created with the Office 365 subscription.
 author: edupont04
 

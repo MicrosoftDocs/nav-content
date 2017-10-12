@@ -1,5 +1,5 @@
 ---
-    title: How to Receive Items | Microsoft Docs
+    title: How to Receive Items
     description: When items arrive at a warehouse that is set up for warehouse receipt processing, you must retrieve the lines of the released source document that triggered their receipt.
     
      

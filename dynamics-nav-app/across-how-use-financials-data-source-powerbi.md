@@ -1,5 +1,5 @@
 ---
-title: Make a Power BI data source with your Financials | Microsoft Docs
+title: Make a Power BI data source with your Financials
 description: You can make your Financials data available as a data source in Power BI and build powerful reports of the state of your business.
 author: edupont04
 

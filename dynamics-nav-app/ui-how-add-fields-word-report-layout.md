@@ -1,5 +1,5 @@
 ---
-    title: How to Add Fields to a Word Report Layout | Microsoft Docs
+    title: How to Add Fields to a Word Report Layout
     description: Describes how to add fields of a report dataset to an existing Word report layout for a report.
     
      

@@ -1,5 +1,5 @@
 ---
-    title: Create Invoices or Credit Memos for Services | Microsoft Docs
+    title: Create Invoices or Credit Memos for Services
     description: Learn how to create invoices, so you can get paid for your service.
     
      

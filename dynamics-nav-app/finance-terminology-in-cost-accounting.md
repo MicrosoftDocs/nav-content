@@ -1,5 +1,5 @@
 ---
-    title: Terminology in Cost Accounting | Microsoft Docs
+    title: Terminology in Cost Accounting
     description: This topic defines the key terms that are used in cost accounting.
     
      
