@@ -205,6 +205,7 @@ This repo contains two TOC files. One is in MarkDown format and the other is in 
 ### Standard Phrases
 All fields in Dynamics NAV have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    
 "Choose a field to read a short description of the field or link to more information."
+**Note**: The product name is represented by placeholders, called INCLUDES. In most cases, use the short name for the product, "Dynamics NAV", and use this placeholder: ```[!INCLUDE[d365fin](includes/d365fin_md.md)]```. As you can see, this is the placeholder for the online version of Dynamics NAV, but due to translation costs, we have chosen to use the same placeholder for Dynamics NAV but change the value of it in the *includes* folder.
 
 ### File naming
 
