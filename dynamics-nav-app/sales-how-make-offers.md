@@ -15,10 +15,6 @@ You create a sales quote to record your offer to a customer to sell certain prod
 
 While you negotiate with the customer, you can change and resend the sales quote as much as needed. When the customer accepts the quote, you convert the sales quote to a sales invoice or a sales order in which you process the sale. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) or [How to: Sell Products](sales-how-sell-products.md).
 
-Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The sales quote process is the same for both product types.
-
-**Note**: In Dynamics NAV, a product is referred to with the term “item”.
-
 You can fill customer fields on the sales quote in two ways depending on whether the customer is already registered.
 
 ## To create a sales quote
@@ -42,8 +38,6 @@ You can fill customer fields on the sales quote in two ways depending on whether
     **Note**: If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the quote by choosing the **Get Recurring Sales Lines** action.
 10. On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.
 11. In the **Quantity** field, enter the number of items to be offered.
-
-    **Note**: For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 
     The **Line Amount** field is updated to show the value in the **Unit Price** field multiplied by the value in the **Quantity** field.
 

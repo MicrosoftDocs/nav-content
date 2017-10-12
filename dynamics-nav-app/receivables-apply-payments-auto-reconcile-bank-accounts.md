@@ -15,11 +15,7 @@ You must regularly reconcile your bank, receivables, and payables accounts in Dy
 
 You can perform this task in the **Payment Reconciliation Journal** window by importing a bank statement file or feed to quickly register the payments in Dynamics NAV. An automatic application function applies the payments to their related open customer or vendor ledger entries based on data matches between payment text and entry information. You can review and change automatic applications before you post the journal. You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal. This means that the bank account is automatically reconciled when all payments are applied.
 
-To enable import of bank statements as a bank feed, you must first set up and enable the Envestnet Yodlee Bank Feed service, and then link your bank accounts to the related online bank accounts. For more information, see [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md).
-
-**Note**: The Envestnet Yodlee Bank Feeds service, or anther provider's bank feed service, may not be available in your system. Contact your Microsoft partner if you want to use a bank feed service to import bank statements.
-
-Alternatively, you can use the bank data conversion service to have a bank statement file in any format converted to a data stream that you can import into Dynamics NAV. For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
+To enable import of bank statements as a bank feed, you must first set up and enable the Bank Data Conversion service to have a bank statement file in any format converted to a data stream that you can import into Dynamics NAV. For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 

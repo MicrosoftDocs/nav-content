@@ -21,7 +21,7 @@ When you receive the inventory items, or when the purchased service is completed
 
 If you have already paid for products on the posted purchase invoice, then you must create a purchase credit memo to reverse the purchase. For more information, see [How to: Process Purchase Returns or Cancellations](purchasing-how-process-purchase-returns-cancellations.md).
 
-Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The purchase invoice process is the same for both product types.
+Products can be both inventory items and services. For more information, see [How to: Register New Items](inventory-how-register-new-items.md). The purchase invoice process is the same for both product types.
 
 
 

@@ -25,10 +25,6 @@ In business environments where the customer must pay before products are deliver
 
 If the posted sales invoice is paid, then you must create a sales credit memo to reverse the sale. For more information, see [How to: Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).
 
-Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The sales order process is the same for both product types.
-
-**Note**: In Dynamics NAV, a product is referred to with the term “item”.
-
 You can fill customer fields on the sales order in two ways depending on whether the customer is already registered.
 
 ## To create a sales order
@@ -53,8 +49,6 @@ You can fill customer fields on the sales order in two ways depending on whether
     If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the order by choosing the **Get Recurring Sales Lines** action.
 9. On the **Lines** FastTab, in the **Item** field, enter the number of an inventory item or service.  
 10. In the **Quantity** field, enter the number of items to be sold.
-
-    **Note**: For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 
     The **Line Amount** field is updated to show the value in the **Unit Price** field multiplied by the value in the **Quantity** field.
 

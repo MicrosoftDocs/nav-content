@@ -21,7 +21,7 @@ To increase your overview of items and to help you find them, you can categorize
 
 |To |See |
 |---|----|
-|Create item cards for inventory item that you trade in.|[How to: Register New Products](inventory-how-register-new-products.md)|
+|Create item cards for inventory item that you trade in.|[How to: Register New Items](inventory-how-register-new-items.md)|
 |Maintain an overview of items and help you find and sort items by organizing them in categories.|[How to: Categorize Items](inventory-how-categorize-items.md)|  
 |Assign item attributes of different value types to your items to help you sort and find items.|[How to: Work with Item Attributes](inventory-how-work-item-attributes.md)|
 |Create special item cards for items that you offer to customers but do not maintain inventory for.|[How to: Work with Nonstock Items](inventory-how-work-nonstock-items.md)|

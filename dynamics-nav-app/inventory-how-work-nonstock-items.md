@@ -38,7 +38,7 @@ To enable conversion of a nonstock item card to a normal item card, you must fir
 2. Open the card for a nonstock item that you want to convert to a normal item.
 3. In the **Nonstock Item Card** window, choose the **Create Item** action.
 
-A new item card prefilled with information from the nonstock item and a relevant item template is created. You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
+A new item card prefilled with information from the nonstock item and a relevant item template is created. You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
 
 ## To sell a nonstock item, and convert it to a normal item
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Orders**, and then choose the related link.
@@ -49,11 +49,11 @@ A new item card prefilled with information from the nonstock item and a relevant
 4. In the **Nonstock Items** window, select the nonstock item that you want to sell, and then choose the **OK** button.
 5. When the sales order is complete, choose the **Post** action.
 
-You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
+You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
 
 **Note**: A Item cross reference record is automatically created for the vendor of the item between the vendor's item number and your new item number.
 
 ## See Also
-[How to: Register New Products](inventory-how-register-new-products.md)  
+[How to: Register New Items](inventory-how-register-new-items.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [Work With Dynamics NAV](ui-work-product.md)

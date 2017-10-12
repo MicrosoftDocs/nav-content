@@ -64,6 +64,6 @@ The items in the **Items** window are filtered by the specified item attribute v
 
 ## See Also
 [How to: Categorize Item](inventory-how-categorize-items.md)    
-[How to: Register New Products](inventory-how-register-new-products.md)  
+[How to: Register New Items](inventory-how-register-new-items.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [Work With Dynamics NAV](ui-work-product.md)

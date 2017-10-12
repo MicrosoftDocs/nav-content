@@ -41,7 +41,6 @@
 ### [How To: Work with the Consolidated Trial Balance Report](accross-how-consolidated-company-reporting.md)
 ## [Setting Up Banking](bank-setup-banking.md)
 ### [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md)
-### [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)
 ### [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md)
 ## [Setting Up Sales](sales-setup-sales.md)
 ### [How to: Register New Customers](sales-how-register-new-customers.md)

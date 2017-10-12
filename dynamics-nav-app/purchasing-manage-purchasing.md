@@ -19,7 +19,7 @@ You can have purchase invoices created automatically by using the OCR (Optical C
 
 **Note**: In Dynamics NAV, a product is referred to using the term “item”.
 
-Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
+Products can be both inventory items and services. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
 
 For all purchase processes, you can incorporate an approval workflow, for example, to require that large purchases are approved by the accounting manager. For more information, see [Using Approval Workflows](across-how-use-approval-workflows.md).
 

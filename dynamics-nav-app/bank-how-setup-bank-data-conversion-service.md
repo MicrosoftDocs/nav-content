@@ -15,8 +15,6 @@ You can export payment lines from the **Payment Journal** window to a data strea
 
 A global provider of services to convert payment information to any data format that your bank requires is connected and ready to be enabled in Dynamics NAV.
 
-As an alternative to the Envestnet Bank Data Feeds service, you can also use the bank data conversion service to have a bank statement file that you receive from your bank converted to a data stream that you can import into Dynamics NAV. For more information, see [How to: Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
-
 **Note**: The bank data conversion service may impose a limit on the number of lines that can be exported in one file. You will receive an error message if the limit is exceeded. It is recommended that bank statement files do not exceed 1000 lines as the processing time in the bank data conversion service may otherwise increase significantly.
 
 ## To sign your company up for the bank data conversion service

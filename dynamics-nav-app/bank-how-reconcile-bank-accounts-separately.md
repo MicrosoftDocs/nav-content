@@ -15,9 +15,7 @@ To reconcile bank accounts in Dynamics NAV with statements received from the ban
 
 **Note**: You can also reconcile bank accounts in the **Payment Reconciliation Journal** window. Any open bank account ledger entries related to the applied customer or vendor ledger entries will be closed when you choose the **Post Payments and Reconcile Bank Account** action. This means that the bank account is automatically reconciled for payments that you post with the journal. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
 
-To enable import of bank statements as bank feeds, you must first set up and enable the Envestnet Yodlee Bank Feed service, and then link your bank accounts to the related online bank accounts. For more information, see [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md).
-
-**Note**: The Envestnet Yodlee Bank Feeds service, or anther provider's bank feed service, may not be available in your system. Contact your Microsoft partner if you want to use a bank feed service to import bank statements.
+To enable import of bank statements as bank feeds, you must first set up and enable the Bank Data Conversion service. For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
 
 The lines in the **Bank Acc. Reconciliation** window are divided into two panes. The **Bank Statement Lines** pane shows either imported bank transactions or ledger entries with outstanding payments. The **Bank Account Ledger Entries** pane shows the ledger entries in the bank account.
 
