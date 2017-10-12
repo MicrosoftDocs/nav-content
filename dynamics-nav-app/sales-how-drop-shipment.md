@@ -2,8 +2,8 @@
 title: "How to: Make Drop Shipments"
 author: SorenGP
 ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
+ms.date: 10/11/2017
+ms.reviewer: edupont
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
@@ -24,8 +24,8 @@ To prepare a drop shipment, you create a sales order for an item as normal, exce
 ## To create the purchase order for drop shipment
 To prepare a drop shipment for the item to be sold, you create a purchase order as normal, except you must indicate on the purchase order that it must be shipped to your customer, not to yourself.
 
-1. Create a purchase order. Do not fill any fields on the lines. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).
-2. In the **Sell-to Customer No.** field, select the customer that you are selling to.
+1. Create a purchase order and specify the vendor that the item will be bought from. Do not fill any fields on the lines. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).
+2. In the **Sell-to Customer No.** field on FastTab **Invoice Details**, select the customer that you are selling to.
 3. Choose the **Drop Shipments** action, and then choose the **Get Sales Order** action.
 4. In the **Sales List** window, select the sales order that you prepared in the "To create a sales order for drop shipment" section.
 5. Choose the **OK** button.
