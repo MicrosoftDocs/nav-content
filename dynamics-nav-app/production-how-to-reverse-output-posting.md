@@ -32,4 +32,4 @@ The output journal entries are posted to the item ledger as a positive adjustmen
  [Planning](production-planning.md)      
  [Inventory](inventory-manage-inventory.md)  
  [Purchasing](purchasing-manage-purchasing.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

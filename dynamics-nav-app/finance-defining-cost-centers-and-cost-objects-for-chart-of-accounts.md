@@ -16,7 +16,7 @@
 
 ---
 # Defining Cost Centers and Cost Objects for Chart of Accounts
-You can automatically transfer the expense and income entries from the general ledger to cost accounting either for each general ledger posting or with a batch job. When you do the transfer, [!INCLUDE[navnow](includes/navnow_md.md)] only transfers the entries that are already linked to a cost center or a cost object. To establish a meaningful transfer, you must ensure that the cost centers and cost objects are correctly defined.  
+You can automatically transfer the expense and income entries from the general ledger to cost accounting either for each general ledger posting or with a batch job. When you do the transfer, [!INCLUDE[d365fin](includes/d365fin_md.md)] only transfers the entries that are already linked to a cost center or a cost object. To establish a meaningful transfer, you must ensure that the cost centers and cost objects are correctly defined.  
 
 ## Defining Default Dimension Values for General Ledger Accounts  
 For each general ledger account, you can define default dimension values in the **Default Dimension** table. The following example shows how to define that there should always be a DEPARTMENT cost center, but never be a PROJECT cost object when posting to a general ledger account.  
@@ -41,4 +41,4 @@ For each general ledger account, you can define default dimension values in the 
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [How to: Set Up Cost Centers](finance-how-to-set-up-cost-centers.md)   
 [How to: Set Up Cost Objects](finance-how-to-set-up-cost-objects.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

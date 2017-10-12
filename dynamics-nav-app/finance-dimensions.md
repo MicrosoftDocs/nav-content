@@ -27,7 +27,7 @@ The more dimensions you use, the more detailed reports you can base your busines
 * The kind of customer who bought it  
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
 
 ## Analyzing by Dimensions
 The Dimensions functionality plays an important role in business intelligence, such as when defining analysis views. For more information, see [How to: Analyze Data by Dimensions](bi-how-analyze-data-dimension.md).
@@ -83,7 +83,7 @@ For **AREA**, you add the following dimension values:
 
 For the two main geographic areas, Americas and Europe, you add subcategories for regions by indenting the dimension values. This will let you report on sales or expenses in regions, and get totals for the larger geographic areas. You could also choose to use countries or regions as your dimension values, or counties or cities, depending on your business.  
 > [!NOTE]  
->   To set up a hierarchy, the codes must be in alphabetical order. This includes the codes of the dimension values that are provided in [!INCLUDE[navnow](includes/navnow_md.md)].  
+>   To set up a hierarchy, the codes must be in alphabetical order. This includes the codes of the dimension values that are provided in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 For **DEPARTMENT**, you add the following dimension values:
 

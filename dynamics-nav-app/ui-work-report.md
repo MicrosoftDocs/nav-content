@@ -34,7 +34,7 @@ Use the menu bar to:
 -   Resize to fit the window
 -   Select text
 
-    You can copy text from a report, and then paste it somewhere else, like a page in [!INCLUDE[navnow](includes/navnow_md.md)] or Microsoft Word.  Using a mouse, for example, you press and hold where you want to start, and then move the mouse to select one or more words, sentences, or paragraphs. You can then press the right mouse button, and select **Copy**. You can the paste the selected text where ever you want it.
+    You can copy text from a report, and then paste it somewhere else, like a page in [!INCLUDE[d365fin](includes/d365fin_md.md)] or Microsoft Word.  Using a mouse, for example, you press and hold where you want to start, and then move the mouse to select one or more words, sentences, or paragraphs. You can then press the right mouse button, and select **Copy**. You can the paste the selected text where ever you want it.
 -   Pan the document
 
     You can move the visible area of the report in any direction so you can view other areas or the report. This is helpful when you have zoomed in to see details.  Using your mouse, for example, press and hold the mouse button anywhere in the report preview, and then move your mouse.
@@ -68,4 +68,4 @@ A report layout controls what is shown on a report, how it is arranged, and how 
 ## See Also
 [Specify Printer Selection for Reports](ui-specify-printer-selection-reports.md)  
 [Managing Report and Document Layouts](ui-manage-report-layouts.md)  
-[Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)

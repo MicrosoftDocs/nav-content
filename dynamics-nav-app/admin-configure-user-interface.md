@@ -17,7 +17,7 @@ As an administrator, you configure the company’s default user interfaces by cu
 You configure the user interface for multiple users by customizing pages for a particular profile that the users are assigned to. You do this by using the [!INCLUDE[nav_windows](includes/nav_windows_md.md)], and customizing the same way that individual users personalize their own workspaces, that is, by using the **Customize** feature. The difference is that you open the [!INCLUDE[nav_windows](includes/nav_windows_md.md)] in the configuration mode. Typical customizations include which actions to include on the ribbon, how fields are placed on FastTabs or in FactBoxes, and which menu items to include in the navigation pane. 
 
 > [!TIP]  
->  A quick way to implement UI configurations for a profile is if you already have a configured profile in another [!INCLUDE[navnow](includes/navnow_md.md)] database. You can then export that profile, and then import it into the current database. For more information, see [Exporting and Importing Profiles](admin-profiles.md#ExportImportProfile).  
+>  A quick way to implement UI configurations for a profile is if you already have a configured profile in another [!INCLUDE[d365fin](includes/d365fin_md.md)] database. You can then export that profile, and then import it into the current database. For more information, see [Exporting and Importing Profiles](admin-profiles.md#ExportImportProfile).  
   
 ## General information
 Consider the following information before you begin to configure the UI:

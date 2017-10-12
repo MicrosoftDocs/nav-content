@@ -20,12 +20,12 @@ The Image Analyzer extension uses powerful image analytics provided by the Compu
 
 Image Analyzer suggests attributes based on tags that the Computer Vision API finds, and a confidence level. By default, it suggests attributes only if it is at least 80% sure that the attribute is correct. You can set another confidence level, if needed. To learn more about how the tags and confidence level are determined, see [Computer Vision API](https://go.microsoft.com/fwlink/?linkid=851476).  
 
-Image Analyzer is free in [!INCLUDE[navnow](includes/navnow_md.md)], but there is a limit to the number of items that you can analyze during a certain period of time. By default, you can analyze 100 images per month.
+Image Analyzer is free in [!INCLUDE[d365fin](includes/d365fin_md.md)], but there is a limit to the number of items that you can analyze during a certain period of time. By default, you can analyze 100 images per month.
 
 After you enable the extension, Image Analyzer runs each time you import an image to an item or contact person. You will see the attributes, confidence level, and details right away, and can decide what to do with each attribute. If you imported images before you enabled the Image Analyzer extension, you must go to the item or contact cards and choose the **Analyze Picture** action.  
 
 >   [!NOTE]  
->   By enabling this extension you agree that Microsoft may store your data and use it to improve Microsoft services, such as making the Computer Vision API better. To help protect your privacy, we take steps to make your data anonymous and keep it secure. We will not publish your data or let other people use it. You can remove the image from the item in [!INCLUDE[navnow](includes/navnow_md.md)], however, the Computer Vision API will still have the image in its de-identified form. For more information, see [Microsoft Trust Center](https://go.microsoft.com/fwlink/?linkid=851463).
+>   By enabling this extension you agree that Microsoft may store your data and use it to improve Microsoft services, such as making the Computer Vision API better. To help protect your privacy, we take steps to make your data anonymous and keep it secure. We will not publish your data or let other people use it. You can remove the image from the item in [!INCLUDE[d365fin](includes/d365fin_md.md)], however, the Computer Vision API will still have the image in its de-identified form. For more information, see [Microsoft Trust Center](https://go.microsoft.com/fwlink/?linkid=851463).
 
 ## Requirements
 There are a few requirements for the images:
@@ -38,7 +38,7 @@ There are a few requirements for the images:
 If the analysis suggests an attribute that you do not want to see you can blacklist the attribute. Use caution, however. Blacklisted attributes are not suggested for other items or contact persons either. If you regret blacklisting an attribute, you can choose **Blacklisted Attributes**, and then delete the attribute from the list.
 
 ## To enable Image Analyzer
-The Image Analyzer extension is built-in to [!INCLUDE[navnow](includes/navnow_md.md)]. You just need to turn it on.
+The Image Analyzer extension is built-in to [!INCLUDE[d365fin](includes/d365fin_md.md)]. You just need to turn it on.
 
 > [!NOTE]  
 > To enable the Image Analyzer extension, you must be an administrator. Make sure that you are assigned the **SUPER** user permission set.
@@ -89,5 +89,5 @@ You can view the number of analyses you've done, and how many you can still do, 
 
 ## See Also
 [How to: Work with Item Attributes](inventory-how-work-item-attributes.md)  
-[Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)  
-[Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](index.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
+[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

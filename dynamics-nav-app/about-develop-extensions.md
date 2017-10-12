@@ -15,27 +15,27 @@ ms.date: 06/02/2017
 ms.author: edupont
 
 ---
-# Extending [!INCLUDE[navnowlong](includes/navnowlong_md.md)]
-There are plenty of benefits of using [!INCLUDE[navnowlong](includes/navnowlong_md.md)] as a platform for App builders:
+# Extending [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+There are plenty of benefits of using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] as a platform for App builders:
 
-* Enrich [!INCLUDE[navnowlong](includes/navnowlong_md.md)], a proven Microsoft online solution, with your expertise  
+* Enrich [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], a proven Microsoft online solution, with your expertise  
 * Leverage the Dynamics NAV brand – a brand that millions of users know and trust  
 * Reach more customers for your business apps with [Microsoft AppSource](https://appsource.microsoft.com/)  
 * Achieve more with a platform that delivers a modern experience and offers scale  
 * Bundle with intelligent business apps such as PowerApps, Flow, Power BI, Cortana Intelligence, and many more  
 
-## To bring your [!INCLUDE[navnow](includes/navnow_md.md)] app into AppSource:
+## To bring your [!INCLUDE[d365fin](includes/d365fin_md.md)] app into AppSource:
 + Create your accounts  
 We want you to have access to all the necessary tools! You must have a Microsoft Partner Network ID, a Developer account, and a PSBC account.
 For more information about how you can get your accounts in place, get the [Create your accounts.pdf](https://go.microsoft.com/fwlink/?linkid=841514) document from the Download Center.
 
 + Engage with us about your app idea  
-Share your [!INCLUDE[navnow](includes/navnow_md.md)] app idea with us on Microsoft AppSource! After submitting your idea, we will engage with you and provide you with everything you need to start working on your app.
+Share your [!INCLUDE[d365fin](includes/d365fin_md.md)] app idea with us on Microsoft AppSource! After submitting your idea, we will engage with you and provide you with everything you need to start working on your app.
 For more information about all the steps, get the [Engage with us about your app idea document.pdf](https://go.microsoft.com/fwlink/?linkid=841515) document from the Download Center.
 
 + Develop the technical aspects of your app    
 After you have set up your own app development environment, you can develop your app.
-For more information about everything you need to know about how to develop the technical aspects of your [!INCLUDE[navnow](includes/navnow_md.md)] app, get the [Develop the technical aspects of your app.pdf](https://go.microsoft.com/fwlink/?linkid=841516) document from the Download Center.
+For more information about everything you need to know about how to develop the technical aspects of your [!INCLUDE[d365fin](includes/d365fin_md.md)] app, get the [Develop the technical aspects of your app.pdf](https://go.microsoft.com/fwlink/?linkid=841516) document from the Download Center.
 
 + Develop the marketing aspects of your app  
 Simply listing your app's features and functionality will not convert prospects to buyers. For more information about how to best market your app in the AppSource marketplace, get the [Develop the marketing aspects of your app.pdf](https://go.microsoft.com/fwlink/?linkid=841518) from the Download Center.
@@ -62,7 +62,7 @@ Partners in​ this list:
 If you believe you should be listed as an app service partner, don't hesitate to reach out to [d365-smb@microsoft.com​](mailto:d365-smb@microsoft.com​).
 
 ## Questions?
-This [FAQ](https://go.microsoft.com/fwlink/?linkid=841520) responds to the most common questions you might have about apps for [!INCLUDE[navnowlong](includes/navnowlong_md.md)]. If you have further questions, don't hesitate to contact your local Microsoft representative or email [d365-smb@microsoft.com](mailto:d365-smb@microsoft.com​).
+This [FAQ](https://go.microsoft.com/fwlink/?linkid=841520) responds to the most common questions you might have about apps for [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]. If you have further questions, don't hesitate to contact your local Microsoft representative or email [d365-smb@microsoft.com](mailto:d365-smb@microsoft.com​).
 
 ## Further Resources
 Please find further resources for app development on our [DLP topic page](https://mbspartner.microsoft.com/BFI/Topic/76) DLP topic page. Some selected ones are available below:
@@ -71,6 +71,6 @@ Please find further resources for app development on our [DLP topic page](https:
 
 
 ## See Also
-[Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](index.md)  
-[Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)  
+[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365-for-financials&page=1)  

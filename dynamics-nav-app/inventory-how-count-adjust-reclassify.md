@@ -218,4 +218,4 @@ Special steps apply when you want to reclassify serial or lot numbers. For more 
 [Warehouse Management](warehouse-manage-warehouse.md)    
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

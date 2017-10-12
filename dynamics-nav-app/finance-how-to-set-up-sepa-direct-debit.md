@@ -14,9 +14,9 @@ ms.author: sgroespe
 
 ---
 # How to: Set Up SEPA Direct Debit
-From the **Direct Debit Collections** window, you can export instructions to your electronic bank to perform a direct debit collection from the customer’s bank account to your bank account. [!INCLUDE[navnow](includes/navnow_md.md)] supports the SEPA direct debit format, but in your country/region,other formats for electronic payments may be available.  
+From the **Direct Debit Collections** window, you can export instructions to your electronic bank to perform a direct debit collection from the customer’s bank account to your bank account. [!INCLUDE[d365fin](includes/d365fin_md.md)] supports the SEPA direct debit format, but in your country/region,other formats for electronic payments may be available.  
 
-To enable export of a bank file formats that are not supported out of the box in [!INCLUDE[navnow](includes/navnow_md.md)] , you can set up a data exchange definition by using the data exchange framework. For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).  
+To enable export of a bank file formats that are not supported out of the box in [!INCLUDE[d365fin](includes/d365fin_md.md)] , you can set up a data exchange definition by using the data exchange framework. For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).  
 
 Before you can process customer payments electronically by exporting direct debit instructions in the SEPA Direct Debit format, you must perform the following setup steps:  
 

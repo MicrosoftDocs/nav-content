@@ -26,7 +26,7 @@ One best-practice foundation for selecting a reordering policy is the item’s A
 |B|20|20|
 |C|60-70|10-30|
 
-The ABC classification states that effort and money can be saved by applying looser control to items of low value-volume than to items of high value-volume. The following illustration shows which reordering policy in [!INCLUDE[navnow](includes/navnow_md.md)] is best suited for A, B, and C items respectively.
+The ABC classification states that effort and money can be saved by applying looser control to items of low value-volume than to items of high value-volume. The following illustration shows which reordering policy in [!INCLUDE[d365fin](includes/d365fin_md.md)] is best suited for A, B, and C items respectively.
 
 ![ABC Classification](media/abc_classification.png "abc_classification")
 
@@ -47,4 +47,4 @@ The following table provides best practices for selecting between the four polic
  [Design Details: Fixed Reorder Qty.](design-details-fixed-reorder-qty.md)   
  [Design Details: Maximum Qty.](design-details-maximum-qty.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -32,7 +32,7 @@ Assembly items are characterized by their replenishment system and the assembly 
 -   Creating an assembly BOM that lists the assembly components and the resource that go into the assembly item.  
 
 ### Selling Customized Assembly Items  
-[!INCLUDE[navnow](includes/navnow_md.md)] provides the flexibility to enter both an inventory quantity and an assemble-to-order quantity on one sales order line. This section covers the following tasks:  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] provides the flexibility to enter both an inventory quantity and an assemble-to-order quantity on one sales order line. This section covers the following tasks:  
 
 -   Creating a pure ATO sales order line where the full quantity is unavailable and must be assembled before shipment.  
 -   Customizing ATO items.  
@@ -74,7 +74,7 @@ This walkthrough demonstrates tasks that are performed by the following user rol
 ## Prerequisites  
 Before you can perform the tasks in the walkthrough, you must do the following:  
 
--   Install [!INCLUDE[navnow](includes/navnow_md.md)].  
+-   Install [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 -   Make yourself a warehouse employee at WHITE location by following these steps:  
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Warehouse Employees**, and then choose the related link.  

@@ -24,4 +24,4 @@ Finishing the production order is an important task in completing the costing li
 ## See Also  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Manufacturing](production-manage-manufacturing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

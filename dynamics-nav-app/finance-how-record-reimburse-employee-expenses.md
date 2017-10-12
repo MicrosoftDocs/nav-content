@@ -16,7 +16,7 @@ ms.author: sgroespe
 
 ---
 # How to: Record and Reimburse Employees' Expenses
-[!INCLUDE[navnow](includes/navnow_md.md)] supports transactions for employee in a similar way as for vendors. Accordingly, employee posting groups exist to make sure that employee ledger entries are posted to the relevant accounts in the general ledger.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] supports transactions for employee in a similar way as for vendors. Accordingly, employee posting groups exist to make sure that employee ledger entries are posted to the relevant accounts in the general ledger.
 
 > [!NOTE]  
 > Employee transactions can be posted in the local currency only. Reimbursement payments to employees do not support discounts and payment tolerances.
@@ -50,4 +50,4 @@ You apply employee payments to their related open employee ledger entries in the
 [Working with General Journals](ui-work-general-journals.md)  
 [How to: Reverse Postings](finance-how-reverse-journal-posting.md)  
 [Finance](finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -1,6 +1,6 @@
 ---
     title: Design Details - Warehouse Management | Microsoft Docs
-    description: This topic provides an overview of the design, concepts, and principles behind the Warehouse Management features in [!INCLUDE[navnow](includes/navnow_md.md)].
+    description: This topic provides an overview of the design, concepts, and principles behind the Warehouse Management features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     
      
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Design Details: Warehouse Management
-This documentation gives an overview of the concepts and principles that are used in the Warehouse Management features in [!INCLUDE[navnow](includes/navnow_md.md)]. It explains the design behind central warehouse features and how warehousing integrates with other supply chain features.  
+This documentation gives an overview of the concepts and principles that are used in the Warehouse Management features in [!INCLUDE[d365fin](includes/d365fin_md.md)]. It explains the design behind central warehouse features and how warehousing integrates with other supply chain features.  
 
 To differentiate the different complexity levels of the warehousing, this documentation is divided into two general groups, Basic and Advanced warehouse configurations, indicated by section titles. This simple differentiation covers different complexity levels as defined by product granules and location setup. For more information, see [Design Details: Warehouse Setup](design-details-warehouse-setup.md).  
 

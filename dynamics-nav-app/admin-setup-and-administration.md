@@ -16,7 +16,7 @@ ms.author: edupont
 # Setup and Administration in Dynamics NAV
 Central administration tasks are usually performed by one role in the company. The scope of these tasks can depend on the company's size and the administrator's job responsibilities. These tasks can include managing database synchronization of job and email queues, setting up users, customizing the user interface, and managing encryption keys.  
 
-Entering the correct setup values from the start is important to the success of any new business software. [!INCLUDE[navnow](includes/navnow_md.md)] includes a number of setup guides that help you set up core data. For more information, see [Setting Up Dynamics NAV](setup.md).
+Entering the correct setup values from the start is important to the success of any new business software. [!INCLUDE[d365fin](includes/d365fin_md.md)] includes a number of setup guides that help you set up core data. For more information, see [Setting Up Dynamics NAV](setup.md).
 
 <!--Whether you use [!INCLUDE[rim](../../includes/rim_md.md)] to implement setup values or you manually enter them in the new company, you can support your setup decisions with some general recommendations for selected setup fields that are known to potentially cause the solution to be inefficient if defined incorrectly.-->  
 
@@ -33,10 +33,10 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up an SMTP server to enable e-mail communication in and out of Dynamics NAV| [How to: Set Up Email Manually or Using the Assisted Setup](madeira-how-setup-email.md)|  
 |Enter single or recurring requests to run reports or codeunits.|[Use Job Queues to Schedule Tasks](admin-job-queues-schedule-tasks.md)|  
 |Manage, delete, or compress documents|[Manage Documents](admin-manage-documents.md)|  
-|Set up a new business unit using templates|[Creating New Companies in [!INCLUDE[navnow](includes/navnow_md.md)]](about-new-company.md)|  
+|Set up a new business unit using templates|[Creating New Companies in [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)|  
 
 ## See Also
 [Overview of Business Functionality](madeira-business-functionality.md)  
 [General Business Functionality](ui-across-business-areas.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Welcome to [!INCLUDE[navnow](includes/navnow_md.md)]](index.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  

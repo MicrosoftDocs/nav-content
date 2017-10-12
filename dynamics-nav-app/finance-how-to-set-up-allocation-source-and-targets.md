@@ -42,4 +42,4 @@ Each allocation consists of an allocation source and one or more allocation targ
  [Scenario Example: Defining Dynamic Allocations Based on Items Sold](finance-scenario-example-defining-dynamic-allocations-based-on-items-sold.md)   
  [Defining and Allocating Costs](finance-define-and-allocate-costs.md)   
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

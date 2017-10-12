@@ -21,7 +21,7 @@ As a part of gathering, analyzing, and sharing your company data, you view actua
 To analyze budgeted amounts, you must first create budgets. For more information, see [How to: Create Budgets](finance-how-create-budgets.md).
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
 
 ## To view a budget
 In a budget with dimensions, you can filter the entries and see specific budgets.
@@ -40,7 +40,7 @@ In a budget with dimensions, you can filter the entries and see specific budgets
 >   If you want to modify the budget, you can modify the budget entries. Choose an amount to view the underlying general ledger budget entries.
 
 ## To view actual and budgeted amounts for all accounts  
-You can view general ledger budgets and compare them with actual figures in several areas of [!INCLUDE[navnow](includes/navnow_md.md)].
+You can view general ledger budgets and compare them with actual figures in several areas of [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Chart of Accounts**, and then choose the related link.  
 2. In the **Chart of Accounts** window, choose the **G/L Balance/Budget** action.
@@ -69,4 +69,4 @@ Instead of viewing the actual and budgeted amounts for all accounts within a sin
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

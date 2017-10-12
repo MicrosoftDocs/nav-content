@@ -59,4 +59,4 @@ The chart of cost types is similar to the chart of accounts in the general ledge
 [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
 [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   
 [About Cost Accounting](finance-about-cost-accounting.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

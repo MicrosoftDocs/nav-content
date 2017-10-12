@@ -92,7 +92,7 @@ For more information about picking for warehouse shipments, see [How to: Pick It
 You can also use the pick worksheet to make several pick instructions into one instruction (for several shipments) and thereby improve the efficiency of picking in the warehouse. For more information, see [How to: Plan Pick in Worksheets](warehouse-how-to-plan-picks-in-worksheets.md).
 
 > [!NOTE]
-> If you are waiting for particular items to arrive at the warehouse, and you use cross-dock functionality, then [!INCLUDE[navnow](includes/navnow_md.md)] calculates on each shipment or pick worksheet line the quantity of the item that is in the cross-dock bin. It updates this field each time you leave and open the shipment document or worksheet. For more information, see [How to: Cross-Dock Items](warehouse-how-to-cross-dock-items.md).
+> If you are waiting for particular items to arrive at the warehouse, and you use cross-dock functionality, then [!INCLUDE[d365fin](includes/d365fin_md.md)] calculates on each shipment or pick worksheet line the quantity of the item that is in the cross-dock bin. It updates this field each time you leave and open the shipment document or worksheet. For more information, see [How to: Cross-Dock Items](warehouse-how-to-cross-dock-items.md).
 
 ## See Also  
 [Warehouse Management](warehouse-manage-warehouse.md)  
@@ -100,4 +100,4 @@ You can also use the pick worksheet to make several pick instructions into one i
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

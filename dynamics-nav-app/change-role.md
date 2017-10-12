@@ -16,9 +16,9 @@ ms.author: solsen
 
 ---
 # How to: Change the Role Center
-The Home page is your main point of entry into [!INCLUDE[navnow](includes/navnow_md.md)]. Here you can get an overview of the daily work tasks and their status. Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.
+The Home page is your main point of entry into [!INCLUDE[d365fin](includes/d365fin_md.md)]. Here you can get an overview of the daily work tasks and their status. Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.
 
-The content on the Home page is based on the selected Role Center. The standard Role Center for [!INCLUDE[navnow](includes/navnow_md.md)] is **Business Manager**, but you can change this and choose between a number of Role Centers.
+The content on the Home page is based on the selected Role Center. The standard Role Center for [!INCLUDE[d365fin](includes/d365fin_md.md)] is **Business Manager**, but you can change this and choose between a number of Role Centers.
 
 ## To change role center
 1. In the top right corner, choose the **Settings** icon ![Settings](media/ui-experience/settings_icon_small.png "Settings icon for role center"), and then choose **My Settings**.
@@ -26,5 +26,5 @@ The content on the Home page is based on the selected Role Center. The standard 
 3. Choose the **OK** button.
 
 ## See Also
-[Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](index.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -33,7 +33,7 @@ This walkthrough demonstrates the process of planning supply orders to fulfill n
 -   Sales Order Processor  
 
 ## Prerequisites  
- Before you begin this walkthrough, you must install the [!INCLUDE[navnow](includes/navnow_md.md)]. The following modifications must be made to the database:  
+ Before you begin this walkthrough, you must install the [!INCLUDE[d365fin](includes/d365fin_md.md)]. The following modifications must be made to the database:  
 
 -   Delete all existing sales orders for bicycles.  
 -   Create one sales order for 10 bicycles at BLUE location.  

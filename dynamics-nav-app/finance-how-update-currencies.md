@@ -20,7 +20,7 @@ You must set up a code for each currency you use if you buy or sell in currencie
 
 As companies operate in increasingly more countries/regions, it becomes more important that they be able to review or report financials in more than one currency. The program supports use of multiple currencies. Within the program, your general ledger is set up using your local currency (LCY), and another currency is set up as an additional currency, with a current exchange rate assigned.  
 
- By designating a second currency as an additional reporting currency, [!INCLUDE[navnow](includes/navnow_md.md)] will automatically record amounts in both LCY and this additional reporting currency on each G/L entry and on other entries, such as VAT entries. When G/L entry amounts are calculated in an additional reporting currency, the information in the **Currency Exchange Rates** window is used to find the relevant exchange rate.  
+ By designating a second currency as an additional reporting currency, [!INCLUDE[d365fin](includes/d365fin_md.md)] will automatically record amounts in both LCY and this additional reporting currency on each G/L entry and on other entries, such as VAT entries. When G/L entry amounts are calculated in an additional reporting currency, the information in the **Currency Exchange Rates** window is used to find the relevant exchange rate.  
 
 > [!WARNING]  
 >  The Additional Reporting Currency functionality should NOT be used as a basis for financial statement translation. It is not a tool that can perform translation of foreign subsidiary financial statements as part of a company consolidation. The additional reporting currency functionality only provides the option of preparing reports in another currency, as if that currency was the company’s local currency.
@@ -38,7 +38,7 @@ Using an additional reporting currency can assist the reporting process for a co
 Several reports in the General Ledger application area are based on G/L entries. To display the financial data in the report in the additional reporting currency, you simply select the **Show in Add.-Currency** field in the relevant G/L report window.  
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
 
 ## To set up a currency exchange rate service
 You can use an external service to keep your currency exchange rates up to date. The Yahoo Currency Exchange Rates service is preinstalled and ready to enable.
@@ -56,4 +56,4 @@ The value in the **Exchange Rate** field in the **Currencies** window is updated
 
 ## See Also
 [Closing Years and Periods](year-close-years-periods.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

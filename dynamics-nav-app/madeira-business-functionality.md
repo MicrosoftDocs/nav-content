@@ -16,9 +16,9 @@ ms.author: sgroespe
 
 ---
 # Overview of Business Functionality in Dynamics NAV
-[!INCLUDE[navnow](includes/navnow_md.md)] provides functionality for common business processes in small and mid-sized companies, mainly within wholesale and professional services.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] provides functionality for common business processes in small and mid-sized companies, mainly within wholesale and professional services.
 
-[!INCLUDE[navnow](includes/navnow_md.md)] includes standard configurations for most business processes, but you can change the configuration to suit your business' needs. From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to [!INCLUDE[navnow](includes/navnow_md.md)]. Several areas of business functionality must be set up manually. For more information, see [Setting Up [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md).
+[!INCLUDE[d365fin](includes/d365fin_md.md)] includes standard configurations for most business processes, but you can change the configuration to suit your business' needs. From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to [!INCLUDE[d365fin](includes/d365fin_md.md)]. Several areas of business functionality must be set up manually. For more information, see [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -40,10 +40,10 @@ The following table describes a sequence of tasks, with links to the topics that
 |Schedule service calls and set up service orders, and track repair parts and supplies.|[Service Management](service-service.md)|
 |Set up and use workflows that connect tasks performed by different users or by the system, such as automatic posting. Requesting and granting approval to create or post documents are typical workflow steps.|[Workflow](across-workflow.md)|
 |Enable users to exchange data with external sources during daily tasks, such as sending/receiving electronic documents, importing/exporting bank files, and updating currency exchange rates.|[Exchanging Data Electronically](across-data-exchange.md)|
-|Record external documents in [!INCLUDE[navnow](includes/navnow_md.md)], including their file attachments, and then manually create the related documents or automatically convert the files to electronic documents.|[Incoming Documents](across-income-documents.md)|
+|Record external documents in [!INCLUDE[d365fin](includes/d365fin_md.md)], including their file attachments, and then manually create the related documents or automatically convert the files to electronic documents.|[Incoming Documents](across-income-documents.md)|
 
 
 ## See Also
-[Setting Up [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)  
-[Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](index.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

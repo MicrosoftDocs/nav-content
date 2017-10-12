@@ -20,7 +20,7 @@ You can create workflows that connect business-process tasks performed by differ
 
 In the **Workflow** window, you create a workflow by listing the involved steps on the lines. Each step consists of a workflow event moderated by event conditions and a workflow response with response options. You define workflow steps by filling fields on workflow lines from fixed lists of event and response values representing scenarios that are supported by the application code.  
 
-When you create workflows, you can copy the steps from existing workflows or from workflow templates. Workflow templates represent non-editable workflows that exist in the generic version of [!INCLUDE[navnow](includes/navnow_md.md)]. The code for workflow templates that are added by Microsoft are prefixed with “MS-“, such as in “MS-PIW”. For more information, see [How to: Create Workflows from Workflow Templates](across-how-to-create-workflows-from-workflow-templates.md).  
+When you create workflows, you can copy the steps from existing workflows or from workflow templates. Workflow templates represent non-editable workflows that exist in the generic version of [!INCLUDE[d365fin](includes/d365fin_md.md)]. The code for workflow templates that are added by Microsoft are prefixed with “MS-“, such as in “MS-PIW”. For more information, see [How to: Create Workflows from Workflow Templates](across-how-to-create-workflows-from-workflow-templates.md).  
 
 If your business scenario requires workflow events or responses that are not supported, a Microsoft partner must implement them by customizing the application code.  
   
@@ -55,8 +55,8 @@ If your business scenario requires workflow events or responses that are not sup
         |Field|Description|  
         |----------------------------------|---------------------------------------|  
         |**Recipient User ID**|Specify the user who the notification must be sent to. Note: This option is only available for workflow responses with a placeholder for a specific user. For workflow responses without placeholders for users, the notification recipient is typically defined by the approval user setup.|  
-        |**Link Target Page**|Specify another page in [!INCLUDE[navnow](includes/navnow_md.md)] that the link in the notification opens instead of the default page.|  
-        |**Custom Link**|Specify the URL of a link that is added to the notification in addition to the link to page in [!INCLUDE[navnow](includes/navnow_md.md)].|  
+        |**Link Target Page**|Specify another page in [!INCLUDE[d365fin](includes/d365fin_md.md)] that the link in the notification opens instead of the default page.|  
+        |**Custom Link**|Specify the URL of a link that is added to the notification in addition to the link to page in [!INCLUDE[d365fin](includes/d365fin_md.md)].|  
     2.  To specify options for a workflow response that involves creating an approval request, fill the fields as described in the following table.  
 
         |Field|Description|  

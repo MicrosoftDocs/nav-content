@@ -37,11 +37,11 @@ There is an n:1 relationship between general ledger accounts and cost types. Sev
 A cost type may not have a relationship to general ledger accounts if one of the following conditions is true:  
 
 * Accounts for operational accounting, such as Calc. Interest and Depreciation, only take costs from the operational accounting.  
-* Helping cost types, such as cost types 9901, 9902, and 9903 in the [!INCLUDE[navnow](includes/navnow_md.md)] database, are used as credit and debit accounts for allocations.  
-* The helping account, 9920 in the [!INCLUDE[navnow](includes/navnow_md.md)] database, contains actual accruals that show the difference between costs and the expense from the general ledger.  
+* Helping cost types, such as cost types 9901, 9902, and 9903 in the [!INCLUDE[d365fin](includes/d365fin_md.md)] database, are used as credit and debit accounts for allocations.  
+* The helping account, 9920 in the [!INCLUDE[d365fin](includes/d365fin_md.md)] database, contains actual accruals that show the difference between costs and the expense from the general ledger.  
 
 ## See Also  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
 [About Cost Accounting](finance-about-cost-accounting.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

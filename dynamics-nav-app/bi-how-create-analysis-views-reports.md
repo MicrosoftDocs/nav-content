@@ -39,7 +39,7 @@ Then you can set up columns like these:
 - Sales in Pct. of last Month  
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
 
 ## Setting Up Line and Column Layouts  
  In the **Analysis Report** window, you can view different line and column layouts according to what you have set up. You set up your lines or line templates in the **Analysis Line Templates** window. In this window, you can define the name of the report and the objects you want to show in the lines of your report. You set up your columns in the **Analysis Column Templates** window. In this window, you can define the name of the column template and the analysis parameters that you want to show in the report as columns. In the **Analysis Column Templates** window, each line represents a column in your report. Note that analysis lines and analysis columns are independent from each other.  
@@ -107,4 +107,4 @@ You use analysis reports to analyze the dynamics of your sales according to key 
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

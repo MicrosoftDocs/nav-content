@@ -16,12 +16,12 @@ ms.author: solsen
 [!INCLUDE[d365fin_early_release](includes/d365fin_early_release.md.md)]
 
 # How to: Create a Sandbox Environment
-A sandbox environment (Preview) is a non-production instance of [!INCLUDE[navnow](includes/navnow_md.md)]. Isolated from production, a sandbox environment is the place to safely explore, learn, demo, develop, and test the service without the risk of affecting the data and settings of your production environment.
+A sandbox environment (Preview) is a non-production instance of [!INCLUDE[d365fin](includes/d365fin_md.md)]. Isolated from production, a sandbox environment is the place to safely explore, learn, demo, develop, and test the service without the risk of affecting the data and settings of your production environment.
 
 ## To create a sandbox environment
-You must have a subscription to [!INCLUDE[navnow](includes/navnow_md.md)] to be able to create a sandbox environment. There can only be one sandbox environment per subscription.
+You must have a subscription to [!INCLUDE[d365fin](includes/d365fin_md.md)] to be able to create a sandbox environment. There can only be one sandbox environment per subscription.
 
-1. Sign in to your production instance of the [!INCLUDE[navnow](includes/navnow_md.md)] service.
+1. Sign in to your production instance of the [!INCLUDE[d365fin](includes/d365fin_md.md)] service.
 2. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sandbox Environment**, and then choose the related link.
 ![Sandbox Environment Setup](./media/across-sandbox/sandbox-environment-setup.png)
 3. Select **Create**.  
@@ -32,7 +32,7 @@ You must have a subscription to [!INCLUDE[navnow](includes/navnow_md.md)] to be 
 4. When the sandbox environment is ready, you will be redirected to sandbox environment's Welcome wizard.
 ![Sandbox Welcome Wizard](./media/across-sandbox/sandbox-wizard.png)
 
-5. Choose **Learn more** to read about scenarios that you can try in a sandbox environment. Or, choose **Close** to continue to the Role Center of your [!INCLUDE[navnow](includes/navnow_md.md)] sandbox instance.
+5. Choose **Learn more** to read about scenarios that you can try in a sandbox environment. Or, choose **Close** to continue to the Role Center of your [!INCLUDE[d365fin](includes/d365fin_md.md)] sandbox instance.
 6. At the top of the Role Center, a notification appears to inform you that this is a sandbox environment. You can also see the type of the environment in the title bar of the client.
 ![Sandbox RoleCenter Notification](./media/across-sandbox/sandbox-rolecenter-notification.png)  
 In the sandbox environment, a brand-new tenant has been created. This tenant is loaded with default demonstration data for the CRONUS company. No data is copied or otherwise transferred from the production environment during the sandbox creation.
@@ -54,7 +54,7 @@ In a sandbox environment, you will find the in-client designer feature enabled, 
 ![In-client Designer](./media/across-sandbox/sandbox-inclient-designer.png)
 
 ### Enable the advanced user experience
-It is possible to enable and try the advanced (full) functionality of [!INCLUDE[navnow](includes/navnow_md.md)] in a sandbox tenant by setting the **Experience** field on the **Company Information** page.
+It is possible to enable and try the advanced (full) functionality of [!INCLUDE[d365fin](includes/d365fin_md.md)] in a sandbox tenant by setting the **Experience** field on the **Company Information** page.
 
 ![Sandbox Environment Advanced](./media/across-sandbox/sandbox-advanced.png)
 
@@ -66,4 +66,4 @@ After you’ve enabled the advanced functionality in a sandbox tenant, you get a
 
 
 ## See Also
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

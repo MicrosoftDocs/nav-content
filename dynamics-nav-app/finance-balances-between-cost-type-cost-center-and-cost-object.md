@@ -30,4 +30,4 @@ When you set up cost accounting, you must make sure that all entries are assigne
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   
  [About Cost Accounting](finance-about-cost-accounting.md)  
  [Creating Cost Budgets](finance-create-cost-budgets.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

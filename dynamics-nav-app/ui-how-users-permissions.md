@@ -14,20 +14,20 @@ ms.author: sgroespe
 
 ---
 # How to: Manage Users and Permissions
-To add users in [!INCLUDE[navnow](includes/navnow_md.md)], your company's Office 365 administrator must first create the users in the Office 365 Admin Center. For more information, see [Add Users to Office 365 for business](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)
+To add users in [!INCLUDE[d365fin](includes/d365fin_md.md)], your company's Office 365 administrator must first create the users in the Office 365 Admin Center. For more information, see [Add Users to Office 365 for business](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)
 
 Once users are created in Office 365, they can be imported into the **Users** window by using the **Get Users from Office 365** action. Users are assigned permission sets depending on the plan assigned to the User in Office 365.
 
 You can then proceed to assign permission sets to the users to define which database objects, and thereby which UI elements, they have access to, and in which companies.
 
-A permission set is a collection of permissions for specific objects in the database. All users must be assigned one or more permission sets before they can access [!INCLUDE[navnow](includes/navnow_md.md)]. A number of predefined permission sets are provided by default. You can use these permission sets as already defined, modify the default permission sets, or create additional permission sets.
+A permission set is a collection of permissions for specific objects in the database. All users must be assigned one or more permission sets before they can access [!INCLUDE[d365fin](includes/d365fin_md.md)]. A number of predefined permission sets are provided by default. You can use these permission sets as already defined, modify the default permission sets, or create additional permission sets.
 
 You can add users to user groups. This makes it easier to assign the same permission sets to multiple users.
 
 Administrators can use the **User Setup** window to define periods of time during which specified users are able to post, and also specify if the system logs the amount of time users are logged on.
 
 > [!NOTE]  
->   This functionality requires that your experience is set to Suite. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to Suite. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
 
 ## To assign permissions to a user
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Users**, and then choose the related link.
@@ -51,7 +51,7 @@ You can set up users groups to help you manage permission sets for groups of use
 8. In the **User Group Permission Sets** window, on a new line, fill in the fields as necessary by selecting from existing permission sets.
 
 ## To create or modify permission sets
-If the default permission sets that are provided with [!INCLUDE[navnow](includes/navnow_md.md)] are not sufficient or not appropriate for your organization, you can create new permission sets. And if the individual object permissions that define a permission set are not adequate, you can modify a permission set. You can create a permission set manually, or you can use a recording function that records your actions as you navigate through a scenario and then generates the required permission set.
+If the default permission sets that are provided with [!INCLUDE[d365fin](includes/d365fin_md.md)] are not sufficient or not appropriate for your organization, you can create new permission sets. And if the individual object permissions that define a permission set are not adequate, you can modify a permission set. You can create a permission set manually, or you can use a recording function that records your actions as you navigate through a scenario and then generates the required permission set.
 
 ### To create or modify permission sets manually
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Users**, and then choose the related link.
@@ -84,14 +84,14 @@ If the default permission sets that are provided with [!INCLUDE[navnow](includes
 6. In the **Permissions** window, choose the **Start** action.
 
     A recording process starts to capture all your actions in the user interface.
-7. Go to the various windows and activities in [!INCLUDE[navnow](includes/navnow_md.md)] that you want users with this permission set to access. You must carry out the tasks that you want to record permissions for.
+7. Go to the various windows and activities in [!INCLUDE[d365fin](includes/d365fin_md.md)] that you want users with this permission set to access. You must carry out the tasks that you want to record permissions for.
 8. When you want to finish the recording, return to the **Permissions** window, and then choose the **Stop** action.
 9. Choose the **Yes** button to add the recorded permissions to the new permission set.
 10. For each object in the recorded list, specify if users are able to insert, modify, or delete records in the recorded tables. See step 7 in the "To create or modify permission sets manually" section.
 
 ### Example - Indirect Permission
 You can assign an indirect permission to use an object only through another object.
-For example, a user can have permission to run codeunit 80, **Sales-Post**. The **Sales-Post** codeunit performs many tasks, including modifying table 37, **Sales Line**. When the user posts a sales document, the **Sales-Post** codeunit, [!INCLUDE[navnow](includes/navnow_md.md)] checks if the user has permission to modify the **Sales Line** table. If not, the codeunit cannot complete its tasks, and the user receives an error message. If so, the codeunit runs successfully.
+For example, a user can have permission to run codeunit 80, **Sales-Post**. The **Sales-Post** codeunit performs many tasks, including modifying table 37, **Sales Line**. When the user posts a sales document, the **Sales-Post** codeunit, [!INCLUDE[d365fin](includes/d365fin_md.md)] checks if the user has permission to modify the **Sales Line** table. If not, the codeunit cannot complete its tasks, and the user receives an error message. If so, the codeunit runs successfully.
 
 However, the user does not need to have full access to the **Sales Line** table to run the codeunit. If the user has indirect permission to the **Sales Line** table, then the **Sales-Post** codeunit runs successfully. When a user has indirect permission, that user can only modify the **Sales Line** table by running the **Sales-Post** codeunit or another object that has permission to modify the **Sales Line** table. The user can only modify the **Sales Line** table when doing so from supported application areas. The user cannot run the feature inadvertently or maliciously by other methods.
 
@@ -105,6 +105,6 @@ Administrators can define periods of time during which specified users are able 
 
 ## See Also
 [Getting Ready for Doing Business](ui-get-ready-business.md)  
-[Setup and Administration in [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](admin-setup-and-administration.md)  
-[Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](index.md)  
-[Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)  
+[Setup and Administration in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](admin-setup-and-administration.md)  
+[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  

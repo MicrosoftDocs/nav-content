@@ -30,7 +30,7 @@ This walkthrough describes the following tasks:
 ### Prerequisites  
 To complete this walkthrough, you will need:  
 
-- [!INCLUDE[navnow](includes/navnow_md.md)] installed.  
+- [!INCLUDE[d365fin](includes/d365fin_md.md)] installed.  
 - The cash flow worksheet lines are registered.  
 
 ## Roles  
@@ -87,4 +87,4 @@ Ken is now ready to assign the column layout to the account schedule name.
 ## See Also  
  [How to: Work with Account Schedules](bi-how-work-account-schedule.md)   
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

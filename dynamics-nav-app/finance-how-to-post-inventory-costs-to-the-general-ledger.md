@@ -69,5 +69,5 @@ Choose the  amount in any of the total fields to see the inventory report entrie
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Sales](sales-manage-sales.md)    
-[Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)

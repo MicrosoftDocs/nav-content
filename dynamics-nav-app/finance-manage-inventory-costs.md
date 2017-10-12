@@ -24,7 +24,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 |**To**|**See**|  
 |------------|-------------|  
-|Read various conceptual information to understand the principles and definitions that govern the inventory costing accounting functionality in [!INCLUDE[navnowlong](includes/navnowlong_md.md)].|[About Inventory Costing](finance-learn-about-costing.md)|  
+|Read various conceptual information to understand the principles and definitions that govern the inventory costing accounting functionality in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)].|[About Inventory Costing](finance-learn-about-costing.md)|  
 |Set up inventory periods, costing methods, and rounding methods.|[Setting Up Inventory Valuation and Costing](finance-set-up-inventory-valuation-and-costing.md)|
 |Appreciate or depreciate the value of one or more items in inventory by posting their current, calculated value.|[How to: Revalue Inventory](inventory-how-revalue-inventory.md)|
 |Adjust item costs, either automatically or manually, to forward cost changes from inbound entries to their related outbound entries.|[How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)|
@@ -38,4 +38,4 @@ The following table describes a sequence of tasks, with links to the topics that
  [Inventory](inventory-manage-inventory.md)   
  [Sales](sales-manage-sales.md)   
  [Purchasing](purchasing-manage-purchasing.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

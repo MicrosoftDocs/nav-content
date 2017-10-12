@@ -50,13 +50,13 @@ There are a few steps to get started.
   
 Additionally, you must assign vendors to a domestic **Gen. Bus. Posting Group** and a **Vendor Posting Group**. The Country/Region setting for the vendor must be Denmark (DK). For more information, see [Setting Up Posting Groups](finance-posting-groups.md).  
   
-### To allow [!INCLUDE[navnow](includes/navnow_md.md)] to export payment data
+### To allow [!INCLUDE[d365fin](includes/d365fin_md.md)] to export payment data
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journal**, and then choose the related link.  
 2. In the **Edit Payment Journal** window, choose the **Bank** batch.  
 3. Choose the **Allow Payment Export** check box.  
 
 ### To specify a payment method for a vendor
-The following table shows the combinations of FIK and GIRO payment methods that [!INCLUDE[navnow](includes/navnow_md.md)] supports.
+The following table shows the combinations of FIK and GIRO payment methods that [!INCLUDE[d365fin](includes/d365fin_md.md)] supports.
 
 ||Type 01 | Type 04 | Type 71 | Type 73 |
 |----|---|---|---|---|

@@ -44,4 +44,4 @@ A company's distribution strategy is reflected in the configuration of its wareh
 [Inventory](inventory-manage-inventory.md)  
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

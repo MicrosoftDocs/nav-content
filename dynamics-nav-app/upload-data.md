@@ -19,7 +19,7 @@ In the Business Owner Role Center, you can access an assisted setup guide that h
 Dynamics NAV includes templates for customers, vendors, and inventory items that you can choose to apply when you upload your data.  
 
 ## Importing Data from Configuration Packages
-[!INCLUDE[navnow](includes/navnow_md.md)] includes a configuration package that you can export to Excel and set up your data there. Then, you can import the data from Excel again. The package consists of 27 tables, including master data such as customers, vendors, items, and accounts, other basic setup tables such as shipping methods, and transactions tables such as sales header and lines.  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] includes a configuration package that you can export to Excel and set up your data there. Then, you can import the data from Excel again. The package consists of 27 tables, including master data such as customers, vendors, items, and accounts, other basic setup tables such as shipping methods, and transactions tables such as sales header and lines.  
 
 > [!NOTE]  
 >   Working with configuration packages is advanced functionality, and we recommend that you contact your administrator. For more information, see [Importing Data from Legacy Accounting Software using a Configuration Package](across-import-data-configuration-packages.md).

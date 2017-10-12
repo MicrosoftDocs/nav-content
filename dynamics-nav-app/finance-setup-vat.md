@@ -17,7 +17,7 @@ ms.author: bholtorf
 ---
 
 # Setting Up to Calculations and Posting Methods for Value-Added Tax
-Consumers and businesses pay value-added tax (VAT) when they purchase goods or services. The amount of VAT to pay can vary, depending on several factors. In [!INCLUDE[navnow](includes/navnow_md.md)], you set up VAT to specify the rates to use to calculate tax amounts based on the following: 
+Consumers and businesses pay value-added tax (VAT) when they purchase goods or services. The amount of VAT to pay can vary, depending on several factors. In [!INCLUDE[d365fin](includes/d365fin_md.md)], you set up VAT to specify the rates to use to calculate tax amounts based on the following: 
 
 * Who you sell to  
 * Who you buy from  
@@ -32,7 +32,7 @@ You can set up VAT calculations manually, but that can be tricky and time consum
 If you want to set up VAT calculations yourself, or just want to learn about each step, this topic contains descriptions of each step.
 
 ## To use the VAT Setup assisted setup guide to set up VAT (recommended)
-We recommend that you use the VAT Setup assisted setup guide to set up VAT in [!INCLUDE[navnow](includes/navnow_md.md)]. 
+We recommend that you use the VAT Setup assisted setup guide to set up VAT in [!INCLUDE[d365fin](includes/d365fin_md.md)]. 
 
 To start the assisted setup guide, follow these steps:
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Assisted Setup**.  
@@ -48,7 +48,7 @@ To set up a VAT business posting group, follow these steps:
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Business Posting Group**, and then choose the related link.  
 2. Fill in the fields as necessary.
 
-You set up default VAT business posting groups by linking them to general business posting groups. [!INCLUDE[navnow](includes/navnow_md.md)] automatically assigns the VAT business posting group when you assign the business posting group to a customer, vendor, or general ledger account. 
+You set up default VAT business posting groups by linking them to general business posting groups. [!INCLUDE[d365fin](includes/d365fin_md.md)] automatically assigns the VAT business posting group when you assign the business posting group to a customer, vendor, or general ledger account. 
 
 ## To set up VAT product posting groups
 VAT product posting groups represent the items and resources you buy or sell, and determine how to calculate and post VAT according to the type of item or resource that is being bought or sold.  
@@ -60,7 +60,7 @@ To set up a VAT business posting group, follow these steps:
 2. Fill in the fields as necessary.
 
 ## To combine VAT posting groups in VAT posting setups
-[!INCLUDE[navnow](includes/navnow_md.md)] calculates VAT amounts on sales and purchases based on VAT posting setups, which are combinations of VAT business and product posting groups. For each combination, you can specify the VAT percent, VAT calculation type, and general ledger accounts for posting VAT for sales, purchases, and reverse charges. You can also specify whether to recalculate VAT when a payment discount is applied or received.  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] calculates VAT amounts on sales and purchases based on VAT posting setups, which are combinations of VAT business and product posting groups. For each combination, you can specify the VAT percent, VAT calculation type, and general ledger accounts for posting VAT for sales, purchases, and reverse charges. You can also specify whether to recalculate VAT when a payment discount is applied or received.  
 
 Set up as many combinations as you need. If you want to group VAT posting setup combinations with similar attributes, you can define a **VAT Identifier** for each group, and assign the identifier to the group members.
 
@@ -70,7 +70,7 @@ To combine VAT posting setups, follow these steps:
 2. Fill in the fields as necessary.
 
 ## To assign VAT posting groups by default to multiple entities
-If you want to apply the same VAT posting groups to multiple entities, you can set up [!INCLUDE[navnow](includes/navnow_md.md)] to do so by default. There are a couple of ways to do this:
+If you want to apply the same VAT posting groups to multiple entities, you can set up [!INCLUDE[d365fin](includes/d365fin_md.md)] to do so by default. There are a couple of ways to do this:
 
 * You can assign VAT business posting groups to general business posting groups, or customer or vendor templates 
 * You can assign VAT product posting groups on general product posting groups  
@@ -104,7 +104,7 @@ You set up a VAT clause to describe information about the type of VAT that is be
 
 If needed, you can also specify how to translate VAT clauses to other languages. Then, when you create and print a sales document that contains a VAT identifier, the document will include the translated VAT clause. The language code specified on the Customer card determines the language.
 
-You can modify or delete a VAT clause, and your modifications will be reflected in a generated report. However, [!INCLUDE[navnow](includes/navnow_md.md)] does not keep a history of the change. On the report, the VAT clause descriptions are printed and displayed for all lines in the report alongside the VAT amount and the VAT base amount. If a VAT clause has not been defined for any lines on the sales document, then the whole section is omitted when the report is printed.
+You can modify or delete a VAT clause, and your modifications will be reflected in a generated report. However, [!INCLUDE[d365fin](includes/d365fin_md.md)] does not keep a history of the change. On the report, the VAT clause descriptions are printed and displayed for all lines in the report alongside the VAT amount and the VAT base amount. If a VAT clause has not been defined for any lines on the sales document, then the whole section is omitted when the report is printed.
   
 ### To set up VAT clauses
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Clauses**, and then choose the related link.  
@@ -138,7 +138,7 @@ To set up codes for import VAT, follow these steps:
 ## To verify VAT registration numbers
 It is important that the VAT registration numbers you have for customers, vendors, and contacts are valid. For example, companies sometimes change their tax liability status, and in some countries tax authorities might ask you to provide reports, such as the EC Sales List report, that list the VAT registration numbers you use when you do business. 
   
-The European Commission provides the VIES VAT Number Validation service on its website, which is public and free. [!INCLUDE[navnow](includes/navnow_md.md)] can save you a step and let you use the VIES service to validate and track VAT numbers for customers, vendors, and contacts straight from the customer, vendor, and contact cards. The service in [!INCLUDE[navnow](includes/navnow_md.md)] is named **EU VAT Reg. No. Validation Service**. The service is available on the **Service Connections** page, and you can start using it right away. The service connection is free, and signup is not required.
+The European Commission provides the VIES VAT Number Validation service on its website, which is public and free. [!INCLUDE[d365fin](includes/d365fin_md.md)] can save you a step and let you use the VIES service to validate and track VAT numbers for customers, vendors, and contacts straight from the customer, vendor, and contact cards. The service in [!INCLUDE[d365fin](includes/d365fin_md.md)] is named **EU VAT Reg. No. Validation Service**. The service is available on the **Service Connections** page, and you can start using it right away. The service connection is free, and signup is not required.
 
 When you use our service connection, we record a history of VAT numbers and verifications for each customer, vendor, or contact, in the **VAT Registration Log**, so you can easily track them. The log is specific to each customer. For example, the log is useful for proving that you have verified that the current VAT number is correct. When you verify a VAT number, the **Request Identifier** column in the log will reflect that you have taken action. 
 
@@ -159,7 +159,7 @@ Some companies must use reverse charge VAT when trading with other companies. Fo
 > This rule applies when trading with companies that are registered as VAT liable in another EU country/region. If you do business directly with consumers in other EU countries/regions, then you should contact your tax authority for applicable VAT rules.  
   
 > [!TIP]  
-> You can verify that a company is registered as VAT liable in another EU country by using the EU VAT Registration Number Validation service. The service is available for free in [!INCLUDE[navnow](includes/navnow_md.md)]. For more information, see the section titled _Verify VAT registration numbers_ in this topic.
+> You can verify that a company is registered as VAT liable in another EU country by using the EU VAT Registration Number Validation service. The service is available for free in [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see the section titled _Verify VAT registration numbers_ in this topic.
 
 ### Sales to EU countries or regions
 VAT is not calculated on sales to VAT-liable companies in other EU countries/regions. You must report the value of these sales to EU countries/regions separately on your VAT statement.  

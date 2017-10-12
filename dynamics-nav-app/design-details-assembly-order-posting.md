@@ -113,4 +113,4 @@ Posting sales order lines where a part is inventory quantity and another part is
  [Design Details: Costing Methods](design-details-costing-methods.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

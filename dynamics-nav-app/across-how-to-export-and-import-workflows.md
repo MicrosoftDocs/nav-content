@@ -1,6 +1,6 @@
 ---
     title: How to Export and Import Workflows | Microsoft Docs
-    description: To transfer workflows to other [!INCLUDE[navnow](includes/navnow_md.md)] databases, for example to save time when creating new workflows, you can export and import workflows.
+    description: To transfer workflows to other [!INCLUDE[d365fin](includes/d365fin_md.md)] databases, for example to save time when creating new workflows, you can export and import workflows.
     
      
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # How to: Export and Import Workflows
-To transfer workflows to other [!INCLUDE[navnow](includes/navnow_md.md)] databases, for example to save time when creating new workflows, you can export and import workflows.  
+To transfer workflows to other [!INCLUDE[d365fin](includes/d365fin_md.md)] databases, for example to save time when creating new workflows, you can export and import workflows.  
 
  Another way to quickly create workflows is to create workflows from workflow templates. For more information, see [How to: Create Workflows from Workflow Templates](across-how-to-create-workflows-from-workflow-templates.md).  
 

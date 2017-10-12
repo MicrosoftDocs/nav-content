@@ -42,7 +42,7 @@ This walkthrough demonstrates tasks that are performed by the following user rol
 ## Prerequisites  
 To complete this walkthrough, you will need:  
 
--   The [!INCLUDE[navnow](includes/navnow_md.md)] company.  
+-   The [!INCLUDE[d365fin](includes/d365fin_md.md)] company.  
 -   To create new items and several business transactions by following the "Prepare Sample Data" section, later in this walkthrough.  
 
 ## Story  
