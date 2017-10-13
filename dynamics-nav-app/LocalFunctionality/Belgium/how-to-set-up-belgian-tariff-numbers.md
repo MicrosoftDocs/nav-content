@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Belgian Tariff Numbers | Microsoft Docs
+    title: How to Set Up Belgian Tariff Numbers 
     description: The Belgian customs and tax authorities have established an 8-digit item code for various tariff items.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

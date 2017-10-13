@@ -1,11 +1,11 @@
 ---
-    title: Simulation of Entries | Microsoft Docs
+    title: Simulation of Entries 
     description: Dynamics NAV
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

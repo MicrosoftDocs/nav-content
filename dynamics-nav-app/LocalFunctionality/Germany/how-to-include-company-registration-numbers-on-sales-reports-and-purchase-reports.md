@@ -1,11 +1,11 @@
 ---
-    title: How to Include Company Registration Numbers on Sales Reports and Purchase Reports | Microsoft Docs
+    title: How to Include Company Registration Numbers on Sales Reports and Purchase Reports 
     description: When generating certain sales reports and purchase reports, you can print registration numbers on the reports.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

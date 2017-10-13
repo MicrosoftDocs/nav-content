@@ -1,11 +1,11 @@
 ---
-    title: VAT Rates for Switzerland | Microsoft Docs
+    title: VAT Rates for Switzerland 
     description: If VAT rates change, you must use the VAT rate change tool. In earlier versions of [!INCLUDE[navnow](../../includes/navnow_md.md)] you could temporarily use both the old and the new VAT rates for transactions, depending on the shipping dates. This functionality has been deprecated.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Analyze Physical Inventory Differences | Microsoft Docs
+    title: How to Analyze Physical Inventory Differences 
     description: After you have finished the physical inventory order, you can analyze the physical inventory differences.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

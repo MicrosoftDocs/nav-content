@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Tax Authority-Fund Cards | Microsoft Docs
+    title: How to Set Up Tax Authority-Fund Cards 
     description: The Tax Authority or Fund card enables you to compile a list of different tax authorities.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

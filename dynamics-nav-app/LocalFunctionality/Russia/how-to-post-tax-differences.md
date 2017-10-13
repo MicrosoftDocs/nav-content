@@ -1,11 +1,11 @@
 ---
-    title: How to Post Tax Differences | Microsoft Docs
+    title: How to Post Tax Differences 
     description: The **Tax Difference Journal** is used to create and post tax difference transactions. Tax differences are variations in tax amounts caused by the different rules for recognizing income and expenses between entries for book accounting and tax accounting.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

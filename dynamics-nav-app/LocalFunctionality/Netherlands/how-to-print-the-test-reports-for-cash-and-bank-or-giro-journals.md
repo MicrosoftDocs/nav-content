@@ -1,11 +1,11 @@
 ---
-    title: How to Print the Test Reports for Cash and Bank or Giro Journals | Microsoft Docs
+    title: How to Print the Test Reports for Cash and Bank or Giro Journals 
     description: You can use the **CBG Posting - Test** report to edit the statement lines and see the effect of posting before you post cash journals and bank or giro journals.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

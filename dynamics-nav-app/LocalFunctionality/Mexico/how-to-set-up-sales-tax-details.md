@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Sales Tax Details | Microsoft Docs
+    title: How to Set Up Sales Tax Details 
     description: The **Tax Details** window contains a matrix table that uses different combinations of sales tax jurisdictions and sales tax groups to establish sales tax rates. For each tax jurisdiction, you are advised to set up one tax group for normal sales tax, another tax group for items or services that are not taxed, and an additional tax group for every type of item or service that is handled with a different sales tax rate in that jurisdiction.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

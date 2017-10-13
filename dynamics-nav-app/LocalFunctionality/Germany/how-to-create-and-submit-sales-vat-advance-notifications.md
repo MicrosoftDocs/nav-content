@@ -1,11 +1,11 @@
 ---
-    title: How to Create and Submit Sales VAT Advance Notifications | Microsoft Docs
+    title: How to Create and Submit Sales VAT Advance Notifications 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can submit the sales VAT advance notification file electronically to the ELSTER portal. You can transmit the sales VAT advance notification file to the tax authorities after you have verified the calculated tax amount and the base amount.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -28,13 +28,13 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can submit the sales VAT
   
     |Field|Description|  
     |---
-    title: How to Create and Submit Sales VAT Advance Notifications | Microsoft Docs
+    title: How to Create and Submit Sales VAT Advance Notifications 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can submit the sales VAT advance notification file electronically to the ELSTER portal. You can transmit the sales VAT advance notification file to the tax authorities after you have verified the calculated tax amount and the base amount.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

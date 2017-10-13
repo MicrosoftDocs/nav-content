@@ -1,11 +1,11 @@
 ---
-    title: How to Create Electronic VAT Transactions Reports | Microsoft Docs
+    title: How to Create Electronic VAT Transactions Reports 
     description: You must create a list of transactions that include VAT with amounts over the current threshold on or before the specified occurrence date. You submit this report to the tax authorities.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -26,13 +26,13 @@ You must create a list of transactions that include VAT with amounts over the cu
   
     |Field|Description|  
     |---
-    title: How to Create Electronic VAT Transactions Reports | Microsoft Docs
+    title: How to Create Electronic VAT Transactions Reports 
     description: You must create a list of transactions that include VAT with amounts over the current threshold on or before the specified occurrence date. You submit this report to the tax authorities.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

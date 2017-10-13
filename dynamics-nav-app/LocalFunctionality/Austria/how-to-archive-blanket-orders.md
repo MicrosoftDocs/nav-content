@@ -1,11 +1,11 @@
 ---
-    title: How to Archive Blanket Orders | Microsoft Docs
+    title: How to Archive Blanket Orders 
     description: You can archive a blanket sales order or a blanket purchase order, and you can use the archived blanket order to create an order.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

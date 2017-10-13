@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Sales Tax | Microsoft Docs
+    title: How to Set Up Sales Tax 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you need to set the tax calculation type before you can set up sales tax.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up an Intangible Assets Account | Microsoft Docs
+    title: How to Set Up an Intangible Assets Account 
     description: The intangible assets accounting feature allows you to post intangible assets to a special account called the Intangible Assets account. Intangible assets are non-monetary assets that cannot be physically measured. You can also include current expenses by using monthly depreciation.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

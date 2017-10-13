@@ -1,11 +1,11 @@
 ---
-    title: Obligatory Sales Reports | Microsoft Docs
+    title: Obligatory Sales Reports 
     description: The obligatory sales reports feature enables you to print the following reports:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -44,13 +44,13 @@ The obligatory sales reports feature enables you to print the following reports:
   
 |Report|Description|  
 |---
-    title: Obligatory Sales Reports | Microsoft Docs
+    title: Obligatory Sales Reports 
     description: The obligatory sales reports feature enables you to print the following reports:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

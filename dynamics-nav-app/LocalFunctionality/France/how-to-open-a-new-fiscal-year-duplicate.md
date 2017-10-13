@@ -1,11 +1,11 @@
 ---
-    title: How to Open a New Fiscal Year | Microsoft Docs
+    title: How to Open a New Fiscal Year 
     description: Before you can post in a fiscal year, you must open the fiscal year and define its accounting periods.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

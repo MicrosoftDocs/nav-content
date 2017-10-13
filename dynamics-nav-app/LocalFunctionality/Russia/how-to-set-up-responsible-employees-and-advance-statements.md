@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Responsible Employees and Advance Statements | Microsoft Docs
+    title: How to Set Up Responsible Employees and Advance Statements 
     description: The **Advance Statement** report enables you to print and view information about payments made to and from responsible employees. This report also enables you to print and view primary documents of responsible employee expenses.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

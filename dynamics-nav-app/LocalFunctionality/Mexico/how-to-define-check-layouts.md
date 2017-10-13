@@ -1,11 +1,11 @@
 ---
-    title: How to Define Check Layouts | Microsoft Docs
+    title: How to Define Check Layouts 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can design your checks to conform with the standards set by the local authorities. Check images can be printed in English, French, or Spanish.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

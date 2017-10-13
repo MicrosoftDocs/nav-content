@@ -1,11 +1,11 @@
 ---
-    title: How to Limit the Posting Period | Microsoft Docs
+    title: How to Limit the Posting Period 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can limit the period by which posting is permitted on three different levels: **by company**, **by user**, and **by template**.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

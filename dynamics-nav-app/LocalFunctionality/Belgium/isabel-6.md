@@ -1,11 +1,11 @@
 ---
-    title: Isabel 6 | Microsoft Docs
+    title: Isabel 6 
     description: The Isabel organization has developed a Client Isabel Synchronizer (CIS) platform that allows [!INCLUDE[navnow](../../includes/navnow_md.md)] to securely integrate with Isabel. CIS handles document exchange to and from the Isabel server.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

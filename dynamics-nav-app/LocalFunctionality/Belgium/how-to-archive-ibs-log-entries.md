@@ -1,11 +1,11 @@
 ---
-    title: How to Archive IBS Log Entries | Microsoft Docs
+    title: How to Archive IBS Log Entries 
     description: IBS log lines that have a process status of **Processed** can be archived. IBS logs contain information about electronic banking files that are created during Isabel electronic bank transfers.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

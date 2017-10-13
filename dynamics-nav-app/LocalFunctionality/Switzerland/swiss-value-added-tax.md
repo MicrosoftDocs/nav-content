@@ -1,11 +1,11 @@
 ---
-    title: Swiss Value Added Tax | Microsoft Docs
+    title: Swiss Value Added Tax 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes the following enhancements to Swiss VAT reporting:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

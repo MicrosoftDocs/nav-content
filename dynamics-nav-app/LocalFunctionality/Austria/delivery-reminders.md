@@ -1,11 +1,11 @@
 ---
-    title: Delivery Reminders | Microsoft Docs
+    title: Delivery Reminders 
     description: Delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries. To create delivery reminders, you must set up the following:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

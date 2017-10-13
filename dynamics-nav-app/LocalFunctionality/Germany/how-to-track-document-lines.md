@@ -1,11 +1,11 @@
 ---
-    title: How to Track Document Lines | Microsoft Docs
+    title: How to Track Document Lines 
     description: You can use the document tracking to view documents that are related to sales order lines and purchase order lines for orders and archived orders. You can also see an overview of documents related to order lines. This helps you to identify documents used to process orders.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

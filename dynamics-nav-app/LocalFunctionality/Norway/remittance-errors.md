@@ -1,11 +1,11 @@
 ---
-    title: Remittance Errors | Microsoft Docs
+    title: Remittance Errors 
     description: Remittance errors for payments may occur when data is transferred and after payments have been sent to the bank. Both kinds of errors are reported in the **Return Error** window.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Standard Sales or Purchase Lines | Microsoft Docs
+    title: How to Set Up Standard Sales or Purchase Lines 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify how the standard sales or purchase codes will be entered when you are creating the specified sales or purchase documents.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

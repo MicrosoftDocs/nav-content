@@ -1,11 +1,11 @@
 ---
-    title: How to Print the OCR Journal - Test Report | Microsoft Docs
+    title: How to Print the OCR Journal - Test Report 
     description: You can print the **OCR Journal – Test** report to test the imported payment transactions in the cash receipt journal. You can also view potential warnings and reconcile conflicts before the payments are posted to the journal.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

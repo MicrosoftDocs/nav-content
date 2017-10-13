@@ -1,11 +1,11 @@
 ---
-    title: Swiss Inventory Management | Microsoft Docs
+    title: Swiss Inventory Management 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Swiss enhancements to inventory management. This ../../includes the following:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

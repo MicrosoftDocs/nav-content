@@ -1,11 +1,11 @@
 ---
-    title: SEPA Credit Transfer Payments | Microsoft Docs
+    title: SEPA Credit Transfer Payments 
     description: ADD INCLUDE<!--[!INCLUDE[nav_current_short](../../includes/nav_current_short_md.md)]--> ../../includes Finnish enhancements to allow you to create Single Euro Payments Area (SEPA) credit transfer files to send vendor payments to banks. A SEPA credit transfer is a payment that is transferred according to the file format specified by the European Payments Commission.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

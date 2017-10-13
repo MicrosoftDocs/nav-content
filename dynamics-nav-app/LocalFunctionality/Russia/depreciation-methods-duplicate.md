@@ -1,11 +1,11 @@
 ---
-    title: Depreciation Methods | Microsoft Docs
+    title: Depreciation Methods 
     description: There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

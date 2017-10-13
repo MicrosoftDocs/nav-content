@@ -1,11 +1,11 @@
 ---
-    title: How to Post a Bank Reconciliation | Microsoft Docs
+    title: How to Post a Bank Reconciliation 
     description: You can post bank reconciliation if you have reconciled the bank accounts in the **Bank Rec.Worksheet** window. For more information, see [How to: Reconcile Bank Accounts by Using Bank Statements](how-to-reconcile-bank-accounts-by-using-bank-statements.md).
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

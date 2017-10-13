@@ -1,11 +1,11 @@
 ---
-    title: Report 349 | Microsoft Docs
+    title: Report 349 
     description: You must submit a periodic report of trade with other EU countries/regions to the tax authorities. In Spain, this Report 349 is part of the EU intra-community VAT Information Exchange System (VIES).
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

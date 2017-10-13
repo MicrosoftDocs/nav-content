@@ -1,11 +1,11 @@
 ---
-    title: Special Data Output and Reports for the Tax Authority | Microsoft Docs
+    title: Special Data Output and Reports for the Tax Authority 
     description: It is a legal requirement to send the tax authority a data file in a predefined format.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

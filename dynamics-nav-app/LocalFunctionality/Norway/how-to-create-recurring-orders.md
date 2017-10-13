@@ -1,11 +1,11 @@
 ---
-    title: How to Create Recurring Orders | Microsoft Docs
+    title: How to Create Recurring Orders 
     description: The create recurring orders process will find all of the recurring orders based on the options selected in the **Create Recurring Orders** window and will create the new sales orders. This is a periodic activity that you must run regularly.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

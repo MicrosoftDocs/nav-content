@@ -1,11 +1,11 @@
 ---
-    title: How to Print Payment Files | Microsoft Docs
+    title: How to Print Payment Files 
     description: After you have printed a test report and corrected all errors, you can print the payment journal lines to a payment file.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

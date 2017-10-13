@@ -1,11 +1,11 @@
 ---
-    title: How to Create Statutory Report Data | Microsoft Docs
+    title: How to Create Statutory Report Data 
     description: After you have defined the statutory reports that are required by the tax authorities, you can create the report data and generate files that you can submit to the authorities.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

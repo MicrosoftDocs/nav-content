@@ -1,11 +1,11 @@
 ---
-    title: Fixed Asset Locations and Employees | Microsoft Docs
+    title: Fixed Asset Locations and Employees 
     description: The fixed assets locations and the fixed assets employees feature enable you to:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

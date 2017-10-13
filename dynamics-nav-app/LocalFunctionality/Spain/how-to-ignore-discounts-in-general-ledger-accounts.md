@@ -1,11 +1,11 @@
 ---
-    title: How to Ignore Discounts in General Ledger Accounts | Microsoft Docs
+    title: How to Ignore Discounts in General Ledger Accounts 
     description: Some general ledger accounts do not accept payment discounts or invoice discounts. You can ignore the discounts for these general ledger accounts.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

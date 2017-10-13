@@ -1,11 +1,11 @@
 ---
-    title: How to Print Depreciation Book Reports | Microsoft Docs
+    title: How to Print Depreciation Book Reports 
     description: The **Depreciation Book** is a fiscal report that is sorted by year and item class. The **Depreciation Book** report shows changes in fixed asset stock in a given year by item class, rather than by the individual items. The **Depreciation Book** report is run after the depreciation method has been set up and assets have been entered.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

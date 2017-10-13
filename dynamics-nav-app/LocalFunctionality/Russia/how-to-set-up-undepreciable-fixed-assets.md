@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Undepreciable Fixed Assets | Microsoft Docs
+    title: How to Set Up Undepreciable Fixed Assets 
     description: You need to create or select a card for the fixed asset that should be repaid. The following procedure shows how to open the fixed asset card.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

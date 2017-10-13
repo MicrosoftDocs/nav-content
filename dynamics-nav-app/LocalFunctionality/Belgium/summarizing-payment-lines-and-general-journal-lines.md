@@ -1,11 +1,11 @@
 ---
-    title: Summarizing Payment Lines and General Journal Lines | Microsoft Docs
+    title: Summarizing Payment Lines and General Journal Lines 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] handles the following types of transactions in the same way:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Import and Export Account Schedules | Microsoft Docs
+    title: How to Import and Export Account Schedules 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] enables you to import and export account schedules into other companies and databases.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

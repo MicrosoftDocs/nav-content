@@ -1,11 +1,11 @@
 ---
-    title: How to Create and Print a Swiss VAT Statement | Microsoft Docs
+    title: How to Create and Print a Swiss VAT Statement 
     description: Based on the information that you have specified in the **VAT Posting Setup** window, [!INCLUDE[navnow](../../includes/navnow_md.md)] can automatically create a new VAT Statement Setup for realized VAT reporting. Before proceeding with the procedures in this topic, make sure that you have set up VAT posting setup with values specified for the sales and purchase cipher fields.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

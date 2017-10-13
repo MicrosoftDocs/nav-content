@@ -1,11 +1,11 @@
 ---
-    title: How to Apply General Ledger Entries in Closed Periods | Microsoft Docs
+    title: How to Apply General Ledger Entries in Closed Periods 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] allows you to post entries after a posting period is closed, even if no actual posting is performed during that period. You can also choose the users who will make these entries.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Create Payment Slips | Microsoft Docs
+    title: How to Create Payment Slips 
     description: You can create payments slips to manage vendor and customer payments. Before you create payment slips, you must set up payment classes. For more information, see [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md).
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

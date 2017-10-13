@@ -1,11 +1,11 @@
 ---
-    title: Single EURO Payments Area (SEPA) | Microsoft Docs
+    title: Single EURO Payments Area (SEPA) 
     description: The Single Euro Payments Area (SEPA) unifies payment methods in participating European countries, making international payments as easy to process as domestic payments. 300 million European citizens and companies are able to make and receive payments in euros, whether within or across national borders, with the same basic conditions, rights, and obligations, regardless of location.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

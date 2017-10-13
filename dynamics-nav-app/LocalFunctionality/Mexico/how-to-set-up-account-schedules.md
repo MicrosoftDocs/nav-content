@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Account Schedules | Microsoft Docs
+    title: How to Set Up Account Schedules 
     description: You can use account schedules to arrange and organize accounts in the chart of accounts. For more information, see the Acc. Schedule Name table.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

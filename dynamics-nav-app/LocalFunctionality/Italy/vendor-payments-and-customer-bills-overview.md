@@ -1,11 +1,11 @@
 ---
-    title: Vendor Payments and Customer Bills Overview | Microsoft Docs
+    title: Vendor Payments and Customer Bills Overview 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can manage automatic bills to customers and from vendors.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

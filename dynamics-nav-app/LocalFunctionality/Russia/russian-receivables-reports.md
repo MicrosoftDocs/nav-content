@@ -1,11 +1,11 @@
 ---
-    title: Russian Receivables Reports | Microsoft Docs
+    title: Russian Receivables Reports 
     description: The receivables report feature enables you to view the customer general ledger turnover for finance entries of general ledger accounts with the source type Customer. The following reports are also provided:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

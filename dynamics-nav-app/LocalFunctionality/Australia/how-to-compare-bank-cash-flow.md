@@ -1,11 +1,11 @@
 ---
-    title: How to Compare Bank Cash Flow | Microsoft Docs
+    title: How to Compare Bank Cash Flow 
     description: You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

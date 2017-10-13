@@ -1,11 +1,11 @@
 ---
-    title: Required Descriptions in G-L Entry | Microsoft Docs
+    title: Required Descriptions in G-L Entry 
     description: When entering general journal lines on a form, the system fills in automatically the description field. This description will also be stored in the G/L Entry after posting the journal. For a good audit trail, a more detailed description is desirable, when you post a journal line of type 'G/L account'.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

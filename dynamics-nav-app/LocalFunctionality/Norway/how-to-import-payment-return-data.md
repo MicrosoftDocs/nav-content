@@ -1,11 +1,11 @@
 ---
-    title: How to Import Payment Return Data | Microsoft Docs
+    title: How to Import Payment Return Data 
     description: To import receipt and settlement returns, use the **Rem. payment order – import** window. If any errors are indicated when importing settlement returns, you can view this information in the **Settlement Info** window.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

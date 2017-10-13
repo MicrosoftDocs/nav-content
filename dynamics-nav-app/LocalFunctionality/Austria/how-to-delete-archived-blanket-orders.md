@@ -1,11 +1,11 @@
 ---
-    title: How to Delete Archived Blanket Orders | Microsoft Docs
+    title: How to Delete Archived Blanket Orders 
     description: You can delete the archived versions of deleted blanket sales orders and blanket purchase orders.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

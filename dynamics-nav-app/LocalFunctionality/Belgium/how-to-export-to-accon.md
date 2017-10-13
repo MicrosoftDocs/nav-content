@@ -1,11 +1,11 @@
 ---
-    title: How to Export to Accon | Microsoft Docs
+    title: How to Export to Accon 
     description: The **Link to Accon** report enables you to create a file that can be imported into ACCON Plus to generate an annual income statement. The report exports the total balances of the general ledger accounts for a specific period.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

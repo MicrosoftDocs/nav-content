@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Data Exports for GDPdU | Microsoft Docs
+    title: How to Set Up Data Exports for GDPdU 
     description: You must set up data export record sources to be able to export Grundsätze zum Datenzugriff und zur Prüfkbarkeit digtaler Unterlagen (GDPdU) data. For each data export type, you must define one or more record sources, where each source is a table from which you want to export data.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

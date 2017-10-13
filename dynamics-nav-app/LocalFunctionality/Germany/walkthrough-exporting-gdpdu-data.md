@@ -1,11 +1,11 @@
 ---
-    title: Walkthrough - Exporting GDPdU Data | Microsoft Docs
+    title: Walkthrough - Exporting GDPdU Data 
     description: You can export business data for auditing purposes. How the data export is set up is different for all companies, and you should ask your tax advisor and the tax auditor. The following walkthrough describes the end-to-end process, but it is an example only.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

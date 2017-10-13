@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up VAT Reports | Microsoft Docs
+    title: How to Set Up VAT Reports 
     description: Information from various invoice types is used to feed data into the EU Sales List report. To file a VAT report under the ELMA5 system from [!INCLUDE[navnow](../../includes/navnow_md.md)], you need to set up report parameters.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

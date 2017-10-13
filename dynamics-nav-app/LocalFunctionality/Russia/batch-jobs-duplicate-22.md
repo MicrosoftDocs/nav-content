@@ -1,11 +1,11 @@
 ---
-    title: Batch Jobs 22 | Microsoft Docs
+    title: Batch Jobs 22 
     description: ADD INCLUDE<!--[!INCLUDE[bn_batchjobs](../../includes/bn_batchjobs_md.md)]-->
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

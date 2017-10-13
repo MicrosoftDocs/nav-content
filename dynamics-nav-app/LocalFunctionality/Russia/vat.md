@@ -1,11 +1,11 @@
 ---
-    title: VAT | Microsoft Docs
+    title: VAT 
     description: VAT is charged on transactions that involve goods and services in Russia or goods imported into Russia.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

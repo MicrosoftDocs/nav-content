@@ -1,11 +1,11 @@
 ---
-    title: Physical Inventory Recording - Counting Physical Inventory | Microsoft Docs
+    title: Physical Inventory Recording - Counting Physical Inventory 
     description: After you have created a physical inventory order and after you have entered the physical inventory order lines, you can take the physical inventory. Therefore you can use the physical inventory recording documents.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: Company Addresses | Microsoft Docs
+    title: Company Addresses 
     description: If your company has different types of addresses, such as a legal address or an address for use with tax inspection, you must set up these addresses in the Company Address table. At a minimum, you must specify your legal address.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

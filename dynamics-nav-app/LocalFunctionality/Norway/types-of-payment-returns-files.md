@@ -1,11 +1,11 @@
 ---
-    title: Types of Payment Returns Files | Microsoft Docs
+    title: Types of Payment Returns Files 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes two types of payment return files that can be imported:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

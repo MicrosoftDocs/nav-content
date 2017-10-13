@@ -1,11 +1,11 @@
 ---
-    title: Error Messages of the ElsterTransferHandler | Microsoft Docs
+    title: Error Messages of the ElsterTransferHandler 
     description: When [!INCLUDE[navnow](../../includes/navnow_md.md)] submits sales VAT advance notifications, errors can occur.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

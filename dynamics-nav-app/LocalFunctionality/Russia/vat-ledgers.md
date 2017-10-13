@@ -1,11 +1,11 @@
 ---
-    title: VAT Ledgers | Microsoft Docs
+    title: VAT Ledgers 
     description: The VAT ledger feature enables you to create and print the following forms:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

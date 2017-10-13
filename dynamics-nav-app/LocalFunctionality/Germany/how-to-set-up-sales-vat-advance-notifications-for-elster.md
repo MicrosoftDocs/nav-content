@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Sales VAT Advance Notifications for ELSTER | Microsoft Docs
+    title: How to Set Up Sales VAT Advance Notifications for ELSTER 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], to submit valid sales VAT advance notifications to the ELSTER portal, you must set up the following:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -38,13 +38,13 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], to submit valid sales VAT ad
   
     |Field|Description|  
     |---
-    title: How to Set Up Sales VAT Advance Notifications for ELSTER | Microsoft Docs
+    title: How to Set Up Sales VAT Advance Notifications for ELSTER 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], to submit valid sales VAT advance notifications to the ELSTER portal, you must set up the following:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

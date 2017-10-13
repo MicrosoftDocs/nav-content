@@ -1,11 +1,11 @@
 ---
-    title: Tax Registers | Microsoft Docs
+    title: Tax Registers 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers to track and manage taxable profits and losses in accordance with Russian tax accounting principles. Tax registers allow you to group taxable transactions into logical categories and apply tax accounting rules for the recognition of revenue and expenditures.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -23,13 +23,13 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers
   
 |Tax Register Type|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
 |---
-    title: Tax Registers | Microsoft Docs
+    title: Tax Registers 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers to track and manage taxable profits and losses in accordance with Russian tax accounting principles. Tax registers allow you to group taxable transactions into logical categories and apply tax accounting rules for the recognition of revenue and expenditures.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

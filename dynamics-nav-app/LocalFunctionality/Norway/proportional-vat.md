@@ -1,11 +1,11 @@
 ---
-    title: Proportional VAT | Microsoft Docs
+    title: Proportional VAT 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] allows you to calculate VAT when there is both deductible and non-deductible VAT. Because it is difficult to know where and how an item is used, you will have to contact the Norwegian tax authorities to determine whether a specified percentage of the VAT is deductible based on historical data.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to View Remittance Error Codes | Microsoft Docs
+    title: How to View Remittance Error Codes 
     description: For a remittance error, the error code from the bank and an explanation of the error will be shown for the payment in the **Waiting Journal** window.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

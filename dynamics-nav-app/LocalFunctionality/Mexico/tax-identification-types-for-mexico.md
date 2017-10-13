@@ -1,11 +1,11 @@
 ---
-    title: Tax Identification Types for Mexico | Microsoft Docs
+    title: Tax Identification Types for Mexico 
     description: All customers and vendors must a have federal tax identification number. The identification type used for a customer or vendor depends on whether the customer or vendor is classified as a company or as a person.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

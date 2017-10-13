@@ -1,11 +1,11 @@
 ---
-    title: How to Edit and Delete Domiciliation Lines | Microsoft Docs
+    title: How to Edit and Delete Domiciliation Lines 
     description: After you have generated domiciliation suggestions, you may want to change the domiciliations lines. For example, you may want to reassign a bank account or prevent payment for a specific customer or customer ledger entry.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

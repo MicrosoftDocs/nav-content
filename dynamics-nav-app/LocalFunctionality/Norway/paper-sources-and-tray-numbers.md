@@ -1,11 +1,11 @@
 ---
-    title: Paper Sources and Tray Numbers | Microsoft Docs
+    title: Paper Sources and Tray Numbers 
     description: When printing Norwegian sales documents, you can set up different tray numbers and paper sources on the first, last, and other  pages.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

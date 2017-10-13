@@ -1,11 +1,11 @@
 ---
-    title: Set Applies-to ID | Microsoft Docs
+    title: Set Applies-to ID 
     description: Use this to apply one or more G/L entries. Select the entry, and then choose **Set Applies-to ID**.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

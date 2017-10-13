@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Sales Tax Jurisdictions | Microsoft Docs
+    title: How to Set Up Sales Tax Jurisdictions 
     description: In the United States, states, counties, cities, and localities can charge sales tax.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: Electronic Banking in Norway | Microsoft Docs
+    title: Electronic Banking in Norway 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Norwegian enhancements to electronic banking. You can use this functionality to perform the following operations:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

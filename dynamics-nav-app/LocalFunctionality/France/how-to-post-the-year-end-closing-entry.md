@@ -1,11 +1,11 @@
 ---
-    title: How to Post the Year-End Closing Entry | Microsoft Docs
+    title: How to Post the Year-End Closing Entry 
     description: After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

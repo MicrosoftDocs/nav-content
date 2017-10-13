@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Corrective Invoicing | Microsoft Docs
+    title: How to Set Up Corrective Invoicing 
     description: You can create corrective invoices and corrective credit memos to reflect changes in quantity and amounts after the items were shipped or received. First, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)] with prerequisites.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

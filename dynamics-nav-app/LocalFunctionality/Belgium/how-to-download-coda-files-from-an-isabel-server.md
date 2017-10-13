@@ -1,11 +1,11 @@
 ---
-    title: How to Download CODA Files from an Isabel Server | Microsoft Docs
+    title: How to Download CODA Files from an Isabel Server 
     description: CODA files can be downloaded manually or in attended mode.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

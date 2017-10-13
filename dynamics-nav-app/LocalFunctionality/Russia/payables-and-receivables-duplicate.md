@@ -1,11 +1,11 @@
 ---
-    title: Payables and Receivables | Microsoft Docs
+    title: Payables and Receivables 
     description: In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your accounts payable and accounts receivable.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

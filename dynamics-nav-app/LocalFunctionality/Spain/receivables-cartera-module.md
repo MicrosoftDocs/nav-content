@@ -1,11 +1,11 @@
 ---
-    title: Receivables Cartera Module | Microsoft Docs
+    title: Receivables Cartera Module 
     description: The Receivables Cartera module allows you to manage bills generated from sales invoices. The documents can be managed by:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Create Corrective Documents | Microsoft Docs
+    title: How to Create Corrective Documents 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create corrective invoices and credit memos to reflect a change in the invoiced amount or quantity.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

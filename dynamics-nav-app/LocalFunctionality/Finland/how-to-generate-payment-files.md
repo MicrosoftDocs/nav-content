@@ -1,11 +1,11 @@
 ---
-    title: How to Generate Payment Files | Microsoft Docs
+    title: How to Generate Payment Files 
     description: To send electronic payments to vendors, you must first generate a payment file for domestic or foreign payments.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

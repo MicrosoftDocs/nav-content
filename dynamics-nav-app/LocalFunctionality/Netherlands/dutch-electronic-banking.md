@@ -1,11 +1,11 @@
 ---
-    title: Docket Reports | Microsoft Docs
+    title: Docket Reports 
     description: The Dutch telebanking application allows you to combine ledger entries for the same customer or vendor, having the same transaction mode, into one payment or collection order to the bank. As such one total amount will be paid to or collected from the vendor or customer involved. Possibly this combined payment could lack all detail information about the individual payments or collections. Telebanking offers you the possibility to inform your vendor or customer in detail by generating a docket report that describes the individual payments that constitute the total amount paid or collected.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

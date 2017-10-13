@@ -1,11 +1,11 @@
 ---
-    title: Setting up Tax Difference Calculation | Microsoft Docs
+    title: Setting up Tax Difference Calculation 
     description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -25,13 +25,13 @@ Tax difference calculations must be set up if there is a tax difference for the 
   
 |Field|Description|  
 |---
-    title: Setting up Tax Difference Calculation | Microsoft Docs
+    title: Setting up Tax Difference Calculation 
     description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -41,13 +41,13 @@ Tax difference calculations must be set up if there is a tax difference for the 
     ms.author: sgroespe
 
 ------
-    title: Setting up Tax Difference Calculation | Microsoft Docs
+    title: Setting up Tax Difference Calculation 
     description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

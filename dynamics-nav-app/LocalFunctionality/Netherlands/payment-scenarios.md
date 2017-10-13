@@ -1,11 +1,11 @@
 ---
-    title: Payment Scenarios | Microsoft Docs
+    title: Payment Scenarios 
     description: Based on a sales or purchase invoice or credit memo a proposal can be generated and exported in order to be processed by our bank.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

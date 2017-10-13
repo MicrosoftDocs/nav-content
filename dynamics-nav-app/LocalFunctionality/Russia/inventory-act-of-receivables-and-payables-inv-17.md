@@ -1,11 +1,11 @@
 ---
-    title: Inventory Act of Receivables And Payables INV-17 | Microsoft Docs
+    title: Inventory Act of Receivables And Payables INV-17 
     description: The inventory act of receivables and payables feature enables you to prepare an inventory of debts and liabilities, and print reports in the following formats:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

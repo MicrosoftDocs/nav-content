@@ -1,11 +1,11 @@
 ---
-    title: How to Print Periodic VAT Reports | Microsoft Docs
+    title: How to Print Periodic VAT Reports 
     description: The VAT reporting feature enables you to print VAT transaction details. You must send the following VAT reports to the Belgian tax authorities:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -32,13 +32,13 @@ The VAT reporting feature enables you to print VAT transaction details. You must
   
     |Field|Description|  
     |---
-    title: How to Print Periodic VAT Reports | Microsoft Docs
+    title: How to Print Periodic VAT Reports 
     description: The VAT reporting feature enables you to print VAT transaction details. You must send the following VAT reports to the Belgian tax authorities:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

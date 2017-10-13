@@ -1,11 +1,11 @@
 ---
-    title: How to Import and Reconcile Bank Statements | Microsoft Docs
+    title: How to Import and Reconcile Bank Statements 
     description: Banks provide electronic bank statements for all your financial interactions. You can import these statements into the bank or giro journals.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

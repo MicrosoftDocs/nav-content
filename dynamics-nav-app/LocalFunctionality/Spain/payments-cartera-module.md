@@ -1,11 +1,11 @@
 ---
-    title: Payments Cartera Module | Microsoft Docs
+    title: Payments Cartera Module 
     description: The Payments Cartera module allows you to manage payables documents generated from purchase invoices or from the **Cartera Journal**. The documents can be managed by:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

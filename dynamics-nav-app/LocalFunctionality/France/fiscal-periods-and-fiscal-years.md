@@ -1,11 +1,11 @@
 ---
-    title: Fiscal Periods and Fiscal Years | Microsoft Docs
+    title: Fiscal Periods and Fiscal Years 
     description: A fiscal year is typically divided into 12 monthly fiscal periods. In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can have two fiscal years open at the same time. You cannot create a third fiscal year if there are two fiscal years open.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

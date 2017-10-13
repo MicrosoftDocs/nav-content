@@ -1,11 +1,11 @@
 ---
-    title: How to Generate Payment Suggestions | Microsoft Docs
+    title: How to Generate Payment Suggestions 
     description: After you have set up electronic banking, you can start generating payment suggestions. You can do this in the payment journal.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

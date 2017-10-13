@@ -1,11 +1,11 @@
 ---
-    title: Corrective Documents | Microsoft Docs
+    title: Corrective Documents 
     description: If you sell or purchase items, and you then reach an agreement to change the price or the quantity, you must issue a corrective document that specifies the new price or quantity. You can also register corrective documents that you receive from a vendor, and you can issue and register corrections to corrective documents.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

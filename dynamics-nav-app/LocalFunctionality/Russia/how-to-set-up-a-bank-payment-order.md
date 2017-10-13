@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up a Bank Payment Order | Microsoft Docs
+    title: How to Set Up a Bank Payment Order 
     description: Bank payment orders must be used if a bank payment is for the official state budget. To use a bank payment order, a general journal template must be created as described in the following procedure.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

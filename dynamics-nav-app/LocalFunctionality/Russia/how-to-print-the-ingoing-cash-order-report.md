@@ -1,11 +1,11 @@
 ---
-    title: How to Print the Ingoing Cash Order Report | Microsoft Docs
+    title: How to Print the Ingoing Cash Order Report 
     description: The **Cash Ingoing Order CO-1** report prints the Ingoing Cash Order form, which is a standard format required by Russian accounting legislation.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

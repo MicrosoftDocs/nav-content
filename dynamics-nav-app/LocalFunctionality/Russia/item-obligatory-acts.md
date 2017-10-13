@@ -1,11 +1,11 @@
 ---
-    title: Item Obligatory Acts | Microsoft Docs
+    title: Item Obligatory Acts 
     description: The item obligatory acts feature enables you to print the obligatory reports used for the material and production resources in your company. These reports contain item information such as the item number and description, item storage place, item information brand, sort, profile, size, unit of measure, and vendor information.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

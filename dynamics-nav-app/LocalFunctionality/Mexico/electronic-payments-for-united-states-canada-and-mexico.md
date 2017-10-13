@@ -1,11 +1,11 @@
 ---
-    title: Electronic Payments for United States, Canada, and Mexico | Microsoft Docs
+    title: Electronic Payments for United States, Canada, and Mexico 
     description: ADD INCLUDE<!--[!INCLUDE[nav_current_short](../../includes/nav_current_short_md.md)]--> allows you to pay vendors or send refunds to customers using electronic payments, rather than by printing paper checks. Electronic payments are exported into a standard National Automated Clearing House Association (NACHA) file format used by most banks in the United States, or into the format used by the Royal Bank of Canada. This file is then transmitted to your bank and processed.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

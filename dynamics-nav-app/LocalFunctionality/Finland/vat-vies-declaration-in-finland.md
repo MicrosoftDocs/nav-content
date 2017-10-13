@@ -1,11 +1,11 @@
 ---
-    title: VAT-VIES Declaration in Finland | Microsoft Docs
+    title: VAT-VIES Declaration in Finland 
     description: ADD INCLUDE<!--[!INCLUDE[nav_current_short](../../includes/nav_current_short_md.md)]--> provides Finnish enhancements to comply with regulations for VAT and European Union (EU) sales reporting. The **VAT-VIES Declaration Tax Auth** report and the **EC Sales List** report include the **EU Service** field, which allows you to print service-related sales amounts separately from item-related sales amounts based on different posting groups. This information is required in VAT reports for EU third-party trade transactions in 2010 and all subsequent years.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

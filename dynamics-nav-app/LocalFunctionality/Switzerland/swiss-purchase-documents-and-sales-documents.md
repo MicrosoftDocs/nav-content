@@ -1,11 +1,11 @@
 ---
-    title: Swiss Purchase Documents and Sales Documents | Microsoft Docs
+    title: Swiss Purchase Documents and Sales Documents 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Swiss enhancements to purchase documents and sales documents. This ../../includes the following:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: Enhanced Document Management | Microsoft Docs
+    title: Enhanced Document Management 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can archive documents and track work across archived and non-archived documents.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Post LSV+ Payments | Microsoft Docs
+    title: How to Post LSV+ Payments 
     description: You can post payments after you have received Lastschrift Verfahren (LSV+) payment advice from the bank.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

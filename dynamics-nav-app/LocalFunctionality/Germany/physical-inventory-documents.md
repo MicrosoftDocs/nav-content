@@ -1,11 +1,11 @@
 ---
-    title: Physical Inventory Documents | Microsoft Docs
+    title: Physical Inventory Documents 
     description: You can take inventory of your items using the physical inventory order and the physical inventory recording documents.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

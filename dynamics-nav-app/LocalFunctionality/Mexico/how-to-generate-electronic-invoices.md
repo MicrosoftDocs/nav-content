@@ -1,11 +1,11 @@
 ---
-    title: How to Generate Electronic Invoices | Microsoft Docs
+    title: How to Generate Electronic Invoices 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], after you post a sales invoice you must generate an electronic invoice that will be sent to the customer. You can also export the electronic invoice as an XML file, which you can save to a specified location.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Set the Work Date as the Posting Date | Microsoft Docs
+    title: How to Set the Work Date as the Posting Date 
     description: You can set up the general ledger to use the work date as the posting date for customer or vendor open entries on an invoice, payment, or credit memo.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

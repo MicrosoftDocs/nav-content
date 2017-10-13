@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Reports for VAT and Intrastat | Microsoft Docs
+    title: How to Set Up Reports for VAT and Intrastat 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify which reports to use to create the documents that you must submit to the authorities, such as the VAT statement and the Intrastat form.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Post Preliminary Invoices by Using Inward Registration | Microsoft Docs
+    title: How to Post Preliminary Invoices by Using Inward Registration 
     description: Use an inward registration to post a preliminary purchase invoice, which you overwrite later when you post the invoice normally. For more information, see Inward Registration.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

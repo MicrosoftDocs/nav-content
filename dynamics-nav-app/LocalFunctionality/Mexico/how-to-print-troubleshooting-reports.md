@@ -1,11 +1,11 @@
 ---
-    title: How to Print Troubleshooting Reports | Microsoft Docs
+    title: How to Print Troubleshooting Reports 
     description: The following troubleshooting reports are available to assist Microsoft Certified Partners with troubleshooting issues:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

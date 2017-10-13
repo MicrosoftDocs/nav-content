@@ -1,11 +1,11 @@
 ---
-    title: Swiss Electronic Payments | Microsoft Docs
+    title: Swiss Electronic Payments 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] allows you to send invoices to customers electronically. The invoices are presented and paid directly using the customer's online banking software.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

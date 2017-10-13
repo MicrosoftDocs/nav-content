@@ -1,11 +1,11 @@
 ---
-    title: How to Create Cash Account Cards | Microsoft Docs
+    title: How to Create Cash Account Cards 
     description: Cash accounts are similar to bank accounts and are created identically. For more information about bank accounts, see Bank Account Card. You can create as many cash account cards as needed.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

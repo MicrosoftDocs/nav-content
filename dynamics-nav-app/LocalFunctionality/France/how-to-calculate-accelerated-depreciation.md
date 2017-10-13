@@ -1,11 +1,11 @@
 ---
-    title: How to Calculate Accelerated Depreciation | Microsoft Docs
+    title: How to Calculate Accelerated Depreciation 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you calculate periodic depreciation for fixed assets by using the **Calculate Depreciation** batch job. The fixed asset depreciation book that is linked to the fixed asset defines the depreciation method, the starting date for depreciation, and the fixed asset posting group that is used in the batch job.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

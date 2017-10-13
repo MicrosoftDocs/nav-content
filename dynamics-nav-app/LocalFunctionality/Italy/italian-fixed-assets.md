@@ -1,11 +1,11 @@
 ---
-    title: Italian Fixed Assets | Microsoft Docs
+    title: Italian Fixed Assets 
     description: Fixed assets are properties owned by a company and used in the production of its income. Assets can be either tangible or intangible, and can be either durable or non-durable. Cars, machines, and furniture are examples of tangible assets. Startup costs and licenses are examples of intangible assets.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

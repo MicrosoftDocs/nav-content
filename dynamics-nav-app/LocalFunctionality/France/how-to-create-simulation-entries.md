@@ -1,11 +1,11 @@
 ---
-    title: How to Create Simulation Entries | Microsoft Docs
+    title: How to Create Simulation Entries 
     description: When you have set up simulation of general ledger entries, you can create simulation entries.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

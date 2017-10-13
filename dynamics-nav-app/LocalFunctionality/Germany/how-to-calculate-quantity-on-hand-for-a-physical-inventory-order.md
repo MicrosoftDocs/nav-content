@@ -1,11 +1,11 @@
 ---
-    title: How to Calculate Quantity On Hand for a Physical Inventory Order | Microsoft Docs
+    title: How to Calculate Quantity On Hand for a Physical Inventory Order 
     description: After you have created the physical inventory order and after you have entered the physical inventory order lines, you must have the program calculate the field Qty. Expected (Base) for every physical inventory order line.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

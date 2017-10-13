@@ -1,11 +1,11 @@
 ---
-    title: How to Create Proposals | Microsoft Docs
+    title: How to Create Proposals 
     description: Proposals can be generated manually or automatically based on either vendor or customer ledger entries.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

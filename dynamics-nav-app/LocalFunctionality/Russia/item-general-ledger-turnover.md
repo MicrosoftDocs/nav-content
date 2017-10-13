@@ -1,11 +1,11 @@
 ---
-    title: Item General Ledger Turnover | Microsoft Docs
+    title: Item General Ledger Turnover 
     description: The following form and reports enable the creation of turnover sheet for goods and materials.
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

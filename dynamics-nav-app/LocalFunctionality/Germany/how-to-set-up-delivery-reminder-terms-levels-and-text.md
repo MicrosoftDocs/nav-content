@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Delivery Reminder Terms, Levels, and Text | Microsoft Docs
+    title: How to Set Up Delivery Reminder Terms, Levels, and Text 
     description: To create delivery reminders, you must set up the following:
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

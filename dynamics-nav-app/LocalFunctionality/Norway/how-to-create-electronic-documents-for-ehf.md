@@ -1,11 +1,11 @@
 ---
-    title: How to Create Electronic Documents for EHF | Microsoft Docs
+    title: How to Create Electronic Documents for EHF 
     description: When you sell goods or services to a customer in the public sector, you must submit documents electronically. In ADD INCLUDE<!--[!INCLUDE[navnow](how-to-set-up-customers-for-ehf.md).
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
