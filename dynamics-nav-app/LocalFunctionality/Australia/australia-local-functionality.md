@@ -1,7 +1,7 @@
 ---
-    title: Australia Local Functionality 
+    title: Australia Local Functionality
     description: The following topics describe the local functionality in the Australian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,10 +16,9 @@
 
 ---
 # Australia Local Functionality
-The following topics describe the local functionality in the Australian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
- [What's New 11](what-s-new-11.md)  
   [Australian Business Numbers and Adjustment Notes](australian-business-numbers-and-adjustment-notes.md)  
   [Business Activity Statements](business-activity-statements.md)  
   [Tax](tax.md)  

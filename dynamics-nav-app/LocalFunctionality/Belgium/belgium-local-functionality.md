@@ -1,7 +1,7 @@
 ---
-    title: Belgium Local Functionality 
+    title: Belgium Local Functionality
     description: The following topics describe the local functionality in the Belgian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,8 +16,8 @@
 
 ---
 # Belgium Local Functionality
-The following topics describe the local functionality in the Belgian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
-  
+The following topics describe local functionality that is unique to the Belgian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+
 ## In This Section  
  [Belgian Electronic Banking](belgian-electronic-banking.md)  
   [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)  

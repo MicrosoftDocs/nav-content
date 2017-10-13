@@ -1,7 +1,7 @@
 ---
-    title: Netherlands Local Functionality 
+    title: Netherlands Local Functionality
     description: The following topics describe the local functionality in the Dutch version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,10 +16,9 @@
 
 ---
 # Netherlands Local Functionality
-The following topics describe the local functionality in the Dutch version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the Dutch version of [!INCLUDE[navnow](../../includes/navnow_md.md)]  
 
 ## In This Section  
- [What's New 10](what-s-new-10.md)  
   [CMR Notes](cmr-notes.md)  
   [Dutch Electronic Banking](dutch-electronic-banking.md)  
   [Electronic Tax Declarations](electronic-tax-declarations.md)  

@@ -1,7 +1,7 @@
 ---
-    title: Germany Local Functionality 
+    title: Germany Local Functionality
     description: The following topics describe the local functionality in the German version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,10 +16,9 @@
 
 ---
 # Germany Local Functionality
-The following topics describe the local functionality in the German version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the German version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
- [What's New 3](what-s-new-3.md)  
   [Enhanced Document Management](enhanced-document-management.md)  
   [Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)  
   [Physical Inventory Documents](physical-inventory-documents.md)  
@@ -35,4 +34,3 @@ The following topics describe the local functionality in the German version of [
   [How to: Export and Print Intrastat Reports](how-to-export-and-print-intrastat-reports.md)  
   [How to: Print Sales and Purchase Orders During Batch Posting](how-to-print-sales-and-purchase-orders-during-batch-posting.md)  
   [How to: Print Vendor Payments List Reports](how-to-print-vendor-payments-list-reports.md)  
- 

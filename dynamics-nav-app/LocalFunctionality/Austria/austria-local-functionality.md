@@ -1,7 +1,7 @@
 ---
-    title: Austria Local Functionality 
+    title: Austria Local Functionality
     description: The following topics describe the local functionality in the Austrian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,10 +16,10 @@
 
 ---
 # Austria Local Functionality
-The following topics describe the local functionality in the Austrian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the Austrian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
- [What's New 18](what-s-new-18.md)  
+
   [Enhanced Document Management](enhanced-document-management.md)  
  [VAT Reporting](vat-reporting.md)  
   [VAT-VIES Reporting](../Denmark/vat-vies-reporting.md)  

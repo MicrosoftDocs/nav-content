@@ -1,7 +1,7 @@
 ---
-    title: Sweden Local Functionality 
+    title: Sweden Local Functionality
     description: The following topics describe the local functionality in the Swedish version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,11 +16,9 @@
 
 ---
 # Sweden Local Functionality
-The following topics describe the local functionality in the Swedish version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
-  
+The following topics describe local functionality that is unique to the Swedish version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+
 ## In This Section  
- [What's New 14](what-s-new-14.md)  
-  [OBSOLETE: Accrual Accounting](OBSOLETE:%20Accrual%20Accounting.md)  
   [Automatic Account Codes](automatic-account-codes.md)  
   [Multiple Interest Rates Overview](multiple-interest-rates-overview.md)  
   [How to: Import and Export Data in Standard Import Export Format](how-to-import-and-export-data-in-standard-import-export-format.md)  

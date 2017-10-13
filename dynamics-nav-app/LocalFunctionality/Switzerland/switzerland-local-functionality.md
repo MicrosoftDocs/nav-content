@@ -1,7 +1,7 @@
 ---
-    title: Switzerland Local Functionality 
+    title: Switzerland Local Functionality
     description: The following topics describe the local functionality in the Swiss version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,7 +16,7 @@
 
 ---
 # Switzerland Local Functionality
-The following topics describe the local functionality in the Swiss version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the Swiss version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
  [Enhanced Document Management](enhanced-document-management.md)  
@@ -26,4 +26,3 @@ The following topics describe the local functionality in the Swiss version of [!
   [Swiss General Ledger Accounts](swiss-general-ledger-accounts.md)  
   [Swiss Purchase Documents and Sales Documents](swiss-purchase-documents-and-sales-documents.md)  
   [How to: Print General Ledger Setup Information](how-to-print-general-ledger-setup-information.md)  
- 

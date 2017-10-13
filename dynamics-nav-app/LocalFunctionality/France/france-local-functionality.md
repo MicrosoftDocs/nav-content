@@ -1,7 +1,7 @@
 ---
-    title: France Local Functionality 
+    title: France Local Functionality
     description: The following topics describe the local functionality in the French version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,13 +16,11 @@
 
 ---
 # France Local Functionality
-The following topics describe the local functionality in the French version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the French version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
- [What's New 6](what-s-new-6.md)  
   [General Ledger](general-ledger.md)  
   [Fiscal Periods and Fiscal Years](fiscal-periods-and-fiscal-years.md)  
   [Accelerated Depreciation](accelerated-depreciation.md)  
   [Payment Management](payment-management.md)  
   [Simulation of Entries](simulation-of-entries.md)  
-  

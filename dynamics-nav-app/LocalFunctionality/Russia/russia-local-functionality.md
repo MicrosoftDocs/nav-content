@@ -1,7 +1,7 @@
 ---
-    title: Russia Local Functionality 
+    title: Russia Local Functionality
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] to calculate VAT due based on Russian VAT rates and regulations.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,11 +16,11 @@
 
 ---
 # Russia Local Functionality
-In [!INCLUDE[navnow](../../includes/navnow_md.md)] to calculate VAT due based on Russian VAT rates and regulations.  
-  
+In [!INCLUDE[navnow](../../includes/navnow_md.md)], there are Russian-specific features that you can use to track and manage your business. For example, you can use the local functionality features in Microsoft Dynamics NAV to calculate VAT due based on Russian VAT rates and regulations.
+
 ## Getting Started with Russia Local Functionality  
  Use the following table to learn more about local functionality that is available for Russia.  
-  
+
 |Topic|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
 |-----------|---------------------------------------|  
 |[Account Schedules Overview](account-schedules-overview.md)|Enables you to define information for statutory reports by creating user-defined rows and columns.|  
@@ -35,7 +35,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)] to calculate VAT due based on
 |[Tax Accounting](tax-accounting.md)|Enables you to follow tax accounting principles by setting up tax registers and calculating tax differences.|  
 |[Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3)|Enables you to design tax reports and export them using a Microsoft Excel format.|  
 |[VAT](vat.md)|Enables you to set up, calculate, and pay VAT amounts based on Russian VAT rates and regulations.|  
-  
+
 ## See Also  
  [Russian Chart of Accounts](russian-chart-of-accounts.md)   
  [Russian Receivables Reports](russian-receivables-reports.md)   

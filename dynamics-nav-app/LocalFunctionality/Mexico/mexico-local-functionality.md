@@ -1,7 +1,7 @@
 ---
-    title: Mexico Local Functionality 
+    title: Mexico Local Functionality
     description: The following topics describe the local functionality in the Mexican version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,10 +16,9 @@
 
 ---
 # Mexico Local Functionality
-The following topics describe the local functionality in the Mexican version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+The following topics describe local functionality that is unique to the Mexican version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
- [What's New 8](what-s-new-8.md)  
   [Budgets](budgets.md)  
   [Electronic Invoicing](electronic-invoicing.md)  
   [Electronic Payments for United States, Canada, and Mexico](electronic-payments-for-united-states-canada-and-mexico.md)  
@@ -35,4 +34,3 @@ The following topics describe the local functionality in the Mexican version of 
   [Tax Identification Types for Mexico](tax-identification-types-for-mexico.md)  
   [VAT Recalculation](vat-recalculation.md)  
   [How to: Print Troubleshooting Reports](how-to-print-troubleshooting-reports.md)  
-  

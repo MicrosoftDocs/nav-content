@@ -1,7 +1,7 @@
 ---
-    title: New Zealand Local Functionality 
+    title: New Zealand Local Functionality
     description: The following topics describe the local functionality in the New Zealand version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,8 +16,8 @@
 
 ---
 # New Zealand Local Functionality
-The following topics describe the local functionality in the New Zealand version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
-  
+The following topics describe local functionality that is unique to the New Zealand version of [!INCLUDE[navnow](../../includes/navnow_md.md)]  
+
 ## In This Section  
  [Addresses](addresses.md)  
   [Calculating Distribution Amounts](calculating-distribution-amounts.md)  
