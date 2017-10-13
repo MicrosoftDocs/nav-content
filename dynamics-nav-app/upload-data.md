@@ -43,4 +43,4 @@ For more information, see [QuickBooks Desktop Data Migration](ui-extensions-quic
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)   
 [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## 

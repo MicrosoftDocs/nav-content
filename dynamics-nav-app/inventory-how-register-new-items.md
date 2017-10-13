@@ -75,4 +75,4 @@ The vendors will now appear in the **Item Vendor Catalog** window, which you ope
   [Sales](sales-manage-sales.md)  
   [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## 

@@ -65,4 +65,4 @@ To transfer items, locations and transfer routes must be set up. For more inform
 [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md)  
 [General Business Functionality](ui-across-business-areas.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## 

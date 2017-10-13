@@ -120,4 +120,4 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 [Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] as a PowerApps Data Source](across-how-use-financials-data-source-powerapps.md)  
 [Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] in Microsoft Flow](across-how-use-financials-data-source-flow.md)   
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## 

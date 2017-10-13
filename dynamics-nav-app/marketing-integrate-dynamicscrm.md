@@ -81,4 +81,4 @@ From the **Dynamics 365 Connection Setup** window, you can get details about ful
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)    
 [Onboard your organization and users to Dynamics 365 (online)](https://www.microsoft.com/en-US/Dynamics/crm-customer-center/onboard-your-organization-and-users-to-dynamics-365-online.aspx)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## 
