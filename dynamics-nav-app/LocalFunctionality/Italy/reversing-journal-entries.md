@@ -1,7 +1,7 @@
 ---
-    title: Reversing Journal Entries 
+    title: Reversing Journal Entries
     description: Controls have been added to the **Reverse Transaction Entries** window to comply with local laws. These controls ensure the following:
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,15 +17,14 @@
 ---
 # Reversing Journal Entries
 Controls have been added to the **Reverse Transaction Entries** window to comply with local laws. These controls ensure the following:  
-  
+
 -   You cannot reverse an invoice, credit note, or document involving VAT management.  
-  
+
 -   You cannot reverse posted invoices, credit memos, or debit memos.  
-  
+
 -   You cannot delete posted invoices, credit memos, or general journals in the sales, purchase, or service area—even if they have been printed.  
-  
+
 -   You cannot reverse sales, purchase, or service headers for reserved documents.  
-  
+
 ## See Also  
- Reverse Transaction Entries   
- [Italy Local Functionality](italy-local-functionality.md)
+  [Italy Local Functionality](italy-local-functionality.md)
