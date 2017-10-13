@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Reconciliation with the General Ledger | Microsoft Docs
+    title: Design Details - Reconciliation with the General Ledger 
     description: This topic describes reconciliation with the general ledger when you post inventory transactions, such as sales shipments, production output, or negative adjustments.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -121,4 +121,4 @@ For more information about the relationship between the account types and the di
 [Design Details: Cost Adjustment](design-details-cost-adjustment.md)
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Finance](finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

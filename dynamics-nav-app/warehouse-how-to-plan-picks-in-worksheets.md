@@ -1,8 +1,8 @@
 ---
-    title: How to Plan Picks in Worksheets | Microsoft Docs
+    title: How to Plan Picks in Worksheets 
     description: If your warehouse is set up to require both pick and shipment processing, the warehouse can choose to operate so that the lines on shipment documents are not automatically transformed into pick instructions, but are made available instead to the pick worksheet.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -57,4 +57,4 @@ In the pick worksheet, you can also sort by ship-to address, enabling you to ass
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

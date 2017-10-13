@@ -1,8 +1,8 @@
 ---
-    title: How to Create Production BOMs | Microsoft Docs
+    title: How to Create Production BOMs 
     description: A production BOM holds master data that describes the components and subassemblies used in the production of a parent item. Once a production order is created for that parent item, its production BOM will govern the calculation of material requirements as represented in the **Prod. Order Components** window.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -18,11 +18,11 @@
 # How to: Create Production BOMs
 A production bill of material (BOM) holds master data that describes the components and subassemblies used in the production of a parent item. Once a production order is created for that parent item, its production BOM will govern the calculation of material requirements as represented in the **Prod. Order Components** window.
 
-[!INCLUDE[navnow](includes/navnow_md.md)]  also support assembly BOMs. You use assembly orders for making end items from components in a simple process that can be performed by one or more basic resources, which are not machine or work centers, or without any resources. For example, an assembly process could be to pick two wine bottles and one coffee sack and then pack them as a gift item. For more information, see the "Assembly BOMs or Production BOMs" section in [How to: Work with Bills of Material](inventory-how-work-BOMs.md).  
+[!INCLUDE[d365fin](includes/d365fin_md.md)]  also support assembly BOMs. You use assembly orders for making end items from components in a simple process that can be performed by one or more basic resources, which are not machine or work centers, or without any resources. For example, an assembly process could be to pick two wine bottles and one coffee sack and then pack them as a gift item. For more information, see the "Assembly BOMs or Production BOMs" section in [How to: Work with Bills of Material](inventory-how-work-BOMs.md).  
 
 Before you can set up a routing, the following must be in place:  
 
-- Item cards are created for parent items that take part in manufacturing. For more information, see [How to: Register New Products](inventory-how-register-new-items.md).
+- Item cards are created for parent items that take part in manufacturing. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
 - Production resources are set up. For more information, see [How to: Set Up Work Centers and Machine Centers](production-how-to-set-up-work-and-machine-centers.md).
 
 ## To create a production BOM  
@@ -43,7 +43,7 @@ Before you can set up a routing, the following must be in place:
 9.  In the **Routing Link Code** field, enter a code to connect the component to a specific operation. For more information, see the "To create routing links" section in [How to: Create Routings](production-how-to-create-routings.md).
 10. To copy lines from an existing production BOM, choose the **Copy BOM** action to select existing lines.  
 11.  Certify the production BOM.  
-12.  You can now attach the new production BOM to the card of the parent item in question. For more information, see [How to: Register New Products](inventory-how-register-new-items.md).  
+12.  You can now attach the new production BOM to the card of the parent item in question. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).  
 
 > [!NOTE]  
 >  To recalculate the item’s standard cost from the item card, choose the **Manufacturing** action, and then choose the **Calc. Standard Cost** action.  
@@ -94,4 +94,4 @@ In a production BOM, seventy metal parts with the dimensions length = 0.20 m and
 [Planning](production-planning.md)   
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

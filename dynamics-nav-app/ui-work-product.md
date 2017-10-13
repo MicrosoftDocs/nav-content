@@ -1,17 +1,20 @@
 ---
-title: Working with the General Functionality in Dynamics NAV
+title: Working with the General Functionality in Dynamics NAV 
 description: Describes the general functionality you use to interact with data in Dynamics NAV, such as entering values, sorting data, and changing views.
+services: ''
+documentationcenter: ''
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.prod: "dynamics-nav-2017"
----
 
-# Working with Dynamics NAV
+ms.prod: "dynamics-nav-2017"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 05/29/2017
+ms.author: solsen
+
+---
+# Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]
 When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.
 
 For example, you can adjust the size and position of any window, expand the width of columns and increase the height of column headers, and change the sorting of data in columns. And if you want to use the horizontal scroll bar to view all columns on a list page or on document lines, you will see that there is a vertical freeze pane to restrict some columns from scrolling.
@@ -28,9 +31,11 @@ The following table lists some of the general functionality with links to topics
 | Modify the colored indicator on cues. |[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md) |
 | Change basic settings such as company or work date. |[Changing Basic Settings](ui-change-basic-settings.md) |
 | Change the Role Center, and the related Home page, to fit your role. |[How to: Change the Role Center](change-role.md) |
-| Change which fields and actions are shown in the user interface to fit your company's business processes. |[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md) |
-| Get reports to show data from specific date ranges. |[Entering Date Ranges in Dynamics 365 Business edition ](ui-enter-date-ranges.md) |
+| Change which fields and actions are shown in the user interface to fit your company's business processes. |[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md) |
+| Get reports to show data from specific date ranges. |[Entering Date Ranges in Dynamics NAV](ui-enter-date-ranges.md) |
 
 ## See Also
 [General Business Functionality](ui-across-business-areas.md)  
-[Across Business Areas](ui-across-business-areas.md)
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
+
+## 

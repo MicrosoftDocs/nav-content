@@ -1,5 +1,5 @@
 ---
-title: Submit VAT Reports to Tax Authorities| Microsoft Docs
+title: Submit VAT Reports to Tax Authorities
 description: Learn how to prepare reports that lists VAT from sales during a period, or from sales and purchases, and submit the report to a tax authority.
 author: bholtorf
 
@@ -15,7 +15,7 @@ ms.author: bholtorf
 ---
 
 # How To: Report VAT to a Tax Authority
-This topic describes the reports in [!INCLUDE[navnow](includes/navnow_md.md)] that you can use to submit information about value-added tax (VAT) amounts for sales and purchases to tax authorities in your region.
+This topic describes the reports in [!INCLUDE[d365fin](includes/d365fin_md.md)] that you can use to submit information about value-added tax (VAT) amounts for sales and purchases to tax authorities in your region.
 
 You can use the following reports :
 
@@ -35,7 +35,7 @@ The report includes one line for each type of transaction with the customer, and
 
 B2B goods and services specify whether you sold a good or a service, and are controlled by the **EU Service** setting in the VAT posting setup. B2B Triangulated Goods indicate whether you engaged in trade with a 3rd party, and are controlled by the **EU 3-Party Trade** setting on sales documents, such as sales orders, invoices, credit memos, and so on.  
 
-After the tax authority reviews your report, they will send an email to the contact person for your company. In [!INCLUDE[navnow](includes/navnow_md.md)], the contact person is specified on the **Company Information** page. Before you submit the report, make sure that a contact person is chosen.
+After the tax authority reviews your report, they will send an email to the contact person for your company. In [!INCLUDE[d365fin](includes/d365fin_md.md)], the contact person is specified on the **Company Information** page. Before you submit the report, make sure that a contact person is chosen.
 
 ## About the VAT Return report
 Use this report to submit VAT for sales and purchase documents, such as purchase and sales orders, invoices, and credit memos. The information in the report is in the same format as on the declaration form from the customs and tax authorities.  
@@ -48,9 +48,9 @@ For the VAT return, you can specify the entries to include:
 * Submit only entries from the specified periods, or also include entries from previous periods. This is useful for updating a VAT return that you have already submitted, for example, if a vendor sends you a late invoice.    
 
 ## To connect to your tax authority's web service
-[!INCLUDE[navnow](includes/navnow_md.md)] provides service connections to tax authority websites. For example, if you are in the UK, you can enable the **GovTalk** service connection to submit the EC Sales List and VAT Return reports electronically. If you want to submit the report manually, for example by entering your data on the tax authority's website, this is not required.   
+[!INCLUDE[d365fin](includes/d365fin_md.md)] provides service connections to tax authority websites. For example, if you are in the UK, you can enable the **GovTalk** service connection to submit the EC Sales List and VAT Return reports electronically. If you want to submit the report manually, for example by entering your data on the tax authority's website, this is not required.   
 
-To report VAT to a tax authority electronically, you need to connect [!INCLUDE[navnow](includes/navnow_md.md)] to the tax authority's web service. This requires that you set up an account with your tax authority. When you have an account, you can enable a service connection that we provide in [!INCLUDE[navnow](includes/navnow_md.md)].
+To report VAT to a tax authority electronically, you need to connect [!INCLUDE[d365fin](includes/d365fin_md.md)] to the tax authority's web service. This requires that you set up an account with your tax authority. When you have an account, you can enable a service connection that we provide in [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Connections**, and then choose appropriate link.
 2. Fill in the required fields. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -58,7 +58,7 @@ To report VAT to a tax authority electronically, you need to connect [!INCLUDE[n
     > [!NOTE]  
 >   It's a good idea to test your connection. To do this, choose the **Test Mode** check box, then prepare and submit your VAT report as described in the _To prepare and submit a VAT report_ section. While in Test Mode, the service tests whether the tax authority can receive your report, and the status of the report will indicate whether the test submission was successful. It's important to remember that this is not an actual submission. To submit the report for real, you must clear the **Test Mode** check box, and then repeat the submission process.
 
-## To set up VAT reports in [!INCLUDE[navnow](includes/navnow_md.md)]
+## To set up VAT reports in [!INCLUDE[d365fin](includes/d365fin_md.md)]
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Report Setup**, and then choose the related link.  
 2. To let users change and resubmit this report, choose the **Modify Submitted Reports** check box.  
 3. Choose the number series to use for each report.  
@@ -73,10 +73,10 @@ To report VAT to a tax authority electronically, you need to connect [!INCLUDE[n
 4. To validate and prepare the report for submission, choose the **Release** action.  
 
     >  [!NOTE]  
->   [!INCLUDE[navnow](includes/navnow_md.md)] validates whether the report is set up correctly. If the validation fails, the errors display under **Errors and Warnings** so that you know what to fix. Typically, if the message is about a missing setting in [!INCLUDE[navnow](includes/navnow_md.md)], you can click the message to open the page that contains the information to correct.  
+>   [!INCLUDE[d365fin](includes/d365fin_md.md)] validates whether the report is set up correctly. If the validation fails, the errors display under **Errors and Warnings** so that you know what to fix. Typically, if the message is about a missing setting in [!INCLUDE[d365fin](includes/d365fin_md.md)], you can click the message to open the page that contains the information to correct.  
 5. To submit the report, choose the **Submit** action.  
 
-After you submit the report, [!INCLUDE[navnow](includes/navnow_md.md)] monitors the service and keeps a record of your communications. The **Status** field indicates where the report is in the process. For example, when the authorities process your report, the status of the report changes to **Succeeded**. If the tax authority found mistakes in the report you submitted, the status of the report will be **Failed**. You can view the errors under **Errors and Warnings**, correct them, and then submit the report again. To view a list of all your EC Sales List reports, go to the **EC Sales List Reports** page.  
+After you submit the report, [!INCLUDE[d365fin](includes/d365fin_md.md)] monitors the service and keeps a record of your communications. The **Status** field indicates where the report is in the process. For example, when the authorities process your report, the status of the report changes to **Succeeded**. If the tax authority found mistakes in the report you submitted, the status of the report will be **Failed**. You can view the errors under **Errors and Warnings**, correct them, and then submit the report again. To view a list of all your EC Sales List reports, go to the **EC Sales List Reports** page.  
 
 ## Viewing communications with your tax authority
 In some countries, you exchange messages with the tax authority when you submit reports. You can view the first and the last message you sent or received by choosing the **Download Submission Message** and **Download Response Message** actions.  

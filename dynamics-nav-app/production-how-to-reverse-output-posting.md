@@ -1,8 +1,8 @@
 ---
-    title: How to Reverse Output Posting | Microsoft Docs
+    title: How to Reverse Output Posting 
     description: There are times when output posting must be reversed. An example of this would be if a data entry error occurred and an incorrect amount of output is posted to a production order.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -32,4 +32,4 @@ The output journal entries are posted to the item ledger as a positive adjustmen
  [Planning](production-planning.md)      
  [Inventory](inventory-manage-inventory.md)  
  [Purchasing](purchasing-manage-purchasing.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

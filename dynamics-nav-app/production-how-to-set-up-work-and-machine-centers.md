@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up Work Centers and Machine Centers | Microsoft Docs
+    title: How to Set Up Work Centers and Machine Centers 
     description: A **Work Center** card organizes the fixed values and requirements of the production resource, and thus governs the output of production performed in that work center.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -79,7 +79,7 @@ If capacities of work centers are to make no contribution to the total capacity,
 ## To set up a capacity constrained machine or work center
 You must set up production resources that you regard as critical and mark them to accept a finite load instead of the default infinite load that other production resources accept. A capacity-constrained resource can be a work center or machine center that you have identified as a bottleneck and would like to establish a limited, finite load for.
 
-[!INCLUDE[navnow](includes/navnow_md.md)] does not support detailed shop floor control. It plans for a feasible utilization of resources by providing a rough-cut schedule, but it does not automatically create and maintain detailed schedules based on priorities or optimization rules.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] does not support detailed shop floor control. It plans for a feasible utilization of resources by providing a rough-cut schedule, but it does not automatically create and maintain detailed schedules based on priorities or optimization rules.
 
 In the **Capacity-Constrained Resources** window, you can make setup that avoids overload of specific resources and ensure that no capacity is left unallocated if it could increase the turn-around time of a production order. In the **Dampener (% of Total Capacity)** field, you can add dampener time to resources to minimize operation splitting. This enables the system to schedule load on the last possible day by exceeding the critical load percent slightly if this can reduce the number of operations that are split.
 
@@ -101,4 +101,4 @@ When planning with capacity-constrained resources, the system ensures that no re
 [Planning](production-planning.md)   
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up Cash Customers | Microsoft Docs
+    title: How to Set Up Cash Customers 
     description: This topic describes the steps to set up customer who pays in cash.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

@@ -1,8 +1,8 @@
 ---
-    title: Walkthrough - Making Cash Flow Forecasts by Using Account Schedules | Microsoft Docs
+    title: Walkthrough - Making Cash Flow Forecasts by Using Account Schedules 
     description: This walkthrough describes how you can use account schedules to make cash flow forecasts. Account schedules perform calculations that cannot be done directly in the chart of cash flow accounts. In the account schedules, you can set up subtotals for cash flow receipts and disbursements. These subtotals can be included in new totals that can then be used in making cash flow forecasts.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -30,7 +30,7 @@ This walkthrough describes the following tasks:
 ### Prerequisites  
 To complete this walkthrough, you will need:  
 
-- [!INCLUDE[navnow](includes/navnow_md.md)] installed.  
+- [!INCLUDE[d365fin](includes/d365fin_md.md)] installed.  
 - The cash flow worksheet lines are registered.  
 
 ## Roles  
@@ -87,4 +87,4 @@ Ken is now ready to assign the column layout to the account schedule name.
 ## See Also  
  [How to: Work with Account Schedules](bi-how-work-account-schedule.md)   
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

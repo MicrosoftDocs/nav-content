@@ -1,8 +1,8 @@
 ---
-title: Export Positive Pay Files| Microsoft Docs
+title: Export Positive Pay Files
 description: You can ensure your bank only clears validated checks and amounts by exporting a Positive Pay file that contains vendor and payment information.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -18,7 +18,7 @@ ms.author: sgroespe
 # How to: Export a Positive Pay file
 To make sure that your bank only clears validated checks and amounts, you can export a Positive Pay file that contains vendor information, check number, and payment amount, which you send to the bank for reference when you process payments.
 
-[!INCLUDE[navnow](includes/navnow_md.md)] is preconfigured to support Positive Pay files for Bank of America and City Bank.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] is preconfigured to support Positive Pay files for Bank of America and City Bank.
 
 ## To set up a bank account for Positive Pay
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.
@@ -60,4 +60,4 @@ To reexport Positive Pay files
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Working with General Journals](ui-work-general-journals.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -1,8 +1,8 @@
 ---
-    title: Date Calculation for Sales | Microsoft Docs
+    title: Date Calculation for Sales 
     description: The program automatically calculates the date on which you must order an item to have it in inventory on a certain date. This is the date on which you can expect items ordered on a particular date to be available for picking.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Date Calculation for Sales
-[!INCLUDE[navnow](includes/navnow_md.md)] automatically calculates the earliest possible date that an item on a sales order line can be shipped.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] automatically calculates the earliest possible date that an item on a sales order line can be shipped.
 
 If the customer has requested a specific delivery date, then the date on which the items must be available to pick to meet that delivery date is calculated.
 
@@ -42,4 +42,4 @@ If you do not specify a requested delivery date on the sales order line, or if t
 ## See Also  
  [Date Calculation for Purchases](purchasing-date-calculation-for-purchases.md)   
  [How to: Calculate Order Promising Dates](sales-how-to-calculate-order-promising-dates.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

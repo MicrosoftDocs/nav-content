@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up Standard Tasks for Operations | Microsoft Docs
+    title: How to Set Up Standard Tasks for Operations 
     description: You can enter descriptions of standard tasks.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -38,4 +38,4 @@ The use of standard tasks simplifies the creation and maintenance of routings. T
 [Planning](production-planning.md)   
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

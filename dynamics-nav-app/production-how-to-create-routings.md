@@ -1,8 +1,8 @@
 ---
-    title: How to Create Routings | Microsoft Docs
+    title: How to Create Routings 
     description: A routing holds master data that captures the process requirements of a given produced item. Once a production order is created for that item, its routing will govern the scheduling of operations as represented in the **Prod. Order Routing** window under the production order.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -24,7 +24,7 @@ As for production BOMs, the routings are assigned to the manufacturing end item.
 
 Before you can set up a routing, the following must be in place:  
 
-- Item cards are created for parent items that take part in manufacturing. For more information, see [How to: Register New Products](inventory-how-register-new-items.md).
+- Item cards are created for parent items that take part in manufacturing. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
 - Production resources are set up. For more information, see [How to: Set Up Work Centers and Machine Centers](production-how-to-set-up-work-and-machine-centers.md).
 
 ## To create a routing  
@@ -49,7 +49,7 @@ Before you can set up a routing, the following must be in place:
 12.  Continue to fill in lines for all operations involved in producing the item in question.  
 13.  To copy lines from an existing routing, choose the **Copy Routing** action to select existing lines.  
 14. Certify the routing.  
-15. You can now attach the new routing to the card of the production item in question, by filling in the **Routing No.** field. For more information, see [How to: Register New Products](inventory-how-register-new-items.md).  
+15. You can now attach the new routing to the card of the production item in question, by filling in the **Routing No.** field. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).  
 
 > [!NOTE]  
 >  Remember also to recalculate the item’s standard cost from the **Item** card: Choose the **Manufacturing** action, select the **Calc. Standard Cost** action, and then select the **All Levels** action.  
@@ -121,4 +121,4 @@ The time validity of the version is specified by the **Starting Date** field.
 [Planning](production-planning.md)   
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

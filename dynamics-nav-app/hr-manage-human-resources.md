@@ -1,8 +1,8 @@
 ---
-title: Using Human Resources Functionality| Microsoft Docs
+title: Using Human Resources Functionality
 description: You can register new personnel, edit information about existing staff, and record and analyze absence.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -16,12 +16,9 @@ ms.author: SorenGP
 
 ---
 # Manage Human Resources
-In [!INCLUDE[navnow](includes/navnow_md.md)], you can keep detailed records of your employees. You can register and maintain employee information, such as employment contracts, confidential information, qualifications, and employee contacts.
+In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can keep detailed records of your employees. You can register and maintain employee information, such as employment contracts, confidential information, qualifications, and employee contacts.
 
 You can also register employee absences, which allows you to analyze registered absences as necessary.
-
-> [!NOTE]  
-> This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
 
 To start using the Human Resources functionality, you must set up employees and other basic information. You can then associate various codes to an employee, which allows you to filter information for specific employees.
 
@@ -34,5 +31,5 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ## See Also
 [Finance](finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)        
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)        

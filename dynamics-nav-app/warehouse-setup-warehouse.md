@@ -1,8 +1,8 @@
 ---
-    title: Configure Warehouse Processes | Microsoft Docs
+    title: Configure Warehouse Processes 
     description: A company's distribution strategy is reflected in the configuration of its warehouse processes. This includes defining how different items are handled in different warehouse locations, such as the degree of bin control and the extend of workflow required between warehouse activities.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -44,4 +44,4 @@ A company's distribution strategy is reflected in the configuration of its wareh
 [Inventory](inventory-manage-inventory.md)  
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

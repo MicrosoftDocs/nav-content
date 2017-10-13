@@ -1,8 +1,8 @@
 ---
-    title: Terminology in Cost Accounting | Microsoft Docs
+    title: Terminology in Cost Accounting 
     description: This topic defines the key terms that are used in cost accounting.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -48,4 +48,4 @@ This topic defines the key terms that are used in cost accounting.
 ## See Also  
  [About Cost Accounting](finance-about-cost-accounting.md)   
  [Accounting for Costs](finance-manage-cost-accounting.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

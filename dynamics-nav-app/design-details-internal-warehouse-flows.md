@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Internal Warehouse Flows | Microsoft Docs
+    title: Design Details - Internal Warehouse Flows 
     description: The flow of items between bins at a company location centers on picking components and putting away end items for assembly or production orders and ad-hoc movements, such as bin replenishments, without a relation to source documents.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -88,7 +88,7 @@ The flow of items between bins at a company location centers on picking componen
 ## Flushing Production Components in the Warehouse  
  If set up on the item card, components picked with warehouse picks are posted as consumed by the production order when the warehouse pick is registered. By using the **Pick + Forward** method and the **Pick + Backward** flushing method, the pick registration triggers the related consumption posting when the first operation starts or when the last operation finishes, respectively.  
 
- Consider the following scenario based on the [!INCLUDE[navnow](includes/navnow_md.md)] demonstration database, WHITE location.  
+ Consider the following scenario based on the [!INCLUDE[d365fin](includes/d365fin_md.md)] demonstration database, WHITE location.  
 
  A production order for 15 PCS of item LS-100 exists. Some of the items on the component list must be flushed manually in a consumption journal, and other items on the list can be picked and flushed automatically using the **Pick + Backward** flushing method.  
 

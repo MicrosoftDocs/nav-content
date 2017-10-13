@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up and Publish KPI Web Services Based on Account Schedules | Microsoft Docs
+    title: How to Set Up and Publish KPI Web Services Based on Account Schedules 
     description: In the **Account Schedule KPI Web Service Setup** window, you set up how to show the account-schedule KPI data and which specific account schedules to base the KPIs on.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -53,4 +53,4 @@ In the **Account Schedule KPI Web Service Setup** window, you set up how to show
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

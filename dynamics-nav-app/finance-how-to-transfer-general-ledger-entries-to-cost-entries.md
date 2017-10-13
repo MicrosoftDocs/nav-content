@@ -1,8 +1,8 @@
 ---
-    title: How to Transfer General Ledger Entries to Cost Entries | Microsoft Docs
+    title: How to Transfer General Ledger Entries to Cost Entries 
     description: You can transfer general ledger entries to cost entries.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

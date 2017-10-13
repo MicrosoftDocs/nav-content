@@ -1,8 +1,8 @@
 ---
-title: Business Intelligence| Microsoft Docs
+title: Business Intelligence
 description: Capture and analyze business data, such as sales figures, purchases, operational expenses, employee salaries, and budgets, that can be valuable information for business intelligence or for decision making.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@ ms.author: sgroespe
 
 ---
 # Business Intelligence
-Businesses capture a tremendous amount of data through daily activity. This data, which reflects such things as the organization's sales figures, purchases, operational expenses, employee salaries, and budgets, can become valuable information, or business intelligence, for decision makers. [!INCLUDE[navnow](includes/navnow_md.md)] contains a number of features that help you gather, analyze, and share your company data.
+Businesses capture a tremendous amount of data through daily activity. This data, which reflects such things as the organization's sales figures, purchases, operational expenses, employee salaries, and budgets, can become valuable information, or business intelligence, for decision makers. [!INCLUDE[d365fin](includes/d365fin_md.md)] contains a number of features that help you gather, analyze, and share your company data.
 
 The Dimensions functionality plays an important role in business intelligence. A dimension is data that you can add to an entry as a kind of marker. This data is used to group entries with similar characteristics, such as customers, regions, products, and salesperson, and easily retrieve these groups for analysis. Among other uses, you use dimensions  when defining analysis views and when creating account schedules for reporting. For more information, see [Working with Dimensions](finance-dimensions.md).
 
@@ -36,7 +36,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ## See Also
 [Finance](finance.md)    
-[Using Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)  
+[Using Dynamics NAV as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)  
 [Closing Fiscal Periods](year-close-years-periods.md)  
 [Importing from Other Finance Systems](upload-data.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

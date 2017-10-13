@@ -1,8 +1,8 @@
 ---
-    title: About Cost Accounting | Microsoft Docs
+    title: About Cost Accounting 
     description: Cost accounting can help you understand the costs of running a business.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -70,4 +70,4 @@ Most reports and statistics are based on the posted cost entries. You can set th
  [Accounting for Costs](finance-manage-cost-accounting.md)  
  [Finance](finance.md)   
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

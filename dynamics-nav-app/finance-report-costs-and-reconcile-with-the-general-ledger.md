@@ -1,8 +1,8 @@
 ---
-    title: Reporting Costs and Reconcile with the General Ledger | Microsoft Docs
+    title: Reporting Costs and Reconcile with the General Ledger 
     description: At the end of accounting periods, monthly, yearly or other, a sequence of cost control and auditing tasks must be performed to report a correct and balanced inventory value to the finance department. Apart from the posting routine that transfers the individual item value entries to dedicated general ledger accounts, several reports, tracing functions, and a special reconciliation tool are available to the auditor or controller responsible for this business-critical work.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -37,4 +37,4 @@ At the end of accounting periods, monthly, yearly or other, a sequence of cost c
 [Inventory](inventory-manage-inventory.md)   
 [Sales](sales-manage-sales.md)   
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

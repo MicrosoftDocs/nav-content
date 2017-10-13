@@ -1,8 +1,8 @@
 ---
-    title: How to Post Scrap Manually | Microsoft Docs
+    title: How to Post Scrap Manually 
     description: If scrap is produced during processing, it can be entered in the output journal. Note that the scrap quantity does not increase the output quantity.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -34,4 +34,4 @@ If scrap is produced during processing, it can be entered in the output journal.
 [Planning](production-planning.md)      
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

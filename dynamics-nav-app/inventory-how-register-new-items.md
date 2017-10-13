@@ -1,7 +1,7 @@
 ---
-title: Create Item Cards for Goods or Services| Microsoft Docs
+title: Create Item Cards for Goods or Services
 description: You create item cards for services that you sell as hours and for physical products, such as assembly items, finished goods, components, or raw material, that you sell from your inventory.
-
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -19,9 +19,7 @@ Items, among other products, are the basis of your business, the goods or servic
 
 Item cards hold the information that is required to buy, store, sell, deliver, and account for items.
 
-The item card can be of type **Inventory** or **Service** to specify if the item is a physical unit or a labor time unit. Apart from some fields that relate to the physical aspects of an item, all fields on an item card function in the same way for inventory items and services. For more information about selling an item, see [How to: Sell Products](sales-how-sell-products.md) or [How to: Invoice Sales](sales-how-invoice-sales.md).
-
-An item can be structured as a parent item with underlying child items in a bill of materials (BOM). In [!INCLUDE[navnow](includes/navnow_md.md)], a bill of material can be either an assembly BOM or a production BOM, depending on its use. For more information, see [How to: Work with Bills of Material](inventory-how-work-BOMs.md).
+An item can be structured as a parent item with underlying child items in a bill of materials (BOM). In [!INCLUDE[d365fin](includes/d365fin_md.md)], a bill of material can be either an assembly BOM or a production BOM, depending on its use. For more information, see [How to: Work with Bills of Material](inventory-how-work-BOMs.md).
 
 > [!NOTE]  
 >   If item templates exist for different item types, then a window appears when you create a new item card from where you can select an appropriate template. If only one item template exists, then new item cards always use that template.
@@ -73,4 +71,6 @@ The vendors will now appear in the **Item Vendor Catalog** window, which you ope
   [Inventory](inventory-manage-inventory.md)  
   [Purchasing](purchasing-manage-purchasing.md)  
   [Sales](sales-manage-sales.md)  
-  [Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)
+  [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
+
+##

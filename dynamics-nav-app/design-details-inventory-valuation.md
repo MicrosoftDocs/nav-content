@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Inventory Valuation | Microsoft Docs
+    title: Design Details - Inventory Valuation 
     description: Inventory valuation XE "Inventory Valuation"  is the determination of the cost that is assigned to an inventory item, as expressed by the following equation.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -56,4 +56,4 @@ The purpose of WIP inventory valuation is to determine the value of the items wh
 [Design Details: Production Order Posting](design-details-production-order-posting.md)
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Finance](finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

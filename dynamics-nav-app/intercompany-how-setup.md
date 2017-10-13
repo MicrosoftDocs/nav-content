@@ -1,8 +1,8 @@
 ---
-title: Set Up Intercompany Transaction Posting| Microsoft Docs
+title: Set Up Intercompany Transaction Posting
 description: Create your intercompany vendors and customers as so-called intercompany partners, and set up an intercompany chart of accounts.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -130,4 +130,4 @@ If any of the intercompany dimensions have the same code as the corresponding di
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Working with General Journals](ui-work-general-journals.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

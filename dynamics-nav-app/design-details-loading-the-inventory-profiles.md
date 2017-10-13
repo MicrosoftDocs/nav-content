@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Loading the Inventory Profiles | Microsoft Docs
+    title: Design Details - Loading the Inventory Profiles 
     description: To sort out the many sources of demand and supply, the planning system organizes them on two timelines called inventory profiles.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

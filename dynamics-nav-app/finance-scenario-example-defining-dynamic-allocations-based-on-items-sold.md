@@ -1,8 +1,8 @@
 ---
-    title: Scenario Example: Defining Dynamic Allocations Based on Items Sold | Microsoft Docs
+    title: Scenario Example: Defining Dynamic Allocations Based on Items Sold 
     description: This topic shows an example of how to define allocations by using the dynamic allocation method. In the example, you change the dynamic allocation of the costs for the SALES cost center to support the new cost object IT EQUIPMENT. IT EQUIPMENT packages have item numbers in the range from 8904-W to 8924-W. You use the previous year’s sales figures to calculate the share. The allocation is posted to the helping cost type 9903.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -19,7 +19,7 @@
 This topic shows an example of how to define allocations by using the dynamic allocation method. In the example, you change the dynamic allocation of the costs for the SALES cost center to support the new cost object IT EQUIPMENT. IT EQUIPMENT packages have item numbers in the range from 8904-W to 8924-W. You use the previous year’s sales figures to calculate the share. The allocation is posted to the helping cost type 9903.  
 
 > [!NOTE]  
->  The example uses the demo data in the [!INCLUDE[navnow](includes/navnow_md.md)].  
+>  The example uses the demo data in the [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## To define dynamic allocations based on items sold in the previous year  
 
@@ -39,7 +39,7 @@ This topic shows an example of how to define allocations by using the dynamic al
 14. Choose the **Calculate Allocation Key** action to calculate the share.  
 
     > [!IMPORTANT]  
-    >  [!INCLUDE[navnow](includes/navnow_md.md)] uses the previous years’ sales figures to calculate a share of 1596.50 LCY with 100 percent for the IT EQUIPMENT packages. This means that all of the items sold last year will be allocated to the cost object IT EQUIPMENT.  
+    >  [!INCLUDE[d365fin](includes/d365fin_md.md)] uses the previous years’ sales figures to calculate a share of 1596.50 LCY with 100 percent for the IT EQUIPMENT packages. This means that all of the items sold last year will be allocated to the cost object IT EQUIPMENT.  
 
 ## See Also  
  [Setting Filters for Dynamic Allocation Bases](finance-setting-filters-for-dynamic-allocation-bases.md)   

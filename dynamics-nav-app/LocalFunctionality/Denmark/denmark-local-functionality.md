@@ -1,8 +1,8 @@
 ---
-    title: Denmark Local Functionality | Microsoft Docs
+    title: Denmark Local Functionality
     description: This section describes local functionality in [!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.
-    
-     
+
+
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Denmark Local Functionality
-The following topics describe the local functionality in the Danish version of [!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.  
+The following topics describe local functionality that is unique to the Danish version of [!INCLUDE[navnow](../../includes/navnow_md.md)] in Denmark.  
 
 ## In This Section  
 [OIOUBL Electronic Invoicing Overview](oioubl-electronic-invoicing-overview.md)  

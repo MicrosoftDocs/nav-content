@@ -1,6 +1,8 @@
 ---
-    title: Set up SEPA credit transfer | Microsoft Docs
-    description: Learn how to set up SEPA credit transfer in Dynamics NAV .
+    title: Set up SEPA credit transfer 
+    description: Learn how to set up SEPA credit transfer in Dynamics NAV.
+    
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -8,15 +10,15 @@
     ms.devlang: na
     ms.tgt_pltfrm: na
     ms.workload: na
-    ms.search.keywords: sepa, credit, transfer, payment,
+    ms.search.keywords: sepa, credit, transfer, payment, 
     ms.date: 08/21/2017
     ms.author: sgroespe
 
 ---
 # How to: Set Up SEPA Credit Transfer
-From the **Payment Journal** window, you can export payments to a file for upload to your electronic bank for processing of the related money transfers. [!INCLUDE[navnow](includes/navnow_md.md)] supports the SEPA Credit Transfer format, but in your country/region, other formats for electronic payments may be available.  
+From the **Payment Journal** window, you can export payments to a file for upload to your electronic bank for processing of the related money transfers. [!INCLUDE[d365fin](includes/d365fin_md.md)] supports the SEPA Credit Transfer format, but in your country/region, other formats for electronic payments may be available.  
 
-To enable export of a bank file formats that are not supported out of the box in [!INCLUDE[navnow](includes/navnow_md.md)], you can set up a data exchange definition by using the data exchange framework. For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).  
+To enable export of a bank file formats that are not supported out of the box in [!INCLUDE[d365fin](includes/d365fin_md.md)], you can set up a data exchange definition by using the data exchange framework. For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).  
 
 Before you can process payment electronically by exporting payment files in the SEPA Credit Transfer format, you must perform the following setup steps:  
 

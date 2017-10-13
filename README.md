@@ -3,7 +3,7 @@ Welcome to the repository for the application help content for Dynamics NAV! Dyn
 
 The content is available as markdown files (.md), where each file represents an article in the help. You can edit these markdown files, and then convert them to HTML files for application.
 
-The *live* branch currently contains content that applies to Dynamics NAV 2017. We are preparing to support Dynamics NAV 2018 in the *NAV2018* branch. 
+This repo contains the content in English (US). If you want access to the content in other languages, navigate to the relevant repo - the names follow this pattern: nav-content.<language>-<country>, such as [nav-content.da-DK](https://github.com/MicrosoftDocs/nav-content.da-DK) for the Danish version.
 
 If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
 
@@ -56,6 +56,8 @@ For example, to create a pull request to the nav-content repo by using GitHub De
 1.  Commit the changes to your repo that you want to include in the pull request.
 2.  Choose **Sync** to push the changes up to your repo on GitHub.
 3.  When the sync is completed, choose **Pull Request**, and then choose send **Pull Request**.
+
+**NOTE**: Microsoft accepts pull requests to the nav-content repo only, not the language-specific repos. If you have feedback about translations, you can report a GitHub issue in the relevant repo.
 
 ## Markdown Best Practices
 
@@ -203,6 +205,7 @@ This repo contains two TOC files. One is in MarkDown format and the other is in 
 ### Standard Phrases
 All fields in Dynamics NAV have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    
 "Choose a field to read a short description of the field or link to more information."
+**Note**: The product name is represented by placeholders, called INCLUDES. In most cases, use the short name for the product, "Dynamics NAV", and use this placeholder: ```[!INCLUDE[d365fin](includes/d365fin_md.md)]```. As you can see, this is the placeholder for the online version of Dynamics NAV, but due to translation costs, we have chosen to use the same placeholder for Dynamics NAV but change the value of it in the *includes* folder.
 
 ### File naming
 
@@ -232,8 +235,7 @@ All fields in Dynamics NAV have tooltips. Therefore, do not document fields in H
 Naming consists of the following elements: ```<country prefix>-<category prefix>-<topic title>.<extension>```
 
 ### Country-specific content
-To simplify content localization and translation, country-specific articles live in country-specific folders, such as ...\nav-content\dynamics-nav-app\LocalFunctionality\Denmark.
-
+To simplify content localization and translation, country-specific articles live in the same folder ```/dynamics-nav-app``` as the articles for the generic product. We distinguish country-specific article file names by a country prefix. However, we are moving towards having local functionality descriptions in country-specific subfolders under ```/dynamics-nav-app/LocalFunctionality```.
 
 ## Code of Conduct
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.

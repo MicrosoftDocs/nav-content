@@ -1,8 +1,8 @@
 ---
-    title: How to Work with Responsibility Centers | Microsoft Docs
+    title: How to Work with Responsibility Centers 
     description: Responsibility centers providing the ability to handle administrative centers. A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -58,4 +58,4 @@ To set this up, you assign responsibility centers to users in three functional a
 [Inventory](inventory-manage-inventory.md)[Warehouse Management](warehouse-manage-warehouse.md)  
 [Warehouse Management](warehouse-manage-warehouse.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

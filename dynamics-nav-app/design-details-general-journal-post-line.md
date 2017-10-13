@@ -1,8 +1,8 @@
 ---
-    title: Design Details - General Journal Post Line | Microsoft Docs
-    description: This topic provides insight into the concepts and principles that are used to redesign the general journal posting line feature in [!INCLUDE[navnow](includes/navnow_md.md)].
+    title: Design Details - General Journal Post Line 
+    description: This topic provides insight into the concepts and principles that are used to redesign the general journal posting line feature in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Design Details: General Journal Post Line
-This documentation provides detailed technical insight into the concepts and principles that are used to redesign the general journal posting line feature in [!INCLUDE[navnow](includes/navnow_md.md)]. The redesign makes codeunit 12 simpler and more maintainable. The documentation starts by describing conceptual overviews of the redesign. Then it explains the technical architecture to show the changes that result from the redesign.  
+This documentation provides detailed technical insight into the concepts and principles that are used to redesign the general journal posting line feature in [!INCLUDE[d365fin](includes/d365fin_md.md)]. The redesign makes codeunit 12 simpler and more maintainable. The documentation starts by describing conceptual overviews of the redesign. Then it explains the technical architecture to show the changes that result from the redesign.  
 
 ## In This Section  
 [General Journal Post Line Overview](design-details-general-journal-post-line-overview.md)  

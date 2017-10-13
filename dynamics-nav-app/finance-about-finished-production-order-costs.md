@@ -1,8 +1,8 @@
 ---
-    title: About Finished Production Order Costs | Microsoft Docs
+    title: About Finished Production Order Costs 
     description: Finishing the production order is an important task in completing the costing lifecycle of the item that is being produced. Final costs, including variances in a standard cost environment, actuals in a FIFO, Average, or LIFO cost environment, are calculated using the **Adjust Cost - Item Entries** batch job.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -24,4 +24,4 @@ Finishing the production order is an important task in completing the costing li
 ## See Also  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Manufacturing](production-manage-manufacturing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

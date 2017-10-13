@@ -1,8 +1,8 @@
 ---
-    title: Set Up Service Contractss | Microsoft Docs
+    title: Set Up Service Contractss 
     description: Learn how to set up service contracts.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -22,7 +22,7 @@ Before you can work with contracts, you must set up the following:
 * **Service contract groups**, which gather service contracts that are related in some way.
 * **Service contract account groups**, which are used to group the service contract accounts together for service invoices created for service contracts. You assign these groups to service contracts.  
 * **Contract templates** that define contract layouts of contracts that include the most commonly used service contract details. When you create service contract quotes, you can create them by using templates. When you create a contract quote, the fields automatically contain the contents of the template fields.
-* **Customer templates** that let you create quotes for contacts or potential customers who are not registered as customers in [!INCLUDE[navnow](includes/navnow_md.md)].  
+* **Customer templates** that let you create quotes for contacts or potential customers who are not registered as customers in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## To set up a service contract group  
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Contract Groups**, and then choose the related link.  

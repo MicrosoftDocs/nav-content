@@ -1,28 +1,29 @@
 ---
-title: Financial Management| Microsoft Docs
+title: Financial Management
 description: Learn about the tasks to set up finance in your business to suit all your accounting, auditing, or bookkeeping needs.
+
+documentationcenter: ''
 author: edupont04
-ms.custom: na
+
+ms.prod: "dynamics-nav-2017"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 06/28/2017
 ms.author: edupont
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.prod: "dynamics-nav-2017"
----
 
-#Finance
-Dynamics NAV includes a standard configuration of most financial processes, but you can change the configuration to suit your business.
-Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Setup](setup.md).  
+---
+# Finance
+[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] includes a standard configuration of most financial processes, but you can change the configuration to suit your business. For more information, see [Setting Up Finance](finance-setup-finance.md).
 
 The default configuration includes a chart of accounts and standard posting groups that make the process of assigning default general ledger posting accounts to customers, vendors, and items more efficient.  
 
-The following table describes a sequence of tasks, with links to the topics that describe them.
+The following table describes a sequence of tasks, with links to the topics that describe them.  
 
-| To                                                                  | See                      |
-|---------------------------------------------------------------------|--------------------------|
+| To | See |
+| --- | --- |
 | Apply incoming payments, reconcile bank accounts during payment application, and collect outstanding balances. |[Managing Receivables](receivables-manage-receivables.md) |
 | Make payments, apply outgoing payments, and work with checks. |[Managing Payables](payables-manage-payables.md) |
 |Make your customers submit payment before you ship to them, or submit payment to your vendors before they ship to you.|[Invoicing Prepayments](finance-invoice-prepayments.md)|
@@ -46,9 +47,14 @@ The following table describes a sequence of tasks, with links to the topics that
 | Prepare to close a fiscal year or period. |[Closing Years and Periods](year-close-years-periods.md) |
 |Prepare a report that lists VAT from sales, and submit the report to tax authorities in the EU. | [How to: Report VAT to Tax Authorities](finance-how-report-vat.md)|
 
-##See Also
-[Set Up Core Financial Processes](finance-setup-finance.md)  
+## See Also
+[Setting Up Finance](finance-setup-finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Close Fiscal Periods](year-close-years-periods.md)  
-[Work with General Journals](ui-work-general-journals.md)  
+[Closing Fiscal Periods](year-close-years-periods.md)  
+[Managing Projects](projects-manage-projects.md)    
+[Importing from Other Finance Systems](upload-data.md)  
+[Working with General Journals](ui-work-general-journals.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+
+## 

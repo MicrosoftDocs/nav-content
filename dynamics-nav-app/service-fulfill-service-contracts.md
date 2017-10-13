@@ -1,8 +1,8 @@
 ---
-title: Overview of Tasks to Fulfill Service Contracts | Microsoft Docs
+title: Overview of Tasks to Fulfill Service Contracts 
 description: Outlines tasks to manage service contracts with customers.
 
- 
+documentationcenter: ''
 author: bholtorf
 
 ms.prod: "dynamics-nav-2017"

@@ -1,7 +1,7 @@
 ---
-title: Create a Purchase Quote to Request an Offer from Your Vendor | Microsoft Docs
+title: Create a Purchase Quote to Request an Offer from Your Vendor 
 description: Describes how to create a sales offer or a request for proposal (RFQ) document to record your offer to a customer to sell products under certain terms.
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -33,4 +33,4 @@ The purchase quote is removed from the database. A purchase invoice or a sales o
 [Purchasing](purchasing-manage-purchasing.md)  
 [Setting Up Purchasing](purchasing-setup-purchasing.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

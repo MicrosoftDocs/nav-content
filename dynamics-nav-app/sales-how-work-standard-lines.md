@@ -1,8 +1,8 @@
 ---
-title: Setup and Use Standard Lines for Recurring Sales and Purchases| Microsoft Docs
+title: Setup and Use Standard Lines for Recurring Sales and Purchases
 description: You can set up sales lines and purchase lines that you frequently make and then insert them on sales and purchase documents to quickly fill the lines with standard information.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -47,4 +47,4 @@ Sales invoices are created for the customers with the specified standard custome
 
 ## See Also  
 [Sales](sales-manage-sales.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

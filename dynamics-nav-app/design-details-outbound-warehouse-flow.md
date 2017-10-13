@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Outbound Warehouse Flow | Microsoft Docs
+    title: Design Details - Outbound Warehouse Flow 
     description: The outbound flow in the warehouse begins with a request from released source documents to bring the items out of the warehouse location, either to be shipped to an external party or to another company location. From the storage area, warehouse activities are performed at different complexity levels to bring the items out to the shipping docks.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -34,7 +34,7 @@ In addition, the following internal source documents exist that function like ou
 
  Processes and UI documents in outbound warehouse flows are different for basic and advanced warehouse configurations. The main difference is that activities are performed order-by-order in basic warehouse configurations, and they are consolidated for multiple orders in advanced warehouse configurations. For more information about different warehouse complexity levels, see [Design Details: Warehouse Overview](design-details-warehouse-setup.md).  
 
- In [!INCLUDE[navnow](includes/navnow_md.md)], the outbound processes of picking and shipping can be performed in four ways using different functionalities depending on the warehouse complexity level.  
+ In [!INCLUDE[d365fin](includes/d365fin_md.md)], the outbound processes of picking and shipping can be performed in four ways using different functionalities depending on the warehouse complexity level.  
 
 |Method|Inbound Process|Bins|Picks|Shipments|Complexity Level (See [Design Details: Warehouse Setup](design-details-warehouse-setup.md))|  
 |------------|---------------------|----------|-----------|---------------|--------------------------------------------------------------------------------------------------------------------|  

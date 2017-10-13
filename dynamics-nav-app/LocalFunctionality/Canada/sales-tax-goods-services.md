@@ -1,5 +1,5 @@
 ---
-title: Sales Tax in Canada| Microsoft Docs
+title: Sales Tax in Canada
 description: Learn about local sales tax and goods and services tax in Canada.
 
  

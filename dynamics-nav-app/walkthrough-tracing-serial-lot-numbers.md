@@ -1,8 +1,8 @@
 ---
-    title: Walkthrough - Tracing Serial-Lot Numbers | Microsoft Docs
+    title: Walkthrough - Tracing Serial-Lot Numbers 
     description: When product defects occur, the errors must be identified and affected items must be prevented from leaving the company. If defective items have already been shipped, you must trace who received them and, if you need to, recall the items.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -42,7 +42,7 @@ This walkthrough demonstrates tasks that are performed by the following user rol
 ## Prerequisites  
 To complete this walkthrough, you will need:  
 
--   The [!INCLUDE[navnow](includes/navnow_md.md)] company.  
+-   The [!INCLUDE[d365fin](includes/d365fin_md.md)] company.  
 -   To create new items and several business transactions by following the "Prepare Sample Data" section, later in this walkthrough.  
 
 ## Story  
@@ -137,6 +137,7 @@ Then you must create various purchase, production, and sales transactions with t
 2.  Choose the **New** group.  
 3.  Create a new released production order by filling in the following fields.  
 
+    ||||  
     |-|-|-|  
     |Source No.|Quantity|Serial No.|  
     |1002|2|SN1|  

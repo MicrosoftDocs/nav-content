@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Average Cost | Microsoft Docs
+    title: Design Details - Average Cost 
     description: The average cost of an item is calculated with a periodic weighted average, based on the average cost period that is set up in Dynamics NAV.
     author: SorenGP
 
@@ -14,7 +14,7 @@
 
 ---
 # Design Details: Average Cost
-The average cost of an item is calculated with a periodic weighted average, based on the average cost period that is set up in [!INCLUDE[navnow](includes/navnow_md.md)].  
+The average cost of an item is calculated with a periodic weighted average, based on the average cost period that is set up in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
  The valuation date is set automatically.  
 
@@ -207,4 +207,4 @@ The average cost of an item is calculated with a periodic weighted average, base
  [Design Details: Item Application](design-details-item-application.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

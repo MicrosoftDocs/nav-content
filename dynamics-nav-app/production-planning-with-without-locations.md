@@ -1,8 +1,8 @@
 ---
-    title: Planning With or Without Locations | Microsoft Docs
+    title: Planning With or Without Locations 
     description: Planning with or without location codes on demand lines is important to understand.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -141,4 +141,4 @@ Therefore, if you often plan for demand at locations, it is strongly advised to 
 [Purchasing](purchasing-manage-purchasing.md)  
 [Design Details: Supply Planning](design-details-supply-planning.md)   
 [Setup Best Practices: Supply Planning](setup-best-practices-supply-planning.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

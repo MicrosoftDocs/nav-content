@@ -1,5 +1,5 @@
 ---
-    title: How to Print VAT Reports | Microsoft Docs
+    title: How to Print VAT Reports
     description: Learn about the reports that you can use to report VAT information.
     
      

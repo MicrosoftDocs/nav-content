@@ -1,8 +1,8 @@
 ---
-title: Define the General Inventory Setup| Microsoft Docs
+title: Define the General Inventory Setup
 description: Describes how to define the general inventory setup, such as number series and locations, so that you can, for example, manage your warehouse and stock.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -27,6 +27,6 @@ If you want to include warehouse handling time in the order promising calculatio
 ## See Also
 [Set Up Inventory](inventory-setup-inventory.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 [General Business Functionality](ui-across-business-areas.md)

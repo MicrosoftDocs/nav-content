@@ -1,8 +1,8 @@
 ---
-    title: How to Create Service Quotes | Microsoft Docs
+    title: How to Create Service Quotes 
     description: You can use the **Service Quote** window to create documents where you enter information about a service, such as repairs and maintenance, on service items by customer request. You can use a service quote as a preliminary draft for a service order, and then convert the quote to a service order.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

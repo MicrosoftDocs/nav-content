@@ -1,8 +1,8 @@
 ---
-title: Undo a Posting by Posting a Reversing Entry| Microsoft Docs
+title: Undo a Posting by Posting a Reversing Entry
 description: If you have made an erroneous posting in the general journal, then you can use the Reverse Transaction function to undo the posting with a correct audit trail.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -67,4 +67,4 @@ You can reverse entries from all **Ledger Entries** windows. The following proce
 [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md)  
 [Working with General Journals](ui-work-general-journals.md)  
 [Finance](finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

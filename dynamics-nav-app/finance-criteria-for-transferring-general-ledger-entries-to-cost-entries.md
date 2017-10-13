@@ -1,8 +1,8 @@
 ---
-    title: Criteria for Transferring General Ledger Entries to Cost Entries | Microsoft Docs
+    title: Criteria for Transferring General Ledger Entries to Cost Entries 
     description: It is important to understand the criteria for transferring general ledger entries to cost entries. During the transfer, the **Transfer GL Entries to CA** batch job uses the following criteria to determine if and how the general ledger entries are transferred.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -40,4 +40,4 @@ General ledger entries are not transferred if:
  [How to: Transfer General Ledger Entries to Cost Entries](finance-how-to-transfer-general-ledger-entries-to-cost-entries.md)   
  [Transferring and Posting Cost Entries](finance-transfer-and-post-cost-entries.md)   
  [About Cost Accounting](finance-about-cost-accounting.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

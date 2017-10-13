@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Production Order Posting | Microsoft Docs
+    title: Design Details - Production Order Posting 
     description: Similar to assembly order posting, the consumed components and the used machine time are converted and output as the produced item when the production order is finished.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -108,4 +108,4 @@ In standard-cost environments, the costing of a production order is based on the
  [Design Details: Assembly Order Posting](design-details-assembly-order-posting.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)
  [Finance](finance.md)  
- [Working with Financials](ui-work-product.md)
+ [Working with Dynamics NAV](ui-work-product.md)

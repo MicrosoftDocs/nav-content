@@ -1,8 +1,8 @@
 ---
-    title: Accounting for Costs | Microsoft Docs
+    title: Accounting for Costs 
     description: Cost accounting is used to help you understand the costs of running a business. To get started with cost accounting, see the following topics.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -30,4 +30,4 @@ Cost accounting is used to help you understand the costs of running a business. 
 ## See Also  
 [Finance](finance.md)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

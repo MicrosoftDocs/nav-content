@@ -38,6 +38,6 @@ In the Document Links add-in, you can modify and take actions with the document,
 
 ## See Also
 [Welcome to Dynamics NAV](across-get-started.md)  
-[Finance](Finance.md)  
+[Finance](finance.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  

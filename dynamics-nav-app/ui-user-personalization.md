@@ -1,8 +1,8 @@
 ---
-title: Personalizing the Way Information is Displayed for a User Account | Microsoft Docs
-description: Describes how to customize the look and feel of Dynamics 365 for your user account.
+title: Personalizing the Way Information is Displayed for a User Account 
+description: Describes how to customize the look and feel of Dynamics NAV for your user account.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@ ms.author: sgroespe
 
 ---
 # User Personalization
-You can change how certain UI elements are displayed in your version of [!INCLUDE[navnow](includes/navnow_md.md)] to best serve your needs.
+You can change how certain UI elements are displayed in your version of [!INCLUDE[d365fin](includes/d365fin_md.md)] to best serve your needs.
 
 > [!NOTE]  
 >   Personalizations apply to your user account only. Other users do not see them.
@@ -30,5 +30,5 @@ On lists and document lines, not all available column information is displayed b
 4. Choose the **OK** button.
 
 ## See Also
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Entering Criteria in Filters](ui-enter-criteria-filters.md)

@@ -1,8 +1,8 @@
 ---
-    title: How to Use Item Families in Manufacturing | Microsoft Docs
+    title: How to Use Item Families in Manufacturing 
     description: The main task in customizing a base calendar for your company, or one of its business partners, is to enter any changes to working and nonworking day status.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -42,4 +42,4 @@ Forming production families reduces the scrap quantity because what would normal
 [Planning](production-planning.md)   
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

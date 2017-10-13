@@ -1,8 +1,8 @@
 ---
-    title: Warehouse Activities | Microsoft Docs
+    title: Warehouse Activities 
     description: After goods are received and before goods are shipped, a series of internal warehouse activities take place to ensure an effective flow through the warehouse and to organize and maintain company inventories.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -40,4 +40,4 @@ Before you can perform warehouse activities, you must set the system up for the 
  [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
  [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

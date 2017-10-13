@@ -1,8 +1,8 @@
 ---
-title: Transfer Items Between Warehouse Locations| Microsoft Docs
+title: Transfer Items Between Warehouse Locations
 description: Describes how to move inventory from one place or warehouse to another, either with the reclassification journal or with transfer orders.
 
-
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -26,9 +26,6 @@ With the reclassification journal, you simply fill in the **Location Code** and 
 >   If you have items recorded in your inventory without a location code, for example from a time when you only had one warehouse, then you cannot transfer those items using transfer orders. Instead, you must use the reclassification journal to reclassify the items from a blank location code to an actual location code.  For more information, see step 3 in the "To transfer items with the item reclassification journal" section.
 
 To transfer items, locations and transfer routes must be set up. For more information, see [How to: Set Up Locations](inventory-how-setup-locations.md).
-
-> [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
 
 ## To transfer items with a transfer order
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Transfer orders**, and then choose the related link.
@@ -61,6 +58,8 @@ To transfer items, locations and transfer routes must be set up. For more inform
 [Manage Inventory](inventory-manage-inventory.md)  
 [How to: Set Up Locations](inventory-how-setup-locations.md)  
 
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 [General Business Functionality](ui-across-business-areas.md)
+
+##

@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Variance | Microsoft Docs
+    title: Design Details - Variance 
     description: Variance is defined as the difference between the actual cost and the standard cost, as described in the following formula.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -62,4 +62,4 @@ Variance is defined as the difference between the actual cost and the standard c
  [Design Details: Costing Methods](design-details-costing-methods.md)
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

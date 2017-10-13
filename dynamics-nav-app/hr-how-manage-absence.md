@@ -1,8 +1,8 @@
 ---
-title: 'How to: Manage Employee Absence| Microsoft Docs'
+title: 'How to: Manage Employee Absence'
 description: Describes how to record employees' absence and analyze absence statistics.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -67,5 +67,5 @@ You can register employee absences on a daily basis or at some other interval th
 ## See Also
 [Manage Human Resources](hr-manage-human-resources.md)  
 [Finance](finance.md)  
-[Working With [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)
+[Working With [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)

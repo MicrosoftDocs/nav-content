@@ -1,8 +1,8 @@
 ---
-    title: Set Up Fault Reporting in Service Management | Microsoft Docs
+    title: Set Up Fault Reporting in Service Management 
     description: Learn how to set up fault reporting processes.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

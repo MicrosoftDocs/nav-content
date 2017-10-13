@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Accounts in the General Ledger | Microsoft Docs
+    title: Design Details - Accounts in the General Ledger 
     description: To reconcile inventory and capacity ledger entries with the general ledger, the related value entries are posted to different accounts in the general ledger.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -97,4 +97,4 @@ The following table shows how the amounts to post to the general ledger are calc
  [Design Details: Expected Cost Posting](design-details-expected-cost-posting.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

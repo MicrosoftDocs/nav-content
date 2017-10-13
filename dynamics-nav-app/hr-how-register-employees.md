@@ -1,8 +1,8 @@
 ---
-title: Set Up Employees and Modify Information| Microsoft Docs
+title: Set Up Employees and Modify Information
 description: Describes how to register new personnel or edit information for existing staff.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -55,5 +55,5 @@ You can use alternate addresses to keep track of your employees’ location, for
 ## See Also
 [How to: Record and Reimburse Employees' Expenses](finance-how-record-reimburse-employee-expenses.md)  
 [Finance](finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)

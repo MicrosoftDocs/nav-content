@@ -1,8 +1,8 @@
 ---
-    title: Set Up Service Offerings | Microsoft Docs
+    title: Set Up Service Offerings 
     description: Learn how to set up the services that you offer to your customers.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

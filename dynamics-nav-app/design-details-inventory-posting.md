@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Inventory Posting | Microsoft Docs
+    title: Design Details - Inventory Posting 
     description: Each inventory transaction, such as a purchase receipt or a sales shipment, posts two entries of different types.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -129,4 +129,4 @@ For more information, see [Design Details: Assembly Order Posting](design-detail
  [Design Details: Cost Components](design-details-cost-components.md)
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

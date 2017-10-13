@@ -1,8 +1,8 @@
 ---
-    title: How to Plan Warehouse Movements in Worksheets | Microsoft Docs
+    title: How to Plan Warehouse Movements in Worksheets 
     description: Plan movements in the worksheet using a bin replenishment function or manually planning the lines that you want to create as movement instructions.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -24,7 +24,7 @@ As the warehouse ships items out to customers, the bins with the highest bin ran
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Movement Worksheet**, and then choose the related link.  
 2.  Choose the **Calculate Bin Replenishment** action.  
 
-    [!INCLUDE[navnow](includes/navnow_md.md)] creates lines that indicate precisely how you should move items from the low-ranking bins to the higher-ranking bins.  
+    [!INCLUDE[d365fin](includes/d365fin_md.md)] creates lines that indicate precisely how you should move items from the low-ranking bins to the higher-ranking bins.  
 
     > [!NOTE]  
     >  A movement is suggested according to FEFO when you activate the **Create Movement** function if the following conditions are met for an item:  
@@ -69,4 +69,4 @@ You can also use the movement worksheet to plan other movement of inventory with
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

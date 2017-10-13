@@ -1,8 +1,8 @@
 ---
-    title: Design Details - The Concept of Balancing in Brief | Microsoft Docs
+    title: Design Details - The Concept of Balancing in Brief 
     description: Demand is given by a company’s customers. Supply is what the company can create and remove to establish balance. The planning system starts with the independent demand and then tracks backwards to the supply.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

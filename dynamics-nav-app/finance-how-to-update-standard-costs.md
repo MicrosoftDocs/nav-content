@@ -1,8 +1,8 @@
 ---
-title: How to Update Standard Costs | Microsoft Docs
+title: How to Update Standard Costs 
 description: You must periodically update the standard costs of components and roll the new costs up to the parent item.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -43,4 +43,4 @@ For more information, see [About Calculating Standard Cost](finance-about-calcul
  [Managing Inventory Costs](finance-manage-inventory-costs.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)
  [[Finance](finance.md)]  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

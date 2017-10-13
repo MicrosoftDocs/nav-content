@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up Stockkeeping Units | Microsoft Docs
+    title: How to Set Up Stockkeeping Units 
     description: You can use stockkeeping units to record information about your items for a specific location or a specific variant code.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -40,4 +40,4 @@ To create several stockkeeping units for an item, use the **Create Stockkeeping 
 [Inventory](inventory-manage-inventory.md)  
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

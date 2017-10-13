@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Costing Methods | Microsoft Docs
+    title: Design Details - Costing Methods 
     description: The costing method determines if an actual or a budgeted value is capitalized and used in the cost calculation. Together with the posting date and sequence, the costing method also influences how the cost flow is recorded.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Design Details: Costing Methods
-The costing method determines if an actual or a budgeted value is capitalized and used in the cost calculation. Together with the posting date and sequence, the costing method also influences how the cost flow is recorded. The following methods are supported in [!INCLUDE[navnow](includes/navnow_md.md)]:  
+The costing method determines if an actual or a budgeted value is capitalized and used in the cost calculation. Together with the posting date and sequence, the costing method also influences how the cost flow is recorded. The following methods are supported in [!INCLUDE[d365fin](includes/d365fin_md.md)]:  
 
 |Costing method|Description|When to use|  
 |--------------------|---------------------------------------|-----------------|  
@@ -155,4 +155,4 @@ The costing method determines if an actual or a budgeted value is capitalized an
  [Design Details: Item Application](design-details-item-application.md)
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

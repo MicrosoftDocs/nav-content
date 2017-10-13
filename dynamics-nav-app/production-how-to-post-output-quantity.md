@@ -1,8 +1,8 @@
 ---
-    title: How to Batch Post Production Output and Run Times| Microsoft Docs
+    title: How to Batch Post Production Output and Run Times
     description: The output quantity represents the work progress in the form of the finished quantity.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -44,4 +44,4 @@ The run time represents work progress in the form of the necessary working time.
 [Planning](production-planning.md)      
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

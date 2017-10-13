@@ -1,5 +1,5 @@
 ---
-    title: How to Subcontract Manufacturing | Microsoft Docs
+    title: How to Subcontract Manufacturing 
     description: When the purchase order has been created from the subcontractor worksheet, then it can be posted.
     author: SorenGP
 
@@ -99,4 +99,4 @@ When the purchase order is posted as invoiced, then the direct cost of the purch
 [Planning](production-planning.md)      
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

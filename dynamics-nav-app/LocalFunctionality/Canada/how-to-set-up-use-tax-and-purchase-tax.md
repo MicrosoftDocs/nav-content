@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Use Tax and Purchase Tax | Microsoft Docs
+    title: How to Set Up Use Tax and Purchase Tax
     description: Sales tax includes taxes that companies pay for using items
     
      

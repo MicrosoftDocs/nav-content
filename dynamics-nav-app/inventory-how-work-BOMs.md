@@ -1,7 +1,7 @@
 ---
-title: Work with Bills of Material to Manage Components| Microsoft Docs
+title: Work with Bills of Material to Manage Components
 description: You create an assembly BOM or production BOM to specify the components or resources required to put together the item that the BOM represents.
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -99,4 +99,4 @@ The costs of the items that make up the assembly BOM are copied from the compone
 [How to: Register New Items](inventory-how-register-new-items.md)  
 [How to: View the Availability of Items](inventory-how-availability-overview.md)     
 [Inventory](inventory-manage-inventory.md)  
-[Working with [!INCLUDE[navnowlong](includes/navnowlong_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)

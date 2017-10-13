@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up Allocation Source and Targets | Microsoft Docs
+    title: How to Set Up Allocation Source and Targets 
     description: Each allocation consists of an allocation source and one or more allocation targets. The allocation source defines which costs will be allocated. The allocation targets determine where the costs will be allocated.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -42,4 +42,4 @@ Each allocation consists of an allocation source and one or more allocation targ
  [Scenario Example: Defining Dynamic Allocations Based on Items Sold](finance-scenario-example-defining-dynamic-allocations-based-on-items-sold.md)   
  [Defining and Allocating Costs](finance-define-and-allocate-costs.md)   
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

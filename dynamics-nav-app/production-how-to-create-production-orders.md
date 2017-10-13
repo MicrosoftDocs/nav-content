@@ -1,8 +1,8 @@
 ---
-    title: How to Create Production Order Headers | Microsoft Docs
+    title: How to Create Production Order Headers 
     description: You can create a production order manually, and the first step is to create a production order header.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -40,4 +40,4 @@ When production requirements change, such as components or operations, you can q
 [Planning](production-planning.md)      
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

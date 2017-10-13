@@ -1,8 +1,8 @@
 ---
-    title: How to Set Up Cost Centers | Microsoft Docs
+    title: How to Set Up Cost Centers 
     description: Cost centers are departments that are responsible for costs and income. The chart of cost centers is similar to the dimension information for the general ledger.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -53,4 +53,4 @@ You can set up and maintain cost centers in either the **Cost Center Card** card
 [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
 [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   
 [About Cost Accounting](finance-about-cost-accounting.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

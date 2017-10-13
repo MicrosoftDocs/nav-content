@@ -1,8 +1,8 @@
 ---
-    title: How to Restructure Warehouses | Microsoft Docs
+    title: How to Restructure Warehouses 
     description: You may want to restructure your warehouse with new bin codes and new bin characteristics.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -85,4 +85,4 @@ If you want to rename a bin so that all records associated with the bin are also
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -1,8 +1,8 @@
 ---
-    title: Walkthrough - Selling, Assembling, and Shipping Kits | Microsoft Docs
+    title: Walkthrough - Selling, Assembling, and Shipping Kits 
     description: To support just-in-time inventory and the ability to customize products to customer requests, assembly orders can be automatically created and linked as soon as the sales order line is created. The link between the sales demand and the assembly supply enables sales order processors to customize the assembly item and promise delivery dates according to component availability. In addition, assembly consumption and output are posted automatically with the shipment of the linked sales order.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -32,7 +32,7 @@ Assembly items are characterized by their replenishment system and the assembly 
 -   Creating an assembly BOM that lists the assembly components and the resource that go into the assembly item.  
 
 ### Selling Customized Assembly Items  
-[!INCLUDE[navnow](includes/navnow_md.md)] provides the flexibility to enter both an inventory quantity and an assemble-to-order quantity on one sales order line. This section covers the following tasks:  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] provides the flexibility to enter both an inventory quantity and an assemble-to-order quantity on one sales order line. This section covers the following tasks:  
 
 -   Creating a pure ATO sales order line where the full quantity is unavailable and must be assembled before shipment.  
 -   Customizing ATO items.  
@@ -74,7 +74,7 @@ This walkthrough demonstrates tasks that are performed by the following user rol
 ## Prerequisites  
 Before you can perform the tasks in the walkthrough, you must do the following:  
 
--   Install [!INCLUDE[navnow](includes/navnow_md.md)].  
+-   Install [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 -   Make yourself a warehouse employee at WHITE location by following these steps:  
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Warehouse Employees**, and then choose the related link.  

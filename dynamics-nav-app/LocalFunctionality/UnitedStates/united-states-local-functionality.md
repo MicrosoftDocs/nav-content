@@ -1,5 +1,5 @@
 ---
-    title: United States Local Functionality | Microsoft Docs
+    title: United States Local Functionality
     description: The following topics describe the local functionality in the United States version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
     
      

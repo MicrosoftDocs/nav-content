@@ -1,8 +1,8 @@
 ---
-    title: How to Quote an Assemble-to-Order Sale | Microsoft Docs
+    title: How to Quote an Assemble-to-Order Sale 
     description: You can use assembly management to customize an assembly item to a customer’s request during the sales process.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -41,4 +41,4 @@ As when you sell any other type of item, you can also create a sales quote for a
 [How to: Work with Bills of Material](inventory-how-work-BOMs.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

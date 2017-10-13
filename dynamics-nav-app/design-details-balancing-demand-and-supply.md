@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Balancing Demand and Supply | Microsoft Docs
+    title: Design Details - Balancing Demand and Supply 
     description: To understand how the planning system works, it is necessary to understand the prioritized goals of the planning system, the most important of which are to ensure that:
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

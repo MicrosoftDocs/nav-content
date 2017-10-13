@@ -1,8 +1,8 @@
 ---
-title: Posting Group Setup| Microsoft Docs
+title: Posting Group Setup
 description: Overview of the posting groups you can use to save time and avoid mistakes when you post transactions.
 
- 
+documentationcenter: ''
 author: bholtorf
 
 ms.prod: "dynamics-nav-2017"
@@ -74,4 +74,4 @@ The more product and business posting groups you have, the more lines you see in
 ## See also
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
 [Setting Up Finance](finance-setup-finance.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

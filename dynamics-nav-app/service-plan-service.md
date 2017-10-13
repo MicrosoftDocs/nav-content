@@ -1,8 +1,8 @@
 ---
-title: Planning Service Processes | Microsoft Docs
+title: Planning Service Processes 
 description: Outlines tasks to set up rules and values to define your service policies and processes.
 
- 
+documentationcenter: ''
 author: bholtorf
 
 ms.prod: "dynamics-nav-2017"
@@ -16,9 +16,9 @@ ms.author: bholtorf
 
 ---
 # Planning Services
-With [!INCLUDE[navnow](includes/navnow_md.md)], you can set up the standard tasks that you need to fulfill your customer service requirements. To do this, you must determine what service items and offerings your service organization supports, and at what price.   
+With [!INCLUDE[d365fin](includes/d365fin_md.md)], you can set up the standard tasks that you need to fulfill your customer service requirements. To do this, you must determine what service items and offerings your service organization supports, and at what price.   
 
-[!INCLUDE[navnow](includes/navnow_md.md)] also provides some statistics tools that you can use to determine how well things are going, and identify areas where you can improve.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] also provides some statistics tools that you can use to determine how well things are going, and identify areas where you can improve.
   
 The following table describes a sequence of tasks, with links to the topics that describe them.   
   

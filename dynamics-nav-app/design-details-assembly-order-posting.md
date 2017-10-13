@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Assembly Order Posting | Microsoft Docs
+    title: Design Details - Assembly Order Posting 
     description: Assembly order posting is based on the same principles as when posting the similar activities of sales orders and production consumption/output. However, the principles are combined in that assembly orders have their own posting UI, like that for sales orders, while the actual entry posting happens in the background as direct item and resource journal postings, like that for production consumption, output, and capacity.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -113,4 +113,4 @@ Posting sales order lines where a part is inventory quantity and another part is
  [Design Details: Costing Methods](design-details-costing-methods.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

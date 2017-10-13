@@ -1,8 +1,8 @@
 ---
-title: Transactions Between Companies in the Same Organization| Microsoft Docs
+title: Transactions Between Companies in the Same Organization
 description: With the Intercompany functionality, you can simplify business processes and transactions between companies within the same organization.  
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -43,4 +43,4 @@ The following table describes a sequence of tasks, with links to the topics that
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Working with General Journals](ui-work-general-journals.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

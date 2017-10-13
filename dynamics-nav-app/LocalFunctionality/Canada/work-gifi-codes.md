@@ -1,5 +1,5 @@
 ---
-title: GIFI Codes in Canada | Microsoft Docs
+title: GIFI Codes in Canada
 Description: In Canada, you can set up General Index of Financial Information (GIFI) codes and assign them to posting accounts
 
  

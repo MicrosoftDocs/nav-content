@@ -1,8 +1,8 @@
 ---
-    title: How to View Archived Workflow Step Instances | Microsoft Docs
+    title: How to View Archived Workflow Step Instances 
     description: All completed workflow step instances are saved in the **Archived Workflow Step Instances** window.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

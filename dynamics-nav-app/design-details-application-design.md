@@ -1,8 +1,8 @@
 ---
-    title: Design Details | Microsoft Docs
-    description: This content contains detailed technical information about complex application features in [!INCLUDE[navnow](includes/navnow_md.md)].
+    title: Design Details 
+    description: This content contains detailed technical information about complex application features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Design Details
-This content contains detailed technical information about complex application features in [!INCLUDE[navnow](includes/navnow_md.md)].  
+This content contains detailed technical information about complex application features in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
  Design details content is aimed at implementers, developers, and super users who need deeper insight to implement, customize, or set up the features in question.  
 
@@ -34,4 +34,4 @@ This content contains detailed technical information about complex application f
  [Managing Inventory Costs](finance-manage-inventory-costs.md)   
  [Warehouse Management](warehouse-manage-warehouse.md)   
  [Setting Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -1,8 +1,8 @@
 ---
-    title: Walkthrough - Conducting a Sales Campaign | Microsoft Docs
-    description: A campaign is any kind of activity that involves several contacts. An important part of setting up a campaign involves selecting the target audience for your campaign. For this purpose, in [!INCLUDE[navnow](includes/navnow_md.md)], you create a segment, or a group of contacts using filters.
+    title: Walkthrough - Conducting a Sales Campaign 
+    description: A campaign is any kind of activity that involves several contacts. An important part of setting up a campaign involves selecting the target audience for your campaign. For this purpose, in [!INCLUDE[d365fin](includes/d365fin_md.md)], you create a segment, or a group of contacts using filters.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Walkthrough: Conducting a Sales Campaign
-A campaign is any kind of activity that involves several contacts. An important part of setting up a campaign involves selecting the target audience for your campaign. For this purpose, in [!INCLUDE[navnow](includes/navnow_md.md)], you create a segment, or a group of contacts using filters.  
+A campaign is any kind of activity that involves several contacts. An important part of setting up a campaign involves selecting the target audience for your campaign. For this purpose, in [!INCLUDE[d365fin](includes/d365fin_md.md)], you create a segment, or a group of contacts using filters.  
 
  You use these features in Sales & Marketing to carefully plan your marketing activities and to manage your interactions with contacts and customers. You can create campaigns and set up segments of your contacts for mailings and other types of interactions with your contacts and prospective customers.  
 
@@ -40,7 +40,7 @@ A campaign is any kind of activity that involves several contacts. An important 
 -   Marketing Staffer  
 
 ## Prerequisites  
- Before you can perform the tasks in the walkthrough, you must install the [!INCLUDE[navnow](includes/navnow_md.md)].  
+ Before you can perform the tasks in the walkthrough, you must install the [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## Story  
  The marketing manager in the Sales department of CRONUS is responsible for planning campaigns and for executing them. He also makes decisions about which trade shows to participate in and he evaluates campaign progress.  
@@ -196,4 +196,4 @@ A campaign is any kind of activity that involves several contacts. An important 
 ## See Also  
 [Relationship Management](marketing-relationship-management.md)  
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

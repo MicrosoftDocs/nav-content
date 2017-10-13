@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Inventory Costing | Microsoft Docs
-    description: This documentation provides detailed technical insight to the concepts and principles that are used within the Inventory Costing features in [!INCLUDE[navnow](includes/navnow_md.md)].
+    title: Design Details - Inventory Costing 
+    description: This documentation provides detailed technical insight to the concepts and principles that are used within the Inventory Costing features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Design Details: Inventory Costing
-This documentation provides detailed technical insight to the concepts and principles that are used within the Inventory Costing features in [!INCLUDE[navnow](includes/navnow_md.md)].  
+This documentation provides detailed technical insight to the concepts and principles that are used within the Inventory Costing features in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 Inventory costing, also referred to as cost management, is concerned with recording and reporting business operating costs.  
 

@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Transfers in Planning | Microsoft Docs
+    title: Design Details - Transfers in Planning 
     description: This topic describes how to use transfer orders as a source of supply when planning inventory levels.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

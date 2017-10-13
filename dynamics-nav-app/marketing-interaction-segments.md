@@ -1,15 +1,21 @@
 ---
-title: "Interactions and Segments"
+title: Keep Track of Segments and Related Interactions
+description: Learn about creating segments to define groups of contacts and specifying interactions for segments.
+
+documentationcenter: ''
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
+
 ms.prod: "dynamics-nav-2017"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+
 ---
-# Interactions and Segments
+# Managing Interactions for Segments
 The **Segment** window is a type of worksheet where you can:
 
 * Create segments.
@@ -34,11 +40,11 @@ In the **Segment** window, when you choose **Log**, the application records the 
 
 In the **Logged Segments** window, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.
 
-
-##See Also
+## See Also
 [How to: Create Segments](marketing-how-create-segment.md)  
 [How to: Create Interactions for Segments](marketing-how-create-interactions.md)  
-[Manage Segments](marketing-segments.md)  
+[Managing Segments](marketing-segments.md)  
 [Recording Interactions With Contacts](marketing-interactions.md)  
-[Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Create and Manage Contacts](marketing-contacts.md)
+[Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Creating and Managing Contacts](marketing-contacts.md)  
+[Working with Dynamics NAV](ui-work-product.md)

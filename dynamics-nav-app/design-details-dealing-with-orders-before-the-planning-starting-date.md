@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Dealing with Orders Before the Planning Starting Date | Microsoft Docs
+    title: Design Details - Dealing with Orders Before the Planning Starting Date 
     description: This topic describes the rules that planning applies to orders in the frozen zone.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

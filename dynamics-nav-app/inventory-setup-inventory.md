@@ -1,8 +1,8 @@
 ---
-title: Setting Up Inventory| Microsoft Docs
+title: Setting Up Inventory
 description: Describes how to set up your stock and inventory processes, including transfer routes and locations, such as warehouses.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -35,5 +35,5 @@ When you have set up your inventory, you can manage various processes related to
 [Managing Inventory](inventory-manage-inventory.md)  
 [Managing Purchasing](purchasing-manage-purchasing.md)  
 [Managing Sales](sales-manage-sales.md)    
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)

@@ -1,8 +1,8 @@
 ---
-title: Process Incoming and Outgoing IC Transactions| Microsoft Docs
+title: Process Incoming and Outgoing IC Transactions
 description: Intercompany transactions that you receive from your intercompany partners are listed in the intercompany inbox where you process them manually or automatically.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -100,4 +100,4 @@ The following procedure describes to re-create inbox transactions, but the same 
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Working with General Journals](ui-work-general-journals.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

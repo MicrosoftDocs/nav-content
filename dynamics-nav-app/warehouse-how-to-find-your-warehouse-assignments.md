@@ -1,8 +1,8 @@
 ---
-    title: How to Find Your Warehouse Assignments | Microsoft Docs
+    title: How to Find Your Warehouse Assignments 
     description: To find your warehouse assignments, open the card window for a selected item. If warehouse instructions have been created, Take and Place lines are visible, and you can begin working on an assignment. In some warehouses, the manager may have assigned specific instructions to each employee.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -34,4 +34,4 @@ You can use the **Assigned User ID** field on the header to claim work assignmen
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md) 
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md) 

@@ -1,8 +1,8 @@
 ---
-    title: Service Management | Microsoft Docs
+    title: Service Management 
     description: Learn to use features designed to support repair shop and field service operations.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Service Management
-Providing ongoing service to customers is an important part of any business and one that can be a source of customer satisfaction and loyalty, in addition to revenue. However,managing and tracking service is not always easy, and [!INCLUDE[navnow](includes/navnow_md.md)] provides a set of tools to help. These tools are designed to support repair shop and field service operations, and can be used in business scenarios such as complex customer service distribution systems, industrial service environments with bills of materials, and high volume dispatching of service technicians with requirements for spare parts management.  
+Providing ongoing service to customers is an important part of any business and one that can be a source of customer satisfaction and loyalty, in addition to revenue. However,managing and tracking service is not always easy, and [!INCLUDE[d365fin](includes/d365fin_md.md)] provides a set of tools to help. These tools are designed to support repair shop and field service operations, and can be used in business scenarios such as complex customer service distribution systems, industrial service environments with bills of materials, and high volume dispatching of service technicians with requirements for spare parts management.  
 
  With these tools you can accomplish the following:  
 
@@ -41,4 +41,4 @@ The following table describes a sequence of tasks, with links to the topics that
 ## See Also  
 [Managing Receivables](receivables-manage-receivables.md)   
 [Jobs](projects-how-create-jobs.md)   
-[Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)] ](index.md)
+[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

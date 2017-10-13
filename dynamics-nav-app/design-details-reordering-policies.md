@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Reordering Policies | Microsoft Docs
+    title: Design Details - Reordering Policies 
     description: This topic gives an overview of policies for item replenishment.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

@@ -1,8 +1,8 @@
 ---
-    title: How to Put Away Production Output | Microsoft Docs
+    title: How to Put Away Production Output 
     description: How you put away your output from production depends on how your warehouse is set up as a location.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -75,4 +75,4 @@ If you only need to post setup or run time on the last operation, then set the o
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

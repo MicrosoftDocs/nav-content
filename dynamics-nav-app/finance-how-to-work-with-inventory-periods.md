@@ -1,8 +1,8 @@
 ---
-    title: How to Work with Inventory Periods | Microsoft Docs
+    title: How to Work with Inventory Periods 
     description: You can control the timeframe in which people can post post changes to inventory by defining inventory periods.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -66,4 +66,4 @@ After you have closed the inventory period, you cannot delete the inventory peri
 [Design Details: Inventory Periods](design-details-inventory-periods.md)  
 [Finance](finance.md)  
 [Inventory](inventory-manage-inventory.md)  
-[Working with Financials](ui-work-product.md)
+[Working with Dynamics NAV](ui-work-product.md)

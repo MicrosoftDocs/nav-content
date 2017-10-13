@@ -1,8 +1,8 @@
 ---
-    title: Set Up Service Management Processes | Microsoft Docs
+    title: Set Up Service Management Processes 
     description: Learn how to set up processes that help ensure your customers are satisfied with your customer service.
     
-     
+    documentationcenter: ''
     author: bholtorf
 
     ms.prod: "dynamics-nav-2017"

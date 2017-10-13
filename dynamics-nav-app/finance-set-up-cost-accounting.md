@@ -1,8 +1,8 @@
 ---
-    title: Setting Up Cost Accounting | Microsoft Docs
+    title: Setting Up Cost Accounting 
     description: Before you start working with cost accounting, you must perform setup tasks.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -31,4 +31,4 @@ Before you start working with cost accounting, you must perform setup tasks.
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [Transferring and Posting Cost Entries](finance-transfer-and-post-cost-entries.md)   
 [Defining and Allocating Costs](finance-define-and-allocate-costs.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

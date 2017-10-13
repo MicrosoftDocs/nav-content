@@ -1,5 +1,5 @@
 ---
-    title: Use Automated Data Capture Systems (ADCS) | Microsoft Docs
+    title: Use Automated Data Capture Systems (ADCS) 
     description: You can use your automatic data capture system (ADCS) to register the movement of items in the warehouse and to register some journal activities, such as quantity adjustments in the warehouse item journal and physical inventories.
     author: SorenGP
 
@@ -20,7 +20,7 @@ To use ADCS, you must give each item stored in the warehouse an item identifier.
 
 Based on the needs of your warehouse, you define the amount of information displayed in the miniform setup for the particular handheld device. The following are examples of information that you can display:  
 
-- Data from tables within [!INCLUDE[navnow](includes/navnow_md.md)], such as a list of pick documents from which the user can select.  
+- Data from tables within [!INCLUDE[d365fin](includes/d365fin_md.md)], such as a list of pick documents from which the user can select.  
 - Text information.  
 - Messages to show confirmations or errors about activities performed and registered by the handheld device user.
 
@@ -92,7 +92,7 @@ When you have created a miniform, the next steps are to create functions and to 
     </xsl:template>  
 
     ```  
-2.  In the [!INCLUDE[navnow](includes/navnow_md.md)] development environment, open table 7702 and add a code representing the new key. In this example, create a key that is named **F6**.  
+2.  In the [!INCLUDE[d365fin](includes/d365fin_md.md)] development environment, open table 7702 and add a code representing the new key. In this example, create a key that is named **F6**.  
 3.  Add C/AL code to the relevant function of the miniform-specific codeunit to handle the function key.  
 
 ### To customize miniform functions  
@@ -101,7 +101,7 @@ When you have created a miniform, the next steps are to create functions and to 
 3.  Choose the **Functions** action.  
 4.  In the **Function Code** drop-down list, select a code to represent the function that you want to associate with the miniform. For example, you can select ESC, which associates functionality with the press of the ESC key.  
 
-In the [!INCLUDE[navnow](includes/navnow_md.md)] development environment, edit the code for the **Handling Codeunit** field to create or modify code to perform the required action or response.
+In the [!INCLUDE[d365fin](includes/d365fin_md.md)] development environment, edit the code for the **Handling Codeunit** field to create or modify code to perform the required action or response.
 
 For more information, see [Configuring an Automated Data Capture System](https://msdn.microsoft.com/en-us/library/dd338742.aspx) on MSDN.
 
@@ -111,4 +111,4 @@ For more information, see [Configuring an Automated Data Capture System](https:/
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

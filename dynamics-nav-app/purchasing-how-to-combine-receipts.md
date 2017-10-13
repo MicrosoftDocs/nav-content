@@ -1,8 +1,8 @@
 ---
-    title: How to Combine Receipts | Microsoft Docs
+    title: How to Combine Receipts 
     description: If you want to invoice more than one purchase receipt at a time, you can use the Combine Receipts function.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -42,4 +42,4 @@ Repeat steps 1 through 3 for any other affected documents, such as blanket purch
 
 ## See Also  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

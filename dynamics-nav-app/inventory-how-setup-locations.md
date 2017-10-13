@@ -1,8 +1,8 @@
 ---
-title: Set Up a Location Card and Define Transfer Routes| Microsoft Docs
+title: Set Up a Location Card and Define Transfer Routes
 description: You create a location card for each place you store inventory items, for example, a warehouse or distribution center, and set up routes to transfer items between locations.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -20,9 +20,6 @@ If you buy, store, or sell items at more than one place or warehouse, you must s
 
 You can then create document lines for a specific location, view availability by location, and transfer inventory between locations. For more information, see [Manage Inventory](inventory-manage-inventory.md).
 
-> [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
-
 ## To create a location card
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Locations**, and then choose the related link.
 2. Choose the **New** action.
@@ -30,7 +27,7 @@ You can then create document lines for a specific location, view availability by
 4. Repeat steps 2 and 3 for every location where you want to keep inventory.
 
 > [!NOTE]  
-> Many fields on the location card refer to the handling of items in inbound and outbound warehouse processes. For more information, see [Setting Up Warehouse Management](warehouse-setup-warehouse.md). 
+> Many fields on the location card refer to the handling of items in inbound and outbound warehouse processes. For more information, see [Setting Up Warehouse Management](warehouse-setup-warehouse.md).
 
 ## To create a transfer route
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Transfer Routes**, and then choose the related link.
@@ -43,6 +40,6 @@ You can now transfer inventory items between two locations. For more information
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
 [How to: Transfer Inventory Between Locations](inventory-how-transfer-between-locations.md)    
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 [General Business Functionality](ui-across-business-areas.md)

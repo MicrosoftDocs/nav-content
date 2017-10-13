@@ -1,5 +1,5 @@
 ---
-title: United Kingdom Local Functionality | Microsoft Docs
+title: United Kingdom Local Functionality
 description: Get an overview of local functionality in the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 author: edupont04
 

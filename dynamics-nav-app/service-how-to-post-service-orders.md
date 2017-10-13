@@ -1,8 +1,8 @@
 ---
-    title: How to Post Service Orders | Microsoft Docs
+    title: How to Post Service Orders 
     description: When you have created a service order, filled in all the necessary information and made any modifications, you can post the service order. The order must contain at least one service item line and one service line before you can post it. Should the order contain more than one service line, all the lines are posted at one time.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -83,7 +83,7 @@ The following procedure describes how to post the items, resource hours, and or 
 The service is posted as consumed either partially or fully, depending on the value in the **Qty. to Consume** field, and the relevant ledger entries are created. In addition,previously posted service shipment documents are updated chronologically with the consumed quantities. The relevant quantities will be updated on the service lines of the order.  
 
 ## To post shipments from service orders  
-After specifying the details of a service, you can adjust and post the quantities of items used, time spent, and costs incurred. As a result, [!INCLUDE[navnow](includes/navnow_md.md)] makes the necessary changes to reflect the new state of your inventory and current status of the specific order processing.  
+After specifying the details of a service, you can adjust and post the quantities of items used, time spent, and costs incurred. As a result, [!INCLUDE[d365fin](includes/d365fin_md.md)] makes the necessary changes to reflect the new state of your inventory and current status of the specific order processing.  
   
 The following procedure shows how to post shipment of service line items in locations that are not set up to require warehouse handling.  
 
@@ -95,7 +95,7 @@ The following procedure shows how to post shipment of service line items in loca
   
 4. Choose **Actions**, **Posting**, **Post**. In the window that appears, choose **Ship**.  
   
-[!INCLUDE[navnow](includes/navnow_md.md)] creates ledger entries (in the warranty ledger, item ledger, service ledger, or G/L), produces the posted service shipment document, and updates the relevant fields on the service lines of the service order.  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] creates ledger entries (in the warranty ledger, item ledger, service ledger, or G/L), produces the posted service shipment document, and updates the relevant fields on the service lines of the service order.  
   
 If the location is set up to require warehouse handling, then the shipping and moving of service line items function in the same ways as for other source documents. The only difference is that service line items can be consumed either externally or internally and therefore require two different release functions.  
   

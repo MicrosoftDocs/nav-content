@@ -1,8 +1,8 @@
 ---
-    title: About Inventory Costing | Microsoft Docs
+    title: About Inventory Costing 
     description: Managing inventory costs is concerned with recording and reporting business operating costs. It includes the reporting of manufacturing costs and inventory costs, that is, the value of items.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -38,4 +38,4 @@ Managing inventory costs is concerned with recording and reporting business oper
 
 ## See Also
 [Managing Inventory Costs](finance-manage-inventory-costs.md)    
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

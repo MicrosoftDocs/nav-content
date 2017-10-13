@@ -1,8 +1,8 @@
 ---
-title: Analyze Data by Dimensions| Microsoft Docs
+title: Analyze Data by Dimensions
 description: Describes how to analyze various business data by dimensions.
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -22,9 +22,6 @@ Analyzing data by dimensions gives you greater insight into your business, so yo
 
 > [!TIP]
 > As a quick way to analyze transactional data by dimensions, you can filter totals in the chart of accounts and entries in all **Entries** windows by dimensions. Look for the **Set Dimension Filter** action.
-
-> [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[navnow](includes/navnow_md.md)] Experience](ui-experiences.md).
 
 ## To set up an analysis view  
 An analysis by dimensions displays a selected combination of dimensions. You can store and retrieve each analysis you have set up. The information for setting up an analysis is stored on an **Analysis View** card to simplify future analysis.  
@@ -77,4 +74,4 @@ The following procedure is for updating an analysis view from the **Analysis by 
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
 [Working with Dimensions](finance-dimensions.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

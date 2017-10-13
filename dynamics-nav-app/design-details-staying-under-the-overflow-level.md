@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Staying Under the Overflow Level | Microsoft Docs
+    title: Design Details - Staying Under the Overflow Level 
     description: When using Maximum Qty. and Fixed Reorder Qty., the planning system focuses on the projected inventory in the given time-bucket only. This means that the planning system may suggest superfluous supply when negative demand or positive supply changes occur outside of the given time bucket.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

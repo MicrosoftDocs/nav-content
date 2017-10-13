@@ -1,8 +1,8 @@
 ---
-title: Assign Item Charges to Sales and Purchases| Microsoft Docs
+title: Assign Item Charges to Sales and Purchases
 description: 'If you want your inventory items to carry added costs, such as freight, physical handling, insurance, and transportation that you incur when purchasing or selling items, you can use the Item Charges feature.'
 
- 
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -76,4 +76,4 @@ The item charge on the separate purchase invoice is now assigned to the item on 
 [Managing Payables](payables-manage-payables.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)  
 [How to: Invoice Sales](sales-how-invoice-sales.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

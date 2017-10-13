@@ -1,8 +1,8 @@
 ---
-    title: Balances Between Cost Type, Cost Center, and Cost Object | Microsoft Docs
+    title: Balances Between Cost Type, Cost Center, and Cost Object 
     description: When you set up cost accounting, you must make sure that all entries are assigned to a cost type as well as a cost center or a cost object. The means that each cost entry must have a cost type assigned and a cost center code or a cost object assigned. This rule ensures that each cost entry appears in either the cost centers or the cost objects, but never in both places.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -30,4 +30,4 @@ When you set up cost accounting, you must make sure that all entries are assigne
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   
  [About Cost Accounting](finance-about-cost-accounting.md)  
  [Creating Cost Budgets](finance-create-cost-budgets.md)  
- [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

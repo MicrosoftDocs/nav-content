@@ -1,7 +1,8 @@
 ---
-title: Set Up Marketing Campaigns in Dynamics 365| Microsoft Docs
-| Microsoft Docs
+title: Set Up Marketing Campaigns in Dynamics NAV
 description: Describes how you can set up and conduct marketing campaigns in Dynamics NAV to help you identify and attract prospects and retain customers.
+
+documentationcenter: ''
 author: SorenGP
 
 ms.prod: "dynamics-nav-2017"
@@ -46,4 +47,4 @@ Campaigns are conducted by salespeople, and you must create activities to repres
 [Managing Contacts](marketing-contacts.md)  
 [Managing Segments](marketing-segments.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Working with Dynamics 365](ui-work-product.md)  
+[Working with Dynamics NAV](ui-work-product.md)  

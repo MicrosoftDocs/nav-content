@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Supply Planning | Microsoft Docs
-    description: This topic provides an overview of the the concepts and principles that are used within the Supply Planning features in [!INCLUDE[navnow](includes/navnow_md.md)].
+    title: Design Details - Supply Planning 
+    description: This topic provides an overview of the the concepts and principles that are used within the Supply Planning features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -16,7 +16,7 @@
 
 ---
 # Design Details: Supply Planning
-This documentation provides detailed technical insight to the concepts and principles that are used within the Supply Planning features in [!INCLUDE[navnow](includes/navnow_md.md)].  
+This documentation provides detailed technical insight to the concepts and principles that are used within the Supply Planning features in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 It explains how the planning system works and how to adjust the algorithms to meet planning requirements in different environments. It first introduces central solution concepts and then describes the logic of the central mechanism, supply balancing, before proceeding to explain how inventory planning is performed with the use of reordering policies.  
 

@@ -1,8 +1,8 @@
 ---
-    title: Creating Cost Budgets | Microsoft Docs
+    title: Creating Cost Budgets 
     description: This topic provides an overview of where to create and analyze cost budgets.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -35,4 +35,4 @@ You use the following windows to create and analyze cost budgets. Choose the ![S
 [How to: Create Budgets](finance-how-create-budgets.md)  
 [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   
 [Defining and Allocating Costs](finance-define-and-allocate-costs.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

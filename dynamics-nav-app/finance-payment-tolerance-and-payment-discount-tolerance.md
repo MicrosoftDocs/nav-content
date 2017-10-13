@@ -1,8 +1,8 @@
 ---
-    title: Payment Tolerance and Payment Discount Tolerance | Microsoft Docs
+    title: Payment Tolerance and Payment Discount Tolerance 
     description: You can set up payment tolerance to close an invoice when the payment does not fully cover the amount on the invoice.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -27,7 +27,7 @@ A single document has the same payment tolerance whether it is applied on its ow
 
 *payment discount date < payment date on the selected entry <= payment tolerance date*  
 
-This rule also applies to determine whether to display warnings when you apply payment tolerance to multiple documents. The payment discount tolerance warning is displayed for each entry that meets the date criteria. For more information, see the "Example 2 - Tolerance Calculations for Multiple Documents" section.
+This rule also applies to determine whether to display warnings when you apply payment tolerance to multiple documents. The payment discount tolerance warning is displayed for each entry that meets the date criteria. For more information, see the "Example 2 - Tolerance Calculations for Multiple Documents" section. 
 
 You can choose to display a warning that is based on different tolerance situations.  
 
@@ -53,14 +53,14 @@ To set up tolerance you have to set up various tolerance accounts, specify both 
 11. In the **Change Payment Tolerance** window, fill in the **Payment Tolerance %** and **Max Payment Tolerance Amount** fields, and then choose the **OK** button.
 
 > [!IMPORTANT]  
->  You have now set up tolerance for local currency only. If you want [!INCLUDE[navnow](includes/navnow_md.md)] to handle tolerance on payments, credit memos, and refunds in a foreign currency, you must run the **Change Payment Tolerance** batch job with a value in the **Currency Code** field.  
+>  You have now set up tolerance for local currency only. If you want [!INCLUDE[d365fin](includes/d365fin_md.md)] to handle tolerance on payments, credit memos, and refunds in a foreign currency, you must run the **Change Payment Tolerance** batch job with a value in the **Currency Code** field.  
 
 > [!NOTE]  
 >  If you want to get a payment tolerance warning every time that you post an application in the tolerance, you must activate the payment tolerance warning. For more information, see the "To enable or disable payment tolerance warning" section.  
 >   
 >  To deactivate tolerance for a customer or vendor, you must block tolerances on the relevant customer or vendor card. For more information, see the "To block payment tolerance for customers" section.  
 >   
->  When you set up tolerance, [!INCLUDE[navnow](includes/navnow_md.md)] also checks if there are any open entries and calculates the tolerance for these entries.
+>  When you set up tolerance, [!INCLUDE[d365fin](includes/d365fin_md.md)] also checks if there are any open entries and calculates the tolerance for these entries.
 
 ## To enable or disable payment tolerance warnings
 The payment tolerance warning appears when you post an application that has a balance in the allowed tolerance. You can then choose how you want to post and document the balance.    
@@ -91,8 +91,7 @@ Scenarios with alternative A or B represent the following:
 - **A** In this case, the payment discount tolerance warning has been turned off OR the user has the warning on and has selected to allow the late payment discount (Post the Balance as Payment Tolerance).  
 - **B** In this case, the user has the warning on and has selected not to allow the late payment discount (Leave the Balance as Remaining Amount).  
 
-[!div class="mx-tdBreakAll"]  
-|—|Inv.|Pmt. Disc.|Max Pmt. Tol.|Pmt. Disc. Date|Pmt. Disc. Tol. Date|Payment Date|Pmt.|Tolerance Type|All Entries closed|Pmt. Disc. Tol. GL/CL|Pmt. Tol. G/L|  
+|—|Inv.|Pmt. Disc.|Max<br /><br /> Pmt. Tol.|Pmt. Disc. Date|Pmt. Disc. Tol. Date|Payment Date|Pmt.|Tolerance Type|All Entries closed|Pmt. Disc. Tol. <br /> GL/CL|Pmt.<br /><br /> Tol.<br /><br /> G/L|  
 |-------|----------|----------------|-----------------------|---------------------|--------------------------|------------------|----------|--------------------|------------------------|------------------------------|----------------------------|  
 |1|1,000|20|5|01/15/03|01/20/03|<=01/15/03|985|Pmt.Tol.|Yes|0|-5|  
 |2|**1,000**|**20**|**5**|**01/15/03**|**01/20/03**|**<=01/15/03**|**980**|**None**|**Yes**|**0**|**0**|  
@@ -163,9 +162,7 @@ Scenarios with alternative A, B, C, or D represent the following:
 - **C** - In this case, the user has the warning on and has selected to allow the late payment discount on the first invoice but not the second.  
 - **D** - In this case, the user has the warning on and has selected not to allow the late payment discount on the first invoice but allowed it on the second.  
 
-[!div class="mx-tdBreakAll"]  
-
-|—|Inv.|Pmt Disc.|Max Pmt. Tol.|Pmt. Disc. Date|Pmt. Disc. Tol. Date|Payment Date|Pmt|Tolerance Type|All Entries closed|Pmt. Disc. Tol. GL/CL|Pmt. Tol. G/L|  
+|—|Inv.|Pmt Disc.|Max Pmt. Tol.|Pmt. Disc. Date|Pmt. Disc. Tol. Date|Payment Date|Pmt|Tolerance Type|All Entries closed|Pmt. Disc. Tol. <br /> GL/CL|Pmt. Tol.<br /><br /> G/L|  
 |-------|----------|---------------|-------------------|---------------------|--------------------------|------------------|---------|--------------------|------------------------|------------------------------|------------------------|  
 |1|1,000 <br />1,000|60 <br />30|5 <br />5|01/15/03 <br />01/17/03|01/20/03 <br />01/22/03|<=01/15/03|1920|Pmt.Tol.|Yes|0<br /><br /> 0|-5 <br />-5|  
 |**2**|**1,000** <br />**1,000**|**60** <br />**30**|**5** <br />**5**|**01/15/03** <br />**01/17/03**|**01/20/03** <br />**01/22/03**|**<=01/15/03**|**1910**|**None**|**Yes**|**0**<br /><br /> **0**|0 <br />0|  
@@ -260,4 +257,4 @@ Normal Application Rules
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Managing Receivables](receivables-manage-receivables.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

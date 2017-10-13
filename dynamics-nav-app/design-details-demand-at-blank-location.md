@@ -1,8 +1,8 @@
 ---
-    title: Design Details - Demand and Supply | Microsoft Docs
+    title: Design Details - Demand and Supply 
     description: This topic introduces the concept of demand, which is the common term used for any kind of gross demand, such as a sales order and component need from a production order.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"

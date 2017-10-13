@@ -1,8 +1,8 @@
 ---
-    title: How to Pick for Internal Operations in Advanced Warehouse Configurations | Microsoft Docs
+    title: How to Pick for Internal Operations in Advanced Warehouse Configurations 
     description: In advanced warehouse configurations where the location is set up to use picking as well as shipping, you can pick components for production and assembly activities with the **Warehouse Pick** window.
     
-     
+    documentationcenter: ''
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
@@ -58,4 +58,4 @@ This flow chart shows how the **Bin Code** field on production order component l
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
