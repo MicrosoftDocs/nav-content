@@ -1,6 +1,6 @@
 ---
 title: Create Sales Opportunities
-description: Describes how to create opportunities from a salesperson or a contact in Financials.
+description: Describes how to create opportunities from a salesperson or a contact in Dynamics NAV.
 services: project-madeira
 documentationcenter: ''
 author: jswymer
@@ -41,4 +41,4 @@ Before you can create opportunities, you must set up opportunity sales cycles. F
 ## See Also
 [Sales](sales-manage-sales.md)  
 [Creating and Managing Contacts](marketing-contacts.md)  
-[Working with Financials](ui-work-product.md)
+[Working with Dynamics NAV](ui-work-product.md)

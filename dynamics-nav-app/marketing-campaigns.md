@@ -1,5 +1,5 @@
 ---
-title: Set Up Marketing Campaigns in Financials
+title: Set Up Marketing Campaigns in Dynamics NAV
 description: Describes how you can set up and conduct marketing campaigns in Dynamics NAV to help you identify and attract prospects and retain customers.
 services: project-madeira
 documentationcenter: ''
@@ -47,4 +47,4 @@ Campaigns are conducted by salespeople, and you must create activities to repres
 [Managing Contacts](marketing-contacts.md)  
 [Managing Segments](marketing-segments.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Working with Financials](ui-work-product.md)  
+[Working with Dynamics NAV](ui-work-product.md)  

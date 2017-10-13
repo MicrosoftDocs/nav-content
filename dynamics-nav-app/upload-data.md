@@ -1,6 +1,6 @@
 ---
-title: Import Your Legacy Business Data into Financials 
-description: You can migrate data for customers, vendors, and inventory, for example, from Excel, QuickBooks, or Dynamics GP, into Financials.
+title: Import Your Legacy Business Data into Dynamics NAV 
+description: You can migrate data for customers, vendors, and inventory, for example, from Excel, QuickBooks, or Dynamics GP, into Dynamics NAV.
 author: edupont04
 
 ms.service: dynamics365-financials

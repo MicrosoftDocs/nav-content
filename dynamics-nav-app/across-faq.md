@@ -1,6 +1,6 @@
 ---
-title: FAQ About Using Financials
-description: Answers common questions about how to sign up for Financials, and what to do to get started.
+title: FAQ About Using Dynamics NAV
+description: Answers common questions about how to sign up for Dynamics NAV, and what to do to get started.
 author: edupont04
 
 ms.service: dynamics365-financials

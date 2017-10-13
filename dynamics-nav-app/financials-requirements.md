@@ -1,5 +1,5 @@
 ---
-title: Minimum requirements for using Financials
+title: Minimum requirements for using Dynamics NAV
 description: Learn about the minimum system and version requirements for using Dynamics NAV.
 services: project-madeira
 documentationcenter: ''

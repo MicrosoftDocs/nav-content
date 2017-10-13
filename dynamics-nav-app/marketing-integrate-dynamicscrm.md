@@ -21,7 +21,7 @@ When your application is set up to integrate with Dynamics 365 for Sales, you ha
 For example, the sales person in Dynamics 365 for Sales can use the price lists from [!INCLUDE[d365fin](includes/d365fin_md.md)] when they create a sales order. When they add the item to the sales order line in Dynamics 365 for Sales, they are also able to see the inventory level (availability) of the item from [!INCLUDE[d365fin](includes/d365fin_md.md)]. This data is published as part of the assisted setup guide, **Dynamics 365 Connection Setup**.  
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).  
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).  
 
 ## Setting up the connection
 From Home, you can access the **Dynamics 365 Connection Setup** assisted setup guide that helps you set up the connection. Once that is done, you will have a seamless coupling of Dynamics 365 for Sales records with [!INCLUDE[d365fin](includes/d365fin_md.md)] records.  
@@ -72,12 +72,12 @@ At the end of the assisted setup guide, you can choose the **Run Full Synchroniz
 
 To check the progress of individual jobs in a full synchronization, drill down on the **Job Queue Entry Status**, **To Int. Table Job Status**, or **From Int. Table Job Status** field in the **CRM Full Synch. Review** window.
 
-From the **Dynamics 365 Connection Setup** window, you can get details about full synchronization at any time. From here, you can also open the **Integration Table Mappings** window to see details about the tables in Financials and in the Dynamics 365 for Sales solution that must be synchronized.
+From the **Dynamics 365 Connection Setup** window, you can get details about full synchronization at any time. From here, you can also open the **Integration Table Mappings** window to see details about the tables in Dynamics NAV and in the Dynamics 365 for Sales solution that must be synchronized.
 
 ## See Also
 [Relationship Management](marketing-relationship-management.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md)  
+[Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview)  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)    
 [Onboard your organization and users to Dynamics NAV (online)](https://www.microsoft.com/en-US/Dynamics/crm-customer-center/onboard-your-organization-and-users-to-dynamics-365-online.aspx)  
 

@@ -80,7 +80,7 @@ The following table shows the combinations of FIK and GIRO payment methods that 
 4. In the **Payment Reference** field, enter the 15-digit number from the vendor invoice. 
   
     > [!Tip]
-    > You only have to add the last 11 digits of the number. Financials will add four zeros to the beginning of the number.  
+    > You only have to add the last 11 digits of the number. Dynamics NAV will add four zeros to the beginning of the number.  
   <!--ASK ANDREI WHY AND WHAT THIS NUMBER IS-->
 5. Post the invoice.
 

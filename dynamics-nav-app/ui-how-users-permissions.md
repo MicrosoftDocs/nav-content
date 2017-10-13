@@ -1,6 +1,6 @@
 ---
 title: Assign User Permissions and Create or Modify Permission Sets 
-description: Describes how add Office 365 users to Financials, and then assign permissions, access rights, and security settings.
+description: Describes how add Office 365 users to Dynamics NAV, and then assign permissions, access rights, and security settings.
 author: SorenGP
 
 ms.service: dynamics365-financials
@@ -27,7 +27,7 @@ You can add users to user groups. This makes it easier to assign the same permis
 Administrators can use the **User Setup** window to define periods of time during which specified users are able to post, and also specify if the system logs the amount of time users are logged on.
 
 > [!NOTE]  
->   This functionality requires that your experience is set to Suite. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to Suite. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
 
 ## To assign permissions to a user
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Users**, and then choose the related link.

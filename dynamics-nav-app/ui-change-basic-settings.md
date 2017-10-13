@@ -1,6 +1,6 @@
 ---
-title: Viewing and Editing Basic Settings in Financials 
-description: Learn how to change some of the basic settings in Financials, for example, the Role Center, company, or the work date.
+title: Viewing and Editing Basic Settings in Dynamics NAV 
+description: Learn how to change some of the basic settings in Dynamics NAV, for example, the Role Center, company, or the work date.
 services: project-madeira
 documentationcenter: ''
 author: SusanneWindfeldPedersen
@@ -53,4 +53,4 @@ Choose this link to view or change the notifications that you get about certain 
 ## See Also
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [How to: Change the Role Center](change-role.md)  
-[Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md)  
+[Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview)  

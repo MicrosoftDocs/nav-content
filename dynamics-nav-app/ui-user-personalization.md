@@ -1,6 +1,6 @@
 ---
 title: Personalizing the Way Information is Displayed for a User Account 
-description: Describes how to customize the look and feel of Financials for your user account.
+description: Describes how to customize the look and feel of Dynamics NAV for your user account.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP

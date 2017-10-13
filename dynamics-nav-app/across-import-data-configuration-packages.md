@@ -1,5 +1,5 @@
 ---
-title: Use Excel to import data into Financials
+title: Use Excel to import data into Dynamics NAV
 description: Use the default configuration package to add customer data in Excel and import the data back into Dynamics NAV.
 author: edupont04
 ms.service: dynamics365-financials

@@ -41,4 +41,4 @@ With the add-in, you can get fresh data from [!INCLUDE[d365fin](includes/d365fin
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
-[Working with Financials](ui-work-product.md)  
+[Working with Dynamics NAV](ui-work-product.md)  

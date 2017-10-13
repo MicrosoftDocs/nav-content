@@ -1,6 +1,6 @@
 ---
 title: Use OCR to Turn PDF into E-Invoices
-description: Describes how you can use an OCR service to convert incoming PDF or image files to electronic documents in Financials.
+description: Describes how you can use an OCR service to convert incoming PDF or image files to electronic documents in Dynamics NAV.
 documentationcenter: ''
 author: SorenGP
 

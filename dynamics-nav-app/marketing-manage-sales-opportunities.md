@@ -1,6 +1,6 @@
 ---
 title: Manage Sales Opportunities and Leads
-description: Describes managing any incoming lead or sales opportunity in Financials,  and associating the opportunity with a salesperson to keep track of potential sales.
+description: Describes managing any incoming lead or sales opportunity in Dynamics NAV,  and associating the opportunity with a salesperson to keep track of potential sales.
 services: project-madeira
 documentationcenter: ''
 author: jswymer

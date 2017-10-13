@@ -1,6 +1,6 @@
 ---
-title: Use Financials on Your Mobile Device
-description: You can view and edit your Financials data on your phone or tablet.
+title: Use Dynamics NAV on Your Mobile Device
+description: You can view and edit your Dynamics NAV data on your phone or tablet.
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

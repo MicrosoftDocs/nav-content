@@ -1,5 +1,5 @@
 ---
-title: Financials accountant experience 
+title: Dynamics NAV accountant experience 
 description: Learn about the accountant portal for Dynamics NAV and the Accountant Role Center that supports internal and external accountants in the client company.
 author: edupont04
 
@@ -22,7 +22,7 @@ The Role Center is a dashboard with activity tiles that show you real-time key f
 If you are new to [!INCLUDE[d365fin](includes/d365fin_md.md)], you can launch a list of videos right from your Home page. You can also launch a **Getting Started** tour that points out key areas.  
 
 > [!NOTE]  
->  This functionality requires that the experience is set to **Suite**. For more information, see [Customizing Your Financials Experience](ui-experiences.md).  
+>  This functionality requires that the experience is set to **Suite**. For more information, see [CustomizingDynamics NAV Experience](ui-customizing-overview).  
 
 ### Get Invited to a Client's [!INCLUDE[d365fin](includes/d365fin_md.md)]
 A company who use [!INCLUDE[d365fin](includes/d365fin_md.md)] can invite you to [!INCLUDE[d365fin](includes/d365fin_md.md)] as their external accountant. This requires that they have set up SMTP mail, so they might want to contact their [!INCLUDE[d365fin](includes/d365fin_md.md)] partner for assistance. For more information, see [Invite Your External Accountant](finance-invite-external-accountant.md). Also, we recommend that you give them the email address that you plan to use for your accounting work - that way, you can choose if you want to use *me@accountant.com* or *me@client.com*  
@@ -34,7 +34,7 @@ You can then access their financial data from the **Accountant** Role Center. If
 ## Accountant Portal
 If you are an accountant with several clients, you can use the accountant portal as your dashboard for a better overview of your clients. From there, you can access each client's tenant in [!INCLUDE[d365fin](includes/d365fin_md.md)] and use the Accountant Role Center as described above.  
 
-The accountant portal is a dedicated version of [!INCLUDE[d365fin](includes/d365fin_md.md)]. You can get access to the dashboard by signing up from [Financials for Accountants on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants).  
+The accountant portal is a dedicated version of [!INCLUDE[d365fin](includes/d365fin_md.md)]. You can get access to the dashboard by signing up from [Dynamics NAV for Accountants on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants).  
 
 > [!TIP]  
 >  When you sign up for the accountant portal, you must specify your work email address, such as *me@accountant.com*. We recommend that you use the same email address when you work in your clients' [!INCLUDE[d365fin](includes/d365fin_md.md)], so that you can easily switch between clients.  
@@ -94,5 +94,5 @@ The data in the card for each client is specified by you, and you can change it 
 [Analyzing Financial Statements in Excel](finance-analyze-excel.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Invite Your External Accountant to Your [!INCLUDE[d365fin](includes/d365fin_md.md)]](finance-invite-external-accountant.md)  
-[Financials for Accountants on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
+[Dynamics NAV for Accountants on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
 [Setting Up Cash Flow Analysis](finance-setup-cash-flow-analyses.md)  

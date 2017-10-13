@@ -1,6 +1,6 @@
 ---
 title: Manage Fixed Assets
-description: Learn about the fixed assets functionality in Financials and get an overview of how to work with fixed assets.
+description: Learn about the fixed assets functionality in Dynamics NAV and get an overview of how to work with fixed assets.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -30,7 +30,7 @@ Each fixed asset can be attached to one or more insurance policies. You can ther
 >   You can record fixed asset transactions in the **Fixed Asset G/L Journal** window or in the **Fixed Asset Journal** window, depending on whether the transactions are for financial reporting or for internal management. Help for Fixed Assets only describes how to use the **Fixed Asset G/L Journal** window. For more information, see [How to: Set Up Fixed Asset Depreciation](fa-how-setup-depreciation.md).
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
 
 Before you can begin to manage fixed assets, you must set up default values, fixed asset accounting, posting groups, allocation keys, journals, and posting types. For more information, see [Setting Up Fixed Assets](fa-setup.md).
 
@@ -49,7 +49,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ## See Also
 [Setting Up Fixed Assets](fa-setup.md)  
-[Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md)  
+[Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview)  
 [Finance](finance.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

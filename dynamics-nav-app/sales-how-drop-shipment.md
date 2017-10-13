@@ -27,7 +27,7 @@ To prepare a drop shipment, you create a sales order for an item as normal, exce
 2. On the sales order line for the drop shipment, select the **Drop Shipment** check box. Use the **Choose Columns** function if the field is not visible. For more information, see [User Personalization](ui-user-personalization.md).
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
 
 ## To create the purchase order for drop shipment
 To prepare a drop shipment for the item to be sold, you create a purchase order as normal, except you must indicate on the purchase order that it must be shipped to your customer, not to yourself.

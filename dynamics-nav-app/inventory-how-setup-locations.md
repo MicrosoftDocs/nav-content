@@ -21,7 +21,7 @@ If you buy, store, or sell items at more than one place or warehouse, you must s
 You can then create document lines for a specific location, view availability by location, and transfer inventory between locations. For more information, see [Manage Inventory](inventory-manage-inventory.md).
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
 
 ## To create a location card
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Locations**, and then choose the related link.
@@ -44,5 +44,5 @@ You can now transfer inventory items between two locations. For more information
 [Manage Inventory](inventory-manage-inventory.md)  
 [How to: Transfer Inventory Between Locations](inventory-how-transfer-between-locations.md)    
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md)  
+[Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview)  
 [General Business Functionality](ui-across-business-areas.md)

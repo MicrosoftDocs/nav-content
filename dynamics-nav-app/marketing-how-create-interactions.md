@@ -1,6 +1,6 @@
 ---
 title: Create Interactions on Contacts and Segments
-description: Describes how to create interactions for communication that you have with your contacts and segments in Financials, for example, direct mail.
+description: Describes how to create interactions for communication that you have with your contacts and segments in Dynamics NAV, for example, direct mail.
 services: project-madeira
 documentationcenter: ''
 author: jswymer
@@ -50,4 +50,4 @@ If you have selected the **Create Follow-up Segment** check box, a new segment i
 [Managing Contacts](marketing-contacts.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
 [Setting Up Relationship Management](marketing-setup-marketing.md)  
-[Working with Financials](ui-work-product.md)
+[Working with Dynamics NAV](ui-work-product.md)

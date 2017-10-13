@@ -1,6 +1,6 @@
 ---
 title: Dynamics NAV and Power BI Content Packs
-description: Getting insight, business intelligence, and KPIs from your Financials data is easy with Power BI and the Financials content packs.
+description: Getting insight, business intelligence, and KPIs from your Dynamics NAV data is easy with Power BI and the Dynamics NAV content packs.
 author: edupont04
 
 ms.service: dynamics365-financials
@@ -40,7 +40,7 @@ The content packs are preconfigured to work with data from the demonstration com
 ## Accessing [!INCLUDE[d365fin](includes/d365fin_md.md)] in Power BI
 To see your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Power BI, you must have the following:  
 
-* Access to [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [Financials](http://go.microsoft.com/fwlink/?LinkID=759714).  
+* Access to [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
 * Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
 On the Power BI site, you can find additional information about [connecting to services with content packs for Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
@@ -64,7 +64,7 @@ In this example, *mybusiness* is the name of your [!INCLUDE[d365fin](includes/d3
 To get the URL, in [!INCLUDE[d365fin](includes/d365fin_md.md)], search for and open the **Web Services** window. This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
 
 ### Getting the user name and the web service access key
-In order to use data from [!INCLUDE[d365fin](includes/d365fin_md.md)] in Power BI, in the **Connect to Financials** window, you must specify a user name and a password. The user name is your name as it displays for your account in [!INCLUDE[d365fin](includes/d365fin_md.md)] so that Power BI can log in to [!INCLUDE[d365fin](includes/d365fin_md.md)]. The password is the web service access key that is set up for your user account in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+In order to use data from [!INCLUDE[d365fin](includes/d365fin_md.md)] in Power BI, in the **Connect to Dynamics NAV** window, you must specify a user name and a password. The user name is your name as it displays for your account in [!INCLUDE[d365fin](includes/d365fin_md.md)] so that Power BI can log in to [!INCLUDE[d365fin](includes/d365fin_md.md)]. The password is the web service access key that is set up for your user account in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 To find this information, in [!INCLUDE[d365fin](includes/d365fin_md.md)], search for the **Users** window, and then open the card for your user account. On the **General** FastTab, copy the content of the **User Name** field, and on the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the **Web Service Access Key** field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
 

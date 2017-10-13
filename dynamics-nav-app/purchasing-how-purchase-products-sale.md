@@ -26,7 +26,7 @@ From sales orders and sales invoices, you can use functions to quickly create pu
 To create a purchase order for each unavailable item quantity on the sales order, you use the **Create Purchase Orders** function. 
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
 
 1. On the Home page, choose the **Ongoing Sales Orders** tile.
 2. Open a sales order that you want to purchase items for.

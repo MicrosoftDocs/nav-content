@@ -1,6 +1,6 @@
 ---
 title: Using the QuickBooks Migration Extension 
-description: Describes how to use the extension to migrate customers, vendors, items, and accounts from QuickBooks Online to Financials. 
+description: Describes how to use the extension to migrate customers, vendors, items, and accounts from QuickBooks Online to Dynamics NAV. 
 services: project-madeira
 documentationcenter: ''
 author: bholtorf

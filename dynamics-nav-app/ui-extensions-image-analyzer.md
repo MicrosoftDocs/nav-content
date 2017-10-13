@@ -1,6 +1,6 @@
 ---
 title: Using the Image Analyzer Extension 
-description: This extensions lets you analyze images of contact persons and items to find attributes, so you can quickly assign them in Financials.
+description: This extensions lets you analyze images of contact persons and items to find attributes, so you can quickly assign them in Dynamics NAV.
 documentationcenter: ''
 author: bholtorf
 

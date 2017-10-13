@@ -1,6 +1,6 @@
 ---
 title: Issue, Print, Cancel, and Void Checks
-description: Describes how to issue checks using the payment journal, print checks, and void or view check ledger entries in Financials.  
+description: Describes how to issue checks using the payment journal, print checks, and void or view check ledger entries in Dynamics NAV.  
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
