@@ -1,5 +1,5 @@
 ---
-title: Set Up Automatic Recording of Interactions| Microsoft Docs
+title: Set Up Automatic Recording of Interactions
 description: You can automatically record your customer or client interactions, for example, for sales, purchase and service documents or phone calls.
 services: project-madeira
 documentationcenter: ''

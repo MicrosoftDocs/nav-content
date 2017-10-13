@@ -1,5 +1,5 @@
 ---
-title: Expose objects as web services | Microsoft Docs
+title: Expose objects as web services 
 description: Publish [!INCLUDE[d365fin](includes/d365fin_md.md)] objects as web services, they are immediately available on the network.
 author: edupont04
 

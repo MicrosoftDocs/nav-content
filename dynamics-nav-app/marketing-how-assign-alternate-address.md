@@ -1,5 +1,5 @@
 ---
-title: Assign a Different Contact Address| Microsoft Docs
+title: Assign a Different Contact Address
 description: Describes how to assign an alternate address for your contacts or prospects, where they are sometimes sent information.
 services: project-madeira
 documentationcenter: ''

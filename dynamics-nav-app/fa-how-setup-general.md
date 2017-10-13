@@ -1,5 +1,5 @@
 ---
-title: Set Up General Ledger FA| Microsoft Docs
+title: Set Up General Ledger FA
 description: Before you work with fixed assets, you must set up default G/L accounts, posting groups, allocation keys, journal templates and batches, and class codes.
 services: project-madeira
 documentationcenter: ''

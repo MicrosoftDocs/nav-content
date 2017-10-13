@@ -1,5 +1,5 @@
 ---
-title: Payment Reconciliation With the Envestnet Yodlee Bank Feeds Extension | Microsoft Docs
+title: Payment Reconciliation With the Envestnet Yodlee Bank Feeds Extension 
 description: Describes the Envestnet Yodlee Bank Feeds extension, which links to bank accounts so you can and quickly reconcile payments.
 services: project-madeira
 documentationcenter: ''

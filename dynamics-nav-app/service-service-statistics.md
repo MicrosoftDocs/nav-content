@@ -1,5 +1,5 @@
 ---
-    title: Service Statistics | Microsoft Docs
+    title: Service Statistics 
     description: Get a quick overview of the contents of service documents such as orders, quotes, invoices, or credit memos, the details on the specific service lines, and the service items.
     services: project-madeira
     documentationcenter: ''

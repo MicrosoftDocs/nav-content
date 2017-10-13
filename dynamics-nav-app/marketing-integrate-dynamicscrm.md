@@ -1,5 +1,5 @@
 ---
-title: Manage Customers Using Dynamics 365 for Sales| Microsoft Docs
+title: Manage Customers Using Dynamics 365 for Sales
 description: You can use Dynamics 365 for Sales from inside Dynamics 365 for Financials to map data and have seamless integration and synchronization in the lead-to-cash process.
 documentationcenter: ''
 author: edupont04

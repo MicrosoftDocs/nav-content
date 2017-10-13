@@ -1,5 +1,5 @@
 ---
-title: Manually Adjust the Costs of Items| Microsoft Docs
+title: Manually Adjust the Costs of Items
 description: You can adjust the inventory valuation of an item using the FIFO or Average costing methods, for example, when item costs change for reasons other than transactions.
 services: project-madeira
 documentationcenter: ''

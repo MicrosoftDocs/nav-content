@@ -1,5 +1,5 @@
 ---
-title: 'How to: Use Allocation Keys in General Journals | Microsoft Docs'
+title: 'How to: Use Allocation Keys in General Journals '
 description: Learn how you can use allocation keys in journals.
 services: project-madeira
 documentationcenter: ''

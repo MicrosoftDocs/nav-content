@@ -1,5 +1,5 @@
 ---
-title: Set Up Yodlee Bank Feeds| Microsoft Docs'
+title: Set Up Yodlee Bank Feeds'
 description: You can convert payment information to any data format that your bank requires and enable the export or import of bank files.
 services: project-madeira
 documentationcenter: ''

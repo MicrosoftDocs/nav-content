@@ -1,5 +1,5 @@
 ---
-title: Set Up FA Maintenance| Microsoft Docs
+title: Set Up FA Maintenance
 description: To manage fixed asset repairs and service, you specify general maintenance information, codes for the type of work, and a posting account for costs.
 services: project-madeira
 documentationcenter: ''

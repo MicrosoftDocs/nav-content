@@ -1,5 +1,5 @@
 ---
-title: Create a Purchase Invoice from a Sales Invoice to Buy Items for a Sale | Microsoft Docs
+title: Create a Purchase Invoice from a Sales Invoice to Buy Items for a Sale 
 description: From a sales invoice, to purchase products, you can create a purchase invoice for a vendor or supplier.
 services: project-madeira
 documentationcenter: ''

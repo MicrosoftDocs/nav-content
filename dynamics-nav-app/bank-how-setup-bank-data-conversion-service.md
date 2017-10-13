@@ -1,5 +1,5 @@
 ---
-title: Set Up Bank Data Conversion| Microsoft Docs
+title: Set Up Bank Data Conversion
 description: You can set up bank accounts to keep track of transactions and import or export bank feeds, such as Yodlee.
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Specify Posting Periods| Microsoft Docs
+title: Specify Posting Periods
 description: You specify posting start and end dates to set up when users can post to the general ledger.
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Undo a Posting by Posting a Reversing Entry| Microsoft Docs
+title: Undo a Posting by Posting a Reversing Entry
 description: If you have made an erroneous posting in the general journal, then you can use the Reverse Transaction function to undo the posting with a correct audit trail.
 services: project-madeira
 documentationcenter: ''

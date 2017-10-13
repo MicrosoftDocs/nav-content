@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Posting Interface Structure | Microsoft Docs
+    title: Design Details - Posting Interface Structure 
     description: This topic provides an overview of the global procedures in the posting interface structure.
     services: project-madeira
     documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Verify Automatically Applied Payments, and Reapply Payments Manually | Microsoft Docs
+title: Verify Automatically Applied Payments, and Reapply Payments Manually 
 description: After payments are applied automatically, you can review all the entries for a payment and manually reapply those that were applied incorrectly.
 services: project-madeira
 documentationcenter: ''

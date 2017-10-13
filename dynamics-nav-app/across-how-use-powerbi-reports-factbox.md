@@ -1,5 +1,5 @@
 ---
-title: Display Custom Power BI Reports| Microsoft Docs
+title: Display Custom Power BI Reports
 description: You can use Power BI reports to gain additional insight into data in lists in Financials.
 services: project-madeira
 documentationcenter: ''

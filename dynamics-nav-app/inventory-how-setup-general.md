@@ -1,5 +1,5 @@
 ---
-title: Define the General Inventory Setup| Microsoft Docs
+title: Define the General Inventory Setup
 description: Describes how to define the general inventory setup, such as number series and locations, so that you can, for example, manage your warehouse and stock.
 services: project-madeira
 documentationcenter: ''

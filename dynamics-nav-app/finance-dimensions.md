@@ -1,5 +1,5 @@
 ---
-title: Work with Dimensions| Microsoft Docs
+title: Work with Dimensions
 description: You use dimensions to categorize entries, for example, by department or project, so you can easily track and analyze data.
 services: project-madeira
 documentationcenter: ''

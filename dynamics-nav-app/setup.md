@@ -1,5 +1,5 @@
 ---
-title: Overview of Tasks to Set Up Dynamics 365 for Financials| Microsoft Docs
+title: Overview of Tasks to Set Up Dynamics 365 for Financials
 description: Outlines tasks to set up, initialize, and configure Dynamics 365 for Financials to suit your needs.
 author: edupont04
 

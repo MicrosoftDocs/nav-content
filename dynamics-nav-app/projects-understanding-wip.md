@@ -1,5 +1,5 @@
 ---
-title: WIP Methods for Calculating and Recording Job Progress| Microsoft Docs
+title: WIP Methods for Calculating and Recording Job Progress
 description: Describes the different work in process (WIP) methods you can use to post, monitor, and calculate financial information for ongoing jobs that are in progress.
 services: project-madeira
 documentationcenter: ''

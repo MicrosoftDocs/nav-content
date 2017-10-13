@@ -1,5 +1,5 @@
 ---
-title: Post Intercompany Documents and Journals| Microsoft Docs
+title: Post Intercompany Documents and Journals
 description: Use intercompany documents to post transactions with your intercompany partners.
 services: project-madeira
 documentationcenter: ''

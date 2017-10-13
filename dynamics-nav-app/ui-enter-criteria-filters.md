@@ -1,5 +1,5 @@
 ---
-title: Searching Data and Entering Filter Criteria | Microsoft Docs
+title: Searching Data and Entering Filter Criteria 
 description: Describes how to work with filters, such as the Quick Filter, to refine the results you get when you search for data.
 services: project-madeira
 documentationcenter: ''

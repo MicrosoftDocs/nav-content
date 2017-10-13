@@ -1,5 +1,5 @@
 ---
-    title: How to Sell Items Assembled to Order | Microsoft Docs
+    title: How to Sell Items Assembled to Order 
     description: If the item is set up for assemble-to-order, then the item is not expected to be in inventory, and it must be assembled specifically to a sales order. When you enter the item on a sales order line, then an assembly order is automatically created and linked to the sales order.
     services: project-madeira
     documentationcenter: ''

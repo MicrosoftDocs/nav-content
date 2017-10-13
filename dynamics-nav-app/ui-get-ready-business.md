@@ -1,5 +1,5 @@
 ---
-title: Welcome | Microsoft Docs
+title: Welcome 
 description: Outlines the assisted setup guides, videos, help topics, and pages and windows to use to get ready for doing business in Dynamics 365 for Financials.
 documentationcenter: ''
 author: SusanneWindfeldPedersen

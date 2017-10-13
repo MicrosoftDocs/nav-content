@@ -1,5 +1,5 @@
 ---
-title: Selling Dynamics 365 for Financials| Microsoft Docs
+title: Selling Dynamics 365 for Financials
 description: Find out how you can expand your business opportunities and become a Microsoft partner and Dynamics 365 for Financials reseller.   
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Work with Time Sheets for Jobs| Microsoft Docs
+title: Work with Time Sheets for Jobs
 description: Describes how to create a time sheet for a job, copy planning lines to it, define work types, fill in the time sheet, and submit it for approval.
 services: project-madeira
 documentationcenter: ''

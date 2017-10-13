@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Codeunit 408 Dimension Management | Microsoft Docs
+    title: Design Details - Codeunit 408 Dimension Management 
     description: Codeunit 408 Dimension Management is a function library that handles common tasks that are related to dimensions, such as copying from one table to another or from one document to another.
     services: project-madeira
     documentationcenter: ''

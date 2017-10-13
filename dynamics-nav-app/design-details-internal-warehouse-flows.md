@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Internal Warehouse Flows | Microsoft Docs
+    title: Design Details - Internal Warehouse Flows 
     description: The flow of items between bins at a company location centers on picking components and putting away end items for assembly or production orders and ad-hoc movements, such as bin replenishments, without a relation to source documents.
     services: project-madeira
     documentationcenter: ''

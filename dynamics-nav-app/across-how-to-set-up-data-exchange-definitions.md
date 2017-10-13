@@ -1,5 +1,5 @@
 ---
-    title: Define how data is exchanged electronically | Microsoft Docs
+    title: Define how data is exchanged electronically 
     description: You can use an external provider of OCR services to have PDF or image files turned into electronic documents.
     author: SorenGP
 

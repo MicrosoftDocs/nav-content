@@ -1,5 +1,5 @@
 ---
-    title: Export SEPA Direct Debit Collection Entries| Microsoft Docs
+    title: Export SEPA Direct Debit Collection Entries
     description: Create a direct-debit collection, which holds information about the customer’s bank account, the affected sales invoices, and the direct-debit mandate.
     author: SorenGP
 

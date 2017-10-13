@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Item Application | Microsoft Docs
+    title: Design Details - Item Application 
     description: This topic describes how item application happens when you post an inventory transaction.
     services: project-madeira
     documentationcenter: ''

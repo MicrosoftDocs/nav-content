@@ -1,5 +1,5 @@
 ---
-title: Multilanguage and Localization | Microsoft Docs
+title: Multilanguage and Localization 
 description: Learn how language and locale influence your experience in Dynamics 365.
 author: edupont04
 

@@ -1,5 +1,5 @@
 ---
-title: Work with Account Schedules| Microsoft Docs
+title: Work with Account Schedules
 description: Describes how to use account schedules to create various views and report for analyzing financials performance data.
 services: project-madeira
 documentationcenter: ''

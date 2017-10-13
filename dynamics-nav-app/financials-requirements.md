@@ -1,5 +1,5 @@
 ---
-title: Minimum requirements for using Financials| Microsoft Docs
+title: Minimum requirements for using Financials
 description: Learn about the minimum system and version requirements for using Dynamics 365 for Financials.
 services: project-madeira
 documentationcenter: ''

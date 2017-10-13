@@ -1,5 +1,5 @@
 ---
-title: Depreciate or Amortize FA| Microsoft Docs
+title: Depreciate or Amortize FA
 description: You must define how you will write-down, depreciate, or amortize each of your fixed assets.
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-    title: How to Calculate Bin Replenishment | Microsoft Docs
+    title: How to Calculate Bin Replenishment 
     description: When the location is set up to use directed put-away and pick, priorities of the put-away template for the location are taken into account when putting receipts away.
     services: project-madeira
     documentationcenter: ''

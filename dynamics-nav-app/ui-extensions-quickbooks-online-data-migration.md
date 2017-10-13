@@ -1,5 +1,5 @@
 ---
-title: Using the QuickBooks Migration Extension | Microsoft Docs
+title: Using the QuickBooks Migration Extension 
 description: Describes how to use the extension to migrate customers, vendors, items, and accounts from QuickBooks Online to Financials. 
 services: project-madeira
 documentationcenter: ''

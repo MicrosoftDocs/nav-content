@@ -1,5 +1,5 @@
 ---
-title: Understanding How To Post Sales Documents | Microsoft Docs
+title: Understanding How To Post Sales Documents 
 description: Learn about the different posting functions to post sales documents.
 services: project-madeira
 documentationcenter: ''

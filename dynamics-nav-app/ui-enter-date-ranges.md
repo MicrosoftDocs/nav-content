@@ -1,5 +1,5 @@
 ---
-title: Setting date ranges in Dynamics 365 for Financials | Microsoft Docs
+title: Setting date ranges in Dynamics 365 for Financials 
 description: Learn about getting a report to show data from specific time periods using date ranges in Dynamics 365 for Financials.
 documentationcenter: ''
 author: edupont04

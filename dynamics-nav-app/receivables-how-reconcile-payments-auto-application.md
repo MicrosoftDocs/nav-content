@@ -1,5 +1,5 @@
 ---
-title: Use Automatic Application to Reconcile Payments | Microsoft Docs
+title: Use Automatic Application to Reconcile Payments 
 description: Describes how to use the automatic application function to apply payments or cash receipts to their related open entries, and reconcile payments.
 services: project-madeira
 documentationcenter: ''

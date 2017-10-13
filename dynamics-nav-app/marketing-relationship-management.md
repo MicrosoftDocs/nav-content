@@ -1,5 +1,5 @@
 ---
-title: Relationship Management| Microsoft Docs
+title: Relationship Management
 description: The relationship management features in Financials support your sales efforts and let you access information about contacts and prospects so you can serve customers efficiently.
 services: project-madeira
 documentationcenter: ''

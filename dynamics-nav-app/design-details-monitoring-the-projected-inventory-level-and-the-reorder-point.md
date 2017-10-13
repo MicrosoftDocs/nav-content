@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Monitoring the Projected Inventory Level and the Reorder Point | Microsoft Docs
+    title: Design Details - Monitoring the Projected Inventory Level and the Reorder Point 
     description: Learn how inventory planning distinguishes between projected inventory and projected available inventory levels.
     services: project-madeira
     documentationcenter: ''

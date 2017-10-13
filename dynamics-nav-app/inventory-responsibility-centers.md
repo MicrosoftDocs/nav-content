@@ -1,5 +1,5 @@
 ---
-    title: How to Work with Responsibility Centers | Microsoft Docs
+    title: How to Work with Responsibility Centers 
     description: Responsibility centers providing the ability to handle administrative centers. A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.
     services: project-madeira
     documentationcenter: ''

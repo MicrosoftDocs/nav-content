@@ -1,5 +1,5 @@
 ---
-title: Create a Job Card for a Job and Specify Tasks| Microsoft Docs'
+title: Create a Job Card for a Job and Specify Tasks'
 description: For a new project, you create a job card that contains job tasks and planning lines, to help you manage progress and budgets.
 services: project-madeira
 documentationcenter: ''

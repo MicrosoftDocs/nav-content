@@ -1,5 +1,5 @@
 ---
-title: Set Up Web Sources for Contact Companies| Microsoft Docs
+title: Set Up Web Sources for Contact Companies
 description: You can define internet or web sources and assign them to a contact company to help identify how you want to search for information about your contacts.
 services: project-madeira
 documentationcenter: ''

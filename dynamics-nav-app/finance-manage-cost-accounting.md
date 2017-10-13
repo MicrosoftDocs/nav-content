@@ -1,5 +1,5 @@
 ---
-    title: Accounting for Costs | Microsoft Docs
+    title: Accounting for Costs 
     description: Cost accounting is used to help you understand the costs of running a business. To get started with cost accounting, see the following topics.
     services: project-madeira
     documentationcenter: ''

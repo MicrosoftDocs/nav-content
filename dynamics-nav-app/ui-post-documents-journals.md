@@ -1,5 +1,5 @@
 ---
-title: Overview of Posting Documents and Journals | Microsoft Docs
+title: Overview of Posting Documents and Journals 
 description: Outlines posting actions and the ways you can post documents and journals.
 services: project-madeira
 documentationcenter: ''

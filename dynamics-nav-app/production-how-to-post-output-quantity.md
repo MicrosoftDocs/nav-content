@@ -1,5 +1,5 @@
 ---
-    title: How to Batch Post Production Output and Run Times| Microsoft Docs
+    title: How to Batch Post Production Output and Run Times
     description: The output quantity represents the work progress in the form of the finished quantity.
     services: project-madeira
     documentationcenter: ''

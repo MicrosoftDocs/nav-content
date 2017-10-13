@@ -1,5 +1,5 @@
 ---
-title: Overview of Tasks to Manage Receivables | Microsoft Docs
+title: Overview of Tasks to Manage Receivables 
 description: Outlines tasks to manage receivables and apply payments to customer or vendor ledger entries.
 services: project-madeira
 documentationcenter: ''

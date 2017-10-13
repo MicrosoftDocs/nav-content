@@ -1,5 +1,5 @@
 ---
-title: Managing Inventory| Microsoft Docs
+title: Managing Inventory
 description: Describes how to manage the physical products that you trade in, for example, handling the stock in your warehouse.
 documentationcenter: ''
 author: SorenGP

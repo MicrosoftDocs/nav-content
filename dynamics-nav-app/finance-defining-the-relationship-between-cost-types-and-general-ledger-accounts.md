@@ -1,5 +1,5 @@
 ---
-    title: Defining the Relationship Between Cost Types and General Ledger Accounts | Microsoft Docs
+    title: Defining the Relationship Between Cost Types and General Ledger Accounts 
     description: Learn how to define the relationship between the cost type and the general ledger account.
     services: project-madeira
     documentationcenter: ''

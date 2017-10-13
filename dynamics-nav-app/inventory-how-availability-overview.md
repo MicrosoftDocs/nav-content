@@ -1,5 +1,5 @@
 ---
-title: Get an Availability Overview| Microsoft Docs
+title: Get an Availability Overview
 description: You can get information about the availability of items or stock across locations, per sales or purchase events, by a time period, or by the item's position on an assembly or production BOM.
 documentationcenter: ''
 author: SorenGP

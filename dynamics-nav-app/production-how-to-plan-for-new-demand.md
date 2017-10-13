@@ -1,5 +1,5 @@
 ---
-    title: How to Plan Order by Order | Microsoft Docs
+    title: How to Plan Order by Order 
     description: This planning task can be performed in the **Order Planning** window, which displays all new demand along with availability information and suggestions for supply. It provides the visibility and tools needed to effectively plan demand from sales lines and component lines and then create different types of supply orders directly.
     services: project-madeira
     documentationcenter: ''

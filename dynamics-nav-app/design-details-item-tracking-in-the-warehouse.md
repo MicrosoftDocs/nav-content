@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Item Tracking Availability | Microsoft Docs
+    title: Design Details - Item Tracking Availability 
     description: This topic discusses how to make sure that the people who process orders can rely on the availability of serial or lot numbers.
     services: project-madeira
     documentationcenter: ''

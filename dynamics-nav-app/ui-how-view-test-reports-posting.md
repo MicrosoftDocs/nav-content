@@ -1,5 +1,5 @@
 ---
-title: Review a Test Report Before Posting a Sales or Purchase Document | Microsoft Docs
+title: Review a Test Report Before Posting a Sales or Purchase Document 
 description: Before you post a document, for example, an order or a credit memo, you can test and review it to check for errors that might block posting.
 services: project-madeira
 documentationcenter: ''

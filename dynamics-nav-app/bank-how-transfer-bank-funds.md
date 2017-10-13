@@ -1,5 +1,5 @@
 ---
-title: Transfer Bank Funds| Microsoft Docs
+title: Transfer Bank Funds
 description: You can transfer amounts from one bank account to another, including different currencies, by posting the transaction in the general journal.
 services: project-madeira
 documentationcenter: ''

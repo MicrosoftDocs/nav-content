@@ -1,5 +1,5 @@
 ---
-title: Manage Fixed Assets| Microsoft Docs
+title: Manage Fixed Assets
 description: Learn about the fixed assets functionality in Financials and get an overview of how to work with fixed assets.
 services: project-madeira
 documentationcenter: ''

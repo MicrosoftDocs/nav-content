@@ -1,5 +1,5 @@
 ---
-title: Set Up Financial Processes| Microsoft Docs
+title: Set Up Financial Processes
 description: Learn about the tasks to set up finance in your business to suit all your accounting, auditing, or bookkeeping needs.
 services: project-madeira
 documentationcenter: ''

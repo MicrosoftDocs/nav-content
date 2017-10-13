@@ -1,5 +1,5 @@
 ---
-title: Setting Up Inventory| Microsoft Docs
+title: Setting Up Inventory
 description: Describes how to set up your stock and inventory processes, including transfer routes and locations, such as warehouses.
 services: project-madeira
 documentationcenter: ''

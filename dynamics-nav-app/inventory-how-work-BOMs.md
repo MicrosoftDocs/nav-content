@@ -1,5 +1,5 @@
 ---
-title: Work with Bills of Material to Manage Components| Microsoft Docs
+title: Work with Bills of Material to Manage Components
 description: You create an assembly BOM or production BOM to specify the components or resources required to put together the item that the BOM represents.
 documentationcenter: ''
 author: SorenGP

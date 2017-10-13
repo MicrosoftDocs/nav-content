@@ -1,5 +1,5 @@
 ---
-title: Create a Vendor Card to Register a New Vendor | Microsoft Docs
+title: Create a Vendor Card to Register a New Vendor 
 description: Learn how to create a vendor card to register a new vendor or supplier.
 services: project-madeira
 documentationcenter: ''

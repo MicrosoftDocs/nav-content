@@ -1,5 +1,5 @@
 ---
-title: Cancelling Dynamics 365 for Financials| Microsoft Docs
+title: Cancelling Dynamics 365 for Financials
 description: Describes how to remove or delete your Dynamics 365 for Financials experience.
 services: project-madeira
 documentationcenter: ''

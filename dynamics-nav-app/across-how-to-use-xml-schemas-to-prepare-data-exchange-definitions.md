@@ -1,5 +1,5 @@
 ---
-    title: Create XMLports based on XML schemas | Microsoft Docs
+    title: Create XMLports based on XML schemas 
     description: Use XML schemas to set yup the document exchange framework.
     author: SorenGP
 

@@ -1,5 +1,5 @@
 ---
-title: Set Up Marketing Campaigns in Financials| Microsoft Docs
+title: Set Up Marketing Campaigns in Financials
 description: Describes how you can set up and conduct marketing campaigns in Dynamics 365 for Financials to help you identify and attract prospects and retain customers.
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Financial Management| Microsoft Docs
+title: Financial Management
 description: Learn about the tasks to set up finance in your business to suit all your accounting, auditing, or bookkeeping needs.
 services: project-madeira
 documentationcenter: ''

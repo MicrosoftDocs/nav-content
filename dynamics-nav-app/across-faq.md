@@ -1,5 +1,5 @@
 ---
-title: FAQ About Using Financials| Microsoft Docs
+title: FAQ About Using Financials
 description: Answers common questions about how to sign up for Financials, and what to do to get started.
 author: edupont04
 

@@ -1,5 +1,5 @@
 ---
-title: Define Which Incoming Docs to See| Microsoft Docs
+title: Define Which Incoming Docs to See
 description: Adjust the default view of incoming documents, such as e-invoices, to improve your overview of processed and unprocessed records.
 services: project-madeira
 documentationcenter: ''

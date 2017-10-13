@@ -1,5 +1,5 @@
 ---
-title: Issue, Print, Cancel, and Void Checks| Microsoft Docs
+title: Issue, Print, Cancel, and Void Checks
 description: Describes how to issue checks using the payment journal, print checks, and void or view check ledger entries in Financials.  
 services: project-madeira
 documentationcenter: ''

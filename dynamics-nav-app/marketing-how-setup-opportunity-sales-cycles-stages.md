@@ -1,5 +1,5 @@
 ---
-title: Set Up Opportunity Sales Cycles and Cycle Stages| Microsoft Docs
+title: Set Up Opportunity Sales Cycles and Cycle Stages
 description: Describes how to define sales stages, from initial contact to closing, to create a sales cycle and assign it to opportunities in Financials.
 services: project-madeira
 documentationcenter: ''

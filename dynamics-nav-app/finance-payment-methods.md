@@ -1,5 +1,5 @@
 ---
-title: Set Up Payment Methods| Microsoft Docs
+title: Set Up Payment Methods
 Description: You use payment methods, for example, check, bank transfer, cash, or PayPal, to define how an invoice will be paid.
 services: project-madeira
 documentationcenter: ''

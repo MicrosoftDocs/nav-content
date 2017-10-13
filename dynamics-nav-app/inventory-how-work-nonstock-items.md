@@ -1,5 +1,5 @@
 ---
-title: Create and Manage Nonstock Items| Microsoft Docs
+title: Create and Manage Nonstock Items
 description: Describes how to trade non-inventoriable items or items that are not maintained in your inventory.
 documentationcenter: ''
 author: SorenGP

@@ -1,5 +1,5 @@
 ---
-title: Set Up Marketing and Contact Management Information| Microsoft Docs
+title: Set Up Marketing and Contact Management Information
 description: You can set up marketing and contact management in Financials to optimize relationships with prospects or customers, and improve campaigns and promotions.
 services: project-madeira
 documentationcenter: ''

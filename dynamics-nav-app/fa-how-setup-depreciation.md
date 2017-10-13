@@ -1,5 +1,5 @@
 ---
-title: Set Up FA Depreciation| Microsoft Docs
+title: Set Up FA Depreciation
 description: You specify in a depreciation book how you want fixed assets to be depreciated or written-down.
 services: project-madeira
 documentationcenter: ''

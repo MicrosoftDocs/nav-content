@@ -1,5 +1,5 @@
 ---
-title: Create Contact Companies| Microsoft Docs
+title: Create Contact Companies
 description: Describes how to create a contact for each new company or prospective company you interact with or have a relationship with.
 services: project-madeira
 documentationcenter: ''

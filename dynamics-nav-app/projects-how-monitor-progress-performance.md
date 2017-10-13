@@ -1,5 +1,5 @@
 ---
-title: Define a WIP Method and Monitor Job Progress| Microsoft Docs
+title: Define a WIP Method and Monitor Job Progress
 descrition: Describes how you can create a work in process (WIP) method and calculate WIP to estimate the financial value of jobs while they are ongoing.
 services: project-madeira
 documentationcenter: ''

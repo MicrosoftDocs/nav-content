@@ -1,5 +1,5 @@
 ---
-title: Work with Incoming Documents| Microsoft Docs
+title: Work with Incoming Documents
 description: You can manage incoming external business documents, such as payment receipts or PDFs, manage OCR tasks, and convert files to electronic documents and records in Financials.
 services: project-madeira
 documentationcenter: ''

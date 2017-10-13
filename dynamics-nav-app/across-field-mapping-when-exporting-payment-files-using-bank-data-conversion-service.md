@@ -1,5 +1,5 @@
 ---
-    title: Field mapping for exporting bank payment files | Microsoft Docs
+    title: Field mapping for exporting bank payment files 
     description: When you export payment files using the Bank Data Conversion Service feature, the data that you export is exposed to the provider of the bank data conversion service.
     author: SorenGP
 

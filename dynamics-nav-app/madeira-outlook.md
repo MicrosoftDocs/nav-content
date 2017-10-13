@@ -1,5 +1,5 @@
 ---
-title: Using Dynamics 365 for Financials with Outlook| Microsoft Docs
+title: Using Dynamics 365 for Financials with Outlook
 description: Dynamics 365 for Financials has deep integration with Office 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
 services: project-madeira
 documentationcenter: ''

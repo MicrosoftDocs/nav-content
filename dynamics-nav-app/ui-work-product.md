@@ -1,5 +1,5 @@
 ---
-title: Working with the General Functionality in Dynamics 365 for Financials | Microsoft Docs
+title: Working with the General Functionality in Dynamics 365 for Financials 
 description: Describes the general functionality you use to interact with data in Financials, such as entering values, sorting data, and changing views.
 services: ''
 documentationcenter: ''

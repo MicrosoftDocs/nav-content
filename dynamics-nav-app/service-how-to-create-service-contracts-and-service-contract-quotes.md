@@ -1,5 +1,5 @@
 ---
-    title: How to Work with Service Contracts and Service Contract Quotes | Microsoft Docs
+    title: How to Work with Service Contracts and Service Contract Quotes 
     description: You can create a service contract either manually or from a service contract quote. You can create a contract based on a service contract quote. 
     services: project-madeira
     documentationcenter: ''

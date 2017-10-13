@@ -1,5 +1,5 @@
 ---
-    title: How to Subcontract Manufacturing | Microsoft Docs
+    title: How to Subcontract Manufacturing 
     description: When the purchase order has been created from the subcontractor worksheet, then it can be posted.
     author: SorenGP
 

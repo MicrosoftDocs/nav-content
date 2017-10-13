@@ -1,5 +1,5 @@
 ---
-title: Set Up and Report Intrastat| Microsoft Docs
+title: Set Up and Report Intrastat
 description: Learn how to set up Intrastat reporting features, and how to report trade with companies in other EU countries.
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Create a Sales Invoice or Sales Order | Microsoft Docs
+title: Create a Sales Invoice or Sales Order 
 description: Describes how to create a bill of sale, or a sales invoice or sales order, to record your agreement with a customer to sell products under specific terms.
 documentationcenter: ''
 author: SorenGP

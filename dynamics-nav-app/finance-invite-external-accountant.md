@@ -1,5 +1,5 @@
 ---
-title: Add your external accountant to your Financials | Microsoft Docs
+title: Add your external accountant to your Financials 
 description: Learn how you can invite your external accountant to your Dynamics 365 for Financials.
 author: edupont04
 

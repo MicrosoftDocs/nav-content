@@ -1,5 +1,5 @@
 ---
-title: Set Up Special Sales Prices and Discounts for Customers | Microsoft Docs
+title: Set Up Special Sales Prices and Discounts for Customers 
 description: Describes how to define the alternate pricing and discount agreements that you want to apply to sales documents when selling to different customers.
 author: SorenGP
 

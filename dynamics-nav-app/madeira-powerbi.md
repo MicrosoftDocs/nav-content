@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 for Financials and Power BI Content Packs| Microsoft Docs
+title: Dynamics 365 for Financials and Power BI Content Packs
 description: Getting insight, business intelligence, and KPIs from your Financials data is easy with Power BI and the Financials content packs.
 author: edupont04
 

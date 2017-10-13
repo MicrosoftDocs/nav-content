@@ -1,5 +1,5 @@
 ---
-title: Create accounting periods and fiscal years| Microsoft Docs
+title: Create accounting periods and fiscal years
 description: You must open a fiscal year and define accounting periods, before you can post in a fiscal year.
 author: edupont04
 

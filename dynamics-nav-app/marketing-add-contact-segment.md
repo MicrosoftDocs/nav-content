@@ -1,5 +1,5 @@
 ---
-title: Define the Contacts in a Segment| Microsoft Docs
+title: Define the Contacts in a Segment
 description: After you have created a segment, you can add contacts to the segment, for example, as part of a marketing campaign targeting particular customers or clients.
 services: project-madeira
 documentationcenter: ''

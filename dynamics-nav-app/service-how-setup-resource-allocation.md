@@ -1,5 +1,5 @@
 ---
-    title: Set Up Resource Allocation | Microsoft Docs
+    title: Set Up Resource Allocation 
     description: Learn how the system can help ensure that you assign someone who has the skills required to provide a service.
     services: project-madeira
     documentationcenter: ''

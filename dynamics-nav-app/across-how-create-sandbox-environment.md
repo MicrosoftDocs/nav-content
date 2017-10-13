@@ -1,5 +1,5 @@
 ---
-title: Create a Sandbox Environment| Microsoft Docs
+title: Create a Sandbox Environment
 description: Create an environment for exploring, learning, demoing, developing, and testing.
 author: SusanneWindfeldPedersen
 

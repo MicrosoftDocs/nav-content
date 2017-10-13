@@ -1,5 +1,5 @@
 ---
-    title: How to Reserve Items | Microsoft Docs
+    title: How to Reserve Items 
     description: You can reserve items for sales orders, purchase orders, and production orders. You can reserve items on inventory or inbound on open document lines.
     services: project-madeira
     documentationcenter: ''

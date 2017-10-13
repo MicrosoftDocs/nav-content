@@ -1,5 +1,5 @@
 ---
-title: Connect Your Data with Flow| Microsoft Docs
+title: Connect Your Data with Flow
 description: You can make your Financials data available as a data source and specify an OData URL of your web services to build an automated workflow.
 documentationcenter: ''
 author: edupont04

@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Handling Reordering Policies | Microsoft Docs
+    title: Design Details - Handling Reordering Policies 
     description: Overview of tasks for defining a reorder policy in supply planning.
     services: project-madeira
     documentationcenter: ''

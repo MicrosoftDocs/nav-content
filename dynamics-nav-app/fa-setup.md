@@ -1,5 +1,5 @@
 ---
-title: Set Up Fixed Assets| Microsoft Docs
+title: Set Up Fixed Assets
 description: Learn about the sequence of tasks you must do to set up fixed assets, such as machinery or buildings.
 documentationcenter: ''
 author: SorenGP

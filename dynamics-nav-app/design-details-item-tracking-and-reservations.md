@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Item Tracking and Reservations | Microsoft Docs
+    title: Design Details - Item Tracking and Reservations 
     description: This topic talks about item tracking and reservations, and describes the concepts behind the two.
     services: project-madeira
     documentationcenter: ''

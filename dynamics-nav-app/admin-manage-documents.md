@@ -1,5 +1,5 @@
 ---
-title: Manage, delete, or compress documents | Microsoft Docs
+title: Manage, delete, or compress documents 
 description: Keep your historical data or delete it.
 author: edupont04
 

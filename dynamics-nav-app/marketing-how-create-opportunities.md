@@ -1,5 +1,5 @@
 ---
-title: Create Sales Opportunities| Microsoft Docs
+title: Create Sales Opportunities
 description: Describes how to create opportunities from a salesperson or a contact in Financials.
 services: project-madeira
 documentationcenter: ''

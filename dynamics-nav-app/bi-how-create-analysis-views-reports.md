@@ -1,5 +1,5 @@
 ---
-title: Create Analysis Reports| Microsoft Docs
+title: Create Analysis Reports
 description: Describes how to create new analysis reports for sales, purchases, and inventory, and set up analysis templates.
 services: project-madeira
 documentationcenter: ''

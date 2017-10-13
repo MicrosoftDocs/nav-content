@@ -1,5 +1,5 @@
 ---
-    title: Receive and Convert Electronic Documents | Microsoft Docs
+    title: Receive and Convert Electronic Documents 
     description: You can receive electronic documents directly from trading partners or from an OCR service.
     author: SorenGP
 

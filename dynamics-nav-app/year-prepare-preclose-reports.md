@@ -1,5 +1,5 @@
 ---
-title: Overview of Pre-Closing Reports to Verify Account Accuracy | Microsoft Docs
+title: Overview of Pre-Closing Reports to Verify Account Accuracy 
 description: Provides an overview of the reports you can use to verify the accuracy of accounts before closing the books at the end of a year or period.
 services: project-madeira
 documentationcenter: ''

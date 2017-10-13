@@ -1,5 +1,5 @@
 ---
-title: Overview of Tasks to Manage Sales | Microsoft Docs
+title: Overview of Tasks to Manage Sales 
 description: Describes how to manage sales activities.
 author: SorenGP
 

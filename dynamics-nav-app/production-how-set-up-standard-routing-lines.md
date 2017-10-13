@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Standard Tasks for Operations | Microsoft Docs
+    title: How to Set Up Standard Tasks for Operations 
     description: You can enter descriptions of standard tasks.
     services: project-madeira
     documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up a Document Exchange Service | Microsoft Docs
+    title: How to Set Up a Document Exchange Service 
     description: You use an external service provider to exchange electronic documents with your trading partners.
     author: SorenGP
 

@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Item Tracking | Microsoft Docs
+    title: Design Details - Item Tracking 
     description: This topic provides an overview of design details for item tracking.
     services: project-madeira
     documentationcenter: ''

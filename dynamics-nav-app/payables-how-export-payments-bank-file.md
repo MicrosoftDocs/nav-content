@@ -1,5 +1,5 @@
 ---
-title: Export Payments to an Electronic Payment File| Microsoft Docs
+title: Export Payments to an Electronic Payment File
 description: To make vendor payments, you enable a bank data conversion service, export a bank file, and upload the file to your electronic bank to transfer the funds.
 services: project-madeira
 documentationcenter: ''

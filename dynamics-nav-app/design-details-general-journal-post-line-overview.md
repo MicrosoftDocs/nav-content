@@ -1,5 +1,5 @@
 ---
-    title: General Journal Post Line Overview | Microsoft Docs
+    title: General Journal Post Line Overview 
     description: This topic introduces changes to Codeunit 12, **Gen. Jnl.-Post Line**, which is the major application object for general ledger posting and is the only place to insert general ledger, VAT, and customer and vendor ledger entries.
     services: project-madeira
     documentationcenter: ''

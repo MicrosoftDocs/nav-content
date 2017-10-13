@@ -1,5 +1,5 @@
 ---
-title: Apply Entries in Different Currencies| Microsoft Docs
+title: Apply Entries in Different Currencies
 description: You can apply ledger entries in multiple currencies, for example, if you sell in one currency and receive payment in another.
 services: project-madeira
 documentationcenter: ''

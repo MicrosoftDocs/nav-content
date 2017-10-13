@@ -1,5 +1,5 @@
 ---
-title: Create and Run a Batch Job | Microsoft Docs
+title: Create and Run a Batch Job 
 description: You run batch jobs to process data and update information, for example, to do periodic accounting activities, or to do calculations.
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-    title: How to Create Prepayment Invoices | Microsoft Docs
+    title: How to Create Prepayment Invoices 
     description: Learn how to handle situations where you require prepayment, or your vendor does.
     services: project-madeira
     documentationcenter: ''

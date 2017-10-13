@@ -1,5 +1,5 @@
 ---
-title: Schedule jobs to run automatically | Microsoft Docs
+title: Schedule jobs to run automatically 
 description: Scheduled tasks are managed by the job queue. These jobs run reports and codeunits. You can set jobs to run one time, or on a recurring basis.
 author: edupont04
 

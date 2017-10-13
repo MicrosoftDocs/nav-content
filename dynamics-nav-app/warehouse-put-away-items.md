@@ -1,5 +1,5 @@
 ---
-    title: Put Items Away | Microsoft Docs
+    title: Put Items Away 
     description: The warehouse activity of putting items away after they are received or output is performed in different ways depending on how warehouse management features are configured.
     services: project-madeira
     documentationcenter: ''

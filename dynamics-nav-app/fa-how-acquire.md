@@ -1,5 +1,5 @@
 ---
-title: Acquire Fixed Assets| Microsoft Docs
+title: Acquire Fixed Assets
 description: You can set up a fixed asset, assign a depreciation book, and record the fixed asset’s acquisition cost.
 services: project-madeira
 documentationcenter: ''

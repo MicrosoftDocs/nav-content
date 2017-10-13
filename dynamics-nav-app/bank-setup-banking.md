@@ -1,5 +1,5 @@
 ---
-title: Set Up Banking| Microsoft Docs
+title: Set Up Banking
 description: You use bank account cards to keep track of your bank accounts and set up bank feeds, such as Yodlee, to exchange data.
 services: project-madeira
 documentationcenter: ''

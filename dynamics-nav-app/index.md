@@ -1,5 +1,5 @@
 ---
-title: Meet Dynamics 365 for Financials| Microsoft Docs
+title: Meet Dynamics 365 for Financials
 description: Learn about capabilities and work scenarios in Dynamics 365 for Financials, a business management solution for small and mid-sized organizations.
 author: SusanneWindfeldPedersen
 

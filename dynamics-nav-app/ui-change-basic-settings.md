@@ -1,5 +1,5 @@
 ---
-title: Viewing and Editing Basic Settings in Financials | Microsoft Docs
+title: Viewing and Editing Basic Settings in Financials 
 description: Learn how to change some of the basic settings in Financials, for example, the Role Center, company, or the work date.
 services: project-madeira
 documentationcenter: ''

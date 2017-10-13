@@ -1,5 +1,5 @@
 ---
-title: Linking Contacts With Customers and Vendors| Microsoft Docs
+title: Linking Contacts With Customers and Vendors
 description: Describes how to link a contact with a customer, vendor, or bank account from the same company, so that you can synchronize common data.
 services: project-madeira
 documentationcenter: ''

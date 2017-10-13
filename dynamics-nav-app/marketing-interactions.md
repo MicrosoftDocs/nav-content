@@ -1,5 +1,5 @@
 ---
-title: Manage Interactions With Your Contacts| Microsoft Docs
+title: Manage Interactions With Your Contacts
 description: You can manage all types of communication or interactions between your company and your contacts, for example, letters, phone calls, meetings, and so on.
 services: project-madeira
 documentationcenter: ''

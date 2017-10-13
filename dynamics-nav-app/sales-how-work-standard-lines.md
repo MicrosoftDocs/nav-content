@@ -1,5 +1,5 @@
 ---
-title: Setup and Use Standard Lines for Recurring Sales and Purchases| Microsoft Docs
+title: Setup and Use Standard Lines for Recurring Sales and Purchases
 description: You can set up sales lines and purchase lines that you frequently make and then insert them on sales and purchase documents to quickly fill the lines with standard information.
 services: project-madeira
 documentationcenter: ''

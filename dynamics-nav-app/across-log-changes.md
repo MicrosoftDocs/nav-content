@@ -1,5 +1,5 @@
 ---
-title: Track User Activity in a Change Log| Microsoft Docs
+title: Track User Activity in a Change Log
 Description: You can activate a user log so that you have a history of any changes made to data in tracked tables.
 documentationcenter: ''
 author: edupont04

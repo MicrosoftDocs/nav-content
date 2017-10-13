@@ -1,5 +1,5 @@
 ---
-title: Work with financial overviews in Excel | Microsoft Docs
+title: Work with financial overviews in Excel 
 description: Learn about how you can open the financial statements in Microsoft Excel from Dynamics 365 for Financials for better analysis.
 author: edupont04
 

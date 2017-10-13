@@ -1,5 +1,5 @@
 ---
-title: How to Track Packages | Microsoft Docs
+title: How to Track Packages 
 description: Use the shipping agents tracking service to see the progress of a delivery.
 documentationcenter: ''
 author: SorenGP

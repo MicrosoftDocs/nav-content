@@ -1,5 +1,5 @@
 ---
-    title: How to Create Bins | Microsoft Docs
+    title: How to Create Bins 
     description: The most effective way to create the bins of your warehouse is to generate groups of similar bins in the bin creation worksheet, but you can also create your bins individually.
     services: project-madeira
     documentationcenter: ''

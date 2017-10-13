@@ -1,5 +1,5 @@
 ---
-title: Set Up Resource Costs, Prices, and Capacity| Microsoft Docs
+title: Set Up Resource Costs, Prices, and Capacity
 description: To use resources and facilitate project management, you specify costs and prices for individual resources or resource groups, and set the resource capacity.
 services: project-madeira
 documentationcenter: ''

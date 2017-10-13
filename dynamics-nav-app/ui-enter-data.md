@@ -1,5 +1,5 @@
 ---
-    title: How to Enter Data in Fields| Microsoft Docs
+    title: How to Enter Data in Fields
     description: There are many general functions that help you enter data  in a quick and easy way. The general functions for entering data are described in this topic.
     author: jswymer
 

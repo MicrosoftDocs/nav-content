@@ -1,5 +1,5 @@
 ---
-title: Close Income Statement Accounts | Microsoft Docs
+title: Close Income Statement Accounts 
 description: At year closing, you must run the Close Income Statement batch job to close the accounting periods that make up the fiscal year.
 services: project-madeira
 documentationcenter: ''

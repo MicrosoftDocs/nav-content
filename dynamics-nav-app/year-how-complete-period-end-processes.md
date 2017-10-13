@@ -1,5 +1,5 @@
 ---
-title: Optional Activities for Closing Periods | Microsoft Docs
+title: Optional Activities for Closing Periods 
 description: This topic outlines the optional processes and activities for closing accounting periods in Financials.  
 services: project-madeira
 documentationcenter: ''

@@ -1,5 +1,5 @@
 ---
-title: Set Up and Manage a Budget for a Job| Microsoft Docs
+title: Set Up and Manage a Budget for a Job
 description: Describes how to plan resources and forecast and control the costs of a project by setting up a budget for each job.
 services: project-madeira
 documentationcenter: ''

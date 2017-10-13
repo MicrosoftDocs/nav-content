@@ -1,5 +1,5 @@
 ---
-title: What's New in Dynamics 365 for Financials| Microsoft Docs
+title: What's New in Dynamics 365 for Financials
 description: Describes the latest news and updates for Dynamics 365 for Financials.
 services: project-madeira
 documentationcenter: ''

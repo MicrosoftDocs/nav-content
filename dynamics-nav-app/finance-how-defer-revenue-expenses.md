@@ -1,5 +1,5 @@
 ---
-title: Defer Revenues and Expenses| Microsoft Docs
+title: Defer Revenues and Expenses
 description: To recognize revenues and expenses in periods other than the period in which the transaction was posted, you can automatically defer or postpone them over a specified schedule.
 services: project-madeira
 documentationcenter: ''

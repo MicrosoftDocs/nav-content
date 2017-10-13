@@ -1,5 +1,5 @@
 ---
-    title: Service Price Management | Microsoft Docs
+    title: Service Price Management 
     description: This topic describes how to apply the best price to service orders, set up personalized service price agreements for customers, improve service employees' efficiency, and accelerate the invoicing process.
     services: project-madeira
     documentationcenter: ''

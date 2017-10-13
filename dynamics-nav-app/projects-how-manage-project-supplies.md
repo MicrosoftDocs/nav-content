@@ -1,5 +1,5 @@
 ---
-title: Purchase Items or Services for a Job and Manage Supplies| Microsoft Docs
+title: Purchase Items or Services for a Job and Manage Supplies
 description: Describes how to manage the supply and purchase of material and services to jobs.
 services: project-madeira
 documentationcenter: ''

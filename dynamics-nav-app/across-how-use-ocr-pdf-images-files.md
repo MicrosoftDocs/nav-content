@@ -1,5 +1,5 @@
 ---
-title: Use OCR to Turn PDF into E-Invoices| Microsoft Docs
+title: Use OCR to Turn PDF into E-Invoices
 description: Describes how you can use an OCR service to convert incoming PDF or image files to electronic documents in Financials.
 documentationcenter: ''
 author: SorenGP

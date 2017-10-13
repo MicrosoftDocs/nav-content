@@ -1,5 +1,5 @@
 ---
-title: Maintain Fixed Assets| Microsoft Docs
+title: Maintain Fixed Assets
 description: You keep a maintenance record of any repairs and service on a fixed asset.
 services: project-madeira
 documentationcenter: ''

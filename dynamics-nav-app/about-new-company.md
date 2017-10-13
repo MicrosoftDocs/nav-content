@@ -1,5 +1,5 @@
 ---
-title: Create new companies using an assisted setup guide | Microsoft Docs
+title: Create new companies using an assisted setup guide 
 description: It's easy to create a new, blank company in Dynamics 365 for Financials. An assisted setup guide helps you through the steps, and you can import your existing business data.
 author: edupont04
 

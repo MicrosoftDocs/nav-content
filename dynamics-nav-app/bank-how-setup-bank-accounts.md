@@ -1,5 +1,5 @@
 ---
-title: Set Up Bank Accounts| Microsoft Docs
+title: Set Up Bank Accounts
 description: You can reconcile bank accounts in Financials with statements from the bank.
 services: project-madeira
 documentationcenter: ''

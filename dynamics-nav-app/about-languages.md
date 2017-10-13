@@ -1,5 +1,5 @@
 ---
-title: See content in other languages | Microsoft Docs
+title: See content in other languages 
 description: You can view the Help content for Dynamics 365 for Financials in other languages.
 author: edupont04
 

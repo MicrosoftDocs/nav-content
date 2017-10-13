@@ -1,5 +1,5 @@
 ---
-title: Use Financials on Your Mobile Device| Microsoft Docs
+title: Use Financials on Your Mobile Device
 description: You can view and edit your Financials data on your phone or tablet.
 documentationcenter: ''
 author: SusanneWindfeldPedersen

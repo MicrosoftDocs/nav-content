@@ -1,5 +1,5 @@
 ---
-title: WorldPay Payments Standard| Microsoft Docs
+title: WorldPay Payments Standard
 description: Provides information about the WorldPay Payments Standard extension
 services: project-madeira
 documentationcenter: ''

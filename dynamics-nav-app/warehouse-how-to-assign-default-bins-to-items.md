@@ -1,5 +1,5 @@
 ---
-    title: How to Assign Default Bins to Items | Microsoft Docs
+    title: How to Assign Default Bins to Items 
     description: If you are using bins at a location, assigning default bins to your items can make the process of shipping, receiving, and moving your items much easier. When a default bin is assigned to an item, this bin is suggested every time you initiate a transaction for this item.
     services: project-madeira
     documentationcenter: ''

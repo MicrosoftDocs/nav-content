@@ -1,5 +1,5 @@
 ---
-title: Export Positive Pay Files| Microsoft Docs
+title: Export Positive Pay Files
 description: You can ensure your bank only clears validated checks and amounts by exporting a Positive Pay file that contains vendor and payment information.
 services: project-madeira
 documentationcenter: ''

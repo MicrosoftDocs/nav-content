@@ -1,5 +1,5 @@
 ---
-title: Set Up Industry Groups for Contact Companies| Microsoft Docs
+title: Set Up Industry Groups for Contact Companies
 description: Describes how to define an industry group and assign it to a contact company, for example, the retail industry or the automobile industry.
 services: project-madeira
 documentationcenter: ''

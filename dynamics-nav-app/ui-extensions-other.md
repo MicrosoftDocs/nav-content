@@ -1,5 +1,5 @@
 ---
-title: Extensions for Dynamics 365 for Financials Provided by Other Companies | Microsoft Docs
+title: Extensions for Dynamics 365 for Financials Provided by Other Companies 
 description: Lists the apps and extensions to customize Dynamics 365 for Financials provided by other companies.
 documentationcenter: ''
 author: edupont04

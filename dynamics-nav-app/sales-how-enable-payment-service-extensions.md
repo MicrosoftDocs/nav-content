@@ -1,5 +1,5 @@
 ---
-title: Enable Customer Payments Through Payment Services| Microsoft Docs
+title: Enable Customer Payments Through Payment Services
 description: Make it easier for customers to pay their invoices by enabling payment services.
 services: project-madeira
 documentationcenter: ''

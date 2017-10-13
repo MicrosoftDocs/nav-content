@@ -1,5 +1,5 @@
 ---
-title: Using the Accountant Portal | Microsoft Docs
+title: Using the Accountant Portal 
 description: Provides information about the Accountant Portal extension.
 author: edupont04
 

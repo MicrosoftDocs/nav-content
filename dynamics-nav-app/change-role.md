@@ -1,5 +1,5 @@
 ---
-title: Change the Role Center| Microsoft Docs
+title: Change the Role Center
 description: You can select a different profile in Financials to change what you see on your Home page.
 services: project-madeira
 documentationcenter: ''

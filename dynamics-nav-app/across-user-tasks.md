@@ -1,5 +1,5 @@
 ---
-title: Assigning and managing tasks| Microsoft Docs
+title: Assigning and managing tasks
 description: Learn how to assign tasks to users, including your accountant, in Dynamics NAV
 author: edupont04
 

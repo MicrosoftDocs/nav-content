@@ -1,5 +1,5 @@
 ---
-title: Set Up Resources, Time Sheets, and Jobs| Microsoft Docs
+title: Set Up Resources, Time Sheets, and Jobs
 description: Outlines how to set up resources, time sheets, and jobs to manage projects.
 services: project-madeira
 documentationcenter: ''

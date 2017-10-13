@@ -1,5 +1,5 @@
 ---
-title: Understanding How To Post Purchase Documents | Microsoft Docs
+title: Understanding How To Post Purchase Documents 
 description: Learn about the different posting functions to post purchase documents.
 services: project-madeira
 documentationcenter: ''

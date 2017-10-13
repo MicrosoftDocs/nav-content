@@ -1,5 +1,5 @@
 ---
-title: Set Up a Location Card and Define Transfer Routes| Microsoft Docs
+title: Set Up a Location Card and Define Transfer Routes
 description: You create a location card for each place you store inventory items, for example, a warehouse or distribution center, and set up routes to transfer items between locations.
 services: project-madeira
 documentationcenter: ''
