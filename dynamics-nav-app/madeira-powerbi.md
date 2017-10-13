@@ -21,8 +21,8 @@ Microsoft has published the following content packs:
 | App | Description |
 | --- | --- |
 | Microsoft Dynamics NAV | Provides a dashboard with key financial data over time, such as earnings versus expenses, operating margin, and cash cycle.|
-| Microsoft Dynamics NAV - CRM | Provides a dashboard with key data about sales opportunities and contacts.  |
-| Microsoft Dynamics NAV - Sales | Provides a dashboard with key data about sales and inventory. |
+| Microsoft Dynamics 365 for Sales | Provides a dashboard with key data about sales opportunities and contacts.  |
+| Microsoft Dynamics 365 for Sales | Provides a dashboard with key data about sales and inventory. |
 
 ## Using the Dashboards
 Each content pack provides reports that you can drill into:
@@ -117,7 +117,3 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)  
-[Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] as a PowerApps Data Source](across-how-use-financials-data-source-powerapps.md)  
-[Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] in Microsoft Flow](across-how-use-financials-data-source-flow.md)   
-
-## 

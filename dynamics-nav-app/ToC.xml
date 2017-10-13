@@ -8,7 +8,6 @@
     <Node Name="" DisplayName="Enabling Your Business Data for Power BI" Page="across-powerbi.html"/>
     <Node Name="" DisplayName="Using Dynamics NAV in an Automated Workflow" Page="across-how-use-financials-data-source-flow.html"/>
     <Node Name="" DisplayName="Using Dynamics NAV as a Power BI Data Source" Page="across-how-use-financials-data-source-powerbi.html"/>
-    <Node Name="" DisplayName="Connecting to Your Dynamics NAV Data to Build a Business App Using PowerApps" Page="across-how-use-financials-data-source-powerapps.html"/>
     <Node Name="" DisplayName="Customizing Dynamics NAV Using Extensions" Page="ui-extensions.html"/>
   </Node>
   <Node Name="" DisplayName="Tips and Tricks" Page="ui-work-product.html">

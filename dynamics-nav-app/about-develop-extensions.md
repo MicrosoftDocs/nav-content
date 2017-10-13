@@ -22,7 +22,7 @@ There are plenty of benefits of using [!INCLUDE[d365fin_long](includes/d365fin_l
 * Leverage the Dynamics NAV brand – a brand that millions of users know and trust  
 * Reach more customers for your business apps with [Microsoft AppSource](https://appsource.microsoft.com/)  
 * Achieve more with a platform that delivers a modern experience and offers scale  
-* Bundle with intelligent business apps such as PowerApps, Flow, Power BI, Cortana Intelligence, and many more  
+* Bundle with intelligent business apps such as Power BI, Cortana Intelligence, and many more.  
 
 ## To bring your [!INCLUDE[d365fin](includes/d365fin_md.md)] app into AppSource:
 + Create your accounts  

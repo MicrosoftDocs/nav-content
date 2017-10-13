@@ -8,10 +8,7 @@
 ## [Using Dynamics NAV as Your Business Inbox in Outlook](madeira-outlook.md)
 ## [Using Dynamics NAV Without Outlook](madeira-no-outlook.md)
 ## [Enabling Your Business Data for Power BI](madeira-powerbi.md)
-## [Using Dynamics NAV in an Automated Workflow](across-how-use-financials-data-source-flow.md)
 ## [Using Dynamics NAV as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)
-## [Connecting to Your Dynamics NAV Data to Build a Business App Using PowerApps](across-how-use-financials-data-source-powerapps.md)
-## [Bulk Invoicing for Microsoft Bookings](finance-bookings.md)
 ## [Customizing Dynamics NAV Using Extensions](ui-extensions.md)
 
 # Tips and Tricks
