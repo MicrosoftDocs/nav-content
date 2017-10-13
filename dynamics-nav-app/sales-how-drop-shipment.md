@@ -1,5 +1,5 @@
 ---
-title: Create a Sales Order Linked to a Purchase Order for a Direct Shipment 
+title: Create a Sales Order Linked to a Purchase Order for a Direct Shipment
 description: Describes how to create a sales order linked to a purchase order to enable shipment directly from the vendor to the customer.
 services: project-madeira
 documentationcenter: ''
@@ -25,9 +25,6 @@ To prepare a drop shipment, you create a sales order for an item as normal, exce
 
 1. Create a sales order for an item. For more information, see [How to: Sell Products](sales-how-sell-products.md).
 2. On the sales order line for the drop shipment, select the **Drop Shipment** check box. Use the **Choose Columns** function if the field is not visible. For more information, see [User Personalization](ui-user-personalization.md).
-
-> [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md).
 
 ## To create the purchase order for drop shipment
 To prepare a drop shipment for the item to be sold, you create a purchase order as normal, except you must indicate on the purchase order that it must be shipped to your customer, not to yourself.

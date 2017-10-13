@@ -20,9 +20,6 @@ In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can perform common project m
 
 Before you can use [!INCLUDE[d365fin](includes/d365fin_md.md)] to manage projects, you must set up resources, time sheets, and jobs. For more information, see [Setting Up Project Management](projects-setup-projects.md).  
 
-> [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md).
-
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
 | To | See |
