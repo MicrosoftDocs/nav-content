@@ -1,7 +1,7 @@
 ---
 title: Create Sales Opportunities
 description: Describes how to create opportunities from a salesperson or a contact in Dynamics NAV.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

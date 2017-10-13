@@ -1,7 +1,7 @@
 ---
     title: Iceland Local Functionality 
     description: The following topics describe the local functionality in the Icelandic version of Microsoft Dynamics NAV.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

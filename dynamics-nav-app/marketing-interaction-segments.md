@@ -1,7 +1,7 @@
 ---
 title: Keep Track of Segments and Related Interactions
 description: Learn about creating segments to define groups of contacts and specifying interactions for segments.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

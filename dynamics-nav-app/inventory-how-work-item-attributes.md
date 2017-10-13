@@ -1,7 +1,7 @@
 ---
 title: Set Up Item Attributes and Assign Them to Items
 description: Describes how to set up item attribute values, for example, that can be used as search words, and assign them to items and item categories.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

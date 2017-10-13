@@ -1,7 +1,7 @@
 ---
     title: Inventory Setup 
     description: As part of inventory management, you can set up inventory to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to Void Posted Checks 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you must void the **Payment Journal** from which the export was initiated to void a check. You cannot void the journal after the file has been transmitted. You must post printed checks before you can void printed checks.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

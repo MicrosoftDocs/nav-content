@@ -1,7 +1,7 @@
 ---
 title: WorldPay Payments Standard
 description: Provides information about the WorldPay Payments Standard extension
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

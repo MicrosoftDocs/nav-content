@@ -1,7 +1,7 @@
 ---
     title: How to Create Electronic VAT Transactions Reports 
     description: You must create a list of transactions that include VAT with amounts over the current threshold on or before the specified occurrence date. You submit this report to the tax authorities.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -28,7 +28,7 @@ You must create a list of transactions that include VAT with amounts over the cu
     |---
     title: How to Create Electronic VAT Transactions Reports 
     description: You must create a list of transactions that include VAT with amounts over the current threshold on or before the specified occurrence date. You submit this report to the tax authorities.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

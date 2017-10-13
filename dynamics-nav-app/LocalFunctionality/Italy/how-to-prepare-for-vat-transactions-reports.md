@@ -1,7 +1,7 @@
 ---
     title: How to Prepare for VAT Transactions Reports 
     description: You must submit periodic reports to the tax authorities to list all transactions that include VAT. The tax authority establishes the thresholds at which reporting is required. Currently, the threshold is set at zero, meaning that all transactions are to be reported. To prepare for these reports, you must set up VAT posting to include VAT transaction report amounts.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -30,7 +30,7 @@ You must submit periodic reports to the tax authorities to list all transactions
     |---
     title: How to Prepare for VAT Transactions Reports 
     description: You must submit periodic reports to the tax authorities to list all transactions that include VAT. The tax authority establishes the thresholds at which reporting is required. Currently, the threshold is set at zero, meaning that all transactions are to be reported. To prepare for these reports, you must set up VAT posting to include VAT transaction report amounts.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -46,7 +46,7 @@ You must submit periodic reports to the tax authorities to list all transactions
 ------
     title: How to Prepare for VAT Transactions Reports 
     description: You must submit periodic reports to the tax authorities to list all transactions that include VAT. The tax authority establishes the thresholds at which reporting is required. Currently, the threshold is set at zero, meaning that all transactions are to be reported. To prepare for these reports, you must set up VAT posting to include VAT transaction report amounts.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -62,7 +62,7 @@ You must submit periodic reports to the tax authorities to list all transactions
 ------
     title: How to Prepare for VAT Transactions Reports 
     description: You must submit periodic reports to the tax authorities to list all transactions that include VAT. The tax authority establishes the thresholds at which reporting is required. Currently, the threshold is set at zero, meaning that all transactions are to be reported. To prepare for these reports, you must set up VAT posting to include VAT transaction report amounts.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

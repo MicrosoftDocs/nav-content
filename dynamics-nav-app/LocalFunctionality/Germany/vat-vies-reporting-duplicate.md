@@ -1,7 +1,7 @@
 ---
     title: VAT-VIES Reporting 
     description: VAT Information Exchange System (VIES) reporting is required throughout the European Union (EU) and must follow local requirements, such as specific formats and files. Paper reports and XML files are created for German and Austrian VIES reporting.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

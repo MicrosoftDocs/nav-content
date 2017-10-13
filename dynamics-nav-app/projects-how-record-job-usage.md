@@ -1,7 +1,7 @@
 ---
 title: Record Billable and Budgeted Usage of Job Resources
 description: Describes how to record the consumption or usage of items or resources on jobs to facilitate project management.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

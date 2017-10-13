@@ -1,7 +1,7 @@
 ---
 title: Create a Customer Card to Register New Customers 
 description: Describes how to create a customer card to register information about each new customer or client that you sell to.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

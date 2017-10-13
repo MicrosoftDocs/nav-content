@@ -1,7 +1,7 @@
 ---
     title: How to Issue Vendor Payments and Customer Bills 
     description: The vendor and customer bill pay feature supports SEPA-based formats in addition to Italian file formats. You can pay vendors according to the SEPA Credit Transfer standard and collect payment from customers according to the SEPA Direct Debit standard. The following procedure describes the process for sending a SEPA-based payment to a vendor. The steps are similar for collecting payment from a customer.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Setting up Cash Flow Analysis
 description: Set up the charts on the Accounts Role Center to help analyze the flow of money in your business, including expenses and income, liquidity, and cash receipts minus cash payments.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

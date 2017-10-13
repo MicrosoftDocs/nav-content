@@ -1,7 +1,7 @@
 ---
     title: Design Details - Planning Assignment Table 
     description: This topic provides insight into what happens when you change how you plan for an item.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

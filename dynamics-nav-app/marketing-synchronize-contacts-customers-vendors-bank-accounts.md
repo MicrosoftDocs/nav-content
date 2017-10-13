@@ -1,7 +1,7 @@
 ---
 title: Synchronize Contacts With Customers and Vendors
 description: You couple or synchronize contact information of contacts who are also customers, vendors, or bank accounts, so you only update information in one place.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

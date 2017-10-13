@@ -1,7 +1,7 @@
 ---
     title: Russian Receivables Reports 
     description: The receivables report feature enables you to view the customer general ledger turnover for finance entries of general ledger accounts with the source type Customer. The following reports are also provided:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

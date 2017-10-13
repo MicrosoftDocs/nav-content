@@ -1,7 +1,7 @@
 ---
     title: Set Up Service Offerings 
     description: Learn how to set up the services that you offer to your customers.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

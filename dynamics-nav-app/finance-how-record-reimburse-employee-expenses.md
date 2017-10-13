@@ -1,7 +1,7 @@
 ---
 title: Record and Reimburse Employees' Business-Related Expenses 
 description: Post employees' expenses with the general journal to the employee's account and later post a payment to the employee's bank account to reimburse for the business-related expense.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

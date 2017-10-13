@@ -1,7 +1,7 @@
 ---
 title: Arranging Data Using the Sorting Function 
 description: You can use the sorting function to get an overview of your data. For example, you can sort customers by Currency Code to get a select sample of customers.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

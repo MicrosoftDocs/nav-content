@@ -1,7 +1,7 @@
 ---
     title: How to Create Delivery Reminders Manually 
     description: In ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/how-to-generate-delivery-reminders.md).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

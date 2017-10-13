@@ -1,7 +1,7 @@
 ---
 title: Setting Up Text-to-Account Mapping for Recurring Payments
 description: Link text on payments with specific accounts, so that payments are posted to the accounts when you post the payment reconciliation journal.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

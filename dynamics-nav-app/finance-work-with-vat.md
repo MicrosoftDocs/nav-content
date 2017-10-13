@@ -1,7 +1,7 @@
 ---
     title: How to work With VAT on Sales and Purchases 
     description: This topic describes how perform tasks such as correcting posted VATIn EU countries/regions, every sales and purchase transaction is subject to VAT calculations. This topic describes how.
-    services: project-madeira
+    
     documentationcenter: ''
     author: bholtorf
 

@@ -1,7 +1,7 @@
 ---
     title: How to Sell Inventory Items in Assemble-to-Order Flows 
     description: If the item is set up for card of assemble-to-order, then the default sales order process assumes that the item is not in inventory and must be assembled for that specific sales order. Therefore, a linked assembly order is automatically created when you add the item to a sales order line.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Reconcile Vendor Payments Manually
 description: To process, match, or reconcile vendor payments or refunds manually, you apply the amount to one or more open vendor ledger entries.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

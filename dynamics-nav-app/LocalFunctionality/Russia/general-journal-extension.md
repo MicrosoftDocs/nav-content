@@ -1,7 +1,7 @@
 ---
     title: General Journal Extension 
     description: The general journal extension feature enables you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Cash Customers 
     description: This topic describes the steps to set up customer who pays in cash.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

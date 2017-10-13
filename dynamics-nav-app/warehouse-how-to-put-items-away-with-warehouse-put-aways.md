@@ -1,7 +1,7 @@
 ---
     title: How to Put Items Away with Warehouse Put-aways 
     description: When your location is set up to require warehouse put-away processing and warehouse receive processing, you use the warehouse put-away documents function to control the putting away of items.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

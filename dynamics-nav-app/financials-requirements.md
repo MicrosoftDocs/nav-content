@@ -1,7 +1,7 @@
 ---
 title: Minimum requirements for using Dynamics NAV
 description: Learn about the minimum system and version requirements for using Dynamics NAV.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

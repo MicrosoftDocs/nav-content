@@ -1,7 +1,7 @@
 ---
     title: Set Up Statuses for Service Orders and Repairs 
     description: You must set up nine repair status options that identify the progress of repair and maintenance of service items in service orders. 
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

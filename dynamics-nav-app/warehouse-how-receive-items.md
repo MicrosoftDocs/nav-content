@@ -1,7 +1,7 @@
 ---
     title: How to Receive Items 
     description: When items arrive at a warehouse that is set up for warehouse receipt processing, you must retrieve the lines of the released source document that triggered their receipt.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

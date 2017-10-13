@@ -1,7 +1,7 @@
 ---
     title: How to Set Up a Chart of Cost Types 
     description: Chart of cost types are similar to the chart of accounts in the general ledger.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

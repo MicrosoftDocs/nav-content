@@ -1,7 +1,7 @@
 ---
     title: Design Details - Reordering Policies 
     description: This topic gives an overview of the four reordering policies that are available for replenishment.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

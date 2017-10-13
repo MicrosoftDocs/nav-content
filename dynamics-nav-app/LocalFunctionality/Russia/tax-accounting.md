@@ -1,7 +1,7 @@
 ---
     title: Tax Accounting 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up and maintain tax registers to track taxable profits and losses. This is based on the following tax accounting principles:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

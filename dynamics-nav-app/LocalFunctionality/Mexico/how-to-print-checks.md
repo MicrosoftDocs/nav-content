@@ -1,7 +1,7 @@
 ---
     title: How to Print Checks 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use the print check option to manage check payments to vendors or refunds to customers. This option lets you generate electronic payments.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

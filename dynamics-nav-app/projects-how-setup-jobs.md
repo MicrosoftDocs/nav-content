@@ -1,7 +1,7 @@
 ---
 title: Set Up Jobs Prices and Job Posting Groups
 description: Describes how to set up general jobs information, and set up prices for job items, resources, and G/L accounts and jobs posting groups.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Year End Processes Overview 
     description: Year end closing in Microsoft Dynamics NAV involves three steps:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

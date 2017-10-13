@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Work Centers and Machine Centers 
     description: A **Work Center** card organizes the fixed values and requirements of the production resource, and thus governs the output of production performed in that work center.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

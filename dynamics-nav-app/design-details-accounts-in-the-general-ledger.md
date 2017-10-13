@@ -1,7 +1,7 @@
 ---
     title: Design Details - Accounts in the General Ledger 
     description: To reconcile inventory and capacity ledger entries with the general ledger, the related value entries are posted to different accounts in the general ledger.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

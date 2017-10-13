@@ -1,7 +1,7 @@
 ---
     title: Setting Up Service Management 
     description: Overview of tasks to set up Service Management to suit the way that your organizations manages its services.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to Link from Records to External Information or Programs 
     description: Attach a hyperlink to a document or website to a specific record, such as a customer or document.
-    services: project-madeira
+    
     documentationcenter: ''
     author: jswymer
 

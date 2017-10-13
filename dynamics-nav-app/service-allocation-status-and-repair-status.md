@@ -1,7 +1,7 @@
 ---
     title: Allocation Status and Repair Status 
     description: Learn about the relationship between the repair status of service items and the allocation status of the allocation entries for them.
-    services: project-madeira
+    
     documentationcenter: ''
     author: bholtorf
 

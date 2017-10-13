@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Initial Item Costs 
     description: When you set up [!INCLUDE[navnow](../../includes/navnow_md.md)] in your organization.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

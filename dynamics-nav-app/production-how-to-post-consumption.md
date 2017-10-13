@@ -1,7 +1,7 @@
 ---
     title: How to Batch Post Consumption 
     description: If the flushing method is **Manual**, you must post the components manually, using a consumption journal.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

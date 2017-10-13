@@ -1,7 +1,7 @@
 ---
     title: Swiss Inventory Management 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Swiss enhancements to inventory management. This ../../includes the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

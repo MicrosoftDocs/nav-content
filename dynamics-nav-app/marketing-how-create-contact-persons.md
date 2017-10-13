@@ -1,7 +1,7 @@
 ---
 title: Create Contact Persons
 description: Describes how to create a contact card for each new person or prospect you interact with or have a business relationship with.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

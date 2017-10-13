@@ -1,7 +1,7 @@
 ---
     title: How to Combine Shipments on a Single Invoice 
     description: If you want to invoice more than one shipment at a time, you can use the combined shipments feature.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

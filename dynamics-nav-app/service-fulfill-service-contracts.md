@@ -1,7 +1,7 @@
 ---
 title: Overview of Tasks to Fulfill Service Contracts 
 description: Outlines tasks to manage service contracts with customers.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Delivery Reminder Terms, Levels, and Text 
     description: To create delivery reminders, you must set up the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

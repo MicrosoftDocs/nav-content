@@ -1,7 +1,7 @@
 ---
 title: Create Segments
 description: Describes how to create a segment for a group of contacts in Dynamics NAV, for example, in order to target several contacts with a direct mail.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

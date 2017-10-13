@@ -1,7 +1,7 @@
 ---
 title: Managing Accounts Payable
 description: Overview of how Dynamics NAV helps you manage accounts payable (AP), including vendor payments, creditors, debt, and balance due.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 manager: edupont

@@ -1,7 +1,7 @@
 ---
     title: Design Details - Lot-for-Lot 
     description: Learn how to use the lot-for-lot policy to settle order quantity based on demand.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

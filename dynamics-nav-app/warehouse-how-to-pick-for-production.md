@@ -1,7 +1,7 @@
 ---
     title: How to Pick for Production in Basic Warehouse Configurations 
     description: When your warehouse location requires pick processing but does not require shipment processing, use the **Inventory Pick** window to organize and record the picking of components.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

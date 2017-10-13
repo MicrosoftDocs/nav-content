@@ -1,7 +1,7 @@
 ---
 title: Overview of Tasks to Manage Purchasing 
 description: Outlines tasks to manage your purchasing or procurement processes, including how purchase invoices and purchase orders work.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

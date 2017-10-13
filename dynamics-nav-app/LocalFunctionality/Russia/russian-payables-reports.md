@@ -1,7 +1,7 @@
 ---
     title: Russian Payables Reports 
     description: The payables report feature enables you to view the vendor general ledger turnover for general ledger accounts for finance entries with the source type Vendor on the screen and in the form of a printed report. The following reports are also provided:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

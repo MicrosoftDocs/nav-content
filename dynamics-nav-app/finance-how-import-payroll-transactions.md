@@ -1,7 +1,7 @@
 ---
 title: Import Payroll Transactions
 description: To manage salary, you import and post financial transactions from your payroll provider to the general ledger, using a payroll extension such as Ceridian or Quickbooks.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

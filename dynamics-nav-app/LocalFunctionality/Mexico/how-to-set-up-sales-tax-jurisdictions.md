@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Sales Tax Jurisdictions 
     description: In the United States, states, counties, cities, and localities can charge sales tax.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Specify Colored Indicators to Customize Visual Signals About a Cue's Activity 
 description: Set up a colored indicator on a Cue tile to provide a personalized visual signal of the Cue’s activity.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

@@ -1,7 +1,7 @@
 ---
     title: How to Create a VAT Statement 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] allows you to submit a periodic report of VAT transactions. The VAT statement is submitted as a FDF file that corresponds with an editable PDF file from the tax authorities.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

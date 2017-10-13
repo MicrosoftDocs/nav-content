@@ -1,7 +1,7 @@
 ---
 title: Depreciation Methods
 description: Learn about the different methods to depreciate or write-down fixed assets.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

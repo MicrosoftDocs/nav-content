@@ -1,7 +1,7 @@
 ---
 title: Overview of Tasks to Manage Payments to Vendors
 description: Outlines tasks to manage payments to vendors or creditors, including posting payment lines and getting an overview of the balance due.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

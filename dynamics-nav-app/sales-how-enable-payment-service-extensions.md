@@ -1,7 +1,7 @@
 ---
 title: Enable Customer Payments Through Payment Services
 description: Make it easier for customers to pay their invoices by enabling payment services.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 ms.prod: "dynamics-nav-2017"

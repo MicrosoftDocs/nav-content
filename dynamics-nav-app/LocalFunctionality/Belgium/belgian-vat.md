@@ -1,7 +1,7 @@
 ---
     title: Belgian VAT 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Belgium enhancements to VAT reporting feature that enables you to print VAT transaction details. You must send the following reports to the Belgian tax authorities:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

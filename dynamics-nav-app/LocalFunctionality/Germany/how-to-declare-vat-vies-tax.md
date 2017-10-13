@@ -1,7 +1,7 @@
 ---
     title: How to Declare VAT-VIES Tax 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes the VAT-VIES declaration report, which you can use to submit information about sales transactions with other European Union (EU) countries/regions to the customs and tax authorities' list system. The report displays information in the same format that is used in the customs and tax authorities' declaration list.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

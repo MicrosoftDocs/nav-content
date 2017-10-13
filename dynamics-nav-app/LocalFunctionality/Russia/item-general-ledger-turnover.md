@@ -1,7 +1,7 @@
 ---
     title: Item General Ledger Turnover 
     description: The following form and reports enable the creation of turnover sheet for goods and materials.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

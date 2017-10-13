@@ -1,7 +1,7 @@
 ---
     title: Balance 
     description: Specifies a temporary general ledger balance. When you choose the **Balance** action on the **Home** tab in the **Process** group, the G-L Acc. Provisional Balance window opens. It shows the balance of the final posted ledger entries and the balance of the postings entered in the current general journal.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Payment Line Information 
     description: Payment journal line information for the remittance payment is set up in the **Payment Info** window.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

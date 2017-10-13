@@ -1,7 +1,7 @@
 ---
     title: Design Details - Dealing with Orders Before the Planning Starting Date 
     description: This topic describes the rules that planning applies to orders in the frozen zone.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Add Extra Lines to Define Extended Text for an Item Description 
 description: You can add extra lines to extend the standard text that describes an item.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

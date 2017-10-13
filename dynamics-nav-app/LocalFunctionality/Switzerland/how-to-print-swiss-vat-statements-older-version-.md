@@ -1,7 +1,7 @@
 ---
     title: How to Print Swiss VAT Statements (older version) 
     description: > [!NOTE]
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Viewing and Editing Basic Settings in Dynamics NAV 
 description: Learn how to change some of the basic settings in Dynamics NAV, for example, the Role Center, company, or the work date.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

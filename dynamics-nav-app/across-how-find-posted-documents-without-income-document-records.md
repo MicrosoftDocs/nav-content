@@ -1,7 +1,7 @@
 ---
 title: Search for Documents without Attachments
 Description: You can search for general ledger entries for posted purchase and sales documents that do not have incoming electronic documents, such as imported invoices.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Manage Fixed Assets
 description: Learn about the fixed assets functionality in Dynamics NAV and get an overview of how to work with fixed assets.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

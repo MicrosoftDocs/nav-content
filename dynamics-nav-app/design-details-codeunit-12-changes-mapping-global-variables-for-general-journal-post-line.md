@@ -1,7 +1,7 @@
 ---
     title: Design Details - Codeunit 12 Changes in Mapping Global Variables for General Journal Post Line 
     description: The following changes have been implemented in this release of [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

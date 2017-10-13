@@ -1,7 +1,7 @@
 ---
     title: Keeping a Report Layout Up-to-date 
     description: You may need to update a custom report layout that is used on a report. This is required when there has been a design change to the report's data set, for example, a field that is used in the layout has been removed from the report data set.
-    services: project-madeira
+    
     documentationcenter: ''
     author: jswymer
 

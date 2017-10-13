@@ -1,7 +1,7 @@
 ---
 title: How Do I Videos on Using Dynamics NAV
 description: Provides access to getting-started videos that illustrate how to do common tasks.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

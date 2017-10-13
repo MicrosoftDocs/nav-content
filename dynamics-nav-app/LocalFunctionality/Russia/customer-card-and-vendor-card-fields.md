@@ -1,7 +1,7 @@
 ---
     title: Customer Card and Vendor Card Fields 
     description: The **Customer Card** and **Vendor Card** windows include several additional fields. The **Default Bank Code** field has been added to the **Payments** FastTab on both cards, and the following fields have been added to the **Invoicing** FastTab on the **Vendor Card** form:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

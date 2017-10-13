@@ -1,7 +1,7 @@
 ---
 title: Revalue Fixed Assets
 description: Learn how to adjust the value of fixed assets, recording new amounts as a write-down or appreciation, and post additional acquisition costs.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

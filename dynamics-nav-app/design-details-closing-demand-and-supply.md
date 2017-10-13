@@ -1,7 +1,7 @@
 ---
     title: Design Details - Closing Demand and Supply 
     description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

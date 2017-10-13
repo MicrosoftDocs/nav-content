@@ -1,7 +1,7 @@
 ---
 title: Working with Custom and Built-In Layouts for Reports and Documents 
 description: Use report layouts to customize documents, for example, to personalize the font, logo, or page settings of PDF files you send to customers.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

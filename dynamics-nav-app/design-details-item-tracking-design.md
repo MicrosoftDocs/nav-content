@@ -1,7 +1,7 @@
 ---
     title: Design Details - Item Tracking Design 
     description: This topic describes the design behind item tracking in [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

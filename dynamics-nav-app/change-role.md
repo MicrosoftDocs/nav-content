@@ -1,7 +1,7 @@
 ---
 title: Change the Role Center
 description: You can select a different profile in Dynamics NAV to change what you see on your Home page.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

@@ -1,7 +1,7 @@
 ---
     title: How to Create Tax Registers 
     description: The following procedure shows how to create tax registers.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Design Details - Reordering Policies 
     description: This topic gives an overview of policies for item replenishment.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

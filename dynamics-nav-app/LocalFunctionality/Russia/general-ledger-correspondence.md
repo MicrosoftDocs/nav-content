@@ -1,7 +1,7 @@
 ---
     title: General Ledger Correspondence 
     description: The general ledger correspondence feature enables you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -79,7 +79,7 @@ The general ledger correspondence feature enables you to:
 |---
     title: General Ledger Correspondence 
     description: The general ledger correspondence feature enables you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

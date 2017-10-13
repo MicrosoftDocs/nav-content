@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Customer and Vendor Agreements 
     description: The customer and vendor agreements feature provides the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

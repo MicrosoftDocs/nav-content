@@ -1,7 +1,7 @@
 ---
 title: Set Up Bank Data Conversion
 description: You can set up bank accounts to keep track of transactions and import or export bank feeds.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

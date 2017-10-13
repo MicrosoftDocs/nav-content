@@ -1,7 +1,7 @@
 ---
 title: Dispose or Retire FA
 description: You must post a disposal value when you scrap, sell, or retire a fixed asset.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Recipient Reference Codes 
     description: The recipient reference code determines the message that is sent to the recipient. The code is displayed on the remittance account and is used for vendors that are paid from this account. For each vendor, a special recipient reference code can be created if the general reference text is not used.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

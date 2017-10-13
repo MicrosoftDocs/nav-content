@@ -1,7 +1,7 @@
 ---
     title: How to Create Deposits 
     description: You can make deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

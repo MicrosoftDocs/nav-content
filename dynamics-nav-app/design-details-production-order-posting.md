@@ -1,7 +1,7 @@
 ---
     title: Design Details - Production Order Posting 
     description: Similar to assembly order posting, the consumed components and the used machine time are converted and output as the produced item when the production order is finished.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Electronic Tax Declarations 
     description: Companies must deliver their VAT and ICP declarations electronically to the tax authorities.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

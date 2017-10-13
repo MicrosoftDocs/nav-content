@@ -1,7 +1,7 @@
 ---
     title: About Cost Accounting 
     description: Cost accounting can help you understand the costs of running a business.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

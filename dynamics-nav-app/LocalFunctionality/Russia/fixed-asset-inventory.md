@@ -1,7 +1,7 @@
 ---
     title: Fixed Asset Inventory 
     description: The fixed assets inventory feature enables you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

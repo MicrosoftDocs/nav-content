@@ -1,7 +1,7 @@
 ---
     title: Batch Jobs 22 
     description: ADD INCLUDE<!--[!INCLUDE[bn_batchjobs](../../includes/bn_batchjobs_md.md)]-->
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

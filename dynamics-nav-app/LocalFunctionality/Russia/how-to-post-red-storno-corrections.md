@@ -1,7 +1,7 @@
 ---
     title: How to Post Red Storno Corrections 
     description: You can set up inventory to use the same column for original and corrective postings. This is often referred to as *red storno*. You can use red storno posting to post the following inventory entries:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Setting Up Cost Accounting 
     description: Before you start working with cost accounting, you must perform setup tasks.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

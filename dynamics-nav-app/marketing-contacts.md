@@ -1,7 +1,7 @@
 ---
 title: Create and Manage Company Contacts
 description: You set up all external entities that you have a business relationship with (such as prospects, customers, vendors, and consultants) as contacts.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

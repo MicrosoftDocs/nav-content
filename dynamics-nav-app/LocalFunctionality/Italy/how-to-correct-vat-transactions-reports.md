@@ -1,7 +1,7 @@
 ---
     title: How to Correct VAT Transactions Reports 
     description: ### To send a corrected VAT transaction report
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

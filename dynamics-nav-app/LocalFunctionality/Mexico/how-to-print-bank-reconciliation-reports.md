@@ -1,7 +1,7 @@
 ---
     title: How to Print Bank Reconciliation Reports 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can print the following bank reconciliation reports:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

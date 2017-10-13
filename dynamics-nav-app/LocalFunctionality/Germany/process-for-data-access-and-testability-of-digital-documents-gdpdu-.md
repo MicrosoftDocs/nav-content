@@ -1,7 +1,7 @@
 ---
     title: Process for Data Access and Testability of Digital Documents (GDPdU) 
     description: You can export data from [!INCLUDE[navnow](../../includes/navnow_md.md)] according to the process for data access and testability of digital documents (GDPdU), which is based on German tax law.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

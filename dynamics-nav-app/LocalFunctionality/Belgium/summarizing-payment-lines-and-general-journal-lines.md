@@ -1,7 +1,7 @@
 ---
     title: Summarizing Payment Lines and General Journal Lines 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] handles the following types of transactions in the same way:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

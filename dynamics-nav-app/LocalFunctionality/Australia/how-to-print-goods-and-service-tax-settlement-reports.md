@@ -1,7 +1,7 @@
 ---
     title: How to Print Goods and Service Tax Settlement Reports 
     description: You must submit a periodic report of goods and services tax (GST) settlement. You can create this settlement from the **BAS Calc. Schedule List** window.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

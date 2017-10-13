@@ -1,7 +1,7 @@
 ---
     title: Norwegian VAT Codes 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], VAT processing information can be easily set up using standard Norwegian VAT codes. The following table shows the standard Norwegian VAT codes.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

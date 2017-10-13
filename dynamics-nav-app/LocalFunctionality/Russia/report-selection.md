@@ -1,7 +1,7 @@
 ---
     title: Report Selection 
     description: The report selection feature enables you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

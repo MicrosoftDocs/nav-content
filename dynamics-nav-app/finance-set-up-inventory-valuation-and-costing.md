@@ -1,7 +1,7 @@
 ---
     title: Set Up Inventory Valuation and Costing 
     description: The following table describes a sequence of tasks, with links to the topics that describe them.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

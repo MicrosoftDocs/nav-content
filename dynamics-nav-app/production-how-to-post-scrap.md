@@ -1,7 +1,7 @@
 ---
     title: How to Post Scrap Manually 
     description: If scrap is produced during processing, it can be entered in the output journal. Note that the scrap quantity does not increase the output quantity.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

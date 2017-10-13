@@ -1,7 +1,7 @@
 ---
     title: Walkthrough - Planning Supplies Automatically 
     description: Phrases like “run planning” and “run MRP” refer to the calculation of the master production schedule (MPS) and the material requirements plan (MRP) based on actual and forecasted demand.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

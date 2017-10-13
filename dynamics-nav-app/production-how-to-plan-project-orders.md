@@ -1,7 +1,7 @@
 ---
     title: How to Plan Project Orders 
     description: This planning task starts from a sales order and uses the **Sales Order Planning** window. Once you have created a project production order, you can plan it further by using the **Order Planning** window.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

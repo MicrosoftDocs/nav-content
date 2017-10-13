@@ -1,7 +1,7 @@
 ---
 title: Process Sales Opportunities in Sales Cycles
 description: You can view, close, or delete sales opportunities, and you can also create quotes and sales orders for opportunities, and move an opportunity through the stages of a sales cycle.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

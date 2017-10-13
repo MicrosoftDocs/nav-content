@@ -1,7 +1,7 @@
 ---
     title: Payables and Receivables 
     description: Dynamics NAV
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

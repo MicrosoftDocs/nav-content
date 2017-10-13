@@ -1,7 +1,7 @@
 ---
     title: How to Create VAT Ledgers 
     description: You can create and store any number of VAT ledgers. For example, you can create the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

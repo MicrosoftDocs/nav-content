@@ -1,7 +1,7 @@
 ---
     title: Fixed Asset Turnover 
     description: The fixed asset turnover feature enables you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

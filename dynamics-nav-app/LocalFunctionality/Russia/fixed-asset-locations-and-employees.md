@@ -1,7 +1,7 @@
 ---
     title: Fixed Asset Locations and Employees 
     description: The fixed assets locations and the fixed assets employees feature enable you to:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Business Functionality Supported by Dynamics NAV 
 Description: Provides a feature overview of all the business functions and departments that are supported by application areas, such as Finance, Inventory, and Project Management.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

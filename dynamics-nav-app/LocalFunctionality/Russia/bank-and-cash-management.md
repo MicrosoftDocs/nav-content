@@ -1,7 +1,7 @@
 ---
     title: Bank and Cash Management 
     description: Dynamics NAV
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to View Ledger Reconciliations 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes two reports that can help you reconcile general ledger entries with customer ledger entries and vendor ledger entries. The reports print a separate page for each customer or vendor that sums up amounts from general ledger transactions based on payments and posted invoices.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

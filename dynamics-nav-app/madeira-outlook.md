@@ -1,7 +1,7 @@
 ---
 title: Using Dynamics NAV with Outlook
 description: Dynamics NAV has deep integration with Office 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

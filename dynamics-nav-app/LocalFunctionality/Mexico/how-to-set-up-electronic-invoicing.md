@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Electronic Invoicing 
     description: Before you can send electronic documents, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)] to ensure that the tax identification number (RFC), personal identification number (CURP), and state inscription IDs are available for your company and all your customers and vendors. You also need to set up the parameters that are needed for sending electronic invoices to customers and vendors. These parameters include the certificate thumbprint, which is the certificate that you received from the Mexico tax authority (SAT).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -33,7 +33,7 @@ Before you can send electronic documents, you must set up [!INCLUDE[navnow](../.
     |---
     title: How to Set Up Electronic Invoicing 
     description: Before you can send electronic documents, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)] to ensure that the tax identification number (RFC), personal identification number (CURP), and state inscription IDs are available for your company and all your customers and vendors. You also need to set up the parameters that are needed for sending electronic invoices to customers and vendors. These parameters include the certificate thumbprint, which is the certificate that you received from the Mexico tax authority (SAT).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -49,7 +49,7 @@ Before you can send electronic documents, you must set up [!INCLUDE[navnow](../.
 ------
     title: How to Set Up Electronic Invoicing 
     description: Before you can send electronic documents, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)] to ensure that the tax identification number (RFC), personal identification number (CURP), and state inscription IDs are available for your company and all your customers and vendors. You also need to set up the parameters that are needed for sending electronic invoices to customers and vendors. These parameters include the certificate thumbprint, which is the certificate that you received from the Mexico tax authority (SAT).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -65,7 +65,7 @@ Before you can send electronic documents, you must set up [!INCLUDE[navnow](../.
 ------
     title: How to Set Up Electronic Invoicing 
     description: Before you can send electronic documents, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)] to ensure that the tax identification number (RFC), personal identification number (CURP), and state inscription IDs are available for your company and all your customers and vendors. You also need to set up the parameters that are needed for sending electronic invoices to customers and vendors. These parameters include the certificate thumbprint, which is the certificate that you received from the Mexico tax authority (SAT).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Results of the Transfer 
     description: This topic describes what happens after you transfer general ledger entries to cost entries.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

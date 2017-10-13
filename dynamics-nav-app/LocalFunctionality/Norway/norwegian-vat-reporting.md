@@ -1,7 +1,7 @@
 ---
     title: Norwegian VAT Reporting 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Norwegian enhancements that allow you to calculate and report VAT to the Norwegian tax authorities.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Create a Customer or VendorFrom a Contact
 description: You can record an existing contact as a customer, vendor, or bank account using existing data and specifying a business relationship.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

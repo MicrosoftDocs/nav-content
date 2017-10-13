@@ -1,7 +1,7 @@
 ---
     title: How to Register Consumption and Output for One Production Order 
     description: This execution task is performed in the **Production Journal** window. The journal combines the functions of the separate consumption journal and output journals into one journal. The combined journal is accessed directly from a released production order. Its main purpose is to manually post the consumption of components, the quantity of end items produced, and the time spent in operations.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Insure Fixed Assets
 Description: You can assign a fixed asset to an insurance policy, which is represented by an insurance card.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

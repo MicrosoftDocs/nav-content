@@ -1,7 +1,7 @@
 ---
     title: Design Details - Closing Demand and Supply 
     description: When the supply balancing procedures have been performed, there are three possible end situations:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

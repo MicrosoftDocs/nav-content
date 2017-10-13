@@ -1,7 +1,7 @@
 ---
     title: Fixed Asset Charges 
     description: In ADD INCLUDE<!--[!INCLUDE[navnow](how-to-create-a-fixed-asset-charge.md).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

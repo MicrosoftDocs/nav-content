@@ -1,7 +1,7 @@
 ---
 title: 'How to: Manage Employee Absence'
 description: Describes how to record employees' absence and analyze absence statistics.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

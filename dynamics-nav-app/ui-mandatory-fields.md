@@ -1,7 +1,7 @@
 ---
 title: Fields Required to Complete Processes 
 description: Learn about fields marked with a red asterisk, which indicates that they are required and must be filled in to complete a processes.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

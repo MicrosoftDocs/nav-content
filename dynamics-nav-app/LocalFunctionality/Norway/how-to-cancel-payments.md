@@ -1,7 +1,7 @@
 ---
     title: How to Cancel Payments 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Norwegian enhancements that allow you to cancel payments. If the payment has been sent to the bank, the bank must be contacted to cancel the remittance that they received.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

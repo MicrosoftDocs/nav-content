@@ -1,7 +1,7 @@
 ---
 title: Set Up Mailing Groups for Contacts
 description: You can use mailing groups to identify groups of contacts that you want to receive the same information, for example, for a marketing campaign or promo.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

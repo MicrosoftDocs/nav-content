@@ -1,7 +1,7 @@
 ---
 title: Using Human Resources Functionality
 description: You can register new personnel, edit information about existing staff, and record and analyze absence.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

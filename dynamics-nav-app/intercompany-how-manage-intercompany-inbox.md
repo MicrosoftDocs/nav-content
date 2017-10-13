@@ -1,7 +1,7 @@
 ---
 title: Process Incoming and Outgoing IC Transactions
 description: Intercompany transactions that you receive from your intercompany partners are listed in the intercompany inbox where you process them manually or automatically.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

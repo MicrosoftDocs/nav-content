@@ -1,7 +1,7 @@
 ---
     title: How to Import Payment Return Data 
     description: To import receipt and settlement returns, use the **Rem. payment order – import** window. If any errors are indicated when importing settlement returns, you can view this information in the **Settlement Info** window.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

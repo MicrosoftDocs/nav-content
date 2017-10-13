@@ -1,7 +1,7 @@
 ---
     title: How to Create and Export Payment History 
     description: After you have created a proposal and made any modifications, you can process the proposal to create a payment history. Proposals can be created manually or automatically from a vendor or customer ledger entry. For more information, see [How to: Create Proposals](how-to-create-proposals.md).
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to Assign Serial Numbers and Lot Numbers to Items for Tracking 
     description: You can add serial numbers and lot numbers to any outbound or inbound document, and its posted item tracking entries are displayed in the related item ledger entries.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

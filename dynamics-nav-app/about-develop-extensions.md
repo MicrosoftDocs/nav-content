@@ -1,7 +1,7 @@
 ---
 title: Customize Dynamics NAV
 description: Build, showcase, and promote your apps and extensions for Dynamics NAV.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

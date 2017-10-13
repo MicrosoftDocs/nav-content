@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Alternate Depreciation Methods 
     description: Alternate depreciation methods include the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

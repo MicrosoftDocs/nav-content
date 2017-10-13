@@ -1,7 +1,7 @@
 ---
     title: How to Print Balance Sheet Reports 
     description: You can use the **Balance Sheet** report to view the company’s balance sheet.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

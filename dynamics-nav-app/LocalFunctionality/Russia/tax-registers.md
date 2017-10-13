@@ -1,7 +1,7 @@
 ---
     title: Tax Registers 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers to track and manage taxable profits and losses in accordance with Russian tax accounting principles. Tax registers allow you to group taxable transactions into logical categories and apply tax accounting rules for the recognition of revenue and expenditures.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -25,7 +25,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers
 |---
     title: Tax Registers 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers to track and manage taxable profits and losses in accordance with Russian tax accounting principles. Tax registers allow you to group taxable transactions into logical categories and apply tax accounting rules for the recognition of revenue and expenditures.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

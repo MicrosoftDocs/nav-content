@@ -1,7 +1,7 @@
 ---
     title: How to Import and Export Account Schedules 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] enables you to import and export account schedules into other companies and databases.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

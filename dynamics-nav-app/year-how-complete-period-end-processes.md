@@ -1,7 +1,7 @@
 ---
 title: Optional Activities for Closing Periods 
 description: This topic outlines the optional processes and activities for closing accounting periods in Dynamics NAV.  
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

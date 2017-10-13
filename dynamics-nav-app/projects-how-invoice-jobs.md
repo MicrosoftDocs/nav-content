@@ -1,7 +1,7 @@
 ---
 title: Create a Job Sales Invoice to Invoice a Job
 description: Describes how to invoice customers for job expenses as a project progresses.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

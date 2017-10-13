@@ -1,7 +1,7 @@
 ---
     title: Inventory 
     description: ##See Also
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

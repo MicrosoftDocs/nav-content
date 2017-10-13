@@ -1,7 +1,7 @@
 ---
 title: Updating Currency Exchange Rates
 description: To use multiple currencies in your business, you can set up a code for each currency and use an external exchange rate service, such as Yahoo.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

@@ -1,7 +1,7 @@
 ---
 title: Create New Value Entries for Items in the Inventory
 description: Describes how to appreciate or depreciate the value entries of one or more items in the inventory by posting their current, calculated value.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

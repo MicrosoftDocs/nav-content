@@ -1,7 +1,7 @@
 ---
     title: Example - Inventory Order Line with Tracking Lines 
     description: The physical inventory order line should contain the following data:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

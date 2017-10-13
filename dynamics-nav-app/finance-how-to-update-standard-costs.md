@@ -1,7 +1,7 @@
 ---
 title: How to Update Standard Costs 
 description: You must periodically update the standard costs of components and roll the new costs up to the parent item.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

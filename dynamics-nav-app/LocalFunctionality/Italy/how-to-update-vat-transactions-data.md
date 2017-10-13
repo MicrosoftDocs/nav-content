@@ -1,7 +1,7 @@
 ---
     title: How to Update VAT Transactions Data 
     description: Before you create the first VAT transaction report, you should prepare the existing data by running the **Update VAT Transaction Data** report. You should also run this report if you have made changes to the setup based on new requirements from the tax authorities.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

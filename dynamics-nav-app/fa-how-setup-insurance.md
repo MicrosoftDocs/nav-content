@@ -1,7 +1,7 @@
 ---
 title: Set Up FA Insurance
 description: You set up an insurance card and general insurance policy information to manage fixed asset insurance coverage.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

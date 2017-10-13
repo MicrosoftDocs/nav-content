@@ -1,7 +1,7 @@
 ---
     title: Set Up Troubleshooting Processes 
     description: Learn how to set up processes that help service representatives identify and resolve issues with service items.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

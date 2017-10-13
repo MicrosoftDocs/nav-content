@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Cost Objects 
     description: Learn how to set up cost objects, which are similar to dimensions for the general ledger.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Set Up Service Management Processes 
     description: Learn how to set up processes that help ensure your customers are satisfied with your customer service.
-    services: project-madeira
+    
     documentationcenter: ''
     author: bholtorf
 

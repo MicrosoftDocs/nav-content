@@ -1,7 +1,7 @@
 ---
     title: Set Applies-to ID 
     description: Use this to apply one or more G/L entries. Select the entry, and then choose **Set Applies-to ID**.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

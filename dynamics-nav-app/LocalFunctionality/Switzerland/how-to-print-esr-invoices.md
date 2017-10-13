@@ -1,7 +1,7 @@
 ---
     title: How to Print ESR Invoices 
     description: You can print an Einzahlungsschein mit Referenznummer (ESR) payment slip in the following ways:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

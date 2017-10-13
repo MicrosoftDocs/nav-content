@@ -1,7 +1,7 @@
 ---
     title: How to Export Payments 
     description: The Payment Management module allows you to export your payments electronically via a text file or XMLport.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

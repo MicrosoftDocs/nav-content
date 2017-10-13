@@ -1,7 +1,7 @@
 ---
 title: Change the Way a Report Looks by Selecting a Different Layout 
 description: You can use different layouts for a report, and switch between layouts to change how a report looks.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

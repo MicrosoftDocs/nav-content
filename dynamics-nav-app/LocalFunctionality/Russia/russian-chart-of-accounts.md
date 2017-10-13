@@ -1,7 +1,7 @@
 ---
     title: Russian Chart of Accounts 
     description: In the **Chart of Accounts** window, the following fields are available:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

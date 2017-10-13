@@ -1,7 +1,7 @@
 ---
     title: Automatic Account Codes 
     description: You can use customized posting groups to automate recurring transactions in journals, sales documents, or purchase documents. These posting groups can be used throughout [!INCLUDE[navnow](../../includes/navnow_md.md)] to trigger automatic postings and allocations across different accounts or dimensions.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

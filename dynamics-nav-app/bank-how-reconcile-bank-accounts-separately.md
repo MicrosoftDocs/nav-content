@@ -1,7 +1,7 @@
 ---
 title: Reconcile Bank Accounts Separately
 description: Describes how your inventory value is reconciled with the general ledger.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

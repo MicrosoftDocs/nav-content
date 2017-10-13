@@ -1,7 +1,7 @@
 ---
 title: Posting Group Setup
 description: Overview of the posting groups you can use to save time and avoid mistakes when you post transactions.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

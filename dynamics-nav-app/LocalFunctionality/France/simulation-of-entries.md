@@ -1,7 +1,7 @@
 ---
     title: Simulation of Entries 
     description: Dynamics NAV
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

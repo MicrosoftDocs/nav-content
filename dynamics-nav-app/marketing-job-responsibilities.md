@@ -1,7 +1,7 @@
 ---
 title: Setting Up Job Responsibilities for Contacts
 description: You can define a job responsibility code and assign it to a contact to indicate the tasks that your contact is responsible for in their company, for example, IT or production.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

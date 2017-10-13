@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Vendors for Remittance 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Norwegian enhancements for automatically making payments to vendors. This reduces errors that occur from manual data entry. To pay vendors using the remittance system, you must set up vendor information.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

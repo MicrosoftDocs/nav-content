@@ -1,7 +1,7 @@
 ---
 title: Manage FA Budgets
 description: You set up information about future investments, disposals, and depreciation of fixed assets to help prepare budgets and forecasts.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

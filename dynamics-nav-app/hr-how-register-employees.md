@@ -1,7 +1,7 @@
 ---
 title: Set Up Employees and Modify Information
 description: Describes how to register new personnel or edit information for existing staff.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

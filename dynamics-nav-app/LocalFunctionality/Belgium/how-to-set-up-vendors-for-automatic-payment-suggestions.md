@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Vendors for Automatic Payment Suggestions 
     description: You can set up each vendor so that unpaid invoices from that vendor are automatically included in payment suggestions. For each vendor, you must decide whether you want to automatically generate payment suggestions. If you do not want to generate payment suggestions for a vendor, you should not select the **Suggest Payments** check box. This way the outstanding ledger entries for the vendor will not be included in payment suggestions.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

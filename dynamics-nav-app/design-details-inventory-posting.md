@@ -1,7 +1,7 @@
 ---
     title: Design Details - Inventory Posting 
     description: Each inventory transaction, such as a purchase receipt or a sales shipment, posts two entries of different types.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

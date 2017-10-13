@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Cost Centers 
     description: Cost centers are departments that are responsible for costs and income. The chart of cost centers is similar to the dimension information for the general ledger.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

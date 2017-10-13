@@ -1,7 +1,7 @@
 ---
     title: Automatic Breaking Bulk with Directed Put-away and Pick 
     description: For locations that use directed put-away and pick, you can break a larger unit of measure into smaller units of measure, when it creates warehouse instructions that fulfill the needs of source documents, production orders, or internal picks and put-aways.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: How to Print VAT Reports 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes VAT reports that you can use to submit information about VAT to the authorities. The following VAT reports are available for Germany:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

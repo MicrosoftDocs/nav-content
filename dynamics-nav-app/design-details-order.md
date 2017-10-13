@@ -1,7 +1,7 @@
 ---
     title: Design Details - Order 
     description: This topic provides information about order-to-order links in a make-to-order environment.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

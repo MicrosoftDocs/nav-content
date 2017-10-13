@@ -1,7 +1,7 @@
 ---
 title: Using General Functionality Across Business Areas 
 description: Learn about the functionality and features that are used across business areas in Dynamics NAV.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

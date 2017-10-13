@@ -1,7 +1,7 @@
 ---
     title: Dimension Set Entries Overview 
     description: This topic describes how dimension set entries are stored and posted in [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
     title: Physical Inventory Documents 
     description: You can take inventory of your items using the physical inventory order and the physical inventory recording documents.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

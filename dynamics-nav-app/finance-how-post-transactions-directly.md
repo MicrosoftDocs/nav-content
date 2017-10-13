@@ -1,7 +1,7 @@
 ---
 title: Record expenses or income directly in G/L
 description: For business activities that are not represented by a document in, such as smaller expenses or cash receipts, you can create the related transactions by posting journal lines in the General Journal window.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

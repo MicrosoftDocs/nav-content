@@ -1,7 +1,7 @@
 ---
 title: Using the GetAddress.io UK Postcodes Extension 
 description: Retrieve addresses for entities like customers, vendors, employees, and banks in the United Kingdom from the GetAddress.io service.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

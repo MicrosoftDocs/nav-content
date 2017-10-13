@@ -1,7 +1,7 @@
 ---
 title: Planning Service Processes 
 description: Outlines tasks to set up rules and values to define your service policies and processes.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

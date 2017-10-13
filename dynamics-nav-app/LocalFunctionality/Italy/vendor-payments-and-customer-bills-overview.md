@@ -1,7 +1,7 @@
 ---
     title: Vendor Payments and Customer Bills Overview 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can manage automatic bills to customers and from vendors.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

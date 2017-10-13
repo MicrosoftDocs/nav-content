@@ -1,7 +1,7 @@
 ---
     title: How to Print Income Statements 
     description: You can use the **Income Statement** report to view the company’s annual income statement.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

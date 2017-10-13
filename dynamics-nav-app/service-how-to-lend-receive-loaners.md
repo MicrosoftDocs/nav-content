@@ -1,7 +1,7 @@
 ---
     title: How to Lend Service Items as Substitutes 
     description: You can lend customers loaner items to temporarily replace service items that you have received for servicing.
-    services: project-madeira
+    
     documentationcenter: ''
     author: bholtorf
 

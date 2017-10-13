@@ -1,7 +1,7 @@
 ---
     title: Tax 
     description: Dynamics NAV
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

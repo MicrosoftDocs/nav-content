@@ -1,7 +1,7 @@
 ---
     title: How to View Archived Workflow Step Instances 
     description: All completed workflow step instances are saved in the **Archived Workflow Step Instances** window.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

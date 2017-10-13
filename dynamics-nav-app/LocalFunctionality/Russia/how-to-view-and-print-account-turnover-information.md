@@ -1,7 +1,7 @@
 ---
     title: How to View and Print Account Turnover Information 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] enables you to view account turnover information in correspondence with other accounts.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

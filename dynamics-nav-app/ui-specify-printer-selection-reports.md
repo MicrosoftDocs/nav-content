@@ -1,7 +1,7 @@
 ---
 title: Setting Up Reports to Print on Specific Printers 
 description: Learn about specifying a printer for a report and using the Printer Selections window.
-services: project-madeira
+
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

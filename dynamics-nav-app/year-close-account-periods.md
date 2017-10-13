@@ -1,7 +1,7 @@
 ---
 title: Close Accounting Periods for a Fiscal Year 
 description: Describes how to close the accounting periods that make up the fiscal year.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 

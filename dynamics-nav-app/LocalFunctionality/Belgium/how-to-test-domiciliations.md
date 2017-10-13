@@ -1,7 +1,7 @@
 ---
     title: How to Test Domiciliations 
     description: To test the domiciliation journal lines, you can use the **Domiciliation Journal - Test** report. This report prints an overview of all journal lines along with any errors such as missing fields or incorrect bank accounts. You have to correct all errors before you can post the lines.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

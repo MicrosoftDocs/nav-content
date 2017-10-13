@@ -1,7 +1,7 @@
 ---
     title: Balances Between Cost Type, Cost Center, and Cost Object 
     description: When you set up cost accounting, you must make sure that all entries are assigned to a cost type as well as a cost center or a cost object. The means that each cost entry must have a cost type assigned and a cost center code or a cost object assigned. This rule ensures that each cost entry appears in either the cost centers or the cost objects, but never in both places.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

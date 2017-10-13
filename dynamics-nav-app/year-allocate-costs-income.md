@@ -1,7 +1,7 @@
 ---
 title: Overview of Tasks to Allocate Costs and Income 
 description: Outlines the tasks to allocate an entry in a general journal to several different accounts when you post the journal.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

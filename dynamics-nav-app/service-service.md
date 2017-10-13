@@ -1,7 +1,7 @@
 ---
     title: Service Management 
     description: Learn to use features designed to support repair shop and field service operations.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

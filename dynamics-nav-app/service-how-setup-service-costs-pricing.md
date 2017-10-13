@@ -1,7 +1,7 @@
 ---
     title: Set Up Pricing and Costs for Services 
     description: Learn how to set up prices and additional costs for services.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

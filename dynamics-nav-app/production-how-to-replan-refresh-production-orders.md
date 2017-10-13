@@ -1,7 +1,7 @@
 ---
     title: How to Replan or Refresh Production Orders Directly
     description: The production order lines contain the items that are to be produced in the production order.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

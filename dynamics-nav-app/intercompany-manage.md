@@ -1,7 +1,7 @@
 ---
 title: Transactions Between Companies in the Same Organization
 description: With the Intercompany functionality, you can simplify business processes and transactions between companies within the same organization.  
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

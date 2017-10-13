@@ -1,7 +1,7 @@
 ---
     title: How to Close Years 
     description: When a fiscal year is over, you must close the periods that it comprises.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

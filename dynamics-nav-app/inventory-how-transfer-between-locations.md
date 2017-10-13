@@ -1,7 +1,7 @@
 ---
 title: Transfer Items Between Warehouse Locations
 description: Describes how to move inventory from one place or warehouse to another, either with the reclassification journal or with transfer orders.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

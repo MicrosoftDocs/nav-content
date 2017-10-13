@@ -1,7 +1,7 @@
 ---
     title: Set Up Codes for Standard Services 
     description: Learn how to set up codes for service activities that you often perform.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

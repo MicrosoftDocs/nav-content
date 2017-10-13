@@ -1,7 +1,7 @@
 ---
 title: Display Custom Power BI Reports
 description: You can use Power BI reports to gain additional insight into data in lists in Dynamics NAV.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

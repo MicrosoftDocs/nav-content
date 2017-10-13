@@ -1,7 +1,7 @@
 ---
     title: Swiss General Ledger Accounts 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Swiss enhancements to general ledger accounts. This allows you to do the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

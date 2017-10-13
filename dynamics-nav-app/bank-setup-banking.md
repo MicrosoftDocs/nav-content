@@ -1,7 +1,7 @@
 ---
 title: Set Up Banking
 description: You use bank account cards to keep track of your bank accounts and set up bank feeds to exchange data.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

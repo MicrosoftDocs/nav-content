@@ -1,7 +1,7 @@
 ---
     title: How to Create Simulation Entries 
     description: When you have set up simulation of general ledger entries, you can create simulation entries.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

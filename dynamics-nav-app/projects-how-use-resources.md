@@ -1,7 +1,7 @@
 ---
 title: Record and Adjust Resource Usage and Prices
 description: Describes how you can record the resource usage or consumption associated with a job, to keep track and manage costs, prices, and work types.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: About Setting Up Value-Added Tax 
 description: Make sure that you correctly calculate, post, and report on VAT for sales and purchases.
-services: project-madeira
+
 documentationcenter: ''
 author: bholtorf
 

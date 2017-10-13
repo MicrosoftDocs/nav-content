@@ -1,7 +1,7 @@
 ---
     title: How to Track Relations Between Demand and Supply 
     description: From any supply or demand document in the so-called order network, you can track the order demand (tracked quantity), forecast, blanket sales order, or planning parameter (untracked quantity) that has given rise to the planning line in question.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Assign Item Charges to Sales and Purchases
 description: 'If you want your inventory items to carry added costs, such as freight, physical handling, insurance, and transportation that you incur when purchasing or selling items, you can use the Item Charges feature.'
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

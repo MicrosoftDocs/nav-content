@@ -1,7 +1,7 @@
 ---
     title: Swiss Value Added Tax 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes the following enhancements to Swiss VAT reporting:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

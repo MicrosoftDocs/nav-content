@@ -1,7 +1,7 @@
 ---
     title: How to Transfer General Ledger Entries to Cost Entries 
     description: You can transfer general ledger entries to cost entries.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

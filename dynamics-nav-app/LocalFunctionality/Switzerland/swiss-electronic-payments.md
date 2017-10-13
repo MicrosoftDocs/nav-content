@@ -1,7 +1,7 @@
 ---
     title: Swiss Electronic Payments 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] allows you to send invoices to customers electronically. The invoices are presented and paid directly using the customer's online banking software.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

@@ -1,7 +1,7 @@
 ---
 title: Set Up Bank Accounts
 description: You can reconcile bank accounts in Dynamics NAV with statements from the bank.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

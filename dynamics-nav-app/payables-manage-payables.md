@@ -1,7 +1,7 @@
 ---
 title: Overview of Tasks to Manage Accounts Payable
 description: Outlines tasks to manage accounts payable, for example, paying creditors or applying outgoing payments to ledger entries to close invoices or credit memos.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

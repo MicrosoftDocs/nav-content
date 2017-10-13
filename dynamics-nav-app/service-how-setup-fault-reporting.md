@@ -1,7 +1,7 @@
 ---
     title: Set Up Fault Reporting in Service Management 
     description: Learn how to set up fault reporting processes.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

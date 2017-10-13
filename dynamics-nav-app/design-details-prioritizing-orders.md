@@ -1,7 +1,7 @@
 ---
     title: Design Details - Prioritizing Orders 
     description: Read about how to prioritize to meet both demand and supply requirements.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

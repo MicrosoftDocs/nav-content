@@ -1,7 +1,7 @@
 ---
     title: Insert topic title
     description: Insert description
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

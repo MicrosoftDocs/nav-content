@@ -1,7 +1,7 @@
 ---
     title: VAT Ledgers 
     description: The VAT ledger feature enables you to create and print the following forms:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

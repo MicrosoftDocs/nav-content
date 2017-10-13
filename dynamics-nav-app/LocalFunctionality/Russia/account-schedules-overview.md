@@ -1,7 +1,7 @@
 ---
     title: Account Schedules Overview 
     description: Account schedules are one of the main tools that you can use to provide information for required statutory reports. By using user-defined rows and columns, you can decide which data you want to compare and how. This means that you can create as many customized financial statements as you want without using Report Designer. You can also choose to use a predefined column layout for any account schedule.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

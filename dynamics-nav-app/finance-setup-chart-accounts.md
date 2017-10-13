@@ -1,7 +1,7 @@
 ---
 title: Setting Up the Chart of Accounts
 description: You change the default accounts in the chart of accounts (COA), and you can add new accounts.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

@@ -1,7 +1,7 @@
 ---
     title: How to Reverse Output Posting 
     description: There are times when output posting must be reversed. An example of this would be if a data entry error occurred and an incorrect amount of output is posted to a production order.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

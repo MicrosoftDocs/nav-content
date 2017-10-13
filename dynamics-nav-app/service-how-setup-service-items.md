@@ -1,7 +1,7 @@
 ---
     title: Overview of Setups for Service Items and Service Item Components 
     description: Learn about the things you must set up before you can use service items, including default values such as response time, contract discount percent, and service price group.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

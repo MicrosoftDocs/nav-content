@@ -1,7 +1,7 @@
 ---
     title: How to Create Manual Remittance Payments 
     description: Generally, payments are created automatically in the payment journal using the remittance suggestion function. However, you can also create a payment manually, either as a payment of an existing invoice or as a payment without a link to an existing invoice, such as a payment to a vendor.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

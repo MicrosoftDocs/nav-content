@@ -1,7 +1,7 @@
 ---
     title: How to Set Up Allocation Source and Targets 
     description: Each allocation consists of an allocation source and one or more allocation targets. The allocation source defines which costs will be allocated. The allocation targets determine where the costs will be allocated.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

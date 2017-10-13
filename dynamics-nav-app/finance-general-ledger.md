@@ -1,7 +1,7 @@
 ---
 title: Learn About General Ledger and COA
 description: Describes the general ledger, the chart of accounts, and account categories.
-services: project-madeira
+
 documentationcenter: ''
 author: edupont04
 

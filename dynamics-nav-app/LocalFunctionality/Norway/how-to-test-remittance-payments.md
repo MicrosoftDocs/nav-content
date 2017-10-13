@@ -1,7 +1,7 @@
 ---
     title: How to Test Remittance Payments 
     description: After you have set up remittance payments and generated suggestions, you can test the payment journal lines for errors before posting them.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

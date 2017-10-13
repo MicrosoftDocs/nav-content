@@ -1,7 +1,7 @@
 ---
 title: Using General Journals to Post Directly to G/L
 description: Learn about using general journals to post financial transactions to general ledger accounts and other accounts, such as bank and vendor accounts.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

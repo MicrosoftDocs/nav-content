@@ -1,7 +1,7 @@
 ---
     title: Set up SEPA credit transfer 
     description: Learn how to set up SEPA credit transfer in Dynamics NAV.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

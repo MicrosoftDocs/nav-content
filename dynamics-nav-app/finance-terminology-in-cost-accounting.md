@@ -1,7 +1,7 @@
 ---
     title: Terminology in Cost Accounting 
     description: This topic defines the key terms that are used in cost accounting.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

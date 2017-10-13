@@ -1,7 +1,7 @@
 ---
 title: Job Tasks using Resources and Time Sheets
 description: Outlines how to use resources, time sheets, and jobs to manage projects.
-services: project-madeira
+
 documentationcenter: ''
 author: SorenGP
 

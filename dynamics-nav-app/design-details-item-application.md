@@ -1,7 +1,7 @@
 ---
     title: Design Details - Item Application 
     description: This topic describes where inventory quantity and value are recorded when you post an inventory transaction.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

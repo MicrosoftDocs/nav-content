@@ -1,7 +1,7 @@
 ---
     title: Setup Best Practices - Supply Planning 
     description: Supply planning is a critical business area. When set up and used correctly, supply planning helps a company avoid stock out and reduce both ordering costs and inventory costs.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

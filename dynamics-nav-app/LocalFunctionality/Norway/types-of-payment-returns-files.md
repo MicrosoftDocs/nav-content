@@ -1,7 +1,7 @@
 ---
     title: Types of Payment Returns Files 
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes two types of payment return files that can be imported:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

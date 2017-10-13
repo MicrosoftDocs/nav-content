@@ -1,7 +1,7 @@
 ---
     title: Design Details - The Role of the Reorder Point 
     description: This topic highlights the importance of setting a reorder point, so that you when to order more inventory.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

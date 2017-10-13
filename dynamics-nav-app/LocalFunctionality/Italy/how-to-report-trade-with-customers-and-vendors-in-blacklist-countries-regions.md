@@ -1,7 +1,7 @@
 ---
     title: How to Report Trade with Customers and Vendors in Blacklist Countries-Regions 
     description: You must submit a periodic report of transactions with customers and vendors in certain countries/regions that the Italian government has identified in a blacklist. The blacklist communication report must be submitted to the Italian Revenue Agency to help prevent VAT fraud. Transactions that are subject to blacklist reporting include the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 
@@ -51,7 +51,7 @@ You must submit a periodic report of transactions with customers and vendors in 
     |---
     title: How to Report Trade with Customers and Vendors in Blacklist Countries-Regions 
     description: You must submit a periodic report of transactions with customers and vendors in certain countries/regions that the Italian government has identified in a blacklist. The blacklist communication report must be submitted to the Italian Revenue Agency to help prevent VAT fraud. Transactions that are subject to blacklist reporting include the following:
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

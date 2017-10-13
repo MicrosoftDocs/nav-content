@@ -1,7 +1,7 @@
 ---
     title: Set Up Complex Application Areas Using Best Practices 
     description: Entering the correct setup values from the start is important to the success of any new business software.
-    services: project-madeira
+    
     documentationcenter: ''
     author: SorenGP
 

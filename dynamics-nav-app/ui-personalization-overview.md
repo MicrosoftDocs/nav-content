@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Workspace - Overview"
 description: Learn how to customize the user interface to suit your way of working.
-services: project-madeira
+
 documentationcenter: ''
 author: jswymer
 ms.topic: article
