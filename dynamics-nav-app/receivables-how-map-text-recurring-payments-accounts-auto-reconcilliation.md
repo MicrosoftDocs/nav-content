@@ -1,5 +1,5 @@
 ---
-title: Setting Up Text-to-Account Mapping for Recurring Payments 
+title: Setting Up Text-to-Account Mapping for Recurring Payments
 description: Link text on payments with specific accounts, so that payments are posted to the accounts when you post the payment reconciliation journal.
 services: project-madeira
 documentationcenter: ''
@@ -60,6 +60,6 @@ To always post fuel expenses incurred at Shell gas stations to the general ledge
 ## See Also
 [Managing Receivables](receivables-manage-receivables.md)  
 [Sales](sales-manage-sales.md)  
-[How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
+[How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md)    
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

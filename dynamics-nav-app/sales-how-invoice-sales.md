@@ -1,5 +1,5 @@
 ---
-title: Create a Sales Invoice or Sales Order 
+title: Create a Sales Invoice or Sales Order
 description: Describes how to create a bill of sale, or a sales invoice or sales order, to record your agreement with a customer to sell products under specific terms.
 documentationcenter: ''
 author: SorenGP
@@ -32,8 +32,6 @@ In business environments where the customer must pay before products are deliver
 
 You can easily correct or cancel a posted sales invoice before it is paid. For example, this is useful if you want to correct a typing mistake or if the customer requests a change early in the order process. For more information, see [How to: Correct or Cancel Unpaid Sales Invoices](sales-how-correct-cancel-sales-invoice.md). If the posted sales invoice is paid, then you must create a sales credit memo to reverse the sale. For more information, see [How to: Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).
 
-Items can be both inventory items and services, denoted by the **Inventory** and **Service** types on the item card. The sales invoice process is the same for both item types. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
-
 You can fill customer fields on the sales invoice in two ways depending on whether the customer is already registered. See steps 2 and 3 in the following procedure.
 
 ## To create a sales invoice
@@ -61,9 +59,6 @@ If you have set up recurring sales lines for the customer, such as a monthly rep
  -If the line is for a nonstock item. Choose the **Select Nonstock Items** action. For more information, see [How to: Work With Nonstock Items](inventory-how-work-nonstock-items.md).
 
 11. In the **Quantity** field, enter how many units of the product, charge, or transaction that the line will record for the customer.  
-
-    > [!NOTE]  
->   If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.  
 
     The value in the **Line Amount** field is calculated as *Unit Price* x *Quantity*.  
 

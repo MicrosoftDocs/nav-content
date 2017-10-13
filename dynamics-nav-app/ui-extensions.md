@@ -1,5 +1,5 @@
 ---
-title: Installing Extensions to Customize Dynamics NAV 
+title: Installing Extensions to Customize Dynamics NAV
 description: Learn about adding functionality and customizing Dynamics NAV by installing extensions.
 documentationcenter: ''
 author: edupont04
@@ -45,7 +45,6 @@ Some extensions are provided by Microsoft, and other extensions are provided by 
 Microsoft provides the following extensions:  
 
 * [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
-* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 * [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  
@@ -62,11 +61,10 @@ Microsoft provides the following extensions:
 >  New extensions are not available in AppSource immediately after we announce an update. You can keep an eye out for the extensions at  [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
 
 ## See Also
-[How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-payment-service-extensions.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Set up the GetAddress.io UK Postal Code extension](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] Extensions by Other Providers](ui-extensions-other.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
-## 
+##

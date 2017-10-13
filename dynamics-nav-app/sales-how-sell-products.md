@@ -1,5 +1,5 @@
 ---
-title: Create a Sales Order and Sell Products 
+title: Create a Sales Order and Sell Products
 description: Describes how to create a sales order to record your agreement with a customer to sell or trade products under specific terms.
 services: project-madeira
 documentationcenter: ''
@@ -31,8 +31,6 @@ In business environments where the customer must pay before products are deliver
 
 You can easily correct or cancel a posted sales invoice resulting from a sales order before it is paid. This is useful if you want to correct a typing mistake or if the customer requests a change early in the order process. For more information, see [How to: Correct or Cancel Unpaid Sales Invoices](sales-how-correct-cancel-sales-invoice.md). If the posted sales invoice is paid, then you must create a sales credit memo to reverse the sale. For more information, see [How to: Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).
 
-Items can be both inventory items and services, denoted by the **Item - Inventory** and **Item - Service** types on sales lines. The sales order process is the same for both item types. For more information, see [How to: Register New Items](inventory-how-register-new-items.md).
-
 You can fill customer fields on the sales order in two ways depending on whether the customer is already registered. See steps 2 and 3 in the following procedure.
 
 ## To create a sales order
@@ -56,9 +54,6 @@ You can fill customer fields on the sales order in two ways depending on whether
     If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the order by choosing the **Get Recurring Sales Lines** action.
 9. On the **Lines** FastTab, in the **Item** field, enter the number of an inventory item or service.  
 10. In the **Quantity** field, enter the number of items to be sold.
-
-    > [!NOTE]  
->   For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 
     The **Line Amount** field is updated to show the value in the **Unit Price** field multiplied by the value in the **Quantity** field.
 

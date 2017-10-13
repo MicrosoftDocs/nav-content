@@ -64,4 +64,4 @@ Before you start personalizing pages, it is important to understand how the pers
 [Personalizing Your Workspace in the Dynamics NAV Windows Client](ui-personalization-windows-client.md)  
 [Personalizing Your Workspace in the Dynamics NAV Web Client](ui-personalization-user.md)  
 [Managing Personalization](ui-personalization-manage.md)  
-[Customizing Dynamics NAV](ui-customizing-overview.md.md)  
+[Customizing Dynamics NAV](ui-customizing-overview.md)  

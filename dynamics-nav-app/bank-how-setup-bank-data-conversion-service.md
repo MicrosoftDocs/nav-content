@@ -1,6 +1,6 @@
 ---
 title: Set Up Bank Data Conversion
-description: You can set up bank accounts to keep track of transactions and import or export bank feeds, such as Yodlee.
+description: You can set up bank accounts to keep track of transactions and import or export bank feeds.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -10,7 +10,7 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, bank file import, bank file export, re-export, bank transfer, AMC, bank data conversion service, funds transfer
+ms.search.keywords: feed, stream, data exchange, AMC, bank file import, bank file export, re-export, bank transfer, AMC, bank data conversion service, funds transfer
 ms.date: 06/02/2017
 ms.author: sgroespe
 
@@ -21,8 +21,6 @@ A global provider of services to convert payment information to any data format 
 You can export payment lines from the **Payment Journal** window to a file or a data stream that you then upload to your bank for automatic processing so that you do not have to make electronic payments individually. For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).
 
 You can import bank statement files into the **Payment Reconciliation Journal** window by using the bank data conversion service to convert a file that you receive from your bank to a data stream that [!INCLUDE[d365fin](includes/d365fin_md.md)] can import. For more information, see [How to: Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
-
-As an alternative to importing bank statements with the bank data conversion service, you can use the Envestnet Yodlee Bank Feeds service. For more information, see [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md).
 
 To import or export bank files, you must set up your own bank account and your vendors' bank accounts. For more information, see [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md).
 
