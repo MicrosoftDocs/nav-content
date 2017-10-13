@@ -1,11 +1,11 @@
 ---
-    title: How to Move Items Ad Hoc in Basic Warehouse Configurations
+    title: How to Move Items Ad Hoc in Basic Warehouse Configurations | Microsoft Docs
     description: You may occasionally need to move items between internal bins, not receiving or shipping bins, without a specific demand from a source document. You may perform these ad hoc movements, for example, to reorganize the warehouse, to bring items to an inspection area, or to move additional items to and from a production area without a system relation to the production order source document.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

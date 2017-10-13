@@ -1,9 +1,9 @@
 ---
-    title: How to Create Service Items
+    title: How to Create Service Items | Microsoft Docs
     description: When you receive an unregistered item for servicing, you can register it as a service item.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,9 +1,9 @@
 ---
-title: Manage, delete, or compress documents
+title: Manage, delete, or compress documents | Microsoft Docs
 description: Keep your historical data or delete it.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -28,4 +28,4 @@ Invoiced service orders are usually deleted automatically after having been full
 Service orders are not deleted automatically, however, if the total quantity on the order has been posted not from the service order itself, but from the **Service Invoice** window. Then you may need to delete invoiced orders that were not deleted. You can do this by running the **Delete Invoiced Service Orders** batch job.  
 
 ## See Also  
-[Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
+[Setup and Administration in Dynamics 365 for Financials](admin-setup-and-administration.md)  

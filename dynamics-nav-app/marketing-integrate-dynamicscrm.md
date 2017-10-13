@@ -1,10 +1,10 @@
 ---
 title: Manage Customers Using Dynamics 365 for Sales| Microsoft Docs
-description: You can use Dynamics 365 for Sales from inside Dynamics NAV  to map data and have seamless integration and synchronization in the lead-to-cash process.
-
+description: You can use Dynamics 365 for Sales from inside Dynamics 365 for Financials to map data and have seamless integration and synchronization in the lead-to-cash process.
+documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,7 +13,7 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ---
-# Managing Your Customer Relationships using Dynamics 365 for Sales from inside Dynamics NAV
+# Managing Your Customer Relationships using Dynamics 365 for Sales from inside Dynamics 365 for Financials
 If you use Dynamics 365 for Sales for customer engagement, you can use [!INCLUDE[d365fin](includes/d365fin_md.md)] for order processing and finances and have seamless integration in the lead-to-cash process.
 
 When your application is set up to integrate with Dynamics 365 for Sales, you have access to Sales data from [!INCLUDE[d365fin](includes/d365fin_md.md)] and the other way around in some cases. This integration enables you to work with and synchronize data types that are common to both services, such as customers, contacts, and sales information, and keep the data up to date in both locations.  
@@ -72,7 +72,7 @@ At the end of the assisted setup guide, you can choose the **Run Full Synchroniz
 
 To check the progress of individual jobs in a full synchronization, drill down on the **Job Queue Entry Status**, **To Int. Table Job Status**, or **From Int. Table Job Status** field in the **CRM Full Synch. Review** window.
 
-From the **Dynamics 365 Connection Setup** window, you can get details about full synchronization at any time. From here, you can also open the **Integration Table Mappings** window to see details about the tables in Dynamics NAV and in the Dynamics 365 for Sales solution that must be synchronized.
+From the **Dynamics 365 Connection Setup** window, you can get details about full synchronization at any time. From here, you can also open the **Integration Table Mappings** window to see details about the tables in Financials and in the Dynamics 365 for Sales solution that must be synchronized.
 
 ## See Also
 [Relationship Management](marketing-relationship-management.md)  
@@ -80,3 +80,5 @@ From the **Dynamics 365 Connection Setup** window, you can get details about ful
 [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md)  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)    
 [Onboard your organization and users to Dynamics 365 (online)](https://www.microsoft.com/en-US/Dynamics/crm-customer-center/onboard-your-organization-and-users-to-dynamics-365-online.aspx)  
+
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]

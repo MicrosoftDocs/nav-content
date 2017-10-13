@@ -1,10 +1,10 @@
 ---
-title: How to Set Up Workflow Users
+title: How to Set Up Workflow Users | Microsoft Docs
 description: Before you can create workflows, you must set up the users who take part in workflows. This is necessary, for example, to specify who will receive a notification to act on a workflow step.
- 
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

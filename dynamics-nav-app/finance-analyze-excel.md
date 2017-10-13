@@ -1,9 +1,9 @@
 ---
-title: Work with financial overviews in Excel
-description: Learn about how you can open the financial statements in Microsoft Excel from Dynamics NAV  for better analysis.
+title: Work with financial overviews in Excel | Microsoft Docs
+description: Learn about how you can open the financial statements in Microsoft Excel from Dynamics 365 for Financials for better analysis.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -41,4 +41,4 @@ With the add-in, you can get fresh data from [!INCLUDE[d365fin](includes/d365fin
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
-[Working with Dynamics NAV](ui-work-product.md)  
+[Working with Financials](ui-work-product.md)  

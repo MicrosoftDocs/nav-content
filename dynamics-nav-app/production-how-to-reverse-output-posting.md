@@ -1,11 +1,11 @@
 ---
-    title: How to Reverse Output Posting
+    title: How to Reverse Output Posting | Microsoft Docs
     description: There are times when output posting must be reversed. An example of this would be if a data entry error occurred and an incorrect amount of output is posted to a production order.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

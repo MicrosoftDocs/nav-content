@@ -1,11 +1,11 @@
 ---
-    title: Understanding Assemble to Order and Assemble to Stock
+    title: Understanding Assemble to Order and Assemble to Stock | Microsoft Docs
     description: Assembly items can be supplied either by assembling them when they are ordered or by assembling them to be kept in inventory until they are need on a sales order.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

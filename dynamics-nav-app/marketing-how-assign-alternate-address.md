@@ -1,11 +1,11 @@
 ---
 title: Assign a Different Contact Address| Microsoft Docs
 description: Describes how to assign an alternate address for your contacts or prospects, where they are sometimes sent information.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: jswymer
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -37,4 +37,4 @@ Repeat these steps to assign as many date ranges as you want.
 
 ## See Also
 [Create Contact Companies](marketing-create-contact-companies.md)  
-[Working with Dynamics 365](ui-work-product.md)
+[Working with Financials](ui-work-product.md)

@@ -1,11 +1,11 @@
 ---
 title: Change the Role Center| Microsoft Docs
 description: You can select a different profile in Financials to change what you see on your Home page.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -26,5 +26,5 @@ The content on the Home page is based on the selected Role Center. The standard 
 3. Choose the **OK** button.
 
 ## See Also
-[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

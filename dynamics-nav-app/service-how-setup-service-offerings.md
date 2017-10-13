@@ -1,11 +1,11 @@
 ---
-    title: Set Up Service Offerings
+    title: Set Up Service Offerings | Microsoft Docs
     description: Learn how to set up the services that you offer to your customers.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

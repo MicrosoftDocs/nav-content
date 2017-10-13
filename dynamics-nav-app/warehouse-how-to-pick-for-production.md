@@ -1,11 +1,11 @@
 ---
-    title: How to Pick for Production in Basic Warehouse Configurations
+    title: How to Pick for Production in Basic Warehouse Configurations | Microsoft Docs
     description: When your warehouse location requires pick processing but does not require shipment processing, use the **Inventory Pick** window to organize and record the picking of components.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

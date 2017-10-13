@@ -1,13 +1,13 @@
 ---
 title: Managing Accounts Payable| Microsoft Docs
 description: Overview of how Financials helps you manage accounts payable (AP), including vendor payments, creditors, debt, and balance due.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: bholtorf
 manager: edupont
 editor: ''
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.workload: na
 ms.tgt_pltfrm: na
 ms.devlang: na

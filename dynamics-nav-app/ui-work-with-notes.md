@@ -1,9 +1,9 @@
 ---
-    title: Adding Information to Records to Yourself
+    title: Adding Information to Records to Yourself | Microsoft Docs
     description: Attach a note to any record in the application. For example, if you have extra information about a sales order that does not fit in any of the fields on the sales order, you can write a note.
     author: jswymer
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
 title: Process Incoming and Outgoing IC Transactions| Microsoft Docs
 description: Intercompany transactions that you receive from your intercompany partners are listed in the intercompany inbox where you process them manually or automatically.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

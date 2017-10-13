@@ -1,11 +1,11 @@
 ---
-    title: Service Management
+    title: Service Management | Microsoft Docs
     description: Learn to use features designed to support repair shop and field service operations.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

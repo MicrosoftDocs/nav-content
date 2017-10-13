@@ -1,11 +1,11 @@
 ---
-title: Personalizing the Way Information is Displayed for a User Account
-description: Describes how to customize the look and feel of Dynamics 365 for your user account.
-
- 
+title: Personalizing the Way Information is Displayed for a User Account | Microsoft Docs
+description: Describes how to customize the look and feel of Financials for your user account.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

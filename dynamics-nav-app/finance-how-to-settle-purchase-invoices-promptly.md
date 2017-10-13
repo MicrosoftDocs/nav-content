@@ -1,11 +1,11 @@
 ---
-    title: How to Settle Purchase Invoices Promptly
+    title: How to Settle Purchase Invoices Promptly | Microsoft Docs
     description: If you need to pay the vendor by cash or check, you can have the necessary posting done when you post the invoice.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: bholtorf
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

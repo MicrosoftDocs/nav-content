@@ -1,11 +1,11 @@
 ---
-title: Using the Quickbooks Payroll File Import Extension
+title: Using the Quickbooks Payroll File Import Extension | Microsoft Docs
 description: Describes how to use the extension to import salary and wage transactions from the Quickbooks Payroll service.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -15,7 +15,7 @@ ms.date: 03/29/2017
 ms.author: SorenGP
 
 ---
-# The Quickbooks Payroll File Import Extension to Dynamics NAV 
+# The Quickbooks Payroll File Import Extension to Dynamics 365 for Financials
 To account for salary payments and related transactions, you must import and post financial transactions made by your payroll provider to the general ledger.
 
 To do this, you first import a file that you receive from the payroll provider into the **General Journal** window. Then you map the external accounts in the payroll file to the relevant G/L accounts. Lastly, you post the payroll transactions according to the account mapping. For more information, see [How to: Import Payroll Transactions](finance-how-import-payroll-transactions.md).

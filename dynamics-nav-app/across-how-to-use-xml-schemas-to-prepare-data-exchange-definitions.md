@@ -1,9 +1,9 @@
 ---
-    title: Create XMLports based on XML schemas
+    title: Create XMLports based on XML schemas | Microsoft Docs
     description: Use XML schemas to set yup the document exchange framework.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

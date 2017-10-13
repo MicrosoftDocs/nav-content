@@ -1,11 +1,11 @@
 ---
-    title: How to Calculate Bin Replenishment
+    title: How to Calculate Bin Replenishment | Microsoft Docs
     description: When the location is set up to use directed put-away and pick, priorities of the put-away template for the location are taken into account when putting receipts away.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

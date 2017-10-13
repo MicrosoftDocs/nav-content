@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Prioritizing Orders
+    title: Design Details - Prioritizing Orders | Microsoft Docs
     description: Read about how to prioritize to meet both demand and supply requirements.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

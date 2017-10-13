@@ -1,10 +1,10 @@
 ---
-title: Consolidate Data from Multiple Companies
+title: Consolidate Data from Multiple Companies | Microsoft Docs
 description: Get an summary view of the financial health accross your businesses.
- 
+documentationcenter: ''
 author: bholtorf
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

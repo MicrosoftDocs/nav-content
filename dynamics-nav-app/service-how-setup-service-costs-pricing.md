@@ -1,11 +1,11 @@
 ---
-    title: Set Up Pricing and Costs for Services
+    title: Set Up Pricing and Costs for Services | Microsoft Docs
     description: Learn how to set up prices and additional costs for services.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

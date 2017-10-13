@@ -1,10 +1,10 @@
 ---
 title: Create Item Cards for Goods or Services| Microsoft Docs
 description: You create item cards for services that you sell as hours and for physical products, such as assembly items, finished goods, components, or raw material, that you sell from your inventory.
-
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,6 +18,8 @@ ms.author: sgroespe
 Items, among other products, are the basis of your business, the goods or services that you trade in. Each item must be registered as an item card.
 
 Item cards hold the information that is required to buy, store, sell, deliver, and account for items.
+
+The item card can be of type **Inventory** or **Service** to specify if the item is a physical unit or a labor time unit. Apart from some fields that relate to the physical aspects of an item, all fields on an item card function in the same way for inventory items and services. For more information about selling an item, see [How to: Sell Products](sales-how-sell-products.md) or [How to: Invoice Sales](sales-how-invoice-sales.md).
 
 An item can be structured as a parent item with underlying child items in a bill of materials (BOM). In [!INCLUDE[d365fin](includes/d365fin_md.md)], a bill of material can be either an assembly BOM or a production BOM, depending on its use. For more information, see [How to: Work with Bills of Material](inventory-how-work-BOMs.md).
 
@@ -72,3 +74,5 @@ The vendors will now appear in the **Item Vendor Catalog** window, which you ope
   [Purchasing](purchasing-manage-purchasing.md)  
   [Sales](sales-manage-sales.md)  
   [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
+
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]

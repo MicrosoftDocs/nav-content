@@ -1,10 +1,10 @@
 ---
 title: How to Post Inventory Costs to the General Ledger| Microsoft Docs
 description: Describes how to manage the physical products that you trade in, for example, handling the stock in your warehouse.
-
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -71,3 +71,5 @@ Choose the  amount in any of the total fields to see the inventory report entrie
 [Sales](sales-manage-sales.md)    
 [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)
+
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]

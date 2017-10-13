@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Order
+    title: Design Details - Order | Microsoft Docs
     description: This topic provides information about order-to-order links in a make-to-order environment.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

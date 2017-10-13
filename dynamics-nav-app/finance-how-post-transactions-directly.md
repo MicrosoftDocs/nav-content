@@ -1,11 +1,11 @@
 ---
 title: Record expenses or income directly in G/L| Microsoft Docs
 description: For business activities that are not represented by a document in, such as smaller expenses or cash receipts, you can create the related transactions by posting journal lines in the General Journal window.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: Walkthrough - Planning Supplies Automatically
+    title: Walkthrough - Planning Supplies Automatically | Microsoft Docs
     description: Phrases like “run planning” and “run MRP” refer to the calculation of the master production schedule (MPS) and the material requirements plan (MRP) based on actual and forecasted demand.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

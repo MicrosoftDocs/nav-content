@@ -1,9 +1,9 @@
 ---
-    title: How to Allocate Resources
+    title: How to Allocate Resources | Microsoft Docs
     description: You can change the annual amount of the service contract or contract quote to correct the amount that will be invoiced annually.
     author: bholtorf
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

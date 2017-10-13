@@ -1,9 +1,9 @@
 ---
-    title: SEPA Direct Debit Collection
+    title: SEPA Direct Debit Collection | Microsoft Docs
     description: Create a direct-debit collection and export an XML file that you send or upload to your electronic bank for processing.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

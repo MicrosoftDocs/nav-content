@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Posting Interface Structure
+    title: Design Details - Posting Interface Structure | Microsoft Docs
     description: This topic provides an overview of the global procedures in the posting interface structure.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

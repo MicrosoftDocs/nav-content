@@ -1,9 +1,9 @@
 ---
-    title: How to Create Blanket Sales Orders
+    title: How to Create Blanket Sales Orders | Microsoft Docs
     description: Use blanket orders when a customer has agreed to buy large quantities that are to be delivered in several smaller shipments over a certain period of time.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

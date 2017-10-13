@@ -1,10 +1,10 @@
 ---
-title: Setting date ranges in Dynamics NAV 
-description: Learn about getting a report to show data from specific time periods using date ranges in Dynamics NAV .
- 
+title: Setting date ranges in Dynamics 365 for Financials | Microsoft Docs
+description: Learn about getting a report to show data from specific time periods using date ranges in Dynamics 365 for Financials.
+documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -14,7 +14,7 @@ ms.date: 05/29/2017
 ms.author: edupont
 
 ---
-# Entering Date Ranges in Dynamics NAV 
+# Entering Date Ranges in Dynamics 365 for Financials
 You can set filters containing a start date and an end date to display only the data contained in that date range or time interval. Special rules apply to the way you set date ranges. Let's take the **Customer Top 10** as an example:
 
 ![Setting a date range in the request page for the Customer Top 10 list](./media/ui-enter-date-ranges/customer-top10-list.png)
@@ -38,6 +38,6 @@ You can also combine the various format types.
 Note that we have used the US date format MMDDYY here. As [!INCLUDE[d365fin](includes/d365fin_md.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
 ## See Also
-[Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [Entering Criteria in Filters ](ui-enter-criteria-filters.md)  
 [General Business Functionality](ui-across-business-areas.md)

@@ -1,11 +1,11 @@
 ---
-    title: How to Create Put-aways from Internal Put-aways
+    title: How to Create Put-aways from Internal Put-aways | Microsoft Docs
     description: After items have been put away and before they are picked to fulfill the needs of a production order or shipment, they are stored in the warehouse as part of available inventory.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

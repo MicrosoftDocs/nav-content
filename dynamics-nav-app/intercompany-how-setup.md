@@ -1,11 +1,11 @@
 ---
 title: Set Up Intercompany Transaction Posting| Microsoft Docs
 description: Create your intercompany vendors and customers as so-called intercompany partners, and set up an intercompany chart of accounts.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

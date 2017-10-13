@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Cost Objects
+    title: How to Set Up Cost Objects | Microsoft Docs
     description: Learn how to set up cost objects, which are similar to dimensions for the general ledger.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

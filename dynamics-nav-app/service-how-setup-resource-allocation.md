@@ -1,11 +1,11 @@
 ---
-    title: Set Up Resource Allocation
+    title: Set Up Resource Allocation | Microsoft Docs
     description: Learn how the system can help ensure that you assign someone who has the skills required to provide a service.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: bholtorf
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

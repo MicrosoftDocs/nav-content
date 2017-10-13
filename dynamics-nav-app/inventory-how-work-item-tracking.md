@@ -1,11 +1,11 @@
 ---
-    title: How to Assign Serial Numbers and Lot Numbers to Items for Tracking
+    title: How to Assign Serial Numbers and Lot Numbers to Items for Tracking | Microsoft Docs
     description: You can add serial numbers and lot numbers to any outbound or inbound document, and its posted item tracking entries are displayed in the related item ledger entries.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

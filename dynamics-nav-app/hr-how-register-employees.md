@@ -1,11 +1,11 @@
 ---
 title: Set Up Employees and Modify Information| Microsoft Docs
 description: Describes how to register new personnel or edit information for existing staff.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Create Prepayment Invoices
+    title: How to Create Prepayment Invoices | Microsoft Docs
     description: Learn how to handle situations where you require prepayment, or your vendor does.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

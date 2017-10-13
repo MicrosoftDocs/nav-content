@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Lot-for-Lot
+    title: Design Details - Lot-for-Lot | Microsoft Docs
     description: Learn how to use the lot-for-lot policy to settle order quantity based on demand.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

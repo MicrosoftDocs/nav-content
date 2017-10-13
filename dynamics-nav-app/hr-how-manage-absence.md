@@ -1,11 +1,11 @@
 ---
 title: 'How to: Manage Employee Absence| Microsoft Docs'
 description: Describes how to record employees' absence and analyze absence statistics.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

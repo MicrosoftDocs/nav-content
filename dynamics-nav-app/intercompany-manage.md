@@ -1,11 +1,11 @@
 ---
 title: Transactions Between Companies in the Same Organization| Microsoft Docs
 description: With the Intercompany functionality, you can simplify business processes and transactions between companies within the same organization.  
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

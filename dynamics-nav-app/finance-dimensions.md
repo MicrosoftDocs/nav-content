@@ -1,18 +1,20 @@
 ---
 title: Work with Dimensions| Microsoft Docs
 description: You use dimensions to categorize entries, for example, by department or project, so you can easily track and analyze data.
+services: project-madeira
+documentationcenter: ''
 author: bholtorf
-ms.custom: na
-ms.date: 06/14/2017
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.search.keywords: analysis, history, track
-ms.topic: article
-ms.author: bholtorf
-ms.prod: "dynamics-nav-2017"
----
 
+ms.service: dynamics365-financials
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: analysis, history, track
+ms.date: 06/14/2017
+ms.author: bholtorf
+
+---
 # Working with Dimensions
 To make it simpler to perform analysis on documents such as sales orders, you can use dimensions. Dimensions are attributes and values that categorize entries so you can track and analyze them. For example, dimensions can indicate the project or department an entry came from.  
 
@@ -106,3 +108,4 @@ You can set up default dimensions for accounts or account types, so that dimensi
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [How to: Analyze Data by Dimensions](bi-how-analyze-data-dimension.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Work Hours and Service Hours
+    title: How to Set Up Work Hours and Service Hours | Microsoft Docs
     description: You can specify the usual service working hours in your company. These service hours are used to calculate the response date and time for service orders and quotes, and to send response time warnings.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

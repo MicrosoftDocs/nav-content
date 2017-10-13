@@ -1,11 +1,11 @@
 ---
 title: Display Custom Power BI Reports| Microsoft Docs
 description: You can use Power BI reports to gain additional insight into data in lists in Financials.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -15,7 +15,7 @@ ms.date: 06/02/2017
 ms.author: edupont
 
 ---
-# Viewing List Data in Power BI Reports in Dynamics NAV 
+# Viewing List Data in Power BI Reports in Dynamics 365 for Financials
 [!INCLUDE[d365fin](includes/d365fin_md.md)] includes a FactBox control element on a number of key list pages that provides additional insight into the data in the list. As you move between rows in the list, the report is updated and filtered for the selected entry. You can create custom reports to display in this control, but there are a few rules to follow when creating the reports to ensure they provide the desired behavior.  
 
 > [!NOTE]  

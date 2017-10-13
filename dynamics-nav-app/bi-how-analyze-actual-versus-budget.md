@@ -1,11 +1,11 @@
 ---
 title: Analyze Actual Versus Budget| Microsoft Docs
 description: Describes how to analyze actual amounts versus budgeted amounts.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

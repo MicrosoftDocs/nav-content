@@ -1,11 +1,11 @@
 ---
 title: Create Analysis Reports| Microsoft Docs
 description: Describes how to create new analysis reports for sales, purchases, and inventory, and set up analysis templates.
-
-
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -46,12 +46,13 @@ Then you can set up columns like these:
 
 Based on the lines and columns you have set up, the program will aggregate the result of your report in the **Analysis Report** matrix window, such as in this example:  
 
-| |Sales Current Month|Sales Last Month|Sales Last Month %|  
+|||||  
 |-|-|-|-|  
-|Computers| | | |  
-|Displays| | | |  
-|Spare parts| | | |  
-|Total| | | |  
+||Sales Current Month|Sales Last Month|Sales Last Month %|  
+|Computers||||  
+|Displays||||  
+|Spare parts||||  
+|Total||||  
 
  You can, for example, set up one set of lines and several sets of column layouts to show monthly and annual reports respectively.
 

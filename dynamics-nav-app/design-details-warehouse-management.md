@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Warehouse Management
+    title: Design Details - Warehouse Management | Microsoft Docs
     description: This topic provides an overview of the design, concepts, and principles behind the Warehouse Management features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
 title: Updating Currency Exchange Rates| Microsoft Docs
 description: To use multiple currencies in your business, you can set up a code for each currency and use an external exchange rate service, such as Yahoo.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

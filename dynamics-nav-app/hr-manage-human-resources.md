@@ -1,11 +1,11 @@
 ---
 title: Using Human Resources Functionality| Microsoft Docs
 description: You can register new personnel, edit information about existing staff, and record and analyze absence.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

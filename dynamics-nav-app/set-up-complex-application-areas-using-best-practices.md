@@ -1,11 +1,11 @@
 ---
-    title: Set Up Complex Application Areas Using Best Practices
+    title: Set Up Complex Application Areas Using Best Practices | Microsoft Docs
     description: Entering the correct setup values from the start is important to the success of any new business software.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

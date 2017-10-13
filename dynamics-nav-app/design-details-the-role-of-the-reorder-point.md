@@ -1,11 +1,11 @@
 ---
-    title: Design Details - The Role of the Reorder Point
+    title: Design Details - The Role of the Reorder Point | Microsoft Docs
     description: This topic highlights the importance of setting a reorder point, so that you when to order more inventory.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

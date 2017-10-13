@@ -1,11 +1,11 @@
 ---
-    title: How to Verify VAT Registration Numbers
+    title: How to Verify VAT Registration Numbers | Microsoft Docs
     description: You can use an EU web service to verify that VAT registration numbers that you enter on customer, vendor, or contact cards are valid.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

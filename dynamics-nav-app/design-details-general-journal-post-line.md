@@ -1,11 +1,11 @@
 ---
-    title: Design Details - General Journal Post Line
+    title: Design Details - General Journal Post Line | Microsoft Docs
     description: This topic provides insight into the concepts and principles that are used to redesign the general journal posting line feature in [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

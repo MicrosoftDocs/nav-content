@@ -1,11 +1,11 @@
 ---
 title: Setting Up Inventory| Microsoft Docs
 description: Describes how to set up your stock and inventory processes, including transfer routes and locations, such as warehouses.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

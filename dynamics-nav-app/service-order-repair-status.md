@@ -1,11 +1,11 @@
 ---
-    title: Set Up Statuses for Service Orders and Repairs
+    title: Set Up Statuses for Service Orders and Repairs | Microsoft Docs
     description: You must set up nine repair status options that identify the progress of repair and maintenance of service items in service orders. 
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: How to Create Production Order Headers
+    title: How to Create Production Order Headers | Microsoft Docs
     description: You can create a production order manually, and the first step is to create a production order header.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

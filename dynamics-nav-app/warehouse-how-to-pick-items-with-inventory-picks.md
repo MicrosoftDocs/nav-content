@@ -1,11 +1,11 @@
 ---
-    title: How to Pick Items with Inventory Picks
+    title: How to Pick Items with Inventory Picks | Microsoft Docs
     description: If a location is set up to require pick processing but not shipment processing, you use the inventory pick documents to record and post picking and shipping information for your source documents.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

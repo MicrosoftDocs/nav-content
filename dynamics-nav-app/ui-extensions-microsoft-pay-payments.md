@@ -1,11 +1,11 @@
 ---
 title: WorldPay Payments Standard| Microsoft Docs
 description: Provides information about the WorldPay Payments Standard extension
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -14,7 +14,7 @@ ms.date: 07/07/2017
 ms.author: sgroespe
 
 ---
-# The Microsoft Pay Extension to [!INCLUDE[navnow_md](includes/navnow_md.md)]
+# The Microsoft Pay Extension to [!INCLUDE[d365fin](includes/d365fin_long_md.md)]
 Customers continuously require higher customer service, both in terms of the quality of product but also in terms of delivery and payment services. The Microsoft Pay service helps you increase your customer service.
 
 The Microsoft Pay extension adds a Microsoft Pay link to your sales documents so customers can easily pay using Microsoft Pay. Then you can send the documents by email to provide higher customer service and shorten the time it takes for customers’ payments to arrive on your bank account.

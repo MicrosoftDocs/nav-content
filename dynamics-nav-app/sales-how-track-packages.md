@@ -1,10 +1,10 @@
 ---
-title: How to Track Packages
+title: How to Track Packages | Microsoft Docs
 description: Use the shipping agents tracking service to see the progress of a delivery.
- 
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

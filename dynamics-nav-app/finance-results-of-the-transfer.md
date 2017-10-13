@@ -1,11 +1,11 @@
 ---
-    title: Results of the Transfer
+    title: Results of the Transfer | Microsoft Docs
     description: This topic describes what happens after you transfer general ledger entries to cost entries.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

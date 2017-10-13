@@ -1,9 +1,9 @@
 ---
-    title: Choose the method of electronic payments
+    title: Choose the method of electronic payments | Microsoft Docs
     description: Process payments to your vendors by exporting a file together with the payment information from the journal lines.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

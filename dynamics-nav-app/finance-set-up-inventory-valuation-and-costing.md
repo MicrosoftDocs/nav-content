@@ -1,11 +1,11 @@
 ---
-    title: Set Up Inventory Valuation and Costing
+    title: Set Up Inventory Valuation and Costing | Microsoft Docs
     description: The following table describes a sequence of tasks, with links to the topics that describe them.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -35,5 +35,5 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ## See Also  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
-[Working with Dynamics NAV](ui-work-product.md)  
+[Working with Financials](ui-work-product.md)  
 [Finance](finance.md)  

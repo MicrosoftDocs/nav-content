@@ -1,9 +1,10 @@
 ---
-title: Set up email in Dynamics NAV
-description: Describes how to use the company's SMTP server to send and receive email messages within Dynamics NAV, or alternatively how to use the email server settings created with the Office 365 subscription.
+title: Setting up Email | Microsoft Docs
+description: Describes how to use the company's SMTP server to send and receive email messages within Financials, or alternatively how to use the email server settings created with the Office 365 subscription.
+documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -33,5 +34,5 @@ You can either set email up manually or you can get help by using the **Email Se
 [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
-[Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as Your Business Inbox in Outlook](across-outlook.md)  
+[Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as Your Business Inbox in Outlook](madeira-outlook.md)  
 [Getting [!INCLUDE[d365fin](includes/d365fin_md.md)] on My Mobile Device](install-mobile-app.md)

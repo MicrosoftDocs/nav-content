@@ -1,9 +1,9 @@
 ---
-    title: SEPA Direct Debit in Dynamics NAV
+    title: SEPA Direct Debit in Dynamics 365 | Microsoft Docs
     description: You can collect payments directly from the customer’s bank account according to the SEPA format.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

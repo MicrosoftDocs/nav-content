@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Item Tracking and Reservations
+    title: Design Details - Item Tracking and Reservations | Microsoft Docs
     description: This topic talks about item tracking and reservations, and describes the concepts behind the two.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

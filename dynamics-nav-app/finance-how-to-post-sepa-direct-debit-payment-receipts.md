@@ -1,9 +1,9 @@
 ---
-    title: Post SEPA Direct Debit Payments
+    title: Post SEPA Direct Debit Payments | Microsoft Docs
     description: When a direct debit collection is successfully processed by your bank, you can proceed to post receipt of the payment for the involved sales invoices.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

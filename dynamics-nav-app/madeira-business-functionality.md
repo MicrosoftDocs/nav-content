@@ -1,11 +1,11 @@
 ---
-title: Business Functionality Supported by Dynamics NAV
+title: Business Functionality Supported by Financials | Microsoft Docs
 Description: Provides a feature overview of all the business functions and departments that are supported by application areas, such as Finance, Inventory, and Project Management.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -15,7 +15,7 @@ ms.date: 09/08/2017
 ms.author: sgroespe
 
 ---
-# Overview of Business Functionality in Dynamics NAV
+# Overview of Business Functionality
 [!INCLUDE[d365fin](includes/d365fin_md.md)] provides functionality for common business processes in small and mid-sized companies, mainly within wholesale and professional services.
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] includes standard configurations for most business processes, but you can change the configuration to suit your business' needs. From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to [!INCLUDE[d365fin](includes/d365fin_md.md)]. Several areas of business functionality must be set up manually. For more information, see [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).

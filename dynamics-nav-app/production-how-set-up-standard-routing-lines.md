@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Standard Tasks for Operations
+    title: How to Set Up Standard Tasks for Operations | Microsoft Docs
     description: You can enter descriptions of standard tasks.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

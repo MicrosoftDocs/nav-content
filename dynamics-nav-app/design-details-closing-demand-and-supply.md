@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Closing Demand and Supply
+    title: Design Details - Closing Demand and Supply | Microsoft Docs
     description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

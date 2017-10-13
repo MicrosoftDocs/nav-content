@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Planning Assignment Table
+    title: Design Details - Planning Assignment Table | Microsoft Docs
     description: This topic provides insight into what happens when you change how you plan for an item.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

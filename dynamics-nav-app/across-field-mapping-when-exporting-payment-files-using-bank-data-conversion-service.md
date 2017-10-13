@@ -1,9 +1,9 @@
 ---
-    title: Field mapping for exporting bank payment files
+    title: Field mapping for exporting bank payment files | Microsoft Docs
     description: When you export payment files using the Bank Data Conversion Service feature, the data that you export is exposed to the provider of the bank data conversion service.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

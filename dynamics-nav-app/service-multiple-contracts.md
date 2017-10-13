@@ -1,11 +1,11 @@
 ---
-    title: Multiple Contracts
+    title: Multiple Contracts | Microsoft Docs
     description: Depending on your service level agreements with a customer, you may have to handle a service item under more than one service contract.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

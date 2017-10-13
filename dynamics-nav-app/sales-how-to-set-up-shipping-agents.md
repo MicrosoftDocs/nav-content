@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Shipping Agents
+    title: How to Set Up Shipping Agents | Microsoft Docs
     description: You can set up a code for each of your shipping agents and enter information about them.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Balancing Supply with Demand
+    title: Design Details - Balancing Supply with Demand | Microsoft Docs
     description: The core of the planning system involves balancing demand and supply by means of suggesting user actions to revise the supply orders in case of imbalance. This takes place per combination of variant and location.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

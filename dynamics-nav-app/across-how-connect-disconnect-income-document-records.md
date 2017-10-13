@@ -1,17 +1,21 @@
 ---
 title: Create Incoming Documents From Documents| Microsoft Docs
 description: You can create records of incoming documents, such as e-invoices, and manage OCR tasks, eCommerce, and document exchange.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
-ms.custom: na
-ms.date: 06/02/2017
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.prod: "dynamics-nav-2017"
----
 
-# How to: Connect and Disconnect Incoming Document Records from Documents and Entries
+ms.service: dynamics365-financials
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
+ms.date: 06/02/2017
+ms.author: sgroespe
+
+---
+# How to: Create Incoming Document Records Directly from Documents and Entries
 You can store external business documents in [!INCLUDE[d365fin](includes/d365fin_md.md)] by attaching the document files to the related incoming document records. If the document, such as a purchase invoice, did not start its existence as an incoming document record, you can still create and connect an incoming document record to it later. You can also attach incoming document files to posted purchase and sales documents and to vendor, customer, and general ledger entries by using the **Incoming Document Files** FactBox in, for example, the **Posted Purchase Invoices** and **Vendor Ledger Entries** windows.
 
 From the **Chart of Accounts** and **General Ledger Entries** windows, you can use a search function to find general ledger entries for posted purchase and sales documents that do not have incoming document records and then centrally link to existing records or create new ones with attached document files. For more information, see [How to: Find Posted Documents without Incoming Document Records](across-how-find-posted-documents-without-income-document-records.md).
@@ -42,4 +46,4 @@ The connection to the posted document is removed. You can now proceed to connect
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Work With Dynamics NAV](ui-work-product.md)
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

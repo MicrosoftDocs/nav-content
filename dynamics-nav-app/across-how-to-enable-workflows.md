@@ -1,11 +1,11 @@
 ---
-    title: How to Enable Workflows
+    title: How to Enable Workflows | Microsoft Docs
     description: When you have created a workflow and you are sure that it is ready to start, you must enable the workflow.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

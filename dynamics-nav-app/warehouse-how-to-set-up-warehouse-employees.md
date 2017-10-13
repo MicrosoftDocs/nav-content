@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up Warehouse Employees
+    title: How to Set Up Warehouse Employees | Microsoft Docs
     description: Each user who performs warehouse activities must be set up as a warehouse employee assigned to one default location and potentially more non-default locations.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

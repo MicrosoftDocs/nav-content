@@ -1,11 +1,11 @@
 ---
-    title: Walkthrough - Receiving and Putting Away in Basic Warehouse Configurations
+    title: Walkthrough - Receiving and Putting Away in Basic Warehouse Configurations | Microsoft Docs
     description: [!INCLUDE[d365fin](includes/d365fin_md.md)], the inbound processes for receiving and putting away can be performed in four ways using different functionalities depending on the warehouse complexity level.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

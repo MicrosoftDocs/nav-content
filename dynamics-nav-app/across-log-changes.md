@@ -1,10 +1,10 @@
 ---
 title: Track User Activity in a Change Log| Microsoft Docs
 Description: You can activate a user log so that you have a history of any changes made to data in tracked tables.
- 
+documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -14,7 +14,7 @@ ms.date: 06/02/2017
 ms.author: edupont
 
 ---
-# Logging Changes in Dynamics NAV 
+# Logging Changes in Dynamics 365 for Financials
 You can enable the change log in [!INCLUDE[d365fin](includes/d365fin_md.md)] so you have a history of activities. The log is based on changes that are made to data in the tables that you track. In the change log, entries are chronologically ordered and show changes that are made to the fields on the specified tables. The change log collects all changes that are made to the table.  
 
 ## Working with the change log

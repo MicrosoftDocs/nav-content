@@ -1,11 +1,11 @@
 ---
-    title: Defining and Allocating Costs
+    title: Defining and Allocating Costs | Microsoft Docs
     description: Cost allocations move costs and revenues between cost types, cost centers, and cost objects. You can define as many allocations as you need.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

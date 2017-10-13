@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Supply Planning
+    title: Design Details - Supply Planning | Microsoft Docs
     description: This topic provides an overview of the the concepts and principles that are used within the Supply Planning features in [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

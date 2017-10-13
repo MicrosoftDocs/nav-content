@@ -1,11 +1,11 @@
 ---
-title: About Setting Up Value-Added Tax
+title: About Setting Up Value-Added Tax | Microsoft Docs
 description: Make sure that you correctly calculate, post, and report on VAT for sales and purchases.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: bholtorf
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

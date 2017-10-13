@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Codeunit 12 Changes in Mapping Global Variables for General Journal Post Line
+    title: Design Details - Codeunit 12 Changes in Mapping Global Variables for General Journal Post Line | Microsoft Docs
     description: The following changes have been implemented in this release of [!INCLUDE[d365fin](includes/d365fin_md.md)].
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -1,11 +1,11 @@
 ---
-    title: Planning With or Without Locations
+    title: Planning With or Without Locations | Microsoft Docs
     description: Planning with or without location codes on demand lines is important to understand.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

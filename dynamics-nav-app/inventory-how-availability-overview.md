@@ -1,10 +1,10 @@
 ---
 title: Get an Availability Overview| Microsoft Docs
 description: You can get information about the availability of items or stock across locations, per sales or purchase events, by a time period, or by the item's position on an assembly or production BOM.
- 
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -115,5 +115,5 @@ If one or more assembly components are not available, then this is reflected in 
 [How to: Set Up Locations](inventory-how-setup-locations.md)  
 [How to: Transfer Inventory Between Locations](inventory-how-transfer-between-locations.md)  
 [How to: Sell Products](sales-how-sell-products.md)      
-[Working with Dynamics NAV](ui-work-product.md)  
+[Working with Financials](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)

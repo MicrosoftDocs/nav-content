@@ -1,9 +1,9 @@
 ---
-    title: How to Set Up a Document Exchange Service
+    title: How to Set Up a Document Exchange Service | Microsoft Docs
     description: You use an external service provider to exchange electronic documents with your trading partners.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

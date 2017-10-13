@@ -1,11 +1,11 @@
 ---
-    title: How to Move Components to an Operation Area in Basic Warehouse Configurations
+    title: How to Move Components to an Operation Area in Basic Warehouse Configurations | Microsoft Docs
     description: If item processing operations occur at your warehouse location, then you may have to move items between internal bins to respond to internal source documents, such as production, assembly, or service orders at the location.
-    
-     
+    services: project-madeira
+    documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.service: dynamics365-financials
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

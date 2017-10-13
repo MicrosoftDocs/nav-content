@@ -1,11 +1,11 @@
 ---
 title: Post Intercompany Documents and Journals| Microsoft Docs
 description: Use intercompany documents to post transactions with your intercompany partners.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

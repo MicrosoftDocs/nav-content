@@ -1,9 +1,9 @@
 ---
-title: Create new companies using an assisted setup guide
-description: It's easy to create a new, blank company in Dynamics NAV. An assisted setup guide helps you through the steps, and you can import your existing business data.
+title: Create new companies using an assisted setup guide | Microsoft Docs
+description: It's easy to create a new, blank company in Dynamics 365 for Financials. An assisted setup guide helps you through the steps, and you can import your existing business data.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -40,10 +40,10 @@ When you sign in to a new company, the **Company Setup** wizard runs automatical
 
 For example, your company address is included in invoices and other documents, your bank information is used in payments, and the costing method is used to calculate prices as well as inventory valuation.  
 
-Once you have the basics in place, you can set up remaining core areas. Then, you are ready to add business data, such as customers and vendors. For more information, see [Setting Up Dynamics NAV ](setup.md).  
+Once you have the basics in place, you can set up remaining core areas. Then, you are ready to add business data, such as customers and vendors. For more information, see [Setting Up Dynamics 365 for Financials](setup.md).  
 
 ## See Also
-[Setting Up Dynamics NAV ](setup.md)  
+[Setting Up Dynamics 365 for Financials](setup.md)  
 [Importing Business Data from Other Finance Systems](upload-data.md)  
 [Changing Basic Settings](ui-change-basic-settings.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

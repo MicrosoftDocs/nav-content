@@ -1,11 +1,11 @@
 ---
 title: Analyzing Cash Flows| Microsoft Docs
 description: Describes how to use the Cash Cycle, Income & Expense, Cash Flow, and Cash Flow Forecast charts to analyze the past and future flow of money in and out of your company.
-
- 
+services: project-madeira
+documentationcenter: ''
 author: bholtorf
 
-ms.prod: "dynamics-nav-2017"
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
