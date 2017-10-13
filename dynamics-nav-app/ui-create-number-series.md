@@ -4,7 +4,7 @@ description: Learn how to set up number series that assign unique ID codes to ac
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Schedule jobs to run automatically
 description: Scheduled tasks are managed by the job queue. These jobs run reports and codeunits. You can set jobs to run one time, or on a recurring basis.
 author: edupont04
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

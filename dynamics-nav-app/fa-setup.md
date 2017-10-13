@@ -4,7 +4,7 @@ description: Learn about the sequence of tasks you must do to set up fixed asset
 documentationcenter: ''
 author: SorenGP
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@
     description: Introduction to sending and receiving electronic documents in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

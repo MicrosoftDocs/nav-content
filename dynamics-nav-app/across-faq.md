@@ -3,7 +3,7 @@ title: FAQ About Using Dynamics NAV
 description: Answers common questions about how to sign up for Dynamics NAV, and what to do to get started.
 author: edupont04
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

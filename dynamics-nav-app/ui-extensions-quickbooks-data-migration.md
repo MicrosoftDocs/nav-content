@@ -3,7 +3,7 @@ title: Using the QuickBooks Migration Extension
 description: Describes how to use the extension to import customers, vendors, items, and accounts from QuickBooks Desktop to Dynamics NAV.
 author: edupont04
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

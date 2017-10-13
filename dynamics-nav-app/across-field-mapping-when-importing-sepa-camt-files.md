@@ -3,7 +3,7 @@
     description: In European markets, you can import bank statement files in the regional SEPA standards (Single Euro Payments Area).
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

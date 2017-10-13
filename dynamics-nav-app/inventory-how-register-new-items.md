@@ -4,7 +4,7 @@ description: You create item cards for services that you sell as hours and for p
 documentationcenter: ''
 author: SorenGP
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

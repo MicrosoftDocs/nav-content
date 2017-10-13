@@ -3,7 +3,7 @@ title: Create new companies using an assisted setup guide
 description: It's easy to create a new, blank company in Dynamics NAV. An assisted setup guide helps you through the steps, and you can import your existing business data.
 author: edupont04
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Work with financial overviews in Excel
 description: Learn about how you can open the financial statements in Microsoft Excel from Dynamics NAV for better analysis.
 author: edupont04
 
-ms.service: dynamics365-financials
+ms.prod: "dynamics-nav-2017"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

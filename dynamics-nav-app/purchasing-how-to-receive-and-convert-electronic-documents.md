@@ -3,7 +3,7 @@
     description: You can receive electronic documents directly from trading partners or from an OCR service.
     author: SorenGP
 
-    ms.service: dynamics365-financials
+    ms.prod: "dynamics-nav-2017"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
