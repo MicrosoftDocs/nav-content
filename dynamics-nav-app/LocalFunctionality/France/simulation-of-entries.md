@@ -1,6 +1,6 @@
 ---
     title: Simulation of Entries | Microsoft Docs
-    description: [!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+    description: Dynamics NAV
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Simulation of Entries
-[!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+Dynamics NAV
 
 ## See Also
 [How to: Set Up Simulation](how-to-set-up-simulation.md)  

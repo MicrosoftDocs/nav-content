@@ -1,6 +1,6 @@
 ---
     title: Bank and Cash Management | Microsoft Docs
-    description: [!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+    description: Dynamics NAV
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Bank and Cash Management
-[!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+Dynamics NAV
 
 ##See Also
 [Bank Management](bank-management.md)  

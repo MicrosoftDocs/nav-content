@@ -1,6 +1,6 @@
 ---
     title: Payables and Receivables | Microsoft Docs
-    description: [!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+    description: Dynamics NAV
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Payables and Receivables
-[!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+Dynamics NAV
 
 ## See Also
 [Check Purchase Amounts](check-purchase-amounts.md)  

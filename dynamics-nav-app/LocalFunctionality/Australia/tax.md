@@ -1,6 +1,6 @@
 ---
     title: Tax | Microsoft Docs
-    description: [!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+    description: Dynamics NAV
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Tax
-[!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]  
+Dynamics NAV  
 
 ## See Also
 [Australia Local Functionality](australia-local-functionality.md)  

@@ -1,6 +1,6 @@
 ---
     title: General Ledger | Microsoft Docs
-    description: [!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+    description: Dynamics NAV
     services: project-madeira
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # General Ledger
-[!INCLUDE[emptyBookNodeText](../../includes/emptybooknodetext_md.md)]
+Dynamics NAV
 
 ## See Also
 [How to: Apply and Unapply General Ledger Entries](how-to-apply-and-unapply-general-ledger-entries.md)  
