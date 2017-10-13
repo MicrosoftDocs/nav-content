@@ -1,5 +1,5 @@
 ---
-title: Administrative tasks in Dynamics NAV 
+title: Administrative tasks in Dynamics NAV
 description: Some tasks in [!INCLUDE[d365fin](includes/d365fin_md.md)] requires central administration and setup. See what they are and learn what to do.
 author: edupont04
 
@@ -33,7 +33,6 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up an SMTP server to enable e-mail communication in and out of Dynamics NAV| [How to: Set Up Email Manually or Using the Assisted Setup](madeira-how-setup-email.md)|  
 |Enter single or recurring requests to run reports or codeunits.|[Use Job Queues to Schedule Tasks](admin-job-queues-schedule-tasks.md)|  
 |Manage, delete, or compress documents|[Manage Documents](admin-manage-documents.md)|  
-|Set up a new business unit using templates|[Creating New Companies in [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)|  
 
 ## See Also
 [Overview of Business Functionality](madeira-business-functionality.md)  

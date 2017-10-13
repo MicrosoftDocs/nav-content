@@ -29,7 +29,6 @@
 # [Setting Up Dynamics NAV](setup.md)
 ## [Setup and Administration](admin-setup-and-administration.md)
 ### [Logging Changes](across-log-changes.md)
-### [Creating New Companies](about-new-company.md)
 ### [Users, Profiles, and Role Centers](admin-users-profiles-roles.md)
 ### [How to: Manage Users and Permissions](ui-how-users-permissions.md)
 ### [Using Job Queues to Schedule Tasks](admin-job-queues-schedule-tasks.md)
