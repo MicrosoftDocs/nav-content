@@ -1,8 +1,8 @@
 ---
     title: Canada Local Functionality
     description: The following topics describe the local functionality in the Canadian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
-    
-     
+
+
     author: SorenGP
 
     ms.prod: "dynamics-nav-2017"
