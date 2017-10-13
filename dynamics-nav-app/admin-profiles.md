@@ -71,5 +71,5 @@ You can export and import profiles as XML files to and from the a [!INCLUDE[d365
 
 ## See Also  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)  
-[Customizing the User Interface](ui-customizing-overview.md)   
+[Customizing the User Interface](ui-customizing-overview.md.md)   
 <!--[Security Overview](../Security%20Overview.md)-->

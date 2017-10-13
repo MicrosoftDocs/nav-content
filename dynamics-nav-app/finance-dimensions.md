@@ -29,7 +29,7 @@ The more dimensions you use, the more detailed reports you can base your busines
 * The kind of customer who bought it  
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md).
 
 ## Analyzing by Dimensions
 The Dimensions functionality plays an important role in business intelligence, such as when defining analysis views. For more information, see [How to: Analyze Data by Dimensions](bi-how-analyze-data-dimension.md).

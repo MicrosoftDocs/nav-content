@@ -16,7 +16,7 @@
     <Node Name="" DisplayName="Using Search for Page or Report" Page="ui-search.html"/>
     <Node Name="" DisplayName="Changing Basic Settings" Page="ui-change-basic-settings.html"/>
     <Node Name="" DisplayName="How to: Change the Role Center" Page="change-role.html"/>
-    <Node Name="" DisplayName="Customizing Dynamics NAV" Page="ui-customizing-overview.html"/>
+    <Node Name="" DisplayName="Customizing Dynamics NAV" Page="ui-customizing-overview.md.html"/>
     <Node Name="" DisplayName="Letting Dynamics NAV Suggest Values" Page="ui-let-system-suggest-values.html"/>
     <Node Name="" DisplayName="Printing a Report" Page="ui-work-report.html"/>
     <Node Name="" DisplayName="Videos on Common Tasks" Page="across-videos.html"/>

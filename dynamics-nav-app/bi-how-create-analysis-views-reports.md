@@ -39,7 +39,7 @@ Then you can set up columns like these:
 - Sales in Pct. of last Month  
 
 > [!NOTE]  
->   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing[!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-customizing-overview).
+>   This functionality requires that your experience is set to **Suite**. For more information, see [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md).
 
 ## Setting Up Line and Column Layouts  
  In the **Analysis Report** window, you can view different line and column layouts according to what you have set up. You set up your lines or line templates in the **Analysis Line Templates** window. In this window, you can define the name of the report and the objects you want to show in the lines of your report. You set up your columns in the **Analysis Column Templates** window. In this window, you can define the name of the column template and the analysis parameters that you want to show in the report as columns. In the **Analysis Column Templates** window, each line represents a column in your report. Note that analysis lines and analysis columns are independent from each other.  
