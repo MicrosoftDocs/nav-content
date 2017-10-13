@@ -1,6 +1,6 @@
 ---
 title: 'How to: Create Number Series '
-description: Learn how to set up number series that assign unique ID codes to accounts and documents in Dynamics 365 for Financials.
+description: Learn how to set up number series that assign unique ID codes to accounts and documents in Dynamics NAV.
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 

@@ -1,6 +1,6 @@
 ---
 title: Multilanguage and Localization 
-description: Learn how language and locale influence your experience in Dynamics 365.
+description: Learn how language and locale influence your experience in Dynamics NAV.
 author: edupont04
 
 ms.service: dynamics365-financials

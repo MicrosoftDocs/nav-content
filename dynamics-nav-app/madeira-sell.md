@@ -1,6 +1,6 @@
 ---
-title: Selling Dynamics 365 for Financials
-description: Find out how you can expand your business opportunities and become a Microsoft partner and Dynamics 365 for Financials reseller.   
+title: Selling Dynamics NAV
+description: Find out how you can expand your business opportunities and become a Microsoft partner and Dynamics NAV reseller.   
 services: project-madeira
 documentationcenter: ''
 author: edupont04

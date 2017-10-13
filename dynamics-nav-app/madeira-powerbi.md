@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 for Financials and Power BI Content Packs
+title: Dynamics NAV and Power BI Content Packs
 description: Getting insight, business intelligence, and KPIs from your Financials data is easy with Power BI and the Financials content packs.
 author: edupont04
 
@@ -20,9 +20,9 @@ Microsoft has published the following content packs:
 
 | App | Description |
 | --- | --- |
-| Microsoft Dynamics 365 for Financials | Provides a dashboard with key financial data over time, such as earnings versus expenses, operating margin, and cash cycle.|
-| Microsoft Dynamics 365 for Financials - CRM | Provides a dashboard with key data about sales opportunities and contacts.  |
-| Microsoft Dynamics 365 for Financials - Sales | Provides a dashboard with key data about sales and inventory. |
+| Microsoft Dynamics NAV | Provides a dashboard with key financial data over time, such as earnings versus expenses, operating margin, and cash cycle.|
+| Microsoft Dynamics NAV - CRM | Provides a dashboard with key data about sales opportunities and contacts.  |
+| Microsoft Dynamics NAV - Sales | Provides a dashboard with key data about sales and inventory. |
 
 ## Using the Dashboards
 Each content pack provides reports that you can drill into:

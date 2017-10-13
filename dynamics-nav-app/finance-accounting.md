@@ -1,6 +1,6 @@
 ---
 title: Financials accountant experience 
-description: Learn about the accountant portal for Dynamics 365 for Financials and the Accountant Role Center that supports internal and external accountants in the client company.
+description: Learn about the accountant portal for Dynamics NAV and the Accountant Role Center that supports internal and external accountants in the client company.
 author: edupont04
 
 ms.service: dynamics365-financials

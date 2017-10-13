@@ -1,6 +1,6 @@
 ---
     title: Set up data exchange 
-    description: Set up the data exchange framework in Dynamics 365 for Financials.
+    description: Set up the data exchange framework in Dynamics NAV.
     author: SorenGP
 
     ms.service: dynamics365-financials

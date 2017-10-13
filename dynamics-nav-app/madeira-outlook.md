@@ -1,6 +1,6 @@
 ---
-title: Using Dynamics 365 for Financials with Outlook
-description: Dynamics 365 for Financials has deep integration with Office 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
+title: Using Dynamics NAV with Outlook
+description: Dynamics NAV has deep integration with Office 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
 services: project-madeira
 documentationcenter: ''
 author: edupont04
@@ -15,7 +15,7 @@ ms.date: 06/02/2017
 ms.author: edupont
 
 ---
-# Using Dynamics 365 for Financials as your Business Inbox in Outlook
+# Using Dynamics NAV as your Business Inbox in Outlook
 [!INCLUDE[d365fin](includes/d365fin_md.md)] introduces the ability to manage business interactions with your customers and vendors, directly in Microsoft Outlook. With the [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook add-ins, you can see financial data related to customers and vendors, as well as create and send financial documents, such as quotes and invoices.  
 
 ## Get the add-in

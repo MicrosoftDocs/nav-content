@@ -279,7 +279,7 @@
     <Node Name="" DisplayName="Managing Segments" Page="marketing-segments.html"/>
     <Node Name="" DisplayName="Recording Interactions" Page="marketing-interactions.html"/>
     <Node Name="" DisplayName="Managing Sales Opportunities" Page="marketing-manage-sales-opportunities.html"/>
-    <Node Name="" DisplayName="Managing Your Customer Relationships Using Dynamics NAV for Sales from Inside Dynamics NAV" Page="marketing-integrate-dynamicscrm.html"/>
+    <Node Name="" DisplayName="Managing Your Customer Relationships Using Dynamics 365 for Sales from Inside Dynamics NAV" Page="marketing-integrate-dynamicscrm.html"/>
   </Node>
   <Node Name="" DisplayName="Human Resources" Page="hr-manage-human-resources.html">
     <Node Name="" DisplayName="How to: Register Employees" Page="hr-how-register-employees.html"/>

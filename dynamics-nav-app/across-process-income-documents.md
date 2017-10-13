@@ -1,6 +1,6 @@
 ---
 title: Process Incoming Documents
-description: To record an external document, such as a PDF,  in Dynamics 365 for Financials, you first create or complete an incoming document record.
+description: To record an external document, such as a PDF,  in Dynamics NAV, you first create or complete an incoming document record.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP

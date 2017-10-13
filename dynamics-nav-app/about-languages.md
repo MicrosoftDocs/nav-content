@@ -1,6 +1,6 @@
 ---
 title: See content in other languages 
-description: You can view the Help content for Dynamics 365 for Financials in other languages.
+description: You can view the Help content for Dynamics NAV in other languages.
 author: edupont04
 
 ms.service: dynamics365-financials

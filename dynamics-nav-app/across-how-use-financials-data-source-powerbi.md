@@ -21,7 +21,7 @@ You can make your [!INCLUDE[d365fin](includes/d365fin_md.md)] data available as 
 
 ## To add [!INCLUDE[d365fin](includes/d365fin_md.md)] as a data source in Power BI Desktop
 1. In Power BI Desktop, in the left navigation pane, choose **Get Data**.
-2. In the **Get Data** window, choose **Online Services**, choose **Dynamics 365 for Financials**, and then choose the **Connect** button.
+2. In the **Get Data** window, choose **Online Services**, choose **Dynamics NAV**, and then choose the **Connect** button.
 
    Power BI displays a wizard that will guide you though the connection process. The first step will be to enter an OData URL and the company name that is associated with your [!INCLUDE[d365fin](includes/d365fin_md.md)] account.  
 
@@ -45,7 +45,7 @@ You can make your [!INCLUDE[d365fin](includes/d365fin_md.md)] data available as 
    > [!NOTE]  
 >    Once you have successfully connected to [!INCLUDE[d365fin](includes/d365fin_md.md)], you will not be prompted again for the OData URL, username, or password.
 
-Once the data is loaded it will appear in the right navigation on the page. At this point, you have successfully connected to your Dynamics 365 data and are ready to begin building your Power BI report. For more information, see the [Power BI documentation](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
+Once the data is loaded it will appear in the right navigation on the page. At this point, you have successfully connected to your Dynamics NAV data and are ready to begin building your Power BI report. For more information, see the [Power BI documentation](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 
 ## See Also
 [Business Intelligence](bi.md)  

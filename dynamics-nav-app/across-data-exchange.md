@@ -1,5 +1,5 @@
 ---
-    title: Electronic documents in Dynamics 365 for Financials  
+    title: Electronic documents in Dynamics NAV  
     description: Introduction to sending and receiving electronic documents in [!INCLUDE[d365fin](includes/d365fin_md.md)].
     author: SorenGP
 

@@ -1,6 +1,6 @@
 ---
-title: Cancelling Dynamics 365 for Financials
-description: Describes how to remove or delete your Dynamics 365 for Financials experience.
+title: Cancelling Dynamics NAV
+description: Describes how to remove or delete your Dynamics NAV experience.
 services: project-madeira
 documentationcenter: ''
 author: edupont04

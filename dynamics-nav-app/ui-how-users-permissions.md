@@ -105,6 +105,6 @@ Administrators can define periods of time during which specified users are able 
 
 ## See Also
 [Getting Ready for Doing Business](ui-get-ready-business.md)  
-[Setup and Administration in Dynamics 365 for Financials](admin-setup-and-administration.md)  
+[Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
