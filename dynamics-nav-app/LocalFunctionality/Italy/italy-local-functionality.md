@@ -27,7 +27,7 @@ The following topics describe local functionality that is unique to the Italian 
   [How to: Set Up Withholding Tax](../Australia/how-to-set-up-withholding-tax.md)  
   [How to: Set Up Journal Templates and Batches](how-to-set-up-journal-templates-and-batches.md)  
   [How to: Set Up Company Information](how-to-set-up-company-information.md)  
-  [How to: Set Up Payment Terms](how-to-set-up-payment-terms.md)  
+  [How to: Set Up Payment Terms](../../how-to-set-up-payment-terms.md)  
   [How to: Define Debit and Credit Amounts](how-to-define-debit-and-credit-amounts.md)  
   [How to: Close a Fiscal Year](how-to-close-a-fiscal-year.md)  
   [Reversing Journal Entries](reversing-journal-entries.md)  

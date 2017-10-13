@@ -371,7 +371,7 @@
 ## [Italy](LocalFunctionality/Italy/italy-local-functionality.md)
 ## [Mexico](LocalFunctionality/Mexico/mexico-local-functionality.md)
 ## [Netherlands](LocalFunctionality/Netherlands/netherlands-local-functionality.md)
-## [New Zealand](LocalFunctionality/New Zealand/new-zealand-local-functionality.md)
+## [New Zealand](LocalFunctionality/NewZealand/new-zealand-local-functionality.md)
 ## [Norway](LocalFunctionality/Norway/norway-local-functionality.md)
 ## [Russia](LocalFunctionality/Russia/russia-local-functionality.md)
 ## [Spain](LocalFunctionality/Spain/spain-local-functionality.md)
