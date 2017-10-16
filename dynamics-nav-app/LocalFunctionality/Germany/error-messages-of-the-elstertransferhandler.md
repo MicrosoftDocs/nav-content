@@ -1,7 +1,7 @@
 ---
-    title: Error Messages of the ElsterTransferHandler 
+    title: Error Messages of the ElsterTransferHandler
     description: When [!INCLUDE[navnow](../../includes/navnow_md.md)] submits sales VAT advance notifications, errors can occur.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,12 +17,12 @@
 ---
 # Error Messages of the ElsterTransferHandler
 When [!INCLUDE[navnow](../../includes/navnow_md.md)] submits sales VAT advance notifications, errors can occur.  
-  
- For example, if the configuration file for the Microsoft.Dynamics.ElsterTransferHandler.dll assembly does not contain the correct friendly name of the public certificate, the ELSTER portal returns error 3400, and [!INCLUDE[navnow](../../includes/navnow_md.md)] displays the corresponding error message.  
-  
+
+For example, if the configuration file for the Microsoft.Dynamics.ElsterTransferHandler.dll assembly does not contain the correct friendly name of the public certificate, the ELSTER portal returns error 3400, and [!INCLUDE[navnow](../../includes/navnow_md.md)] displays the corresponding error message.  
+
 ## Error Messages  
- The following table lists the error messages that the ELSTER portal sends to [!INCLUDE[navnow](../../includes/navnow_md.md)].  
-  
+The following table lists the error messages that the ELSTER portal sends to [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+
 |**Error number**|**Description**|  
 |----------------------|-------------------------------------------|  
 |1000|ELSTER cannot identify the sender as [!INCLUDE[navnow](../../includes/navnow_md.md)]. The Microsoft.Dynamics.ElsterTransferHandler.dll assembly can only be used with Microsoft Dynamics products.|  
@@ -45,7 +45,7 @@ When [!INCLUDE[navnow](../../includes/navnow_md.md)] submits sales VAT advance n
 |7000|The data could not be signed because the configured certificate cannot be used for signing data. You must make sure that the setup of sales VAT advance notifications is correct in [!INCLUDE[navnow](../../includes/navnow_md.md)].|  
 |7100|The XML document could not be signed. This can be caused by a lack of sufficient memory on the computer, or that the operating system has stopped the compression process.|  
 |9000|An error occurred when the ELSTER portal was trying to read the configuration of the certificate. You must verify the content of the generated XML document.|  
-  
+
 ## See Also  
  [ELSTER Transmission Overview](elster-transmission-overview.md)   
  [How to: Set Up Sales VAT Advance Notifications for ELSTER](how-to-set-up-sales-vat-advance-notifications-for-elster.md)

@@ -26,7 +26,7 @@ When you set up [!INCLUDE[navnow](../../includes/navnow_md.md)] in your organiza
 
 2.  On the **Home** tab, choose **New**.  
 
-3.  Enter information into the required fields. This ../../includes the **Starting Date**, **Purchase Quantity**, **Purchase Amount**, **Production Quantity**, and **Production Amount** fields.  
+3.  Enter information into the required fields. This includes the **Starting Date**, **Purchase Quantity**, **Purchase Amount**, **Production Quantity**, and **Production Amount** fields.  
 
 4.  Choose the **OK** button.  
 
@@ -35,4 +35,3 @@ When you set up [!INCLUDE[navnow](../../includes/navnow_md.md)] in your organiza
 ## See Also  
  [Fiscal Inventory Valuation](fiscal-inventory-valuation.md)   
  [How to: Set Up Fiscal Inventory Valuation](how-to-set-up-fiscal-inventory-valuation.md)   
- 

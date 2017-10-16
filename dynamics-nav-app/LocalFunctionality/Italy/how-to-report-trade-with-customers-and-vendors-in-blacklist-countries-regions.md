@@ -1,7 +1,7 @@
 ---
-    title: How to Report Trade with Customers and Vendors in Blacklist Countries-Regions 
+    title: How to Report Trade with Customers and Vendors in Blacklist Countries-Regions
     description: You must submit a periodic report of transactions with customers and vendors in certain countries/regions that the Italian government has identified in a blacklist. The blacklist communication report must be submitted to the Italian Revenue Agency to help prevent VAT fraud. Transactions that are subject to blacklist reporting include the following:
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,41 +17,41 @@
 ---
 # How to: Report Trade with Customers and Vendors in Blacklist Countries-Regions
 You must submit a periodic report of transactions with customers and vendors in certain countries/regions that the Italian government has identified in a blacklist. The blacklist communication report must be submitted to the Italian Revenue Agency to help prevent VAT fraud. Transactions that are subject to blacklist reporting include the following:  
-  
+
 -   Purchases of goods or services  
-  
+
 -   Sales of goods or services  
-  
- On a monthly or quarterly basis, you must generate the blacklist communication report for transactions with countries/regions that have privileged taxation and send it to the Italian Revenue Agency. The Italian Revenue Agency decides which countries/regions are included on the blacklist. You can view or change countries/regions on the blacklist by using the **Countries/Regions** window. The periodic report ../../includes only transactions that have an amount above a certain threshold. The threshold amount calculation is applied at the document level. For more information, see the [Italian Revenue Agency](http://go.microsoft.com/fwlink/?LinkId=396483).  
-  
+
+ On a monthly or quarterly basis, you must generate the blacklist communication report for transactions with countries/regions that have privileged taxation and send it to the Italian Revenue Agency. The Italian Revenue Agency decides which countries/regions are included on the blacklist. You can view or change countries/regions on the blacklist by using the **Countries/Regions** window. The periodic report includes only transactions that have an amount above a certain threshold. The threshold amount calculation is applied at the document level. For more information, see the [Italian Revenue Agency](http://go.microsoft.com/fwlink/?LinkId=396483).  
+
  Before you can submit the periodic report, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)].  
-  
+
 ### To update the relevant countries/regions  
-  
+
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Countries/Regions**, and then choose the related link.  
-  
+
 2.  Choose the relevant country/region, and then select the **Blacklisted** field.  
-  
+
     > [!NOTE]  
     >  You may not be able to see the **Blacklisted** field. In that case, you must add it to the view.  
-  
+
 3.  Enter the **Foreign Country/Region Code** for the blacklisted country/region.  
-  
+
  For a list of relevant countries/regions and codes, see the [Italian Revenue Agency](http://go.microsoft.com/fwlink/?LinkID=206524).  
-  
+
 ### To specify the current threshold amount  
-  
+
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Posting Setup**, and then choose the related link.  
-  
+
 2.  In the **VAT Posting Setup** window, on the **Navigate** tab, in the **Setup** group, choose **Blacklist Comm. Amount**.  
-  
+
 3.  In the **Blacklist Comm. Amounts** window, fill in the fields as described in the following table.  
-  
+
     |Field|Description|  
     |---
-    title: How to Report Trade with Customers and Vendors in Blacklist Countries-Regions 
+    title: How to Report Trade with Customers and Vendors in Blacklist Countries-Regions
     description: You must submit a periodic report of transactions with customers and vendors in certain countries/regions that the Italian government has identified in a blacklist. The blacklist communication report must be submitted to the Italian Revenue Agency to help prevent VAT fraud. Transactions that are subject to blacklist reporting include the following:
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -70,20 +70,20 @@ You must submit a periodic report of transactions with customers and vendors in 
     |**Form ID**|Specifies the window where you set up the list of transactions for the blacklist communication, **12110**.|  
     |**VAT Statement Report ID**|Specifies the report that prints the list of transactions for the blacklist communication, **12128**.|  
     |**VAT Stat. Export Report ID**|Specifies the report that exports the list of transactions for the blacklist communication, **12129**.|  
-  
+
 3.  Optional. Select the VAT Statement template, and on the **Navigate** tab, choose **Statement Names**. You can provide the template with a name and description. Otherwise, the template will have the name Default when you access it in the **Blacklist Communication** window.  
-  
+
 ## Creating the List of Transactions  
  Depending on the size and type of company, you must generate and submit a report of transactions with vendors in blacklisted countries/regions on a monthly or quarterly basis. A suggested mapping of transactions to [!INCLUDE[navnow](../../includes/navnow_md.md)] accounts is provided in the following procedure, based on Spesometro 2013.  
-  
+
 #### To set up the template to create the list of Blacklist transactions  
-  
+
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Blacklist Communication**, and then choose the related link.  
-  
+
 2.  In the **Name** field, select the relevant VAT statement name.  
-  
+
 3.  Fill in the lines with the relevant information as described in the following table.  
-  
+
     |Field|Description|**Data Type**|  
     |--------------------------------------|---------------------------------------|-------------------|  
     |**Row No.**|Specify a row number. To enable correct filtering, we recommend that you number rows as follows: 1001..1006, and so forth.|Code|  
@@ -104,23 +104,23 @@ You must submit a periodic report of transactions with customers and vendors in 
     |**Print with**|Specify whether to include the sign of the amount when you print.|Option|  
     |**Blacklisted Comm. Field**|Specify the field that the VAT totaling should map to in the file to be exported. Valid entries are limited to what is defined in the Spesometro 2013: BL003001 – BL008002. **Important:**  The **Blacklisted Comm.** field can contain only the currently required field names that are specified by Spesometro. If you specify another field name, [!INCLUDE[navnow](../../includes/navnow_md.md)] account fields to the same Blacklist Comm. Field value, the export of the data will be the sum of those lines. The printout will list each line.|Code|  
     |**New Page**|Specify if you want to insert a new page after the line when you print the information.|Boolean|  
-  
- The printed report ../../includes all transactions that meet threshold requirements. It does not include those transactions that do not.  
-  
+
+ The printed report includes all transactions that meet threshold requirements. It does not include those transactions that do not.  
+
 #### To create and print the list of transactions  
-  
+
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Blacklist Communication**, and then choose the related link.  
-  
+
 2.  In the **Name** field, select the relevant VAT statement name.  
-  
+
 3.  Fill in the lines with the relevant information. See the procedure for setting up the Blacklist template.  
-  
+
 4.  On the **Actions** tab, choose **Print**.  
-  
+
 5.  Optionally, on the **VAT Statement Line** FastTab, set the relevant filters.  
-  
+
 6.  On the **Options** FastTab, fill in the fields as described in the following table.  
-  
+
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Starting Date**|Optional. Enter the start date for the blacklist report, which is based on the date that the operations occurred.|  
@@ -131,28 +131,28 @@ You must submit a periodic report of transactions with customers and vendors in 
     |**Source Type**|Optional. Enter the source type of the blacklist transactions. The options include **Customer** and **Vendor**. If nothing is selected, both groups are included.|  
     |**Source No.**|If you choose a **Source Type**, then enter the identification number of the source transaction. If nothing is entered, then all vendors or customers are included.|  
     |**Name**|Read-only. Specifies the name of the organization.|  
-  
+
 7.  Choose the **Print** button to print the report, or choose the **Preview** button to view the results.  
-  
+
     > [!NOTE]  
-    >  The printed report ../../includes all transactions that meet threshold requirements. It does not include those transactions that do not.  
-  
+    >  The printed report includes all transactions that meet threshold requirements. It does not include those transactions that do not.  
+
 #### To preview and export the list of transactions  
-  
+
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Blacklist Communication**, and then choose the related link.  
-  
+
 2.  In the **Name** field, select the relevant VAT statement name.  
-  
+
 3.  Fill in the lines with the relevant information. See the procedure for setting up the Blacklist template.  
-  
+
 4.  On the **Navigate** tab, choose **Preview**. You can review the information to make sure that your mappings have provided you with the information that you expected. For more information, see Blacklisted Comm. Preview window. Choose the **OK** button to close the window  
-  
+
 5.  On the **Actions** tab, choose **Export**.  
-  
+
 6.  Optionally, on the **VAT Statement Line** FastTab, set the relevant filters.  
-  
+
 7.  On the **Options** FastTab, fill in the fields as described in the following table.  
-  
+
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Starting Date**|Enter the start date for the blacklist report.|  
@@ -162,14 +162,14 @@ You must submit a periodic report of transactions with customers and vendors in 
     |**VAT Period**|Enter the time that defines the VAT period for the blacklist report.|  
     |**Communication Type**|Enter the communication type for the blacklist export. The options include <blank>, **Corrective** and **Cancellation**.<br /><br /> If you enter **Corrective**, then a full report will be generated for the specified period, but you have the option to overwrite a previously submitted report.<br /><br /> If you enter **Cancellation**, then you have to provide the values from the previously generated report and a new report will be generated.<br /><br /> You enter information about the corrective or cancellation action in the **Substitution Data**  group. Fill in the following fields, using information that was that was provided by the Italian Revenue Agency (IVA) in its communication with you when you originally submitted your blacklist report:<br /><br /> -   **Substitution Report No.**<br />-   **Substitution Doc. No.**|  
     |**Period Type**|Specify if the report is monthly or quarterly.|  
-  
+
 8.  Choose the **OK** button.  
-  
+
     > [!NOTE]  
-    >  The exported file ../../includes those transactions that are above the current threshold amount.  
-  
+    >  The exported file includes those transactions that are above the current threshold amount.  
+
  You can now submit the list of transactions to the Italian Revenue Agency. If you have more than 1500 records, multiple files will be exported.  
-  
+
 ## See Also  
  Blacklist Communication Report   
  Blacklist Communication   

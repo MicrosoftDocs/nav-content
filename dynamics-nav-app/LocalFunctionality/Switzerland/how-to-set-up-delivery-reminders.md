@@ -24,7 +24,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase deliver
   
 2.  On the **General** FastTab, in the **Default Del. Rem. Date Field** field, specify one of the following options as described in the following table.  
   
-    |ADD INCLUDE<!--[!INCLUDE[bp_tableoption](../../includes/bp_tabledescription_md.md)]-->|  
+    |Option|Description|  
     |----------------------------------|---------------------------------------|  
     |**Requested Receipt Date**|To specify that the date value in the **Requested Receipt Date** field on the purchase order line will be used as the default date for creating delivery reminders.|  
     |**Promised Receipt Date**|To specify that the date value in the **Promised Receipt Date** field on the purchase order line will be used as the default date for creating delivery reminders.|  

@@ -34,7 +34,7 @@ The **Sales Invoice Book** report and **Purchases Invoice Book** report allow yo
   
 2.  On the **Options** FastTab, fill in the fields as described in the following table.  
   
-    |ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_tabledescription_md.md)]-->|  
+    |Option|Description|  
     |-------------------------------------|---------------------------------------|  
     |**Show Amounts in Add. Currency**|Select to display amounts in an additional currency.|  
     |**Order by posting date**|Select to order the document by posting date.|  

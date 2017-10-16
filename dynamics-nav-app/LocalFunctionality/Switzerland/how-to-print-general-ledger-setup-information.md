@@ -24,7 +24,7 @@ Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily busi
   
 2.  On the **Options** FastTab, in the **Setup Information** field, select the master data area as described in the following table.  
   
-    |ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_tabledescription_md.md)]-->|  
+    |Option|Description|  
     |-------------------------------------|---------------------------------------|  
     |**G/L Setup - Company Data - Consolidation**|Displays tables for general ledger setup, company information, and business units.|  
     |**Posting Groups**|Displays customer posting group tables, vendor posting group tables, inventory posting group tables, and bank account posting group tables.|  
