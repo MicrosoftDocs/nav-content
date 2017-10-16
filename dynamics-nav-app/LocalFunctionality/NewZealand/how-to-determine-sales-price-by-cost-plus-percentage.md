@@ -20,22 +20,22 @@ Use the cost plus percentage function to set a sales price based on the cost of 
   
 ### To determine sales tax by cost plus percentage  
   
-1.  In the navigation pane, click **Departments**.  
+1.  In the navigation pane, choose **Departments**.  
   
-2.  Expand **Financial Management**, and then click **Receivables**.  
+2.  Expand **Financial Management**, and then choose **Receivables**.  
   
-3.  Under **Lists**, click **Customers**.  
+3.  Under **Lists**, choose **Customers**.  
   
 4.  Double-click the required customer.  
   
      –or–  
   
-     Click **New**.  
+     Choose **New**.  
   
     > [!NOTE]  
     >  For a new customer, in the **No.** field, enter the customer number.  
   
-5.  To open the **Sales Price** window, click **Related Information**, point to **Sales**, and then click **Prices**.  
+5.  To open the **Sales Price** window, choose **Related Information**, point to **Sales**, and then choose **Prices**.  
   
 6.  In the **General** section, fill in the fields as described in the following table.  
   
@@ -49,7 +49,7 @@ Use the cost plus percentage function to set a sales price based on the cost of 
   
 7.  Enter information into the relevant fields.  
   
-8.  To send the details to a recipient, click **Actions** in the **Sales Price** window, point to **Send To**, and then select one of the following formats:  
+8.  To send the details to a recipient, choose **Actions** in the **Sales Price** window, point to **Send To**, and then select one of the following formats:  
   
     -   **Recipient as Attachment**  
   
@@ -57,7 +57,7 @@ Use the cost plus percentage function to set a sales price based on the cost of 
   
     -   **Microsoft Excel**  
   
-9. Click **OK**.  
+9. Choose **OK**.  
   
 ## See Also  
  [Australia Local Functionality](../Australia/australia-local-functionality.md)   

@@ -21,7 +21,7 @@ In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] fe
 ## Getting Started with Fixed Assets  
  Use the following table to learn more about the fixed asset features that are available for Russia.  
   
-|Topic|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Topic|Description|  
 |-----------|---------------------------------------|  
 |[How to: Calculate Assessed Tax](how-to-calculate-assessed-tax.md)|Enables you to calculate the assessed tax for fixed assets.|  
 |[Depreciation Bonus](depreciation-bonus.md)|Enables you to include fixed asset and capital investment expenses in the current period.|  

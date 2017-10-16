@@ -38,7 +38,7 @@
     > [!NOTE]  
     >  In the **Functions** group, you can also select the following bank reconciliation functions: suggest lines, clear lines, record adjustments, and recalculate the general ledger balance.  
   
-5.  In the **Bank Rec. Process Lines** batch job, on the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_optionsheading_md.md)]-->** FastTab, fill in the fields as described in the following table.  
+5.  In the **Bank Rec. Process Lines** batch job, on the **Options** FastTab, fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

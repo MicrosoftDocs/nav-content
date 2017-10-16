@@ -30,11 +30,11 @@ The report selection feature enables you to:
   
 1.  Create a sales order and ship it.  
   
-2.  Click **Print**. The Report Selection-Print form opens.  
+2.  Choose **Print**. The Report Selection-Print form opens.  
   
 3.  From the sales order, select the reports that you want to print at the same time.  
   
     > [!NOTE]  
     >  You can also print a list of reports with the Report Selection-Print form for other documents such as purchase orders.  
   
- You can select all lines in the **Report Selection-Print** form by clicking **Set all** from the **Functions** button. You can clear all lines by clicking **Clear all** from the **Functions** button.
+ You can select all lines in the **Report Selection-Print** form by chooseing **Set all** from the **Functions** button. You can clear all lines by chooseing **Clear all** from the **Functions** button.

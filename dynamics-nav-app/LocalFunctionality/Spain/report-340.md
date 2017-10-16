@@ -27,7 +27,7 @@
   
  If you file a report under this regimen, the following label is applied to certain [!INCLUDE[navnow](../../includes/navnow_md.md)] reports: **Régimen especial del criterio de caja**. The modified reports are:  
   
-|Report|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Report|Description|  
 |------------|---------------------------------------|  
 |Report 117|Reminder|  
 |Report 118|Finance Charge Memo|  

@@ -142,7 +142,7 @@ To get a better overview of the information that you need, you can customize lis
 1.  You can add, remove, or rearrange columns two ways:
 
     -   Choose the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon") icon, choose **Customize**, and then **Choose Columns**.
-    -   Right-click a column header and then choose **Choose Columns**.
+    -   Right-choose a column header and then choose **Choose Columns**.
 
 2.  In the **Choose wich columns to show in list** dialog boxThe **Available columns** pane contains columns that are hidden. The **Show columns in this order** pane contains columns that are shown. Use the **Add** and **Remove** buttons to move columns from one field to the other. Use the **Move Up** and **Move Down** buttons to position the columns. 
 
@@ -217,7 +217,7 @@ The following table describes the types of links in each category on the **Depar
   
 1.  Open the **Departments** page.  
   
-2.  Right-click the link, and then choose of the following (only one of these options will be available).  
+2.  Right-choose the link, and then choose of the following (only one of these options will be available).  
   
     |**Select**|**To add the link to**|  
     |----------------|----------------------------|  

@@ -58,7 +58,7 @@ You must sign an agreement of remittance with the bank when you set up electroni
   
 7.  On the **Receive** FastTab, fill in the fields as described in the following table.  
   
-    |Field|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+    |Field|Description|  
     |-----------|---------------------------------------|  
     |**Save Return File**|Select to automatically name the return file after it is imported without errors.|  
     |**Receipt Return Required**|Select to verify that the first-time return report is imported.|  

@@ -61,7 +61,7 @@ In Spain, there is a legal limit for the number of days that a payment can be de
 
  Each section has a summary section with the following information.  
 
-|Information|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Information|Description|  
 |-----------------|---------------------------------------|  
 |Weighted average term exceeded|This formula is calculated based on the number of posted payments for the specified period, the number of days that payments were delayed, and the paid amount in (LCY). For more information, see the official declaration [BOE-A-2010-10708](http://go.microsoft.com/fwlink/?LinkId=224630) on the Boletín Oficial del Estado website.|  
 |Payments within the legal limit|The amounts in LCY and the percentage of the total payments that were made before the maximum allowed due date for each transaction.|  

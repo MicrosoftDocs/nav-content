@@ -22,7 +22,7 @@ The recipient reference code determines the message that is sent to the recipien
   
  The recipient reference codes are described in the following table.  
   
-|**Code**|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|**Code**|Description|  
 |--------------|---------------------------------------|  
 |**%1**|The document type. Either invoice or credit memo.|  
 |**%2**|The vendor's invoice number.|  

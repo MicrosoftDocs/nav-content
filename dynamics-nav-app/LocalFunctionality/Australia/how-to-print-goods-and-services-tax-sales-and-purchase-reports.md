@@ -26,7 +26,7 @@ You can create reports of goods and services tax (GST) for purchases and sales f
   
 2.  Choose the appropriate BAS calculation sheet, and then, on the **Actions** tab, choose **GST Sales Report** or choose **GST Purchase Report**.  
   
-3.  On the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_optionsheading_md.md)]-->** FastTab, and then fill in the fields as described in the following table.  
+3.  On the **Options** FastTab, and then fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

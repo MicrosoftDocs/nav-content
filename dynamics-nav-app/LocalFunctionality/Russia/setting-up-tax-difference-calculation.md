@@ -1,6 +1,6 @@
 ---
     title: Setting up Tax Difference Calculation 
-    description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.
+    description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, choose **Setup** and then choose **Tax Differences**.
     
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Setting up Tax Difference Calculation
-Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.  
+Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, choose **Setup** and then choose **Tax Differences**.  
   
 ## Setting Up Posting Groups  
  In the menu sub-item **Posting Groups**, you must determine finance accounts from the set up chart of accounts, where finance transactions with tax differences are accounted for.  
@@ -26,7 +26,7 @@ Tax difference calculations must be set up if there is a tax difference for the 
 |Field|Description|  
 |---
     title: Setting up Tax Difference Calculation 
-    description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.
+    description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, choose **Setup** and then choose **Tax Differences**.
     
     documentationcenter: ''
     author: SorenGP
@@ -42,7 +42,7 @@ Tax difference calculations must be set up if there is a tax difference for the 
 
 ------
     title: Setting up Tax Difference Calculation 
-    description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, click **Setup** and then click **Tax Differences**.
+    description: Tax difference calculations must be set up if there is a tax difference for the presentation of fixed asset entries, item cost entries, or finance transactions in bookkeeping and tax accounting for which expenses to write off must be fixed. To set tax difference, choose **Setup** and then choose **Tax Differences**.
     
     documentationcenter: ''
     author: SorenGP
@@ -70,13 +70,13 @@ Tax difference calculations must be set up if there is a tax difference for the 
   
  The following procedure shows how to process a normalization function.  
   
-1.  In the Future Expenses journal, click **Function**, and then click **Calculate Depreciation by Norm.**  
+1.  In the Future Expenses journal, choose **Function**, and then choose **Calculate Depreciation by Norm.**  
   
 2.  In the **Calculate FE Depr. With Norm** form, on the **Tax Difference** tab, enter the filter for the tax difference.  
   
 3.  On the **Options** tab, enter the accounting period for which the counting is done.  
   
-4.  Click **Print** to print the report.  
+4.  Choose **Print** to print the report.  
   
 5.  Post the Future Expenses journal.  
   

@@ -28,7 +28,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can design your checks t
   
 3.  Use the following table to determine the ID of the report that you want to use to print checks.  
   
-    |Report ID|Report name|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+    |Report ID|Report name|Description|  
     |---------------|-----------------|---------------------------------------|  
     |1401|Check|This is the default report.|  
     |10401|Check (Stub/Stub/Check)|This report is designed to print checks in a stub/stub/check format.|  

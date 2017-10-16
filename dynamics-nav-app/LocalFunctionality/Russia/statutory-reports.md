@@ -23,7 +23,7 @@
 ## Getting Started with Statutory Reports  
  Use the windows based on the following key tables to set up and create statutory reports.  
   
-|Tables|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Tables|Description|  
 |------------|---------------------------------------|  
 |Statutory Report Setup|Specifies information that is used to set up statutory reports including templates, formats, number series, and export destinations.|  
 |Format Version|Specifies setup information about the different report formats. This ../../includes when to use which report, the XML schema to use, and the required data format.|  

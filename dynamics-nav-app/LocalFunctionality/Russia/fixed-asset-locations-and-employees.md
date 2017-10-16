@@ -27,7 +27,7 @@ The fixed assets locations and the fixed assets employees feature enable you to:
 ## Setup  
  The following procedure shows how to enter the data in the **FA Location Code** field.  
   
-1.  In **Financial Management**, click **Fixed Assets**, click **Setup**, and then click **FA Setup**.  
+1.  In **Financial Management**, choose **Fixed Assets**, choose **Setup**, and then choose **FA Setup**.  
   
 2.  On the **General** tab, select the **FA Location Mandatory** field.  
   
@@ -36,7 +36,7 @@ The fixed assets locations and the fixed assets employees feature enable you to:
   
  The following procedure shows how to enter the data in the **Employee No** field.  
   
-1.  In **Financial Management**, click **Fixed Assets**, click **Setup**, and then click **FA Setup**.  
+1.  In **Financial Management**, choose **Fixed Assets**, choose **Setup**, and then choose **FA Setup**.  
   
 2.  On the **General** tab, select the **Employee No. Mandatory** field.  
   

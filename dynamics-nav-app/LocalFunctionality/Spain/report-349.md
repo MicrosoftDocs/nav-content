@@ -27,7 +27,7 @@ You must submit a periodic report of trade with other EU countries/regions to th
   
  Before you submit the 349 declaration, you must make sure that all VAT entries have the relevant delivery operation codes. The following table describes the delivery operation codes that are currently supported in [!INCLUDE[navnow](../../includes/navnow_md.md)].  
   
-|Delivery operation code|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Delivery operation code|Description|  
 |-----------------------------|---------------------------------------|  
 |**E**|Identifies transactions with items that were delivered to customers in another EU country/region and are not included in either the M or the H delivery operation code.|  
 |**M**|Identifies transactions with items that were delivered to customers in another EU country/region and which were previously imported into Spain as tax exempt according to the VAT law.|  

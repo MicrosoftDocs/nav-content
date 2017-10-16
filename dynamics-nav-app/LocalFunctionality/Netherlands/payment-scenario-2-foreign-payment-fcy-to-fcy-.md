@@ -93,7 +93,7 @@ You can use telebanking for trade with domestic and foreign customers and vendor
  We process our proposal concerning the payment to vendor *JANNET* and open the Payment History Overview window for our bank *ABN-USD*. The last payment history is the one we just created.  
   
 ## Export Payment History  
- Open the Payment History Overview Window window, browse to the relevant payment history and choose **Export**. The export batch job will appear for the export protocol that is linked to this payment. For this export the system already has entered appropriate filters. Check, if wanted, any of the fields on the Options tab and click OK to export the payment. The system will generate a text file using a filename as defined in the Default File Names Field field of the export protocol, which now is ready to be sent to our bank.  
+ Open the Payment History Overview Window window, browse to the relevant payment history and choose **Export**. The export batch job will appear for the export protocol that is linked to this payment. For this export the system already has entered appropriate filters. Check, if wanted, any of the fields on the Options tab and choose OK to export the payment. The system will generate a text file using a filename as defined in the Default File Names Field field of the export protocol, which now is ready to be sent to our bank.  
   
 ### Example  
  As the transaction mode associated with our payment is *ABN-USD* the BBV or PAYMUL batch job will appear.  

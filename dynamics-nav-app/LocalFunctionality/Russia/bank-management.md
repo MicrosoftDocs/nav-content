@@ -32,7 +32,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create bank director
   
  You can print the following required bank management documents.  
   
-|Report|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Report|Description|  
 |------------|---------------------------------------|  
 |**Bank Payment Order**|This report is a copy of the bank payment order.|  
 |**Bank Account G/L Turnover**|This report is a list of general ledger turnover information.|  

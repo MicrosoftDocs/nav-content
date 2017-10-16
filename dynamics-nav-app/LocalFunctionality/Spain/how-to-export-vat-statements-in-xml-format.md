@@ -31,7 +31,7 @@ You can export a VAT statement in XML format and then submit it electronically t
     >   
     >  In the standard version of [!INCLUDE[navnow](../../includes/navnow_md.md)], the VAT statement name for the 392 telematic statement is of the type **One Column Report**.  
   
-3.  In the **XML VAT Declaration** window, on the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_optionsheading_md.md)]-->** FastTab, fill in the fields as described in the following table.  
+3.  In the **XML VAT Declaration** window, on the **Options** FastTab, fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

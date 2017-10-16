@@ -21,7 +21,7 @@ In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] fe
 ## Getting Started with Payables and Receivables  
  Use the following table to learn more about the payables and receivables features that are available for Russia.  
   
-|Topic|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Topic|Description|  
 |-----------|---------------------------------------|  
 |Custom Declarations|Enables you to create and print customs declarations for import and export goods.|  
 |[How to: Set Up and Create Letters of Attorney](how-to-set-up-and-create-letters-of-attorney.md)|Enables you to create and print a Letter of Attorney that you can use to authorize an individual or organization to act on the behalf of another in a legal or business matter.|  

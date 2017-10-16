@@ -18,7 +18,7 @@
 # Norwegian VAT Codes
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], VAT processing information can be easily set up using standard Norwegian VAT codes. The following table shows the standard Norwegian VAT codes.  
   
-|**Code**|**ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->**|  
+|**Code**|**Description**|  
 |--------------|-------------------------------------------|  
 |**0**|Sale - No VAT|  
 |**1**|Purchase - VAT|  

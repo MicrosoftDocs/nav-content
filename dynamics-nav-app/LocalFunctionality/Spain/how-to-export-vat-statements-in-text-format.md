@@ -33,7 +33,7 @@ You can export a VAT statement in text format and then submit it electronically 
     >   
     >  In the standard version of [!INCLUDE[navnow](../../includes/navnow_md.md)], the VAT statement name for the 320 telematic statement is of the type **One Column Report**.  
   
-4.  In the **Telematic VAT Declaration** window, on the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_optionsheading_md.md)]-->** FastTab, fill in the fields as described in the following table.  
+4.  In the **Telematic VAT Declaration** window, on the **Options** FastTab, fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

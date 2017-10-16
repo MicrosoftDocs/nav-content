@@ -77,7 +77,7 @@ If you are designing a Word report layout from scratch or adding new data fields
   
 ### To remove a label or data field  
   
-1.  Right-click the field that you want to delete, and then choose **Remove Content Control**.  
+1.  Right-choose the field that you want to delete, and then choose **Remove Content Control**.  
   
      The content control is removed, but the field name remains as text.  
   

@@ -39,7 +39,7 @@ Profiles and Role Centers align with the roles and responsibilities in your orga
   
 7.  Choose the **OK** button. .  
   
-The procedure for modifying an existing profile is the same, except you select an existing profile in the Profiles page instead of clicking **New**.  
+The procedure for modifying an existing profile is the same, except you select an existing profile in the Profiles page instead of chooseing **New**.  
 
 
 ##Copying a profile 

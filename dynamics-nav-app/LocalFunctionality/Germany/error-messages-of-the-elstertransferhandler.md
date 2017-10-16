@@ -23,7 +23,7 @@ When [!INCLUDE[navnow](../../includes/navnow_md.md)] submits sales VAT advance n
 ## Error Messages  
  The following table lists the error messages that the ELSTER portal sends to [!INCLUDE[navnow](../../includes/navnow_md.md)].  
   
-|**Error number**|**ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->**|  
+|**Error number**|**Description**|  
 |----------------------|-------------------------------------------|  
 |1000|ELSTER cannot identify the sender as [!INCLUDE[navnow](../../includes/navnow_md.md)]. The Microsoft.Dynamics.ElsterTransferHandler.dll assembly can only be used with Microsoft Dynamics products.|  
 |2000|No connection could be made to the OFD servers while transmitting data. This can be a problem with your network connection. Check your network configuration, or try again later.|  

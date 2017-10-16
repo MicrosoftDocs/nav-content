@@ -40,11 +40,11 @@ You can use the **CBG Posting - Test** report to edit the statement lines and se
   
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank/Giro Journal**, and then select the related link  
   
-2.  Expand **Financial Management**, and then click **General Ledger**.  
+2.  Expand **Financial Management**, and then choose **General Ledger**.  
   
-3.  In the **General Journal Template List** window, click **OK**.  
+3.  In the **General Journal Template List** window, choose **OK**.  
   
-4.  In the **Bank/Giro Journal** window, click **Actions**, point to **Posting**, and then click **Test Report**.  
+4.  In the **Bank/Giro Journal** window, choose **Actions**, point to **Posting**, and then choose **Test Report**.  
   
 5.  To include the information on applied entries for the statement lines, on the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](includes/bp_optionsheading_md.md)]-->** FastTab, select the **Show Applied Entries** check box.  
   

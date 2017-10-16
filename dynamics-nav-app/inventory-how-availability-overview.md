@@ -98,7 +98,7 @@ The **Assembly Availability** window shows detailed availability information for
 
 - Automatically from a sales order line in assemble-to-order scenarios when you enter a quantity that causes a component availability issue.
 - Automatically from an assembly order header when you enter a value in the Quantity field that causes a component availability issue.
-- Manually when you open it from an assembly order. On the Actions tab, in the Functions group, click Show Availability.
+- Manually when you open it from an assembly order. On the Actions tab, in the Functions group, choose Show Availability.
 
 The **Details** FastTab shows detailed availability information for the assembly item, including how many of the assembly order quantity can be assembled by the due date based on availability of the required components. This is shown in the Able to Assemble field on the Details FastTab.
 

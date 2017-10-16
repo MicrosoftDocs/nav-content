@@ -40,7 +40,7 @@ Notifications are sent to workflow users to notify them about steps they must ma
 2.  In the **Notification Templates** window, select the notification template that you want to modify.  
 3.  Choose the **Export Template Content** action.  
 4.  In the **Export File** window, choose the **Save** button, and then name and save the HTML file in an appropriate location.  
-5.  Right-click the file, choose **Open with**, and then choose the relevant program.  
+5.  Right-choose the file, choose **Open with**, and then choose the relevant program.  
 
     > [!NOTE]  
     >  Content for notification templates of type Email are in HTML format. Content for notification templates of type Note are in TXT format.  

@@ -35,7 +35,7 @@ The following form and reports enable the creation of turnover sheet for goods a
   
  To access the Item General Ledger Turnover form  
   
--   In **Financial Management**, click **Inventory** and then click **Item G/L Turnover**. On the **Options** tab, you can specify the format options listed in the following table.  
+-   In **Financial Management**, choose **Inventory** and then choose **Item G/L Turnover**. On the **Options** tab, you can specify the format options listed in the following table.  
   
 |||  
 |-|-|  
@@ -58,11 +58,11 @@ The following form and reports enable the creation of turnover sheet for goods a
   
  To display the selected Item card  
   
--   Click the **Item** button and then **Card** (Shift+F5 Hot Key).  
+-   Choose the **Item** button and then **Card** (Shift+F5 Hot Key).  
   
  To print the Item Turnover (Qty.) or Item Turnover Checklist reports  
   
--   Click **Print**, and then click **Turnover Sheet** or **Turnover Checklist**.  
+-   Choose **Print**, and then choose **Turnover Sheet** or **Turnover Checklist**.  
   
 ## Item Turnover (Qty.) Report (12469)  
  To analyze net changes and balances of items and materials, you can print the Item Turnover (Qty.) report and export it to Microsoft Office Excel. The report prints the following data from the Item General Ledger Turnover form:  
@@ -81,9 +81,9 @@ The following form and reports enable the creation of turnover sheet for goods a
   
  The following procedure shows how to access the turnover sheet.  
   
-1.  In **Financial Management**, click **Inventor**y, and then click **Item General Ledger Turnover**.  
+1.  In **Financial Management**, choose **Inventor**y, and then choose **Item General Ledger Turnover**.  
   
-2.  Click **Print** and then click **Turnover Sheet**.  
+2.  Choose **Print** and then choose **Turnover Sheet**.  
   
  The turnover sheet is printed monthly and on the date of inventory, but it can be printed for any given period.  
   
@@ -130,9 +130,9 @@ The following form and reports enable the creation of turnover sheet for goods a
   
  The following procedure shows how to access the turnover checklist.  
   
-1.  In **Financial Management**, click **Inventory**, and then click **Item General Ledger Turnover**.  
+1.  In **Financial Management**, choose **Inventory**, and then choose **Item General Ledger Turnover**.  
   
-2.  Click **Print**, and then click **Turnover Checklist**.  
+2.  Choose **Print**, and then choose **Turnover Checklist**.  
   
  The turnover checklist is printed monthly and on the date of inventory, but can be printed for any given period.  
   

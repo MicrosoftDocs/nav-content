@@ -41,7 +41,7 @@ To use automatic account codes, you must create an automatic account posting gro
     > [!NOTE]  
     >  The **Total Balance** field totals the **Allocation Percentage** field for automatic account lines in a posting group. If the total allocation percent for a posting group does not balance to zero, an error message will be displayed when the item is posted.  
   
-5.  Click **OK**.  
+5.  Choose **OK**.  
   
 ## See Also  
  [Automatic Account Codes](automatic-account-codes.md)   

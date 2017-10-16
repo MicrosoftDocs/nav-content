@@ -24,7 +24,7 @@ General ledger reports meet financial accounting standards, and they contain inf
   
 2.  Under **Reports and Analysis**, under **France**, choose one of the following reports.  
   
-    |Report|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+    |Report|Description|  
     |------------|---------------------------------------|  
     |**Journals**|-   Shows all of the general ledger transactions.<br />-   Shows the subtotals of the transactions per period.<br /><br /> For more information, see Journals.|  
     |**G/L Journal**|Shows the subtotals for each source code per month.<br /><br /> For more information, see G-L Journal.|  

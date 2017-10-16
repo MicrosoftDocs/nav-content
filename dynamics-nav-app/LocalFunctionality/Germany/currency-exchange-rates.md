@@ -23,7 +23,7 @@ At the end of the fiscal year, you must adjust currency exchange rates for payab
   
  The following table describes the valuation methods.  
   
-|Valuation method|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Valuation method|Description|  
 |----------------------|---------------------------------------|  
 |BilMoG (Germany)|Beginning in 2010, each ledger entry is adjusted as follows:<br /><br /> -   If the due date is less than one year after the reference date, payable/receivable transactions are valued at the actual exchange rate.<br />-   If the due date is more than one year after the reference date, payable/receivable transactions are valued at the lowest value, with the possibility of appreciation in value (Wertaufholung) up to the initial value. **Note:**  Ledger entries must contain a due date. An entry that does not have a due date is treated as a long term liability.|  
 |Lowest value|Exchange rates are adjusted by using the lowest value of the two exchange rates. Currency losses are always calculated and posted. Currency gains are only calculated and posted up to the original local currency value of the transaction.<br /><br /> This ensures that receivables are not valued above their original posting amounts, and that payables are not valued below their original posting amounts.|  

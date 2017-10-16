@@ -35,7 +35,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can print the sales repo
   
  The Norwegian version of [!INCLUDE[navnow](../../includes/navnow_md.md)] contains the following sets of sales documents.  
   
-|**Set**|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|**Set**|Description|  
 |-------------|---------------------------------------|  
 |1|The standard [!INCLUDE[navnow](../../includes/navnow_md.md)] documents. No giro information is printed.|  
 |2|The giro is printed on every page. The last page prints the giro total.|  
