@@ -5,6 +5,8 @@ The content is available as markdown files (.md), where each file represents an 
 
 This repo contains the content in English (US). If you want access to the content in other languages, navigate to the relevant repo - the names follow this pattern: nav-content.<language>-<country>, such as [nav-content.da-DK](https://github.com/MicrosoftDocs/nav-content.da-DK) for the Danish version.
 
+The *live* branch has been updated in preparation for the upcoming release of Dynamics NAV 2018. If you want to source files for Dynamics NAV 2017, see the *Release* tab.
+
 If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
 
 ## Getting Started
