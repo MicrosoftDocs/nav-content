@@ -22,7 +22,7 @@ The combination of the Item No., Variant Code, Location Code, and Bin Code field
 
 ## To view duplicate physical inventory order lines  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
 2.  Open the physical inventory order that you want to view to duplicate lines of.  
 3.  Choose the **Show Duplicate Lines** action.  
 

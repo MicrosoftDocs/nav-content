@@ -26,7 +26,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use the cash and ban
   
 ### To post cash journals  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Cash Journal**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Cash Journal**, and then choose the related link.  
   
 2.  On the **Home** tab, choose **New**.  
   
@@ -51,7 +51,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use the cash and ban
   
 ### To post bank or giro journals  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank/Giro Journal**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank/Giro Journal**, and then choose the related link.  
   
 2.  On the **Home** tab, choose **New**.  
   

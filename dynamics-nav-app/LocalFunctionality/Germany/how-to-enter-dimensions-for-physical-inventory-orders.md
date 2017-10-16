@@ -24,7 +24,7 @@ That is why you should create the physical inventory order lines first after com
 
 ## To enter dimensions for a physical inventory order  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
 2.  Select the physical inventory order that you want to create an inventory recording for, and then choose the **Edit** action.  
 3.  Choose the **Dimensions** action.  
 4.  In the **Edit Dimension Set Entries** window, enter the dimensions for the inventory order header.  

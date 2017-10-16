@@ -20,7 +20,7 @@ To complete the Business Activity Statement (BAS) setup, you must map fuel tax c
 
 ## To modify and map BAS Setup for the fuel tax credit fields  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Setup Names**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Setup Names**, and then choose the related link.  
 2.  Choose the **BAS Setup** action.  
 3.  In the **BAS Setup**  window, on a new line 16000, in the **Field No.** field, enter 72.  
 4.  In the **Account Totaling** field, select the appropriate general ledger account. The account should have a credit balance.  

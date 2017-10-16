@@ -24,13 +24,13 @@ You must set up a Business Activity Statement (BAS) to generate a BAS report. BA
 
 ## To set up GST posting  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Posting Setup**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Posting Setup**, and then choose the related link.  
 2.  To set up GST posting rules, create a new line and enter information into the relevant fields.  
 3.  Choose the **OK** button.  
 
 ## To set up BAS – XML field IDs  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS – XML Field IDs**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS – XML Field IDs**, and then choose the related link.  
 2.  Choose the **New** action to create a new line.  
 3.  Fill in the fields as described in the following table.  
 
@@ -45,7 +45,7 @@ You must set up a Business Activity Statement (BAS) to generate a BAS report. BA
 
 ## To set up BAS  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Setup Names**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Setup Names**, and then choose the related link.  
 2.  Choose the **New** action.  
 3.  Fill in the fields as described in the following table.  
 

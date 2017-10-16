@@ -30,7 +30,7 @@ You must set up information in the **General Ledger Setup** window before you ca
 
 ## To set up general ledger for a business activity statement  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
 2.  Fill in the required fields as described in the following table.  
 
     |Field|Description|  
@@ -42,7 +42,7 @@ You must set up information in the **General Ledger Setup** window before you ca
 
 ## To set a business unit for a business activity statement  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Business Units**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Business Units**, and then choose the related link.  
 2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  

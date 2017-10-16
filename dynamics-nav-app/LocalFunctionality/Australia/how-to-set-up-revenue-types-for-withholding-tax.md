@@ -22,7 +22,7 @@ You can use the **WHT Revenue Types** window to set up the revenue types for wit
 
 ## To set up revenue types for withholding tax  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Revenue Types**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Revenue Types**, and then choose the related link.  
 2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  

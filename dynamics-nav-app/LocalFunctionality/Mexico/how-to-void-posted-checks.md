@@ -20,7 +20,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you must void the **Payment 
   
 ### To post printed checks  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journals**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journals**, and then choose the related link.  
   
 2.  In the **Edit - Payment Journal** window, fill in the fields as described in the following table.  
   
@@ -46,7 +46,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you must void the **Payment 
   
 ### To void posted checks  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.  
   
 2.  Select the required bank account. On the **Actions** tab, in the **Manage** group, choose **Edit**.  
   

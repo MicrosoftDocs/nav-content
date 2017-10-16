@@ -29,7 +29,7 @@ The following procedure describes how to set up product posting groups for WHT, 
 
 ## To set up a product posting group for withholding tax  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Product Posting Group**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Product Posting Group**, and then choose the related link.  
 2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -41,7 +41,7 @@ The following procedure describes how to set up product posting groups for WHT, 
 
 ## To set up posting for withholding tax  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Posting Setup**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Posting Setup**, and then choose the related link.  
 
 2.  Fill in the fields as described in the following table.  
 

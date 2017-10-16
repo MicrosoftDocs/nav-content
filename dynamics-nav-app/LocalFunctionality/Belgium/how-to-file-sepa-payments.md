@@ -32,7 +32,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use Single Euro Paym
   
 ### To file a SEPA payment  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **File SEPA Payments**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **File SEPA Payments**, and then choose the related link.  
   
 2.  Fill in the fields as described in the following table.  
   

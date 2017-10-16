@@ -26,7 +26,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you calculate periodic depre
   
 ### To calculate accelerated depreciation  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Calculate Depreciation**, and then choose the relevant link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Calculate Depreciation**, and then choose the relevant link.  
   
 2.  In the **Calculate Depreciation** window, on the **Options** FastTab, fill in the fields as described in the following table.  
   

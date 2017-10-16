@@ -27,7 +27,7 @@ You must also download components from the ELSTER portal. For more information, 
 
 ## To set up company information  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Company Information**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Company Information**, and then choose the related link.  
 2.  In the **Company Information** window, on the **General** FastTab, in the **VAT Representative** field, enter the contact person for VAT related information.  
 3.  On the **Tax Office** FastTab, fill in the fields as described in the following table.  
 
@@ -66,7 +66,7 @@ You must also download components from the ELSTER portal. For more information, 
 
 ## To set up a VAT statement for sales VAT advance notifications  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Statement**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Statement**, and then choose the related link.  
 2.  In the **VAT Statement** window, in the **Name** field, choose the drop-down arrow.  
 3.  In the **VAT Statement Names** window, in the line for the appropriate VAT statement name select the **Sales VAT Adv. Notification** field.  
 

@@ -29,7 +29,7 @@ The following procedure describes how to track document lines from sales orders,
 
 ## To track document lines  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
 2.  Select the relevant sales order, and then choose the **Edit** action.  
 3.  Select the sales order line that will be used to track documents.  
 4.  On the **Lines** FastTab, choose the **Document Line Tracking** action.  
@@ -38,7 +38,7 @@ The following procedure describes how to track document lines from sales orders,
 
 ## To view tracked documents  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
 2.  Select the relevant sales order, and then choose the **Edit** action.  
 3.  Select the sales order line that will be used to track documents.  
 4.  On the **Lines** FastTab, choose the **Document Line Tracking** action.  

@@ -22,7 +22,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], payment suggestions are gene
   
 ### To create a payment journal template  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journal Templates**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journal Templates**, and then choose the related link.  
   
 2.  On the **Home** tab, in the **New** group, choose **New**.  
   

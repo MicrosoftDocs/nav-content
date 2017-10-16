@@ -24,7 +24,7 @@ The inventory act of receivables and payables feature enables you to prepare an 
 ## Setting Up a Number Series for Inventory Acts  
 The following procedure shows how to set up a number series for inventory acts.  
 
-1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
 2. In the **General Ledger Setup** window, fill in the **Contractor Invent. Act Nos.** field.   
 
 ## Inventory Act Processing  

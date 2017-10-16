@@ -22,7 +22,7 @@ The following procedure describes how to create sales orders from archived blank
 
 ## To create an order from an archived blanket order  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
 2.  Choose the **New** action.   
 3.  Select a customer in the **Sell-to Customer No.** field.  
 4.  Choose the **Copy Document** action.  

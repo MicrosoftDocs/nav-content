@@ -22,7 +22,7 @@ The following procedure describes how to archive blanket sales orders, but the s
 
 ## To archive blanket orders  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Blanket Orders**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Blanket Orders**, and then choose the related link.  
 2.  Select the blanket sales order that you want to archive, and then choose the **Edit** action.  
 3.  In the **Blanket Sales Order** window, choose the **Archive Document** action.  
 4.  Choose the **Yes** button to confirm archiving of the blanket order, and then choose the **OK** button.  

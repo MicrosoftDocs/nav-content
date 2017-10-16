@@ -40,7 +40,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can activate the **Check
   
 ### To set up validation of total amounts for purchase documents  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchases & Payables Setup**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchases & Payables Setup**, and then choose the related link.  
   
 2.  On the **General** FastTab, fill in the fields as described in the following table.  
   

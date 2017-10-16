@@ -43,7 +43,7 @@ Cassie sets up the requirements for the data export. The auditors have asked her
 
 ### To set up the requirements for a data export  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Data Export**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Data Export**, and then choose the related link.  
 2.  Choose the **New** action.  
 3.  In the **Data Exports** window, fill in the fields as described in the following table.  
 
@@ -249,7 +249,7 @@ Cassie wants to export data that she can then send to the tax auditors.
 
 ### To export data  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **GDPdU Export**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **GDPdU Export**, and then choose the related link.  
 2.  In the **GDPdU Export** window, on the **Options** FastTab, fill in the fields as described in the following table.  
 
     |Field|Description|  

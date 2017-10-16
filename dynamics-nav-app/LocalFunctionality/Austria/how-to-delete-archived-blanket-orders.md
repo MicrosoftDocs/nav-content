@@ -22,7 +22,7 @@ The following procedure describes how to delete archived blanket sales orders, b
 
 ## To delete an archived blanket order  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delete Archived Blanket Sales Order Versions**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delete Archived Blanket Sales Order Versions**, and then choose the related link.  
 2.  In the **Del. Bl. Sales Order Versions** batch job, on the **Sales Header Archive** FastTab, select the appropriate filters.  
 3.  Choose the **OK** button.  
 

@@ -24,7 +24,7 @@ However, in most cases, you use a batch job to record inventory. Based on the ph
 
 ## To create a physical inventory recording  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
 2.  Select the physical inventory order that you want to create an inventory recording for, and then choose the **Edit** action.  
 3.  To create a physical inventory recording, choose the **Make New Recording** action.  
 4.  In the **Make New Phys. Invt. Recording** window, on the **Options** FastTab, fill in the fields as described in the following table.  
@@ -53,7 +53,7 @@ To show that you have finished the physical inventory recording, you have to set
 
 ## To complete a physical inventory recording  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Recording**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Recording**, and then choose the related link.  
 2.  Select the physical inventory recording that you want to complete, and then choose the **Edit** action.  
 3.  In the **Phys. Invt. Recording** window, on the **Lines** FastTab, in the **Quantity** field for each line, enter the actual item quantity.  
 4.  Select the **Recorded** check box for each line.  

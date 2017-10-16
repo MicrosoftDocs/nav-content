@@ -22,7 +22,7 @@ If [!INCLUDE[navnow](../../includes/navnow_md.md)] created this physical invento
 
 ## To calculate the expected quantity on the physical inventory order  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Order**, and then choose the related link.  
 2.  Open the physical inventory order that you want to calculate the expected quantity for.  
 3.  To calculate the expected quantity of only one physical inventory order line, choose the **Calculate Qty. Expected** action, and then choose the **This Line** action.  
 4.  To calculate the expected quantity in all physical inventory order lines, choose the **Calculate Qty. Expected** action, and then choose the **All Lines** action.  

@@ -22,7 +22,7 @@ You can review the calculated GST amounts, export the BAS setup details to Excel
 
 ## To export business activity statements  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Setup Names**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Setup Names**, and then choose the related link.  
 2.  Select a relevant BAS calculation sheet.  
 3.  Choose the **BAS Setup** action to open the **BAS Setup** window.  
 4.  Choose the **Preview** action to open the **BAS Setup Preview** window.  
@@ -32,7 +32,7 @@ You can review the calculated GST amounts, export the BAS setup details to Excel
 
 ## To print business activity statements  
 
-1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Calculation Sheets**, and then choose the related link.  
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Calculation Sheets**, and then choose the related link.  
 2. Choose the **Update** action to open the **BAS Update** window.  
 3.  To ensure that past adjustments to transactions are collected in the latest BAS, in the **Include GST Entries** field, select the **Before and Within the Period** option.  
 4.  Select the appropriate filters.  

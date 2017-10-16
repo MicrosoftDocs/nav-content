@@ -22,7 +22,7 @@ You can only do this, if the **Recorded** field is selected for all physical inv
 
 ## To finish a physical inventory recording  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Recording List**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Inventory Recording List**, and then choose the related link.  
 2.  Open the physical inventory recording that you want to finish, and then choose the **Finish** action.  
 
     The status is set to **Finished**. You can no longer change the physical inventory header or the physical inventory lines.  
