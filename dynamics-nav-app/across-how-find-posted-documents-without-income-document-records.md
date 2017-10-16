@@ -1,20 +1,25 @@
 ---
-title: "How to: Find Posted Documents without Incoming Document Records"
-author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.prod: "dynamics-nav-2017"
----
+title: Search for Documents without Attachments
+Description: You can search for general ledger entries for posted purchase and sales documents that do not have incoming electronic documents, such as imported invoices.
 
+documentationcenter: ''
+author: SorenGP
+
+ms.prod: "dynamics-nav-2017"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
+ms.date: 06/02/2017
+ms.author: sgroespe
+
+---
 # How to: Find Posted Documents without Incoming Document Records
 From the **Chart of Accounts** and **General Ledger Entries** windows, you can use a search function to find general ledger entries for posted purchase and sales documents that do not have incoming document records and then centrally link to existing records or create new ones with attached document files.
 
 ## To find posted documents without incoming document records
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Chart of Accounts**, and then choose the related link.
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Chart of Accounts**, and then choose the related link.
 2. Select a line for a G/L account for whose general ledger entries you want to see posted purchase and sales documents without incoming document records, and then choose the **Posted Documents without Incoming Document** action.
 3. Alternatively, choose the **Ledger Entries** action.
 4. In the **General Ledger Entries** window, choose the **Posted Documents without Incoming Documents** action.
@@ -28,8 +33,8 @@ The **Posted Documents without Incoming Document** window opens showing posted p
 
 If a relevant incoming document record does not exist in the **Incoming Documents** window, then you can create it. For more information, see [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
 
-## See Also  
+## See Also
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Dynamics NAV](ui-work-product.md)
+[Purchasing](purchasing-manage-purchasing.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

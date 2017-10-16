@@ -1,38 +1,63 @@
 ---
-title: "The General Ledger and the Chart of Accounts"
-author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.prod: "dynamics-nav-2017"
----
+title: Learn About General Ledger and COA
+description: Describes the general ledger, the chart of accounts, and account categories.
 
-# The General Ledger and the Chart of Accounts
-The general ledger stores your financial data, and the chart of accounts shows the accounts that all general ledger entries are posted to. Dynamics NAV includes a standard chart of accounts that is ready to support your business.
+documentationcenter: ''
+author: edupont04
+
+ms.prod: "dynamics-nav-2017"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: analysis, history, track
+ms.date: 06/02/2017
+ms.author: edupont
+
+---
+# Understanding the General Ledger and the COA
+The general ledger stores your financial data, and the chart of accounts shows the accounts that all general ledger entries are posted to. [!INCLUDE[d365fin](includes/d365fin_md.md)] includes a standard chart of accounts that is ready to support your business.
 
 ## General Ledger Setup and General Posting Setup
-At the core of your business processes is the general ledger and the configuration of how data is posted to the general ledger.
-In the **General Ledger Setup** window, you specify how to handle certain accounting issues in your company. This includes invoice rounding details, address formats, and whether you want to use an additional reporting currency, for example.
-Similarly, in the **General Posting Setup** window, you specify how you want to set up combinations of general business and general product posting groups. You fill in a line for each combination of business posting group and product posting group.  
+The setup of the general ledger is at the core of financial processes because it defines how you post data.  
+
+In the **General Ledger Setup** window, you specify how to handle certain accounting issues in your company, such as:  
+
+* Invoice rounding details  
+* Address formats  
+* Financial reporting  
+
+Similarly, in the **General Posting Setup** window, you specify how you want to set up combinations of general business and general product posting groups. Posting groups map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts. You fill in a line for each combination of business posting group and product posting group. For more information, see [Posting Group Setups](finance-posting-groups.md)  
 
 ## The Chart of Accounts
-The chart of accounts shows all accounts. From here, you can open various reports that show your general ledger entries and balances, and you can close the income statement. For each account, you can open the G/L account card and add or change settings. You can also see a list of posting groups that post to that account.  
+The chart of accounts shows all general ledger accounts. From the chart of accounts, you can do things like:  
 
-Dynamics NAV will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
+* View reports that show general ledger entries and balances.  
+* Close your income statement.  
+* Open the G/L account card to add or change settings.  
+* See a list of posting groups that post to that account.
+* View separate debit and credit balances for a single account  
+
+You can add, change, or delete general ledger accounts. However, to prevent discrepancies, you can't delete a general ledger account if it's data is used in the chart of accounts.  
 
 ## Account Categories
-With account categories, you can map general ledger accounts to categories as a personalization of the structure of your financial statements.  
+You can personalize the structure of your financial statements by mapping general ledger accounts to account categories.  
 
-The **G/L Account Categories** window shows your existing main categories and subcategories and the G/L accounts that you have assigned each category. You can create new subcategories and assign those categories to existing accounts.  
+The **G/L Account Categories** window shows your categories and subcategories, and the G/L accounts that are assigned to them. You can create new subcategories and assign those categories to existing accounts.  
 
-You can group the account categories by indenting individual subcategories. This makes it easy for you to get an overview, because each grouping shows a total balance. For example, you can create subcategories for different types of assets and then create category groups for fixed assets versus current assets, for example. You create a category group by indenting other subcategories under a line in the **G/L Account Categories** window.  
+You create a category group by indenting other subcategories under a line in the **G/L Account Categories** window. This makes it easy for you to get an overview, because each grouping shows a total balance. For example, you can create subcategories for different types of assets, and then create category groups for fixed assets versus current assets.  
 
-For each subcategory, you can specify if accounts of this category must be included in specific types of financial reports. The account categories help define the layout of your financial statements. For example, the default balance statement has a single entry for cash under assets. If you want the balance statement to have subentries for petty cash and your checking account, then you can add two new subcategories, specify the additional report definition Cash Accounts for each of them, and indent them under the Cash subcategory. Then, when you have generated account schedules based on your changes, your next balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.     
+You can specify whether the accounts in each subcategory must be included in specific types of reports. The account categories help define the layout of your financial statements.  
 
-##See Also
-[Finance](Finance.md)  
-[Set Up or Change the Chart of Accounts](finance-setup-chart-accounts.md)  
-[Account Schedules](finance-account-schedule.md)  
+For example, the default balance statement has a subcategory for Cash under Current Assets. If you want the balance statement consider petty cash and checking, you can:  
+
+1. Add two new subcategories. One for petty cash, and one for your checking account.  
+2. Specify the additional report definition **Cash Accounts** for these subcategories.  
+3. Indent them under the **Cash** subcategory.  
+
+The next time you generate account schedules your balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.  
+
+## See Also
+[Finance](finance.md)  
+[Setting Up or Changing the Chart of Accounts](finance-setup-chart-accounts.md)  
+[Business Intelligence](bi.md)  
