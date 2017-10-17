@@ -1,6 +1,6 @@
 ---
-    title: Tax
-    description: Dynamics NAV
+    title: Australian Tax
+    description: Tax functionality in Australia is described in several topics.
 
     documentationcenter: ''
     author: SorenGP

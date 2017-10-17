@@ -1,6 +1,6 @@
 ---
     title: Example - Inventory Order Line with Tracking Lines
-    description: The physical inventory order line should contain the following data:
+    description: The physical inventory order line must contain certain data.
 
     documentationcenter: ''
     author: SorenGP

@@ -1,6 +1,6 @@
 ---
     title: How to Create Delivery Reminders Manually
-    description: In ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/how-to-generate-delivery-reminders.md).
+    description: Remind customers of late delivery.
 
     documentationcenter: ''
     author: SorenGP
