@@ -33,7 +33,7 @@ There are a few things to do before you can use Cortana Intelligence for cash fl
 	2. Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.
 	3. Use your Microsoft account to sign up for a workspace, and then copy the model.
 	4. Run the model, and publish it as a web service.
-	5. Make a note of the API URL and API key. You will use these credentials when you set up Cortana Intelligence in [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+	5. Make a note of the API URL and API key. You will use these credentials when you set up Cortana Intelligence in [!INCLUDE[navnow](includes/navnow_md.md)].  
 
 * Consider how often to calculate the forecast. The Azure Machine Learning service has limitations regarding use. For example, if you have a lot of items, it might be better to calculate less frequently.
 * Be assigned to the Accountant role center.

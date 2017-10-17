@@ -294,7 +294,7 @@ If you only want to cancel UI customization that you have made to a specific UI 
 2.  Select the page for which you want to cancel your UI customization, and then, on the **Home** tab, in the **View** group, choose **Delete**.  
 
 > [!NOTE]  
->  All UI customization of the page that you have ever made under your current user logon or since you last used the **Delete User Personalization** window are canceled. The layout of the page is reset to the default configuration for your profile, as configured by the administrator or as installed with [!INCLUDE[navnow](../../includes/navnow_md.md)].  
+>  All UI customization of the page that you have ever made under your current user logon or since you last used the **Delete User Personalization** window are canceled. The layout of the page is reset to the default configuration for your profile, as configured by the administrator or as installed with [!INCLUDE[navnow](includes/navnow_md.md)].  
 
 #### To cancel UI customization that you have made to a UI area on a page  
 
@@ -303,7 +303,7 @@ If you only want to cancel UI customization that you have made to a specific UI 
 2.  At the bottom of the **Customize** window, choose the **Restore Defaults** button.  
 
 > [!NOTE]  
->  All customization of the UI area that you have ever made for the page under your current user logon or since you last used the **Restore Defaults** button are canceled. The layout of the UI area on the page is reset to the default configuration for your profile, as configured by the administrator or as installed with [!INCLUDE[navnow](../../includes/navnow_md.md)].
+>  All customization of the UI area that you have ever made for the page under your current user logon or since you last used the **Restore Defaults** button are canceled. The layout of the UI area on the page is reset to the default configuration for your profile, as configured by the administrator or as installed with [!INCLUDE[navnow](includes/navnow_md.md)].
 
 ### Cancel Basic UI changes
 You cancel basic UI changes by opening the **Reset User-Specified Settings** window from your Role Center.  
