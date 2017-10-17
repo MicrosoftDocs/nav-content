@@ -18,14 +18,11 @@
 # How to: Set Up Payment Statuses
 To use payment management, you must set up payment statuses to define payment document progress levels. You must define a set of statuses for each payment class. For more information, see [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md).  
 
-### To set up payment statuses  
+## To set up payment statuses  
 
-1.  In the **Setup** box, enter **Payment Slip Setup**, and then choose the relevant link.  
-
-2.  Select a payment class, and then, on the **Home** tab, in the **Process** group, choose **Status**.  
-
-3.  In the **Payment Status** window, on the **Home** tab, choose **New**.  
-
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Slip Setup**, and then choose the related link.  
+2.  Select a payment class, and then choose the **Status** action.  
+3.  In the **Payment Status** window, choose the **New** action.  
 4.  Fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -41,10 +38,8 @@ To use payment management, you must set up payment statuses to define payment do
 5.  Choose the **OK** button.  
 
 ## See Also  
- View-Edit Payment Line   
  [Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
- [How to: Set Up Payment Steps]()   
  [How to: Set Up Payment Addresses](how-to-set-up-payment-addresses.md)   
  [How to: Create Payment Slips](how-to-create-payment-slips.md)   
  [How to: Post Payment Slips](how-to-post-payment-slips.md)   

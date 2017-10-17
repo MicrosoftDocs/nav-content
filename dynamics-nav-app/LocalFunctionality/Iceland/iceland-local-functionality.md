@@ -1,6 +1,6 @@
 ---
     title: Iceland Local Functionality
-    description: The following topics describe the local functionality in the Icelandic version of Microsoft Dynamics NAV.
+    description: The following topics describe the local functionality in the Icelandic version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
     documentationcenter: ''
     author: SorenGP
@@ -16,7 +16,7 @@
 
 ---
 # Iceland Local Functionality
-The following topics describe local functionality that is unique to the Icelandic version of [!INCLUDE[navnow](../../includes/navnow_md.md)] 
+The following topics describe local functionality that is unique to the Icelandic version of [!INCLUDE[navnow](../../includes/navnow_md.md)]
 
 ## In This Section  
   [Icelandic Tax Regulations of Conditional Discounts](icelandic-tax-regulations-of-conditional-discounts.md)  

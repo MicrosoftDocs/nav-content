@@ -16,7 +16,7 @@
 
 ---
 # Russia Local Functionality
-In [!INCLUDE[navnow](../../includes/navnow_md.md)], there are Russian-specific features that you can use to track and manage your business. For example, you can use the local functionality features in Microsoft Dynamics NAV to calculate VAT due based on Russian VAT rates and regulations.
+In [!INCLUDE[navnow](../../includes/navnow_md.md)], there are Russian-specific features that you can use to track and manage your business. For example, you can use the local functionality features in [!INCLUDE[navnow](../../includes/navnow_md.md)] to calculate VAT due based on Russian VAT rates and regulations.
 
 ## Getting Started with Russia Local Functionality  
  Use the following table to learn more about local functionality that is available for Russia.  
