@@ -22,7 +22,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify how the stan
   
 ### To set up a standard sales line  
   
-1.  In the **Search**  box, enter **Sales & Receivables Setup**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales & Receivables Setup**, and then choose the related link.  
   
 2.  On the **Std. Customer Sales Codes** FastTab, fill in the fields as described in the following table.  
   

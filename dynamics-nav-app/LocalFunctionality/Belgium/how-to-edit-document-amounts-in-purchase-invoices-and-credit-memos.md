@@ -1,7 +1,7 @@
 ---
-    title: How to Edit Document Amounts in Purchase Invoices and Credit Memos 
+    title: How to Edit Document Amounts in Purchase Invoices and Credit Memos
     description: [!INCLUDE[navnow](../../includes/navnow_md.md)] lets you easily edit document amounts in purchase invoices and credit memos.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,16 +17,13 @@
 ---
 # How to: Edit Document Amounts in Purchase Invoices and Credit Memos
 [!INCLUDE[navnow](../../includes/navnow_md.md)] lets you easily edit document amounts in purchase invoices and credit memos.  
-  
-### To edit document amounts  
-  
+
+## To edit document amounts  
+
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Invoice** or **Purchase Credit Memo**, and then choose the related link.  
-  
 2.  Edit the document amount in the **Doc. Amount Incl. VAT** field and the **Doc. Amount VAT** field.  
-  
 3.  The value entered in the **Doc. Amount Incl. VAT** field is divided on the invoice lines according to how it was defined in the standard vendor purchase code scheme in the **Standard Purchase Code** table. Accept the proposal and post the invoice or credit memo.  
-  
+
 ## See Also  
- Purchase Header   
- [How to: Set Up Standard Purchase and Sales Lines](how-to-set-up-standard-purchase-and-sales-lines.md)   
- Standard Purchase Code
+[How to: Create Recurring Sales and Purchase Lines](../../sales-how-work-standard-lines.md)   
+[Belgium Local Functionality](belgium-local-functionality.md)

@@ -1,6 +1,6 @@
 ---
     title: Norway Local Functionality
-    description: The following topics describe the local functionality in the Norwegian version of ADD INCLUDE<!--[!INCLUDE[nav_current_short](../../includes/nav_current_short_md.md)]-->.
+    description: The following topics describe the local functionality in the Norwegian version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
     documentationcenter: ''
     author: SorenGP

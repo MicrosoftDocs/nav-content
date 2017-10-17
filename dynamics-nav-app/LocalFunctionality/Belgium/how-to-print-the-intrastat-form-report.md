@@ -1,7 +1,7 @@
 ---
-    title: How to Print the Intrastat Form Report 
+    title: How to Print the Intrastat Form Report
     description: The **Intrastat - Form** report must be used for reporting to Intrastat. In Belgium, you must report the movement of goods to the statistics authorities every month, and the report must be sent to the tax authorities.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,15 +17,14 @@
 ---
 # How to: Print the Intrastat Form Report
 The **Intrastat - Form** report must be used for reporting to Intrastat. In Belgium, you must report the movement of goods to the statistics authorities every month, and the report must be sent to the tax authorities.  
-  
- Before you print the **Intrastat - Form** report, you can also print the **Intrastat Checklist** report to verify the contents of the report.  
-  
-### To print the Intrastat form report  
-  
+
+Before you print the **Intrastat - Form** report, you can also print the **Intrastat Checklist** report to verify the contents of the report.  
+
+## To print the Intrastat form report  
+
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Intrastat – Form**, and then choose the related link.  
-  
 2.  On the **Options** FastTab, fill in the fields as described in the following table.  
-  
+
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Name**|Enter the company name.|  
@@ -37,7 +36,7 @@ The **Intrastat - Form** report must be used for reporting to Intrastat. In Belg
     |**International VAT number**|Enter the international VAT registration number.|  
     |**Nihil declaration**|Select if you do not have any trade transactions with EU countries and want to send an empty declaration. When selected, the message "NIHIL" displays in the **Message** field.|  
     |**Message**|Enter a message to be printed on the Intrastat declaration, such as "regular declaration" or "replacement declaration".|  
-  
+
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
   
 ## See Also  
