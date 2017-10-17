@@ -16,7 +16,7 @@
 
 ---
 # Swiss General Ledger Accounts
-[!INCLUDE[navnow](../../includes/navnow_md.md)] ../../includes Swiss enhancements to general ledger accounts.
+[!INCLUDE[navnow](../../includes/navnow_md.md)] includes Swiss enhancements to general ledger accounts.
 
 - Maintain the foreign currency balances of a bank account in the general ledger.  
 - Sort general ledger account numbers in the **Chart of Accounts** window.  

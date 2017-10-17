@@ -42,7 +42,7 @@ You can use the **CBG Posting - Test** report to edit the statement lines and se
   
 2.  Expand **Financial Management**, and then choose **General Ledger**.  
   
-3.  In the **General Journal Template List** window, choose **OK**.  
+3.  In the **General Journal Template List** window, Choose the **OK** button.  
   
 4.  In the **Bank/Giro Journal** window, choose **Actions**, point to **Posting**, and then choose **Test Report**.  
   

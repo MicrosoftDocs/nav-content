@@ -70,7 +70,7 @@ Mexican companies must be able to send invoices electronically as Comprobante Fi
 ## Communication Component  
  The ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/nav_windows_md.md)]-->. The component handles the communication with the PAC web services and also generates the QR codes that are included in the printed documents. For examples of how to use the Microsoft.Dynamics.NAV.MX.dll assembly, see codeunit 10145 **E-Invoice Mgt.** and codeunit 10147 **E-Invoice Object Factory**.  
 
- When you generate an electronic document to request a stamp, [!INCLUDE[navnow](../../includes/navnow_md.md)] creates an XML document and sends it to the PAC for processing. The original XML document contains the same information as the original string field that is shown on the printed document. The original string ../../includes the following information:  
+ When you generate an electronic document to request a stamp, [!INCLUDE[navnow](../../includes/navnow_md.md)] creates an XML document and sends it to the PAC for processing. The original XML document contains the same information as the original string field that is shown on the printed document. The original string includes the following information:  
 
 -   Document date  
 

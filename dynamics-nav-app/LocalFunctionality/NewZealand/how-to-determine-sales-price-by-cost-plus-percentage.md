@@ -57,7 +57,7 @@ Use the cost plus percentage function to set a sales price based on the cost of 
   
     -   **Microsoft Excel**  
   
-9. Choose **OK**.  
+9. Choose the **OK** button.  
   
 ## See Also  
  [Australia Local Functionality](../Australia/australia-local-functionality.md)   

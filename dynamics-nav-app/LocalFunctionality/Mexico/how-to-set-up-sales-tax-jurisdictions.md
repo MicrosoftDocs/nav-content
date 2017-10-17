@@ -24,7 +24,7 @@ In the United States, states, counties, cities, and localities can charge sales 
 
  Tax amounts must be detailed in documents for each tax jurisdiction in Canada. Up to four jurisdictions can be displayed in a document, and jurisdictions that have the same print order are combined when they are printed.  
 
- Each tax area is a grouping of sales tax jurisdictions based on a particular geographic location. For example, the Miami, Florida, tax area ../../includes three sales tax jurisdictions: city (Miami), county (Dade), and state (Florida).  
+ Each tax area is a grouping of sales tax jurisdictions based on a particular geographic location. For example, the Miami, Florida, tax area includes three sales tax jurisdictions: city (Miami), county (Dade), and state (Florida).  
 
 ### To set up sales tax jurisdictions  
 

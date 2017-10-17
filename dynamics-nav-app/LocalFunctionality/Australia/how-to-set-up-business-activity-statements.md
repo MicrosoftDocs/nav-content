@@ -16,7 +16,7 @@
 
 ---
 # How to: Set Up Business Activity Statements
-You must set up a Business Activity Statement (BAS) to generate a BAS report. BAS setup ../../includes the following:  
+You must set up a Business Activity Statement (BAS) to generate a BAS report. BAS setup includes the following:  
 
 -   Goods and Services Tax (GST) posting setup.  
 -   BAS – XML field IDs.  
