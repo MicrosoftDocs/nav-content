@@ -24,3 +24,6 @@ The following topics describe local functionality that is unique to the Icelandi
   [Deleting Posted Invoices and Credit Memos](deleting-posted-invoices-and-credit-memos.md)  
   [How to: Print VAT Summary Information on Documents](how-to-print-vat-summary-information-on-documents.md)  
  [Special Data Output and Reports for the Tax Authority](special-data-output-and-reports-for-the-tax-authority.md)  
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  
