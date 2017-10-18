@@ -24,5 +24,5 @@ You can also use automatic account codes to trigger cost or revenue allocations 
 
 ## See Also  
 [How to: Set Up Automatic Account Posting Groups](how-to-set-up-automatic-account-posting-groups.md)   
-[Setting Up Posting Groups](finance-posting-groups.md)  
+[Setting Up Posting Groups](../../finance-posting-groups.md)  
 [Finance](../../finance.md)  

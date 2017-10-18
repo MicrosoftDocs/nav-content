@@ -58,5 +58,5 @@ After you set up the tax depreciation book and the accounting depreciation book,
  [How to: Set Up Accelerated Depreciation](how-to-set-up-accelerated-depreciation.md)   
  [How to: Calculate Accelerated Depreciation](how-to-calculate-accelerated-depreciation.md)   
  [Set Up Depreciation](set-up-depreciation.md)   
-[Fixed Assets](fa-manage.md)  
+[Fixed Assets](../../fa-manage.md)  
  [France Local Functionality](france-local-functionality.md)

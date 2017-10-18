@@ -34,9 +34,9 @@ Companies must pay VAT to the state for most purchased goods and services. VAT c
 ### Non-deductible VAT  
  VAT cannot be deducted for some purchases because of:  
 
--   The type of goods or services purchased – VAT is fully or partially non-deductible by provision of the law on goods like cars, mobile phones, food purchased at restaurants, and so on.  
+- The type of goods or services purchased – VAT is fully or partially non-deductible by provision of the law on goods like cars, mobile phones, food purchased at restaurants, and so on.  
 
--   Partially deductible pro-rated VAT – VAT is pro-rated according to the ratio between sales operations for which VAT is owed, and all operations performed. VAT exceeding this ratio cannot be deducted.  
+- Partially deductible pro-rated VAT – VAT is pro-rated according to the ratio between sales operations for which VAT is owed, and all operations performed. VAT exceeding this ratio cannot be deducted.  
 
 ## Service Tariffs  
  The European Union (EU) has issued directives that change the VAT reporting for cross-border trade of goods and services in the EU.  
@@ -46,9 +46,8 @@ Companies must pay VAT to the state for most purchased goods and services. VAT c
 ## VAT Transaction Reports  
  You must submit periodic reports to the tax authorities, which list transactions that include VAT with amounts over a specified threshold. The VAT transaction reports are created based on transactions with customers or vendors from a country/region that is outside the EU and is not blacklisted. Transactions with customers or vendors from EU countries/regions are reported through **Intrastat** reports. Transactions with customers or vendors from countries/regions that are blacklisted are reported through the **Blacklist Communication Report** report. [!INCLUDE[navnow](../../includes/navnow_md.md)] provides support for the following transaction types:  
 
-|||  
-|-|-|  
-|**Transaction Type**|**Supported**|  
+|**Transaction Type**|**Supported**|
+|--------------------|-------------|  
 |FE - Customer invoices (factures issued)|Yes|  
 |FR - Vendor invoices (factures received)|Yes|  
 |NE - Customer credit notes (notes issued)|Yes|  
@@ -59,22 +58,22 @@ Companies must pay VAT to the state for most purchased goods and services. VAT c
 
  [!INCLUDE[navnow](../../includes/navnow_md.md)] does not report the following types of transactions:  
 
--   Prepayment invoices, because the total amount will be reported at the time of the final invoice.  
+- Prepayment invoices, because the total amount will be reported at the time of the final invoice.  
 
--   Operations without an invoice, for example, VAT entries posted via general ledger accounts, because a VAT registration number, a fiscal code, or a customer or vendor reference is required for inclusion in a report.  
+- Operations without an invoice, for example, VAT entries posted via general ledger accounts, because a VAT registration number, a fiscal code, or a customer or vendor reference is required for inclusion in a report.  
 
--   Self-billed transactions, which are not supported.  
+- Self-billed transactions, which are not supported.  
 
- The VAT transactions reports include lines where the amount is over the threshold and lines that must be included for other legal reasons. The threshold amount is set by the Italian authorities.  
+The VAT transactions reports include lines where the amount is over the threshold and lines that must be included for other legal reasons. The threshold amount is set by the Italian authorities.  
 
- Document lines contain a field to indicate if the line must be included in the VAT transaction reports. The **Include in VAT Transac. Rep.** fields are selected automatically based on the day of the transaction and a comparison with the threshold amount for the calendar year. If sales lines are related to a blanket order, the threshold is compared to the amount for the blanket order. This only applies to sales line of type **Item**. For service lines, the comparison is made with the service contract amount.  
+Document lines contain a field to indicate if the line must be included in the VAT transaction reports. The **Include in VAT Transac. Rep.** fields are selected automatically based on the day of the transaction and a comparison with the threshold amount for the calendar year. If sales lines are related to a blanket order, the threshold is compared to the amount for the blanket order. This only applies to sales line of type **Item**. For service lines, the comparison is made with the service contract amount.  
 
 > [!NOTE]  
 >  Credit memos are included in the VAT transaction report if the customer or vendor is from a country/region that is outside the EU and is not blacklisted.  
 
- When you post credit memos, you must update the **Refers to Period** field to specify the relevant period. The VAT transaction reports will include credit memos where the **Refers to Period** field is set to **Current Calendar Year** or **Previous Calendar Year**.  
+When you post credit memos, you must update the **Refers to Period** field to specify the relevant period. The VAT transaction reports will include credit memos where the **Refers to Period** field is set to **Current Calendar Year** or **Previous Calendar Year**.  
 
- [!INCLUDE[navnow](../../includes/navnow_md.md)] adds credit memos to the VAT reports in different ways depending on the application status and the value of the **Refers to Period** field. The following table describes the scenarios.  
+[!INCLUDE[navnow](../../includes/navnow_md.md)] adds credit memos to the VAT reports in different ways depending on the application status and the value of the **Refers to Period** field. The following table describes the scenarios.  
 
 |Scenario|Impact|  
 |--------------|------------|  

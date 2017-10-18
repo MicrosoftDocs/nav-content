@@ -63,5 +63,5 @@ The EndToEndId in the SEPA message is taken from the payment message and can be 
 
 ## See Also  
  [How to: Set Up Electronic Banking](how-to-set-up-electronic-banking.md)   
- [Setting Up Finance](finance-setup-finance.md)  
- [How to: Record Purchases](purchasing-how-record-purchases.md) 
+ [Setting Up Finance](../../finance-setup-finance.md)  
+ [How to: Record Purchases](../../purchasing-how-record-purchases.md) 

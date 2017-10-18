@@ -32,3 +32,6 @@ The following topics describe local functionality that is unique to the Italian 
   [How to: Close a Fiscal Year](how-to-close-a-fiscal-year.md)  
   [Reversing Journal Entries](reversing-journal-entries.md)  
   [Italian Subcontracting](italian-subcontracting.md)  
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  

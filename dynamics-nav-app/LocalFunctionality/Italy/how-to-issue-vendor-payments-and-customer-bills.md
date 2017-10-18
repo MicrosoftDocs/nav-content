@@ -52,4 +52,4 @@ In addition, there must be a posted purchased invoice against which you can send
 You can review the .xml file before sending it. To review and fix errors, you can refer to the **File Export Errors** FactBox.  
 
 ## See Also  
-[How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)
+[How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](../../finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)
