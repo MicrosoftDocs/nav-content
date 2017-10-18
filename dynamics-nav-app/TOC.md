@@ -372,6 +372,6 @@
 ## [Russia](LocalFunctionality/Russia/russia-local-functionality.md)
 ## [Spain](LocalFunctionality/Spain/spain-local-functionality.md)
 ## [Sweden](LocalFunctionality/Sweden/sweden-local-functionality.md)
-## [Switzerland](LocalFunctionality/Switzerland/Switzerland-local-functionality.md)
+## [Switzerland](LocalFunctionality/Switzerland/switzerland-local-functionality.md)
 ## [United Kingdom](LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.md)
 ## [United States](LocalFunctionality/UnitedStates/united-states-local-functionality.md)
