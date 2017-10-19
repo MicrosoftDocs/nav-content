@@ -1,7 +1,7 @@
 ---
-    title: Design Details - Codeunit 408 Dimension Management 
+    title: Design Details - Codeunit 408 Dimension Management
     description: Codeunit 408 Dimension Management is a function library that handles common tasks that are related to dimensions, such as copying from one table to another or from one document to another.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -171,7 +171,7 @@ Codeunit 408 Dimension Management is a function library that handles common task
 
  TestNewDimValue  
 
- MoveDimBufToItemBudgetDim. (Delete because the ItemBudgetDim Table is deleted.  
+ MoveDimBufToItemBudgetDim. (Delete because the ItemBudgetDim Table is deleted.)  
 
  GetServContractDim  
 

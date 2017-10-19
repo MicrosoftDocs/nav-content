@@ -1,7 +1,7 @@
 ---
-    title: About Planning Functionality 
+    title: About Planning Functionality
     description: The planning system takes all demand and supply data into account, nets the results, and creates suggestions for balancing the supply to meet the demand.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -71,7 +71,7 @@ The following order modifiers exist on the item or SKU card:
 
 Global planning setup fields on the **Manufacturing Setup** window include:  
 
--   Dynamic Low-Level Code]  
+-   Dynamic Low-Level Code  
 -   Current Production Forecast  
 -   Use Forecast on Locations  
 -   Default Safety Lead Time  

@@ -36,11 +36,11 @@ The following table describes a sequence of tasks, with links to the topics that
 | Set up Intrastat reporting, and submit the report to an authority | [How to: Set Up and Report Intrastat](finance-how-setup-report-intrastat.md)|
 
 ## See Also
-[Finance](finance.md)]  
+[Finance](finance.md)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)  
 [Working with Dimensions](finance-dimensions.md)  
 [Importing Business Data from Other Finance Systems](upload-data.md)  
 [Analyzing Cash Flow in Your Company](finance-analyze-cash-flow.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## 
+##

@@ -1,5 +1,5 @@
 ---
-title: Specify Colored Indicators to Customize Visual Signals About a Cue's Activity 
+title: Specify Colored Indicators to Customize Visual Signals About a Cue's Activity
 description: Set up a colored indicator on a Cue tile to provide a personalized visual signal of the Cue’s activity.
 
 documentationcenter: ''
@@ -33,7 +33,7 @@ The following table lists the colors that correspond to the options of the **Low
 
 | Option | Color |
 | --- | --- |
-| **None** |No color (same color as the Cue tile |
+| **None** |No color (same color as the Cue )|
 | **Favorable** |Green |
 | **Unfavorable** |Red |
 | **Ambiguous** |Yellow |
