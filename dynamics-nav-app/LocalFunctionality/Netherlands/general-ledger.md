@@ -1,7 +1,7 @@
 ---
-    title: General Ledger 
-    description: Dynamics NAV
-    
+    title: General Ledger
+    description: Special general ledger functionality exists for the Dutch version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,9 +16,10 @@
 
 ---
 # General Ledger
-Dynamics NAV
+General ledger functionality for the Netherlands is described in the below topics.
 
-## See Also
-[How to: Apply and Unapply General Ledger Entries](how-to-apply-and-unapply-general-ledger-entries.md)  
+## In This Section
+[How to: Apply General Ledger Entries](how-to-apply-general-ledger-entries.md)  
+[How to: Unapply General Ledger Entries](how-to-unapply-general-ledger-entries.md)  
 [Required Descriptions in G-L Entry](required-descriptions-in-g-l-entry.md)  
 [How to: Create an Audit File for the Tax Authority](how-to-create-an-audit-file-for-the-tax-authority.md)
