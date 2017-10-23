@@ -49,5 +49,5 @@ The OCR payment files are posted to the cash receipt journal.
  [Electronic Banking in Norway](electronic-banking-in-norway.md)   
  [How to: Set Up KID Numbers on Sales Documents](how-to-set-up-kid-numbers-on-sales-documents.md)   
  [How to: Set Up OCR Payments](how-to-set-up-ocr-payments.md)   
- [How to: Work With General Journals](../../../ui-work-general-journals.md)   
+ [How to: Work With General Journals](../../ui-work-general-journals.md)   
  [How to: Print the OCR Journal - Test Report](how-to-print-the-ocr-journal-test-report.md)

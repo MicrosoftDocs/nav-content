@@ -19,7 +19,7 @@
 General ledger functionality for the Netherlands is described in the below topics.
 
 ## In This Section
-[How to: Apply General Ledger Entries](how-to-apply-general-ledger-entries.md)  
-[How to: Unapply General Ledger Entries](how-to-unapply-general-ledger-entries.md)  
+[How to: Apply General Ledger Entries](../France/how-to-apply-general-ledger-entries.md)  
+[How to: Unapply General Ledger Entries](../France/how-to-unapply-general-ledger-entries.md)  
 [Required Descriptions in G-L Entry](required-descriptions-in-g-l-entry.md)  
 [How to: Create an Audit File for the Tax Authority](how-to-create-an-audit-file-for-the-tax-authority.md)
