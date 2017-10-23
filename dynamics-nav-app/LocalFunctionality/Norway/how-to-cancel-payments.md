@@ -1,6 +1,6 @@
 ---
     title: How to Cancel Payments
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements that allow you to cancel payments. If the payment has been sent to the bank, the bank must be contacted to cancel the remittance that they received.
+    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements that allow you to cancel payments.
 
     documentationcenter: ''
     author: SorenGP
@@ -18,24 +18,20 @@
 # How to: Cancel Payments
 [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements that allow you to cancel payments. If the payment has been sent to the bank, the bank must be contacted to cancel the remittance that they received.  
 
--   A payment order can be canceled if the payments are not received by the bank and a new remittance must be made. You can also cancel a payment order if you do not want to transfer the payments to the bank, for example if the payments are incorrect. Only open payment orders can be canceled.  
+- A payment order can be canceled if the payments are not received by the bank and a new remittance must be made. You can also cancel a payment order if you do not want to transfer the payments to the bank, for example if the payments are incorrect. Only open payment orders can be canceled.  
 
--   An individual payment can be canceled if the payment cannot be processed by the bank and a new remittance has to be made. You can also cancel a payment if you do not want to process the payment. Settled payments cannot be canceled.  
+- An individual payment can be canceled if the payment cannot be processed by the bank and a new remittance has to be made. You can also cancel a payment if you do not want to process the payment. Settled payments cannot be canceled.  
 
-### To cancel a payment order  
+## To cancel a payment order  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Remittance Payment Order**, and then choose the related link.  
-
-2.  Select the payment order, and on the **Navigate** tab, in the **Payment order** group, choose **Export**, and then select **Cancel payment order**.  
-
+2.  Select the payment order, choose the **Export** action, and then choose the **Cancel Payment Order** action.  
 3.  Choose the **Yes** button.  
 
-### To cancel a payment  
+## To cancel a payment  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Waiting Journal**, and then choose the related link.  
-
-2.  Select the payment, and on the **Navigate** tab, in the **Waiting Journal** group, choose **Cancel Payment**.  
-
+2.  Select the payment, and then choose the **Cancel Payment** action.  
 3.  Choose the **Yes** button.  
 
 ## See Also  

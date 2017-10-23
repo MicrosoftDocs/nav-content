@@ -18,12 +18,10 @@
 # How to: Set Up Vendors for Remittance
 [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements for automatically making payments to vendors. This reduces errors that occur from manual data entry. To pay vendors using the remittance system, you must set up vendor information.  
 
-### To set up a vendor for remittance  
+## To set up a vendor for remittance  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.  
-
-2.  Select the vendor, and on the **Home** tab, choose **Edit**.  
-
+2.  Choose the **Edit** action.  
 3.  On the **General** FastTab, fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -42,8 +40,7 @@
     |**Remittance Account Code**|Specify the account code to be used for the vendor.|  
     |**Recipient Bank Account No.**|Specify the account number used to remit the vendor.|  
 
-5.  On the **Navigate** tab, in the **Vendor** group, choose **Remittance Info**.  
-
+5.  Choose the **Remittance Info** action.  
 6.  On the **General** FastTab, fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -60,9 +57,9 @@
     |**Recipient ref. 1 -- inv.**|Enter the text that will print on the payment invoice.|  
     |**Recipient ref. 1 - cred.**|Enter the text that will print on the payment invoice when deducting a credit memo.|  
 
-     If remittance to BBS is used, the text from **Recipient ref. - inv.** and **Recipient ref. -cred.** is displayed on the payment specification in lines one through three, columns one and two. You can insert a maximum of 80 characters on the payment specification.  
+    If remittance to BBS is used, the text from **Recipient ref. - inv.** and **Recipient ref. -cred.** is displayed on the payment specification in lines one through three, columns one and two. You can insert a maximum of 80 characters on the payment specification.  
 
-     The text in the recipient reference fields can be formatted automatically with special codes. For more information, see [Recipient Reference Codes](recipient-reference-codes.md).  
+    The text in the recipient reference fields can be formatted automatically with special codes. For more information, see [Recipient Reference Codes](recipient-reference-codes.md).  
 
 8.  On the **Payment abroad** FastTab, fill in the fields as described in the following table.  
 
