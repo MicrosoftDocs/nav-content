@@ -82,7 +82,7 @@ From outbound documents for item-tracked items, such as sales orders or producti
 This is referred to as a specific reservation, because you reserve from the quantity of  Item X that belongs to Lot X. If you simply reserve from quantities of Item X, then it is a normal, non-specific, reservation. For more information, see [Design Details - Item Tracking and Reservations](design-details-item-tracking-and-reservations.md).
 
 The following procedure is based on a sales order.    
-1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then select the related link.  
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
 2. Create a sales order line for an item-tracked item.  
 3. Assign serial and lot numbers to the sales order line. For more information, see [How to: Work with Serial and Lot Numbers](inventory-how-work-item-tracking.md).
 4. On the sales order line, choose the **Reserve** action.  

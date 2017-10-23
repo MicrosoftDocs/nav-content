@@ -18,12 +18,11 @@
 # How to: Set Up Standard Sales or Purchase Lines
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify how the standard sales or purchase codes will be entered when you are creating the specified sales or purchase documents.  
 
- The following procedure describes how to set up a standard sales line, but the same steps apply to setting up standard purchase lines in the **Purchases & Payables Setup** window.  
+The following procedure describes how to set up a standard sales line, but the same steps apply to setting up standard purchase lines in the **Purchases & Payables Setup** window.  
 
-### To set up a standard sales line  
+## To set up a standard sales line  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales & Receivables Setup**, and then choose the related link.  
-
 2.  On the **Std. Customer Sales Codes** FastTab, fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -37,6 +36,4 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify how the stan
 3.  Choose the **OK** button.  
 
 ## See Also  
- [OBSOLETE: Standard Purchase Codes and Standard Sales Codes](OBSOLETE:%20Standard%20Purchase%20Codes%20and%20Standard%20Sales%20Codes.md)   
- Sales & Receivables Setup   
- Purchases & Payables Setup
+[How to: Create Recurring Sales and Purchase Lines](../../sales-how-work-standard-lines.md)

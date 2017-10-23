@@ -59,7 +59,7 @@ You can reverse entries from all **Ledger Entries** windows. The following proce
     Now go back to the purchase return order to redo the posting.  
 
 5.  In the **Posted Return Shipment** window, take a note of the number in the **Return Order No.** field.  
-6.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Return Orders**, and then select the related link.  
+6.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Return Orders**, and then choose the related link.  
 7.  Open the return order in question, and then choose the **Reopen** action.  
 8.  Correct the entry in the **Quantity** field and post the purchase return order again.  
 

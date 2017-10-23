@@ -28,7 +28,7 @@ Companies often have different bank accounts for foreign currencies, and have a 
 
 For example, a company has two bank accounts: one for local currency (LCY) and one for euros (EUR). You must create a general ledger account for each bank account. For the EUR account, define the currency code as **EUR** and post journals in EUR or LCY.  
 
-When the exchange rate for EUR and LCY changes, you can update and adjust the local currency balance for the EUR general ledger account using the adjust exchange rates batch job. For more information, see [Adjust Exchange Rates Batch Job](($%20B_595%20Adjust%20Exchange%20Rates%20$).md). This batch job creates and posts currency adjustment entries to the general ledger and updates the LCY balance.  
+When the exchange rate for EUR and LCY changes, you can update and adjust the local currency balance for the EUR general ledger account using the adjust exchange rates batch job. This batch job creates and posts currency adjustment entries to the general ledger and updates the LCY balance.  
 
 ## Data Type for General Ledger Accounts  
 The data type is set to text for the general ledger account number or account code to support the sorting requirements for the standardized Swiss Kontenrahmen Käfer (KMU) common chart of accounts. For more information, see [Chart of Accounts Window](assetId:///fa407624-b670-44b6-8397-91aa606e4c39). The account numbers list is sorted based on the text data type. The KMU chart of accounts contains the following account numbers:  

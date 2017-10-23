@@ -216,7 +216,7 @@ The functionality supports the following outbound processes:
 
 In these situations, the existing item tracking lines are copied automatically to the invoice or credit memo, but the **Item Tracking Lines** window does not permit changes to the serial or lot numbers. Only the quantities can be changed.  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Invoices**, and then select the related link.  
+1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Invoices**, and then choose the related link.  
 2.  Open a purchase invoice for items that are purchase with serial or lot numbers.  
 3.  From a purchase invoice line, on the **Lines** FastTab, choose the **Get Receipt Lines** action.  
 4.  In the **Get Receipt Lines** window, select a receipt lines that has item tracking lines, and then choose the **OK** button.  

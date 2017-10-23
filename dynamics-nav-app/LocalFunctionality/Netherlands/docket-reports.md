@@ -20,7 +20,7 @@ The Dutch telebanking application allows you to combine ledger entries for the s
 
 When generating payment proposals using the **Get Proposal Entries** batch job the system will select the **Docket** check box on the proposal in case that:  
 
-- The resulting combined payment includes too many invoice numbers to list them in the available four description fields of the new proposal line: Description 1 field, Description 2 field, Description 3 field, and Description 4 field.  
+- The resulting combined payment includes too many invoice numbers to list them in the available four description fields of the new proposal line: **Description 1** field, **Description 2** field, **Description 3** field, and **Description 4** field.  
 
 - The payment is not based upon an invoice.  
 
