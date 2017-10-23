@@ -23,11 +23,11 @@ You must submit a periodic report of goods and services tax (GST) settlement. Yo
   
 ### To print a goods and service tax settlement  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Calculation Sheets**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Calculation Sheets**, and then choose the related link.  
   
 2.  Choose the appropriate BAS calculation sheet, and then, on the **Actions** tab, choose **Calculate GST Statement**.  
   
-3.  On the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_optionsheading_md.md)]-->** FastTab, fill in the fields as described in the following table.  
+3.  On the **Options** FastTab, fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

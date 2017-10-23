@@ -33,7 +33,7 @@ The general journal extension feature enables you to:
   
  The following procedure shows how to fill the journal lines.  
   
-1.  In **Financial Management**, click **Setup**, click **General**, and then click **Journal Templates**.  
+1.  In **Financial Management**, choose **Setup**, choose **General**, and then choose **Journal Templates**.  
   
 2.  Select a journal template.  
   
@@ -41,9 +41,9 @@ The general journal extension feature enables you to:
   
 4.  Open the **General Journal**.  
   
-5.  In **Financial Management**, click **General Ledger**, and then click **General Journals**.  
+5.  In **Financial Management**, choose **General Ledger**, and then choose **General Journals**.  
   
-6.  Click the **Line** button, and then click **Card**.  
+6.  Choose the **Line** button, and then choose **Card**.  
   
 7.  Fill the fields for the General Journal lines.  
   
@@ -52,12 +52,12 @@ The general journal extension feature enables you to:
   
  The following procedure shows how to view the posted journal lines.  
   
-1.  In **Financial Management**, click **Setup**, and then click **Journal Templates**.  
+1.  In **Financial Management**, choose **Setup**, and then choose **Journal Templates**.  
   
 2.  Select a journal template.  
   
 3.  Select the **Archive** field to archive the posted General Journal lines.  
   
-4.  In **Financial Management**, click **General Ledger**, click **History**, and then click **Posted Journals**.  
+4.  In **Financial Management**, choose **General Ledger**, choose **History**, and then choose **Posted Journals**.  
   
 5.  Choose the journal batch in the appropriate field.

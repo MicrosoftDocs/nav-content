@@ -21,7 +21,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers
 ## Types of Tax Registers  
  There are two types of tax registers that are used for tracking taxable profits and losses.  
   
-|Tax Register Type|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Tax Register Type|Description|  
 |---
     title: Tax Registers 
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up tax registers to track and manage taxable profits and losses in accordance with Russian tax accounting principles. Tax registers allow you to group taxable transactions into logical categories and apply tax accounting rules for the recognition of revenue and expenditures.

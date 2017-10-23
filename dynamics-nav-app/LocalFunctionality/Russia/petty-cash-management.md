@@ -55,7 +55,7 @@ The petty cash management feature enables you to:
   
  The following procedure shows how to access the Ingoing Cash Order form.  
   
--   In **Financial Management**, click **Cash Management**, and then click **Ingoing Cash Orders**.  
+-   In **Financial Management**, choose **Cash Management**, and then choose **Ingoing Cash Orders**.  
   
  To create a new ingoing cash order, or to work with an existing unposted cash order, choose the correct batch name (and accordingly the cash point) in the **Cash** field. This field is required and matches the **Batch Name** field in financial journal forms. The Ingoing Cash Order form contains the fields listed in the following table.  
   
@@ -92,9 +92,9 @@ The petty cash management feature enables you to:
 |Copy Document|Runs a report that copies information to the current order from any check ledger entry (posted cash order). Select the check ledger entry from which to copy and a new posting date.|  
 |Void Check Print|This function changes the status of the ingoing cash order from Check Printed to No, and if there is a corresponding record in a check ledger entries table, then it changes the value in the Entry Status field in that record from Printed to Voided.|  
   
- Click **Posting** from the **Posting** button (Hot Key F11) to make posting to ledger entries similar to standard posting from payment journals and cash receipt journals.  
+ Choose **Posting** from the **Posting** button (Hot Key F11) to make posting to ledger entries similar to standard posting from payment journals and cash receipt journals.  
   
- Click the **Print** button to run the Cash Ingoing Order CO-1 report, which shows the printing form of the ingoing cash order. Select the **Printing Test** field to run the preview mode.  
+ Choose the **Print** button to run the Cash Ingoing Order CO-1 report, which shows the printing form of the ingoing cash order. Select the **Printing Test** field to run the preview mode.  
   
  The report shows the printing form of the ingoing cash order. To meet requirements, it can also change some database data. If the cash order is not printed, if the **Printing Test** field is not selected, and the **Bank Payment Type** field is set to Computer Check, then the report carries out the following functions:  
   
@@ -112,7 +112,7 @@ The petty cash management feature enables you to:
   
  To access the Outgoing Cash Order form  
   
--   In **Financial management**, click **Cash Management**, and then click **Outgoing Cash Orders**.  
+-   In **Financial management**, choose **Cash Management**, and then choose **Outgoing Cash Orders**.  
   
  To create a new outgoing cash order, or to work with an existing unposted cash order, choose the appropriate batch name (and accordingly the cash point) in the **Cash** field. This field is required and matches the **Batch Name** field in financial journal forms. The Outgoing Cash Order form contains the fields listed in the following table.  
   
@@ -150,7 +150,7 @@ The petty cash management feature enables you to:
   
  To access the reports  
   
--   In **Financial Management**, click **Cash Management**, click **Reports**, and then click Ieither **Cash Additional Sheet** or Cash **Additional Sheet (Curr.).**  
+-   In **Financial Management**, choose **Cash Management**, choose **Reports**, and then choose Ieither **Cash Additional Sheet** or Cash **Additional Sheet (Curr.).**  
   
  The parameters of the reports are listed in the following table.  
   

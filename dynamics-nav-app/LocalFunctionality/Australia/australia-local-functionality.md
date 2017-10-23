@@ -31,4 +31,7 @@ The following topics describe local functionality that is unique to the Australi
   [How to: Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)  
   [How to: Print Deposit Slip Reports](how-to-print-deposit-slip-reports.md)  
   [How to: Print Bank Account Reconciliation Reports](how-to-print-bank-account-reconciliation-reports.md)  
-  [How to: Create Check Installments](how-to-create-check-installments.md)  
+  [How to: Create Check Installments](how-to-create-check-installments.md)
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  

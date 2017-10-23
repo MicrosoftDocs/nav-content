@@ -1,6 +1,6 @@
 ---
     title: Tax Difference Registers 
-    description: You can view posted tax difference transactions with all the income or expense codes in the tax difference registers. To open the form, in the **Tax Accounting** menu, click **History**, and then click **Tax Difference Registers**.
+    description: You can view posted tax difference transactions with all the income or expense codes in the tax difference registers. To open the form, in the **Tax Accounting** menu, choose **History**, and then choose **Tax Difference Registers**.
     
     documentationcenter: ''
     author: SorenGP
@@ -16,9 +16,9 @@
 
 ---
 # Tax Difference Registers
-You can view posted tax difference transactions with all the income or expense codes in the tax difference registers. To open the form, in the **Tax Accounting** menu, click **History**, and then click **Tax Difference Registers**.  
+You can view posted tax difference transactions with all the income or expense codes in the tax difference registers. To open the form, in the **Tax Accounting** menu, choose **History**, and then choose **Tax Difference Registers**.  
   
- Place the pointer on the necessary register, click **Register Tax Diff.**, and then click **Ledger Entries** to view transactions that have created tax differences. In the opened form, select a transaction, and then click the **Navigate** button to get details about the creation of the transaction.  
+ Place the pointer on the necessary register, choose **Register Tax Diff.**, and then choose **Ledger Entries** to view transactions that have created tax differences. In the opened form, select a transaction, and then choose the **Navigate** button to get details about the creation of the transaction.  
   
 ## See Also  
  [Tax Differences](tax-differences.md)   

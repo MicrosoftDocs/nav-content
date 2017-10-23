@@ -26,7 +26,7 @@ Tax differences are variations in tax amounts caused by the different rules for 
 ## Getting Started with Tax Differences  
  To set up and view tax difference entries, you will use the following tables, which support tax differences windows.  
   
-|Window|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Window|Description|  
 |------------|---------------------------------------|  
 |Tax Diff. Posting Group|Specifies posting groups for tax difference transactions.|  
 |Tax Diff. Journal Template|Specifies the journals that are used for posting tax difference entries.|  

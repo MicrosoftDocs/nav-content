@@ -33,14 +33,14 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up and maintain 
 ## Tax Registers  
  There are two types of tax registers that are used for tracking taxable profits and losses.  
   
-|Tax Register Type|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Tax Register Type|Description|  
 |-----------------------|---------------------------------------|  
 |Analytic Tax Register|An analytic register is based on ledger entries for taxable transactions. The information provides a continuous chronological reflection of business operations, which tracks taxable profits and losses based on tax codes.|  
 |Synthetic Tax Register|A synthetic register is based on summarized and calculated information from an analytic register or another synthetic register.|  
   
  Transactions are processed using specific tax accounting principles that are applied to the following types of tax registers.  
   
-|Tax Register|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Tax Register|Description|  
 |------------------|---------------------------------------|  
 |General Ledger Entry|An analytic register based on general ledger transaction entries.|  
 |CV Entry|A group of analytic registers based on information associated with debtor or creditor liabilities.|  

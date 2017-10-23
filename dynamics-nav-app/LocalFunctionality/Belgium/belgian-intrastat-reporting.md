@@ -1,7 +1,7 @@
 ---
-    title: Belgian Intrastat Reporting 
-    description: Companies in the European Union (EU) are required to report trade with other countries in the EU. This reporting process is through Intrastat reporting or VIES (VAT Information Exchange System). There are two types of Intrastat declarations:
-    
+    title: Belgian Intrastat Reporting
+    description: Companies in the European Union (EU) are required to report trade with other countries in the EU. This reporting process is through Intrastat reporting or VIES (VAT Information Exchange System).
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,16 +17,15 @@
 ---
 # Belgian Intrastat Reporting
 Companies in the European Union (EU) are required to report trade with other countries in the EU. This reporting process is through Intrastat reporting or VIES (VAT Information Exchange System). There are two types of Intrastat declarations:  
-  
--   Simplified declaration  
-  
--   Extended declaration  
-  
- To determine the type of declaration that you should use, visit the [National Bank of Belgium](http://go.microsoft.com/fwlink/?LinkId=163064) Web site.  
-  
+
+- Simplified declaration  
+- Extended declaration  
+
+To determine the type of declaration that you should use, visit the [National Bank of Belgium](http://go.microsoft.com/fwlink/?LinkId=163064) Web site.  
+
 ## Submitting the Intrastat Report  
- In ADD INCLUDE<!--[!INCLUDE[navnow](how-to-export-intrastat-third-party-declararations.md).  
-  
+In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can export the Intrastat declarations to a file that you can then submit to the OneGate portal. For more information, see [How to: Export Intrastat Third-Party Declararations](how-to-export-intrastat-third-party-declararations.md).  
+
 ## See Also  
  [Belgium Local Functionality](belgium-local-functionality.md)   
  [How to: Set Up Declaration Types](how-to-set-up-declaration-types.md)   

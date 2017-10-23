@@ -22,7 +22,7 @@ You can either create a new tax register section or select a tax register sectio
   
 ### To set up a tax register  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Tax Registers**, and choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Tax Registers**, and choose the related link.  
   
 2.  In the **Tax Registers Sections** window, choose **New**.  
   
@@ -72,7 +72,7 @@ You can either create a new tax register section or select a tax register sectio
 |**17213**|For registers created based on expenses of future periods|  
 |**17214**|For registers created based on the payroll entry ledger|  
   
- If a new version of the tax register is created, the window with the register list will be empty. In this window, you can manually enter all the tax registers to be used, or you can select **Copy Section** by clicking **Functions** in the Tax Register Section card and copy the register list with its settings from any of the existing tax register sections.  
+ If a new version of the tax register is created, the window with the register list will be empty. In this window, you can manually enter all the tax registers to be used, or you can select **Copy Section** by chooseing **Functions** in the Tax Register Section card and copy the register list with its settings from any of the existing tax register sections.  
   
  In the Copy Tax Register Section window, enter the section from which you want to copy the register.  
   

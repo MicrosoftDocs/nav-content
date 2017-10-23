@@ -26,3 +26,6 @@ The following topics describe local functionality that is unique to the Swedish 
   [How to: Post Preliminary Invoices by Using Inward Registration](how-to-post-preliminary-invoices-by-using-inward-registration.md)  
   [How to: Reverse Preliminary Invoices by Using Inward Registration](how-to-reverse-preliminary-invoices-by-using-inward-registration.md)  
   [How to: Set Up EU Third-Party Purchase Transactions](how-to-set-up-eu-third-party-purchase-transactions.md)
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)    

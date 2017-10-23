@@ -57,7 +57,7 @@ You can see where an item-tracked item was used, including how and when it was r
 
 ## To find item-tracked items with Navigate  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Navigate**, and then select the related link.  
+1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Navigate**, and then choose the related link.  
 2.  On the **Item Tracking** FastTab, in the **Serial No.** and **Lot No.** fields, enter the item tracking numbers that you want to trace.  
 3.  Choose the **Find** action to find all instances of the serial or lot number in the database.  
 

@@ -37,7 +37,7 @@
   
      If **Notify** is selected, the note will be sent as a notification to the user's **My Notifications** on the Role Center.  -->
   
-3.  Choose **OK**.  
+3.  Choose the **OK** button.  
 
 ## See Also
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

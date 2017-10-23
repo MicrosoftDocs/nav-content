@@ -32,8 +32,8 @@ You can access the videos in several ways. If you're already working in [!INCLUD
 
 > [!Tip]  
 > In addition to videos, **Business Assistance** includes resources such as links to topics and assisted setup guides that make it easier to set things up. These resources replace the chart on the Role Center. After you explore the resources, you can switch back to the chart in the **Business Assistance** menu by choosing **Show Chart**.  
-  
-You can view our "how to" videos, plus a lot of other content, on the YouTube channel we created for Microsoft Dynamics NAV. To visit the channel now, [click here](https://go.microsoft.com/fwlink/?linkid=851533).
+
+You can view our "how to" videos, plus a lot of other content, on the YouTube channel we created for [!INCLUDE[navnow](includes/navnow_md.md)]. To visit the channel now, [choose](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## See Also
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

@@ -37,13 +37,13 @@ The fixed assets inventory feature enables you to:
   
  The following procedure shows how to open a Fixed Asset journal.  
   
-1.  In **Financial Management**, click **Fixed Assets**, and then click **Fixed Asset Journals**.  
+1.  In **Financial Management**, choose **Fixed Assets**, and then choose **Fixed Asset Journals**.  
   
 2.  Select the appropriate fixed asset journal template.  
   
  The following procedure shows how to generate a list of fixed assets that are to be inventoried.  
   
-1.  Click **Calculate FA** from the **Functions** button. The request form of a report that makes fixed asset inventory lists is displayed.  
+1.  Choose **Calculate FA** from the **Functions** button. The request form of a report that makes fixed asset inventory lists is displayed.  
   
 2.  On the **Fixed Asset** tab, filter the fixed assets.  
   
@@ -65,7 +65,7 @@ The fixed assets inventory feature enables you to:
   
  The following procedure shows how to begin inventory auditing by fixed asset locations.  
   
-1.  Select the batch according to the fixed asset location, and click **ОК**.  
+1.  Select the batch according to the fixed asset location, and choose **ОК**.  
   
     > [!NOTE]  
     >  You can view the fixed assets lines that are filtered in the report and the lines that are in this fixed asset location.  

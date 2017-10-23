@@ -71,7 +71,7 @@ After you fill in the Intrastat journal, you can print the **Checklist** report 
 
 ### To fill in Intrastat journals  
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Intrastat Journal** and then choose the related link.  
-2. On the **Intrastat Journal** page, in the **Batch Name** field, choose the relevant journal batch, and then choose **OK**.  
+2. On the **Intrastat Journal** page, in the **Batch Name** field, choose the relevant journal batch, and then Choose the **OK** button.  
 3. Choose the **Suggest Lines** action. The **Starting Date** and **Ending Date** fields will already contain the dates specified for the statistics period on the journal batch.  
 4. In the **Cost Regulation %** field, you can enter a percentage to cover transport and insurance. If you enter a percentage, the content of the **Statistical Value** field in the journal is proportionally higher.  
 5. Choose **OK** to start the batch job.  
@@ -98,7 +98,7 @@ You can submit the Intrastat report as a file. Before creating the file, you can
 2. In the **Intrastat Journal** window, select the relevant journal batch in the **Batch Name** field.  
 3. If you have not already done this, fill in the journal manually or by choosing **Suggest Lines**.  
 4. Choose the **Create File** action.  
-5. In the batch job window, choose **OK**.  
+5. In the batch job window, Choose the **OK** button.  
 6. Choose **Save**.  
 7. Browse to the location where you want to save the file, enter the file name, and then choose **Save**. 
 

@@ -36,7 +36,7 @@ You can indent and validate the chart of accounts in the **G/L Account Card** wi
   
 ### To indent and validate the chart of accounts  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Chart of Accounts**, and then choose the related link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Chart of Accounts**, and then choose the related link.  
   
 2.  To open the **G/L Account Card** window, choose **New**.  
   
@@ -61,7 +61,7 @@ You can indent and validate the chart of accounts in the **G/L Account Card** wi
   
 ### To validate the chart of accounts in Portugal  
   
-1.  In the **Chart of Accounts** window, click **Actions**, point to **Functions**, and then choose **Check Chart of Accounts**.  
+1.  In the **Chart of Accounts** window, choose **Actions**, point to **Functions**, and then choose **Check Chart of Accounts**.  
   
 2.  Choose the **Yes** button.  
   
