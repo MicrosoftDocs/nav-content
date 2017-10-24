@@ -116,11 +116,11 @@
 
 2.  On the header of the **Item Shipment** window, enter the fields. These fields are the same as those on the **Item Receipt** window.  
 
-3.  In the document lines of the **Item Shipment** window, enter the fields. These fields are the same as those on the **Item Receipt** form except for the following:  
+3.  In the document lines of the **Item Shipment** window, enter the fields. These fields are the same as those on the **Item Receipt** window except for the following:  
 
     -   The **Indirect Cost** field is available only in the **Item Receipt** window.  
 
-    -   The fields in the following table are available only in the **Item Shipment** form.  
+    -   The fields in the following table are available only in the **Item Shipment** window.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

@@ -72,7 +72,7 @@ Tax difference calculations must be set up if there is a tax difference for the 
   
 1.  In the Future Expenses journal, choose **Function**, and then choose **Calculate Depreciation by Norm.**  
   
-2.  In the **Calculate FE Depr. With Norm** form, on the **Tax Difference** tab, enter the filter for the tax difference.  
+2.  In the **Calculate FE Depr. With Norm** window, on the **Tax Difference** tab, enter the filter for the tax difference.  
   
 3.  On the **Options** tab, enter the accounting period for which the counting is done.  
   

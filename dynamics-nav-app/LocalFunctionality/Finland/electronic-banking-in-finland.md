@@ -33,7 +33,7 @@ A reference number is automatically created when an invoice is posted or when an
 ## Vendor Payments  
 To send electronic bank payments to vendors, you can export domestic or foreign vendor payments into a transfer file that can be sent to the bank. The following steps show how to export vendor payments.  
 
-- Use the **Bank Payments to send** form to select the vendors for which you want to create payment files.  
+- Use the **Bank Payments to Send** window to select the vendors for which you want to create payment files.  
 - Enter payment information for each transaction in the payment journal or use **Suggest Vendor Payments** to create suggested payments.  
 - Generate and preview the payment report.  
 - Create a transfer file for domestic or foreign vendor payments.  
@@ -44,4 +44,3 @@ To send electronic bank payments to vendors, you can export domestic or foreign 
  [How to: Set Up Bank Reference Files](how-to-set-up-bank-reference-files.md)   
  [How to: Generate Payment Files](how-to-generate-payment-files.md)   
  [How to: Disregard Payment Discounts](how-to-disregard-payment-discounts.md)   
- 

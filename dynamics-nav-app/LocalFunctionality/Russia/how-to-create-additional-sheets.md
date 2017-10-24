@@ -20,7 +20,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create additional sh
   
 ### To create entries for an additional sheet for a VAT purchase or sales ledger  
   
-1.  Select the VAT purchase or sales line in the **VAT Ledger List** form with the required accounting period.  
+1.  Select the VAT purchase or sales line in the **VAT Ledger List** window with the required accounting period.  
   
 2.  On the **Actions** tab, choose **Functions**, and then choose **Create Additional Sheet**.  
   

@@ -46,7 +46,7 @@ The VAT ledger feature enables you to create and print the following forms:
   
  The following procedure shows how to mark a VAT purchase ledger.  
   
-1.  In the **Sales Return Order** form or the **Sales Credit Memo** form, choose the **VAT** tab.  
+1.  In the **Sales Return Order** window or the **Sales Credit Memo** window, choose the **VAT** tab.  
   
 2.  Select the **Include in Purch. VAT Ledger** check box.  
   

@@ -1,7 +1,7 @@
 ---
-    title: Bank and Cash Management 
-    description: Dynamics NAV
-    
+    title: Bank and Cash Management
+    description: Russian functionality for bank and cash management in described in several topics.
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,9 +16,9 @@
 
 ---
 # Bank and Cash Management
-Dynamics NAV
+Russian functionality for bank and cash management in described in several topics.
 
-##See Also
+## In This Section
 [Bank Management](bank-management.md)  
 [Petty Cash Management](petty-cash-management.md)  
 [How to: Set Up a Bank Payment Order](how-to-set-up-a-bank-payment-order.md)  

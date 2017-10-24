@@ -37,4 +37,4 @@ The report selection feature enables you to:
     > [!NOTE]  
     >  You can also print a list of reports with the Report Selection-Print form for other documents such as purchase orders.  
   
- You can select all lines in the **Report Selection-Print** form by chooseing **Set all** from the **Functions** button. You can clear all lines by chooseing **Clear all** from the **Functions** button.
+ You can select all lines in the **Report Selection-Print** window by chooseing **Set all** from the **Functions** button. You can clear all lines by chooseing **Clear all** from the **Functions** button.

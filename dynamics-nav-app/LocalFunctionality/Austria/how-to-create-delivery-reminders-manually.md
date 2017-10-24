@@ -1,6 +1,6 @@
 ---
     title: How to Create Delivery Reminders Manually
-    description: In ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/how-to-generate-delivery-reminders.md).
+    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery reminders when a purchase has not been delivered as expected.
 
     documentationcenter: ''
     author: SorenGP

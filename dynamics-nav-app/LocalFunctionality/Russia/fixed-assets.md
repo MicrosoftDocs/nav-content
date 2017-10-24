@@ -1,7 +1,7 @@
 ---
-    title: Fixed Assets 
-    description: In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your fixed assets. You can use fixed assets functionality to manage depreciation and maintenance costs, track the movement of fixed assets, manage the sale or disposal of fixed assets, and generate various reports and statistics.
-    
+    title: Fixed Assets
+    description: In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your fixed assets.
+
     documentationcenter: ''
     author: SorenGP
 
@@ -17,10 +17,10 @@
 ---
 # Fixed Assets
 In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your fixed assets. You can use fixed assets functionality to manage depreciation and maintenance costs, track the movement of fixed assets, manage the sale or disposal of fixed assets, and generate various reports and statistics.  
-  
+
 ## Getting Started with Fixed Assets  
- Use the following table to learn more about the fixed asset features that are available for Russia.  
-  
+Use the following table to learn more about the fixed asset features that are available for Russia.  
+
 |Topic|Description|  
 |-----------|---------------------------------------|  
 |[How to: Calculate Assessed Tax](how-to-calculate-assessed-tax.md)|Enables you to calculate the assessed tax for fixed assets.|  
