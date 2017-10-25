@@ -30,4 +30,3 @@ If no multiple interest rates exist, [!INCLUDE[navnow](../../includes/navnow_md.
 
 ## See Also  
  [How to: Collect Outstanding Balances](../../receivables-collect-outstanding-balances.md)
- [Manage Finance Charges](manage-finance-charges.md)

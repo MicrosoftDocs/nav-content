@@ -33,4 +33,4 @@ The **Withholding Taxes** report displays a list of withholding taxes that are p
 3.  Chose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
 ## See Also  
- [How to: Set Up Withholding Tax](../Australia/how-to-set-up-withholding-tax.md)
+ [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

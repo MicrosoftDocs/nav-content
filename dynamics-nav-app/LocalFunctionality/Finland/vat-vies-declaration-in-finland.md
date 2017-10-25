@@ -1,6 +1,6 @@
 ---
     title: VAT-VIES Declaration in Finland
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] provides Finnish enhancements to comply with regulations for VAT and European Union (EU) sales reporting.
+    description: Finnish enhancements allow you to comply with regulations for VAT and European Union (EU) sales reporting.
 
     documentationcenter: ''
     author: SorenGP

@@ -1,5 +1,5 @@
 ---
-    title: Electronic Invoicing Requirement: Issuing Single Copy Invoice
+    title: Electronic Invoicing Requirement when Issuing Single Copy Invoice
     description: In Iceland, you must send a report to the government if an invoice has been printed more than once.
 
     documentationcenter: ''

@@ -34,4 +34,4 @@ Once a year has been fiscally closed you will not be able to post in this fiscal
 
 ## See Also  
  [Fiscal Periods and Fiscal Years](fiscal-periods-and-fiscal-years.md)   
- [How to: Complete Period-End Processes](how-to-complete-period-end-processes.md)
+ [Closing Years and Periods](../../year-close-years-periods.md)

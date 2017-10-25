@@ -1,6 +1,6 @@
 ---
     title: SEPA Credit Transfer Payments
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Finnish enhancements to allow you to create Single Euro Payments Area (SEPA) credit transfer files to send vendor payments to banks.
+    description: Finnish enhancements allow you to create Single Euro Payments Area (SEPA) credit transfer files to send vendor payments to banks.
 
     documentationcenter: ''
     author: SorenGP

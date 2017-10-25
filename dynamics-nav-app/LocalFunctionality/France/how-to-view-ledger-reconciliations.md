@@ -1,6 +1,6 @@
 ---
     title: How to View Ledger Reconciliations
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes two reports that can help you reconcile general ledger entries with customer ledger entries and vendor ledger entries.
+    description: Two reports can help you reconcile general ledger entries with customer ledger entries and vendor ledger entries.
 
     documentationcenter: ''
     author: SorenGP

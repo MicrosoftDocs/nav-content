@@ -1,6 +1,6 @@
 ---
     title: How to Cancel Payments
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements that allow you to cancel payments.
+    description: Norwegian enhancements allow you to cancel payments.
 
     documentationcenter: ''
     author: SorenGP

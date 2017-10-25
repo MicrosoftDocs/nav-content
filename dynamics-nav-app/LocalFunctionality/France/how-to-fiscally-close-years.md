@@ -39,4 +39,4 @@ When the fiscal year is fiscally closed, the **Fiscally Closed** field for all t
  [How to: Close Years](how-to-close-years.md)   
  [Year End Processes Overview](year-end-processes-overview.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   
- [How to: Open a New Fiscal Year](how-to-open-a-new-fiscal-year.md)
+ [Closing Years and Periods](../../year-close-years-periods.md)

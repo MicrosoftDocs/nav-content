@@ -29,5 +29,5 @@ When a partial payment or prepayment is made, you must calculate Goods and Servi
  [How to: Set Up Business Activity Statements](how-to-set-up-business-activity-statements.md)   
  [How to: Export Business Activity Statements](how-to-export-business-activity-statements.md)   
  [How to: Print Goods and Services Tax Sales and Purchase Reports](how-to-print-goods-and-services-tax-sales-and-purchase-reports.md)   
- [Invoice Prepayments](invoice-prepayments.md)   
+ [Invoicing Prepayments](../../finance-invoice-prepayments.md)   
  [Australia Local Functionality](australia-local-functionality.md)

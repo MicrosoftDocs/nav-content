@@ -1,6 +1,6 @@
 ---
     title: Electronic Banking in Norway
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements to electronic banking.
+    description: Norwegian enhancements include electronic banking.
 
     documentationcenter: ''
     author: SorenGP

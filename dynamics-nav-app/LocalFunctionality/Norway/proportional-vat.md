@@ -1,6 +1,6 @@
 ---
     title: Proportional VAT
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] allows you to calculate VAT when there is both deductible and non-deductible VAT.
+    description: Norwegian enhancements allow you to calculate VAT when there is both deductible and non-deductible VAT.
 
     documentationcenter: ''
     author: SorenGP

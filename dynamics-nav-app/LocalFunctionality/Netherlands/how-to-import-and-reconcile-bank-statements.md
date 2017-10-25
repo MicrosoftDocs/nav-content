@@ -32,7 +32,7 @@ The import bank statement is supported by the following protocols:
 3.  To reconcile the bank statements automatically when importing, on the **Options** FastTab, select the **Automatic Reconciliation** check box.  
 
     > [!NOTE]  
-    >  This function does not work for bank statement files of type SEPA CAMT. Instead, use the **Match Automatically** action in the **Bank Acc. Reconciliation** window. For more information, see [How to: Match Bank Statement Lines with Bank Account Ledger Entries](how-to-match-bank-statement-lines-with-bank-account-ledger-entries.md).  
+    >  This function does not work for bank statement files of type SEPA CAMT. Instead, use the **Match Automatically** action in the **Bank Acc. Reconciliation** window. For more information, see [Applying Payments Automatically and Reconcile Bank Accounts](../../receivables-apply-payments-auto-reconcile-bank-accounts.md).  
 
 4.  Choose the **OK** button.  
 5.  To import the file that contains the electronic bank statement, specify the file name and path, and then choose the **Open** button.  
@@ -41,4 +41,4 @@ The electronic bank statement is imported into the bank or giro journals. For mo
 
 ## See Also  
  [Dutch Electronic Banking](dutch-electronic-banking.md)   
- [How to: Match Bank Statement Lines with Bank Account Ledger Entries](how-to-match-bank-statement-lines-with-bank-account-ledger-entries.md)
+ [Applying Payments Automatically and Reconcile Bank Accounts](../../receivables-apply-payments-auto-reconcile-bank-accounts.md)

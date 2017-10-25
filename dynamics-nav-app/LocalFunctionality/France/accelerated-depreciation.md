@@ -38,7 +38,7 @@ You must set up the tax book as a derogatory book by using an accelerated deprec
  If you have a fixed asset valued at 1,000 euros that is depreciated in the accounting depreciation book over five years, and depreciated in the tax depreciation book over three years, then the accounting depreciation for the first year is 200 euros (1,000/5) and the tax depreciation for the first year is 333.33 euros (1,000/3). The accelerated depreciation amount is the difference between these two amounts: 133.33 euros (333.33 - 200).  
 
 ## Accelerated Depreciation Accounts  
-Accelerated depreciation uses the derogatory fixed asset posting type. Statistics and reports use this posting type to report the accelerated depreciation calculation. For more information, see [Depreciation Methods](depreciation-methods.md).  
+Accelerated depreciation uses the derogatory fixed asset posting type. Statistics and reports use this posting type to report the accelerated depreciation calculation. For more information, see [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md).  
 
 There are two accounts to set up for derogatory amounts:  
 
@@ -57,6 +57,6 @@ After you set up the tax depreciation book and the accounting depreciation book,
 ## See Also  
  [How to: Set Up Accelerated Depreciation](how-to-set-up-accelerated-depreciation.md)   
  [How to: Calculate Accelerated Depreciation](how-to-calculate-accelerated-depreciation.md)   
- [Set Up Depreciation](set-up-depreciation.md)   
+ [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)   
 [Fixed Assets](../../fa-manage.md)  
  [France Local Functionality](france-local-functionality.md)

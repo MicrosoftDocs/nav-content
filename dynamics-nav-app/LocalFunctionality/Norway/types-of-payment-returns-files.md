@@ -1,6 +1,6 @@
 ---
     title: Types of Payment Returns Files
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes two types of payment return files that can be imported:
+    description: Norwegian enhancements include two types of payment return files that can be imported.
 
     documentationcenter: ''
     author: SorenGP

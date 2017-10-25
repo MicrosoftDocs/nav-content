@@ -1,6 +1,6 @@
 ---
     title: Electronic Payments to Vendors in Norway
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Norwegian enhancements for automatically making payments to vendors.
+    description: Norwegian enhancements include automatically making payments to vendors.
 
     documentationcenter: ''
     author: SorenGP

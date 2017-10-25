@@ -37,7 +37,6 @@ Before you can start to use the simulation functionality, you must set up a sour
 Now you can create simulation entries using the general journal.  
 
 ## See Also  
- [How to: Define Source Codes](how-to-define-source-codes.md)   
  [How to: Create Simulation Entries](how-to-create-simulation-entries.md)   
  [How to: Delete Simulation Entries](how-to-delete-simulation-entries.md)   
  [How to: Transfer Simulation Entries](how-to-transfer-simulation-entries.md)
