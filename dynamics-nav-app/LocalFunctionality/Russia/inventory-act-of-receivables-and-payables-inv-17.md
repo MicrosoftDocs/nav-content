@@ -1,6 +1,6 @@
 ---
     title: Inventory Act of Receivables And Payables INV-17
-    description: The inventory act of receivables and payables feature enables you to prepare an inventory of debts and liabilities, and print reports in the following formats:
+    description: The inventory act of receivables and payables feature enables you to prepare an inventory of debts and liabilities, and print reports in different formats.
 
     documentationcenter: ''
     author: SorenGP
@@ -61,7 +61,7 @@ The following procedure shows how to create an inventory act card.
 |**Confirmed Amount**|This field displays the total amount of debts or liabilities by default.|  
 
 ### Changing Separate Lines in an Inventory Act  
- The following procedure shows how to change individual lines in an inventory act in the **Inventory Account Card** window.  
+The following procedure shows how to change individual lines in an inventory act in the **Inventory Account Card** window.  
 
 1. Specify whether the amount (or part of the amount) is one of the following:  
 

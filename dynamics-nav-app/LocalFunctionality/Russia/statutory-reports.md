@@ -18,10 +18,10 @@
 # Statutory Reports
 [!INCLUDE[navnow](../../includes/navnow_md.md)] lets you set up statutory reports so that you can import and export data for electronic tax reporting and other required documents.  
 
- After you have set up a report and specified the required information, you can export the report to Excel, and then print the report.  
+After you have set up a report and specified the required information, you can export the report to Excel, and then print the report.  
 
 ## Getting Started with Statutory Reports  
- Use the windows based on the following key tables to set up and create statutory reports.  
+Use the windows based on the following key tables to set up and create statutory reports.  
 
 |Tables|Description|  
 |------------|---------------------------------------|  
@@ -34,7 +34,7 @@
 |Stat. Report Requisites Group|Specifies the conditions used to format and process statutory reports including export type, Microsoft Excel mapping, and cell quantity.|  
 
 ## Data for Statutory Reports  
- The statutory reports are based on account schedules and tax registers. For each statutory report that you set up in the **Statutory Reports** window, you define how the data maps to fields on tables in [!INCLUDE[navnow](../../includes/navnow_md.md)] by creating table mappings. In the **Statutory Report Tables** window, in the **Int. Source Type** field, you specify the area that the data comes from as described in the following table.  
+The statutory reports are based on account schedules and tax registers. For each statutory report that you set up in the **Statutory Reports** window, you define how the data maps to fields on tables in [!INCLUDE[navnow](../../includes/navnow_md.md)] by creating table mappings. In the **Statutory Report Tables** window, in the **Int. Source Type** field, you specify the area that the data comes from as described in the following table.  
 
 |Option|Description|  
 |----------------------------------|---------------------------------------|  
@@ -44,7 +44,6 @@
 |**Payroll Analysis Report**|The data is based on payroll analysis.|  
 
 ## See Also  
- Excel Template   
  [Tax Accounting](tax-accounting.md)   
  [Tax Differences](tax-differences.md)   
  [Selecting the Report Data Source](assetId:///79db2621-6067-4421-8fe6-3ef2baba1ecc)

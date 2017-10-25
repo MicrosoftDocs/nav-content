@@ -21,7 +21,7 @@ In Spain, there is a legal limit for the number of days that a payment can be de
 ## Payment Terms  
  To help you meet the legal requirements, you can set up payment terms so that the due dates are calculated correctly. This includes specifying the maximum number of calendar days that a payment can be delayed after delivery. For example, you can create separate payment terms for sales to the public sector and sales to private companies. The following table illustrates how you can set up payment terms.  
 
-|ADD INCLUDE<!--[!INCLUDE[bp_tablefield](../../includes/bp_tablefield_md.md)]-->|Public sector|Private company|  
+|Field|Public sector|Private company|  
 |---------------------------------|-------------------|---------------------|  
 |**Code**|**1M(8D) PUB**|**1M(8D) PRI**|  
 |**Due Date Calculation**|**1M**|**1M**|  

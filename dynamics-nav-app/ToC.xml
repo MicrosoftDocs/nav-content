@@ -380,9 +380,25 @@
     <Node Name="" DisplayName="Design Details: General Journal Post Line" Page="design-details-general-journal-post-line.html"/>
   </Node>
   <Node Name="" DisplayName="Local Functionality" Page="index.html">
+    <Node Name="" DisplayName="Australia" Page="LocalFunctionality/Australia/australia-local-functionality.html"/>
+    <Node Name="" DisplayName="Austria" Page="LocalFunctionality/Austria/austria-local-functionality.html"/>
+    <Node Name="" DisplayName="Belgium" Page="LocalFunctionality/Belgium/belgium-local-functionality.html"/>
     <Node Name="" DisplayName="Canada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
     <Node Name="" DisplayName="Denmark" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="United Kingdom" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
+    <Node Name="" DisplayName="Finland" Page="LocalFunctionality/Finland/finland-local-functionality.html"/>
+    <Node Name="" DisplayName="France" Page="LocalFunctionality/France/france-local-functionality.html"/>
+    <Node Name="" DisplayName="Germany" Page="LocalFunctionality/Germany/germany-local-functionality.html"/>
+    <Node Name="" DisplayName="Iceland" Page="LocalFunctionality/Iceland/iceland-local-functionality.html"/>
+    <Node Name="" DisplayName="Italy" Page="LocalFunctionality/Italy/italy-local-functionality.html"/>
+    <Node Name="" DisplayName="Mexico" Page="LocalFunctionality/Mexico/mexico-local-functionality.html"/>
+    <Node Name="" DisplayName="Netherlands" Page="LocalFunctionality/Netherlands/netherlands-local-functionality.html"/>
+    <Node Name="" DisplayName="New Zealand" Page="LocalFunctionality/NewZealand/new-zealand-local-functionality.html"/>
+    <Node Name="" DisplayName="Norway" Page="LocalFunctionality/Norway/norway-local-functionality.html"/>
+    <Node Name="" DisplayName="Russia" Page="LocalFunctionality/Russia/russia-local-functionality.html"/>
+    <Node Name="" DisplayName="Spain" Page="LocalFunctionality/Spain/spain-local-functionality.html"/>
+    <Node Name="" DisplayName="Sweden" Page="LocalFunctionality/Sweden/sweden-local-functionality.html"/>
+    <Node Name="" DisplayName="Switzerland" Page="LocalFunctionality/Switzerland/switzerland-local-functionality.html"/>
+    <Node Name="" DisplayName="Unites Kingdom" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
     <Node Name="" DisplayName="United States" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
   </Node>
 </Node>
