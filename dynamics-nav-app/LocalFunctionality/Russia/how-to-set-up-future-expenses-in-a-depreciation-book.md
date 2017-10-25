@@ -61,6 +61,6 @@ To depreciate a future expense, you have to set up future period expenses in a d
 13. Choose the **OK** button.  
 
 ## See Also  
- [Fixed Assets](fa-manage.md)     
+ [Fixed Assets](../../fa-manage.md)     
  [Future Expenses (Deferrals)](future-expenses-deferrals-.md)   
  [How to: Create Future Expense Journals](how-to-create-future-expense-journals.md)

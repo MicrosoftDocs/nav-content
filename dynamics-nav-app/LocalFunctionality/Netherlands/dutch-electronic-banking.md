@@ -47,6 +47,6 @@ Electronic bank statement files are supported for the following banks:
 Bank account numbers are validated by ensuring that they are either 9 or 10 digits long and they pass the “eleven test” algorithm. For giro accounts, the account number must be less than eight digits.  
 
 ## See Also  
- [Telebanking](Topic/telebanking.md)   
+ [Telebanking](telebanking.md)   
  [Cash\-Bank\-Giro](cash-bank-giro.md)   
  [How to: Import and Reconcile Bank Statements](how-to-import-and-reconcile-bank-statements.md)

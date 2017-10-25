@@ -23,8 +23,7 @@ The following topics describe local functionality that is unique to the Dutch ve
   [Dutch Electronic Banking](dutch-electronic-banking.md)  
   [Electronic Tax Declarations](electronic-tax-declarations.md)  
   [General Ledger](general-ledger.md)  
-  [Payables and Receivables](payables-and-receivables.md)  
   [Single EURO Payments Area (SEPA)](single-euro-payments-area-sepa-.md)  
-  
+
 ## See Also
 [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)
