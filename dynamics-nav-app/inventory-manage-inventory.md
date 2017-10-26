@@ -21,7 +21,7 @@ Inventory increases and decreases are naturally also recorded when you post purc
 
 To increase your overview of items and to help you find them, you can categorize items and give them attributes to search and sort by.
 
-> []!NOTE]
+> [!NOTE]
 > The physical handling of items is referred to as warehouse activities. For more information, see [Warehouse Management](warehouse-manage-warehouse.md).
 
 ## Inventory Reconciliation
@@ -50,4 +50,4 @@ Even though inventory costs are automatically posted to the general ledger, it i
 [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)
 
-## 
+##

@@ -24,3 +24,6 @@ The following topics describe local functionality that is unique to the French v
   [Accelerated Depreciation](accelerated-depreciation.md)  
   [Payment Management](payment-management.md)  
   [Simulation of Entries](simulation-of-entries.md)  
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)     

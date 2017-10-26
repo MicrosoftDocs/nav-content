@@ -23,4 +23,7 @@ The following topics describe local functionality that is unique to the Finnish 
   [Electronic Banking in Finland](electronic-banking-in-finland.md)  
   [Posting Depreciation Differences](posting-depreciation-differences.md)  
   [SEPA Credit Transfer Payments](sepa-credit-transfer-payments.md)  
-  [VAT-VIES Declaration in Finland](vat-vies-declaration-in-finland.md)  
+  [VAT-VIES Declaration in Finland](vat-vies-declaration-in-finland.md)
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)     

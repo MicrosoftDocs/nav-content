@@ -80,7 +80,7 @@ When you service a service item that is composed of components, you may need to 
     |**Ignore**|Does nothing to the component list of the service item.|  
   
 7. Choose **Replace Component**.  
-8. Choose the component to replace, and then choose **OK**.  
+8. Choose the component to replace, and then Choose the **OK** button.  
 
 ## To change the response time for a service item line  
 When you register a service item line in a service order or quote, depending on whether the service item is on a service contract the response time in hours is automatically entered and the response date and time are calculated accordingly. You can change the response time in hours and the response date and time if you need to.  

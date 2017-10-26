@@ -350,7 +350,7 @@ This walkthrough focuses on CRONUS International Ltd., a design and consultancy 
      Changes are automatically entered on the line for Job Task No. 1120. In the total cost of scheduled work, five additional hours of work by Tricia has been added to the schedule.  
 
 12. Choose the **Close** button to close the window.  
-13. Right-click the amount in the **Contract (Total Cost)** field and choose **DrillDown** to view the information.  
+13. Right-choose the amount in the **Contract (Total Cost)** field and choose **DrillDown** to view the information.  
 
      In the total price for the contract, only the original contracted 30 hours are included, because this is what was agreed upon with the customer.  
 

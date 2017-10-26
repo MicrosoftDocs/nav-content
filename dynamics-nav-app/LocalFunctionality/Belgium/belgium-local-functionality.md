@@ -28,3 +28,6 @@ The following topics describe local functionality that is unique to the Belgian 
   [How to: Export to Accon](how-to-export-to-accon.md)  
   [How to: Apply and Unapply General Ledger Entries](how-to-apply-and-unapply-general-ledger-entries.md)  
   [How to: Limit the Posting Period](how-to-limit-the-posting-period.md)
+
+## See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)
