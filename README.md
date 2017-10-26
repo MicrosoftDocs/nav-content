@@ -3,7 +3,9 @@ Welcome to the repository for the application help content for Dynamics NAV! Dyn
 
 The content is available as markdown files (.md), where each file represents an article in the help. You can edit these markdown files, and then convert them to HTML files for application.
 
-This repo contains the content in English (US). If you want access to the content in other languages, navigate to the relevant repo - the names follow this pattern: nav-content.<language>-<country>, such as [nav-content.da-DK](https://github.com/MicrosoftDocs/nav-content.da-DK) for the Danish version.
+There are different repos in GitHub for the source content and each of the languages that Microsoft translates to. The *nav-content* repo contains the content in English (US). If you want access to the content in other languages, navigate to the relevant repo - the names follow this pattern: *nav-content.<language>-<country>*, such as [nav-content.da-DK](https://github.com/MicrosoftDocs/nav-content.da-DK) for the Danish version.
+
+**NOTE**: Microsoft accepts pull requests to the *nav-content* repo only, not the language-specific repos. If you have feedback about translations, you can report a GitHub issue in the relevant repo.
 
 The *live* branch has been updated in preparation for the upcoming release of Dynamics NAV 2018. If you want to source files for Dynamics NAV 2017, see the *Release* tab.
 
