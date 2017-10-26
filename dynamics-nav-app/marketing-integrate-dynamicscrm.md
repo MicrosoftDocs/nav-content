@@ -22,7 +22,7 @@ For example, the sales person in Dynamics 365 for Sales can use the price lists 
 
 Conversely, order processors in [!INCLUDE[d365fin](includes/d365fin_md.md)] can handle the special characteristics of sales orders transferred automatically or manually from Dynamics 365 for Sales, such as automatically create and post valid sales order lines for items or resources that were entered in Sales as write-in products. For more information, see the "Handling Special Sales Order Data" section.  
 
-> [NOTE!]
+> [NOTE]
 > Before you can integrate with Dynamics 365 for Sales, you must make various technical preparations. For more information, see [How to: Set Up a Dynamics CRM Connection](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) and [How to: Prepare Dynamics CRM for Integration](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) on MSDN.
 
 ## Setting Up the Connection
