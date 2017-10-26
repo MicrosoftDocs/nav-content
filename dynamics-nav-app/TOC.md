@@ -178,6 +178,7 @@
 ## [How to: Convert Service Contracts that Include VAT Amounts](service-how-to-convert-service-contracts.md)
 ## [Analyzing Financial Statements in Excel](finance-analyze-excel.md)
 ## [Analyzing Cash Flows in Your Company](finance-analyze-cash-flow.md)
+## [How to: Print Remittance Advice](finance-how-to-print-remittance-advice.md)
 ## [Closing Years and Periods](year-close-years-periods.md)
 ### [How to: Specify Posting Periods](finance-how-specify-posting-periods.md)
 ### [Closing Periods](year-how-complete-period-end-processes.md)
