@@ -26,6 +26,5 @@ European Union (EU) third-party trade occurs when you receive a purchase invoice
 4.  Choose the **OK** button.  
 
 ## See Also  
- [VAT- VIES Declaration Tax Auth 1](-$-r_19-vat-vies-declaration-tax-auth-$-1.md)   
  [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)   
  [Sweden Local Functionality](sweden-local-functionality.md)

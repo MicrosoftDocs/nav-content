@@ -25,7 +25,7 @@ If you are reporting payments in cash, the following sequence of tasks are liste
 - Making 340 Payments in cash declaration.  
 
 ## Applying Payments in Cash to Invoices  
-You apply payments in cash to invoices that you have received from customers. For information about how to apply payments to invoices, see [How to: Apply Customer Ledger Entries](how-to-apply-customer-ledger-entries.md). Only the applied payments in cash are used for reporting payments in cash. If you do not apply payments in cash to invoices, you cannot report payments in cash.  
+You apply payments in cash to invoices that you have received from customers. For information about how to apply payments to invoices, see [Managing Receivables](../../receivables-manage-receivables.md). Only the applied payments in cash are used for reporting payments in cash. If you do not apply payments in cash to invoices, you cannot report payments in cash.  
 
 ## Making 340 Payments in Cash Declaration  
 You use the **Make 340 Declaration** batch job to report 340 payments in cash declaration. For information about how to specify and select information to generate the declaration, see Make 340 Declaration.  

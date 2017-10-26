@@ -1,6 +1,6 @@
 ---
     title: Belgian VAT
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Belgium enhancements to VAT reporting feature that enables you to print VAT transaction details.
+    description: Belgian enhancements of the VAT reporting feature enables you to print VAT transaction details.
 
     documentationcenter: ''
     author: SorenGP

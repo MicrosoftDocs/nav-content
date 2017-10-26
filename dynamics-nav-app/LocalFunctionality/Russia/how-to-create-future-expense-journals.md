@@ -64,6 +64,5 @@ You must select **Future Expenses** in the **Type** field of the **General Journ
 The amount entered in the **Amount** field will be transferred from the Future Expenses account to the Current Expenses account. VAT will be calculated according to VAT setup (percentage) on the basis of the posted amount, and VAT deduction (realized VAT) will be posted.  
 
 ## See Also  
-  [Fixed Assets Accounting Setup](fixed-assets-accounting-setup.md)   
   [How to: Set Up a Future Expense Card](how-to-set-up-a-future-expense-card.md)  
   [Fixed Assets](../../fa-manage.md)

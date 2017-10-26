@@ -1,6 +1,6 @@
 ---
     title: Item Documents
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes several documents that you can use to manage your warehouse.
+    description: Russian enhancements include several documents that you can use to manage your warehouse.
 
     documentationcenter: ''
     author: SorenGP

@@ -1,6 +1,6 @@
 ---
     title: Swiss Purchase Documents and Sales Documents
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Swiss enhancements to purchase documents and sales documents.    
+    description: Swiss enhancements include special purchase and sales document features.    
     documentationcenter: ''
     author: SorenGP
 

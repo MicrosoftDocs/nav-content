@@ -65,5 +65,5 @@ The assessed tax feature enables you to calculate the assessed tax for fixed ass
 15. Choose the **OK** button.  
 
 ## See Also  
- [Fixed Assets Accounting Setup](fixed-assets-accounting-setup.md)  
- [Setting Up Fixed Assets](../../fa-setup.md) 
+ [Fixed Assets](../../fa-manage.md)  
+ [Setting Up Fixed Assets](../../fa-setup.md)

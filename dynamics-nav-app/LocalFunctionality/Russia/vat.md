@@ -35,5 +35,4 @@ For most organizations, VAT payments are required to be submitted no later than 
 ## See Also  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)   
  [How to: Set Up VAT Ledgers](how-to-set-up-vat-ledgers.md)   
- [How to: Correct VAT](how-to-correct-vat.md)   
  [How to: Prepare VAT Entries for Posting](how-to-prepare-vat-entries-for-posting.md)

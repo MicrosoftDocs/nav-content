@@ -1,6 +1,6 @@
 ---
     title: How to View and Print Account Turnover Information
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] enables you to view account turnover information in correspondence with other accounts.
+    description: Russian enhancements enable you to view account turnover information in correspondence with other accounts.
 
     documentationcenter: ''
     author: SorenGP

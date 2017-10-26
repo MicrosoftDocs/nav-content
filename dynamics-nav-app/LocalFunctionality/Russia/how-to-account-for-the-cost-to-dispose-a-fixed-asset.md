@@ -54,5 +54,4 @@ The expenses on a fixed asset disposal can be printed in the FA Write-off Act FA
 After the fixed asset write-off report is posted, it becomes the posted fixed asset write-off report.  
 
 ## See Also  
- [Fixed Assets Accounting Setup](fixed-assets-accounting-setup.md)   
 [Fixed Assets](../../fa-manage.md)

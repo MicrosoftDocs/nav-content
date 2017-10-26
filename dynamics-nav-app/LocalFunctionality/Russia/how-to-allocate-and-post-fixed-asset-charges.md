@@ -32,5 +32,5 @@ After an invoice has been created you can allocate and post fixed asset charges.
 
 3.  Choose the **OK** button, and then post the invoice. If the fixed asset has already been released, lines with the relevant general ledger account will be displayed.  
 
-## See Also  
- [Fixed Assets Accounting Setup](fixed-assets-accounting-setup.md)   
+## See Also
+[Fixed Assets](../../fa-manage.md) 

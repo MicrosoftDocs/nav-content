@@ -1,6 +1,6 @@
 ---
     title: How to Define an Account Schedule Constant
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] enables you to define a constant for an account schedule line. Constants are useful if an account schedule value does not change.
+    description: Russian enhancements enable you to define a constant for an account schedule line. Constants are useful if an account schedule value does not change.
 
     documentationcenter: ''
     author: SorenGP

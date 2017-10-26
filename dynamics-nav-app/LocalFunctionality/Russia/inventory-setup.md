@@ -1,6 +1,6 @@
 ---
     title: Inventory Setup
-    description: As part of inventory management, you can set up inventory to assign item charges on purchases from foreign countries/regions based on weight or volume, and to use the same column for original and corrective postings:
+    description: As part of inventory management, you can set up inventory to assign item charges on purchases from foreign countries/regions based on weight or volume, and to use the same column for original and corrective postings.
 
     documentationcenter: ''
     author: SorenGP
@@ -28,7 +28,7 @@ In Russia, [!INCLUDE[navnow](../../includes/navnow_md.md)] can assign item charg
 You can set up inventory to use the same column for original and corrective postings. This is often referred to as *red storno*.  
 
 You can use red storno posting to post corrections for the following inventory entries:  
-  
+
 - Corrective entries in the item journal.  
 - Reversal of item documents such as item receipts and item shipments.  
 - Posting item revaluation or item reclassification journals.  

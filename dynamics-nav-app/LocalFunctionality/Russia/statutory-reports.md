@@ -1,6 +1,6 @@
 ---
     title: Statutory Reports
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] lets you set up statutory reports so that you can import and export data for electronic tax reporting and other required documents.
+    description: Russian enhancements let you set up statutory reports so that you can import and export data for electronic tax reporting and other required documents.
 
     documentationcenter: ''
     author: SorenGP

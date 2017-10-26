@@ -1,6 +1,6 @@
 ---
     title: Swiss Value Added Tax
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes certain enhancements to Swiss VAT reporting.
+    description: Swiss enhancements include special VAT reporting features.
 
     documentationcenter: ''
     author: SorenGP

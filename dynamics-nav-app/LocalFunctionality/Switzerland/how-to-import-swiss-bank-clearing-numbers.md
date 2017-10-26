@@ -42,4 +42,4 @@ The following procedure describes how to define bank branch numbers for customer
 
 ## See Also  
  [Swiss Electronic Payments](swiss-electronic-payments.md)   
- [How to: Set Up Vendor Bank Accounts](how-to-set-up-vendor-bank-accounts.md)
+ [How to: Set Up Bank Accounts](../../bank-how-setup-bank-accounts.md)

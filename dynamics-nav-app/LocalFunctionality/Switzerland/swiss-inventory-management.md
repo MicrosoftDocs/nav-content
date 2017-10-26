@@ -1,6 +1,6 @@
 ---
     title: Swiss Inventory Management
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Swiss enhancements to inventory management.
+    description: Swiss enhancements  include special inventory management features.
 
     documentationcenter: ''
     author: SorenGP

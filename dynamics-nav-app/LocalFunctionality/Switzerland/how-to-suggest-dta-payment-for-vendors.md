@@ -1,6 +1,6 @@
 ---
     title: How to Suggest DTA Payment for Vendors
-    description: You can suggest vendor payments using the payment journal, and transfer the overdue invoices into the journal for individual vendors. You can also examine each vendor for open credit memos or open payments, and build a list of vendors for DatenTrägerAustausch (DTA) processing. For more information, see [How to: Verify a List of Vendors for DTA Payments](how-to-verify-a-list-of-vendors-for-dta-payments.md).
+    description: You can suggest vendor payments using the payment journal, and transfer the overdue invoices into the journal for individual vendors. You can also examine each vendor for open credit memos or open payments, and build a list of vendors for DatenTrägerAustausch (DTA) processing.
 
     documentationcenter: ''
     author: SorenGP
@@ -18,7 +18,7 @@
 # How to: Suggest DTA Payment for Vendors
 You can suggest vendor payments using the payment journal, and transfer the overdue invoices into the journal for individual vendors. You can also examine each vendor for open credit memos or open payments, and build a list of vendors for DatenTrägerAustausch (DTA) processing. For more information, see [How to: Verify a List of Vendors for DTA Payments](how-to-verify-a-list-of-vendors-for-dta-payments.md).  
 
-During the batch processing of DTA payment suggestions, the foreign currency (FCY) amount is converted to local currency (LCY) at the current rate for FCY payments, and transferred into the payment journal. For more information, see the **Payment Journal** window. In the case of a bank debit, the LCY amount is overwritten with the debited LCY amount, and the exchange rate—or exchange factor—is calculated. For more information, see the General Ledger Setup table and the Currency Exchange Rate table.  
+During the batch processing of DTA payment suggestions, the foreign currency (FCY) amount is converted to local currency (LCY) at the current rate for FCY payments, and transferred into the payment journal. For more information, see the **Payment Journal** window. In the case of a bank debit, the LCY amount is overwritten with the debited LCY amount, and the exchange rate—or exchange factor—is calculated.
 
 ## To suggest DTA payment for vendors  
 
@@ -49,5 +49,4 @@ During processing, each vendor is checked for open credit memos or open payments
  [How to: Verify a List of Vendors for DTA Payments](how-to-verify-a-list-of-vendors-for-dta-payments.md)   
  [How to: Submit DTA Payments](how-to-submit-dta-payments.md)   
  [How to: Export Payments Using EZAG](how-to-export-payments-using-ezag.md)   
- [How to: Suggest Vendor Payments](how-to-suggest-vendor-payments.md)  
  [Making Payments](../../payables-make-payments.md)

@@ -45,7 +45,6 @@ Some extensions are provided by Microsoft, and other extensions are provided by 
 Microsoft provides the following extensions:  
 
 * [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
-* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  
 * [Sales and Inventory Forecast](ui-extensions-sales-forecast.md)  
