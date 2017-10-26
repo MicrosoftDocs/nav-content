@@ -36,4 +36,4 @@ The following procedure shows how to create a new fixed asset charge.
     |**Tax Difference Code FA**|Specify the tax difference code that is associated with the fixed asset charge.|  
 
 ## See Also  
-[Fixed Assets Accounting Setup](fixed-assets-accounting-setup.md)
+[Setting Up Fixed Assets](../../fa-setup.md)
