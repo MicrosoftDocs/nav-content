@@ -45,4 +45,4 @@ The following table describes the reports that you can use with remittance advic
 > For more information about how to work with reports, see [Viewing Test Reports before Posting](ui-how-view-test-reports-posting.md), [Work with Reports](ui-work-report.md), and [Searching, Filtering, and Sorting Data](ui-enter-criteria-filters.md).
 
 ##See Also  
-[United Kingdom Local Functionality](united-kingdom-local-functionality.md)
+[Welcome to Dynamics NAV](across-get-started.md)
