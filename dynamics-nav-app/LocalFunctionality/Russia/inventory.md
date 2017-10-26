@@ -1,7 +1,7 @@
 ---
-    title: Inventory 
-    description: ##See Also
-    
+    title: Inventory
+    description: Russian inventory functionality is described in several topics.
+
     documentationcenter: ''
     author: SorenGP
 
@@ -16,9 +16,9 @@
 
 ---
 # Inventory
+Russian inventory functionality is described in several topics.
 
-
-##See Also
+## In This Section
 [Inventory Setup](inventory-setup.md)  
 [Item Documents](item-documents.md)  
 [Item Obligatory Acts](item-obligatory-acts.md)  

@@ -42,4 +42,4 @@ After a fiscal year is fiscally closed, it cannot be opened again, and general l
  [How to: Fiscally Close Years](how-to-fiscally-close-years.md)   
  [Year End Processes Overview](year-end-processes-overview.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   
- [How to: Open a New Fiscal Year](how-to-open-a-new-fiscal-year.md)
+ [Closing Years and Periods](../../year-close-years-periods.md)

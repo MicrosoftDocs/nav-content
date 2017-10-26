@@ -33,6 +33,5 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can export the Intrastat
  [How to: Set Up Intrastat Establishment Numbers](how-to-set-up-intrastat-establishment-numbers.md)   
  [How to: Export Intrastat Third-Party Declararations](how-to-export-intrastat-third-party-declararations.md)   
  [How to: Print the Intrastat Form Report](how-to-print-the-intrastat-form-report.md)   
- [How to: Set Up and Record Intrastat](how-to-set-up-and-record-intrastat.md)   
- [How to: Fill In Intrastat Journals](how-to-fill-in-intrastat-journals.md)   
+[How to: Set Up Intrastat Reporting](../../finance-how-setup-report-intrastat.md)  
  [How to: Print the Intrastat Form Report](how-to-print-the-intrastat-form-report.md)

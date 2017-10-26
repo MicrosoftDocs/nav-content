@@ -1,6 +1,6 @@
 ---
     title: Swiss Inventory Management
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Swiss enhancements to inventory management.
+    description: Swiss enhancements include special inventory management features.
 
     documentationcenter: ''
     author: SorenGP
@@ -20,7 +20,7 @@
 
 - Detailed reporting.  For more information, see the Inventory - Sales Statistics report and the Inventory - List report.  
 - The ability to track an invoice with multiple shipments.  
-- Including an item card location code as the default location code for sales lines and item journals. For more information, see [How to: Set Up Locations](how-to-set-up-locations.md) and the Item Card window.  
+- Including an item card location code as the default location code for sales lines and item journals. For more information, see [How to: Set Up Locations](../../inventory-how-setup-locations.md). 
 
 ## Managing Item Details  
 Companies can have different warehouses for different product categories. In such cases, you must use the default location code retrieved from the item card. When you define a location code for an item, it is transferred to the sales lines and item journals as a default item location code. For more information, see the Sales Line and the Item Journal Line table.  

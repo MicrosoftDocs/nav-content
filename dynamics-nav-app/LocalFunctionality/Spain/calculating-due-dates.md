@@ -1,6 +1,6 @@
 ---
     title: Calculating Due Dates
-    description: In Spain, there is a legal limit for the number of days that a payment can be delayed. You must submit an annual report of purchases and sales for payments that were made before or after the due date. The legal requirements depend on whether the customer is a private company or a public administration. For more information, see the official declaration [BOE-A-2010-10708](http://go.microsoft.com/fwlink/?LinkId=224630) on the Boletín Oficial del Estado website.
+    description: In Spain, there is a legal limit for the number of days that a payment can be delayed. You must submit an annual report of purchases and sales for payments that were made before or after the due date.
 
     documentationcenter: ''
     author: SorenGP
@@ -19,9 +19,9 @@
 In Spain, there is a legal limit for the number of days that a payment can be delayed. You must submit an annual report of purchases and sales for payments that were made before or after the due date. The legal requirements depend on whether the customer is a private company or a public administration. For more information, see the official declaration [BOE-A-2010-10708](http://go.microsoft.com/fwlink/?LinkId=224630) on the Boletín Oficial del Estado website.  
 
 ## Payment Terms  
- To help you meet the legal requirements, you can set up payment terms so that the due dates are calculated correctly. This includes specifying the maximum number of calendar days that a payment can be delayed after delivery. For example, you can create separate payment terms for sales to the public sector and sales to private companies. The following table illustrates how you can set up payment terms.  
+To help you meet the legal requirements, you can set up payment terms so that the due dates are calculated correctly. This includes specifying the maximum number of calendar days that a payment can be delayed after delivery. For example, you can create separate payment terms for sales to the public sector and sales to private companies. The following table illustrates how you can set up payment terms.  
 
-|ADD INCLUDE<!--[!INCLUDE[bp_tablefield](../../includes/bp_tablefield_md.md)]-->|Public sector|Private company|  
+|Field|Public sector|Private company|  
 |---------------------------------|-------------------|---------------------|  
 |**Code**|**1M(8D) PUB**|**1M(8D) PRI**|  
 |**Due Date Calculation**|**1M**|**1M**|  
@@ -41,25 +41,17 @@ In Spain, there is a legal limit for the number of days that a payment can be de
 
  The **Customer - Overdue Payments** and **Vendor - Overdue Payments** reports include a section for each customer or vendor that lists the payments with the following information:  
 
--   Invoice number  
+- Invoice number  
+- Invoice description  
+- Document number  
+- Posting date  
+- Due date  
+- Days overdue  
+- Currency code  
+- Amount  
+- Amount in the local reporting currency (LCY)  
 
--   Invoice description  
-
--   Document number  
-
--   Posting date  
-
--   Due date  
-
--   Days overdue  
-
--   Currency code  
-
--   Amount  
-
--   Amount in the local reporting currency (LCY)  
-
- Each section has a summary section with the following information.  
+Each section has a summary section with the following information.  
 
 |Information|Description|  
 |-----------------|---------------------------------------|  
@@ -71,8 +63,6 @@ In Spain, there is a legal limit for the number of days that a payment can be de
 
 ## See Also  
  [How to: Set Limits for Due Dates](how-to-set-limits-for-due-dates.md)   
- [How to: Set Up Payment Terms](../../how-to-set-up-payment-terms.md)   
- [Apply Purchase Transactions](apply-purchase-transactions.md)   
- [Apply Sales Transactions](apply-sales-transactions.md)   
- Customer - Overdue Payments   
- Vendor - Overdue Payments
+[Managing Payables](../../payables-manage-payables.md)  
+[Managing Receivables](../../receivables-manage-receivables.md)  
+ [Defining Payment Methods](../../finance-payment-methods.md)

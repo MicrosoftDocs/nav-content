@@ -1,6 +1,6 @@
 ---
     title: How to Process an LSV Collection
-    description: You can use **LSV Journals** to create and process payments from Lastschrift Verfahren (LSV+) customers. You can register these payments in the cash receipt journal, create an LSV file, and then print the collection order. For more information, see the Cash Receipt Journal window and [How to: Export Payments Using LSV](how-to-export-payments-using-lsv.md).
+    description: You can use **LSV Journals** to create and process payments from Lastschrift Verfahren (LSV+) customers. You can register these payments in the cash receipt journal, create an LSV file, and then print the collection order.
 
     documentationcenter: ''
     author: SorenGP
@@ -59,4 +59,4 @@ All related lines are transferred to the LSV journal. After processing the LSV c
  [Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
  [How to: Close an LSV Collection](how-to-close-an-lsv-collection.md)   
  [How to: Post LSV+ Payments](how-to-post-lsv-payments.md)   
- [How to: Export Payments Using LSV](how-to-export-payments-using-lsv.md) 
+ [How to: Export Payments Using LSV](how-to-export-payments-using-lsv.md)

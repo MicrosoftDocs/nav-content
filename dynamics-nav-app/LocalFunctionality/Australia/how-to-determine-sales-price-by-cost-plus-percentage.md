@@ -1,6 +1,6 @@
 ---
     title: How to Determine Sales Price by Cost Plus Percentage
-    description: Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation. 
+    description: Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation.
 
     documentationcenter: ''
     author: SorenGP
@@ -45,9 +45,9 @@ Use the cost plus percentage function to set a sales price based on the cost of 
 7.  Enter information into the relevant fields.  
 8.  To send the details to a recipient, choose the **Send To** action, and then select one of the following formats:  
 
-    -   **Recipient as Attachment**  
-    -   **Microsoft Word**  
-    -   **Microsoft Excel**  
+    - **Recipient as Attachment**  
+    - **Microsoft Word**  
+    - **Microsoft Excel**  
 
 9. Choose the **OK** button.  
 

@@ -43,4 +43,4 @@ To submit electronic VAT and ICP declarations to the tax authorities, you can us
 The electronic declaration is submitted to the tax authorities.  
 
 ## See Also  
-[eXtensible Business Reporting Language](extensible-business-reporting-language.md)
+[How to: Create Reports with XBRL](../../bi-create-reports-with-xbrl.md)

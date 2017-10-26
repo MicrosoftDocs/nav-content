@@ -30,7 +30,7 @@ The DatenTrägerAustausch (DTA) payment journal report displays information for 
 
 5.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-You can edit or delete the payments in the payment journal. You can print the DTA journal multiple times to verify corrected payments, and then post the payment journal when it is accurate. For more information, see [How to: Suggest DTA Payment for Vendors](how-to-apply-vendor-ledger-entries.md) .  
+You can edit or delete the payments in the payment journal. You can print the DTA journal multiple times to verify corrected payments, and then post the payment journal when it is accurate. For more information, see [How to: Suggest DTA Payment for Vendors](how-to-suggest-dta-payment-for-vendors.md) .  
 
 ## See Also  
  [Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   

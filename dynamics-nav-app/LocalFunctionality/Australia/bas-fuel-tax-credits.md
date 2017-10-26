@@ -1,6 +1,6 @@
 ---
     title: BAS Fuel Tax Credits
-    description: Fuel tax credits provide companies with a credit for the fuel tax (excise or customs duty) included in the price of fuel used for business activities in:
+    description: Fuel tax credits provide companies with a credit for the fuel tax (excise or customs duty) included in the price of fuel used for business activities.
 
     documentationcenter: ''
     author: SorenGP

@@ -28,5 +28,4 @@ The completed entries can be sent in a file to the Intrastat authorities, or you
 4.  Choose the **Print** action.  
 
 ## See Also  
- [How to: Report Intrastat on a Disk](how-to-report-intrastat-on-a-disk.md)   
- [How to: Report Intrastat on Forms](how-to-report-intrastat-on-forms.md)
+ [How to: Set Up Intrastat Reporting](../../finance-how-setup-report-intrastat.md)

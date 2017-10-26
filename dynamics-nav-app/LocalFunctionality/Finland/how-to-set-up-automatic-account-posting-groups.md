@@ -43,6 +43,5 @@ To use automatic account codes, you must create an automatic account posting gro
 
 ## See Also  
  [Automatic Account Codes](automatic-account-codes.md)   
- [Total Balance](../Sweden/total-balance.md)   
  [Setting Up Posting Groups](../../finance-posting-groups.md)  
  [Finance](../../finance.md)

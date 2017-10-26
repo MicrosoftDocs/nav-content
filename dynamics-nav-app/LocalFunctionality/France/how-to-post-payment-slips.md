@@ -16,7 +16,7 @@
 
 ---
 # How to: Post Payment Slips
-You must post payment slips to complete a payment transaction and to create the related financial data. You can post a payment slip if the payment slip's **Action Type** is set to **Ledger**. For more information, see [How to: Set Up Payment Steps](-$-t_10862-payment-step-$-.md).  
+You must post payment slips to complete a payment transaction and to create the related financial data. You can post a payment slip if the payment slip's **Action Type** is set to **Ledger**.  
 
 Before you post a payment slip, you must create the payment slip. For more information, see [How to: Create Payment Slips](how-to-create-payment-slips.md).  
 

@@ -1,6 +1,6 @@
 ---
     title: Simulation of Entries
-    description: [!INCLUDE[navnow](../../includes/navnow_md.md)] for France offers functionality to simulate posted entries before posting.
+    description: Functionality for France includes the ability to simulate posted entries before posting.
 
     documentationcenter: ''
     author: SorenGP

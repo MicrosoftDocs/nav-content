@@ -29,7 +29,7 @@ A fiscal year can be closed if all of the following criteria are met:
 
 - The posting dates in the **User Setup** window and the **General Ledger Setup** window do not fall within the year that you are closing. For more information, see User Setup and General Ledger Setup.  
 
-- The fiscal year has been closed using the **Close Year** function in the **Accounting Periods** window. For more information, see [How to: Close Accounting Periods](how-to-close-accounting-periods.md).  
+- The fiscal year has been closed using the **Close Year** function in the **Accounting Periods** window. For more information, see [Closing Years and Periods](../../year-close-years-periods.md).  
 
 - All of the unposted journal lines and simulation entries for the year have been posted or deleted.  
 
@@ -45,11 +45,9 @@ At the end of the year, you must do the following:
 - Close the fiscal year using the **Fiscally Close Year** function.  
 
 ## See Also  
- [How to: Open a New Fiscal Year](how-to-open-a-new-fiscal-year.md)   
- [How to: Specify Posting Periods](how-to-specify-posting-periods.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   
  [How to: Fiscally Close Accounting Periods](how-to-fiscally-close-accounting-periods.md)   
- [How to: Close Years](how-to-close-years.md)   
+ [Closing Years and Periods](../../year-close-years-periods.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   
  [How to: Fiscally Close Years](how-to-fiscally-close-years.md)   
  [How to: Reopen Accounting Periods](how-to-reopen-accounting-periods.md)   

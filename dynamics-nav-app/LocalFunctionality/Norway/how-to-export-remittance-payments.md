@@ -23,7 +23,7 @@ You can use the export remittance payments process to export the payments file t
 
 You export payments to a bank file by choosing the **Export Payments** button in the **Payment Journal** window. The process may be different, depending on the export format that you select:  
 
-- Payments using the SEPA payment standard are directly exported to a file when you choose the **Export Payments** button. For more information, see [How to: Export Payments to a Bank File](how-to-export-payments-to-a-bank-file.md).  
+- Payments using the SEPA payment standard are directly exported to a file when you choose the **Export Payments** button. For more information, see [Making Payments](../../payables-make-payments.md).  
 
 - Payments using local payment standards, such as **Telepay**, are exported with either the **Remittance - export (bank)** or the **Remittance - export (BBS)** report, which automatically opens when you choose the **Export Payments** button.  
 

@@ -1,6 +1,6 @@
 ---
     title: How to Submit DTA Payments
-    description: To submit DatenTrägerAustausch (DTA) payments to your bank for payment, you must do the following:
+    description: To submit DatenTrägerAustausch (DTA) payments to your bank for payment, you must perform certain tasks.
 
     documentationcenter: ''
     author: SorenGP

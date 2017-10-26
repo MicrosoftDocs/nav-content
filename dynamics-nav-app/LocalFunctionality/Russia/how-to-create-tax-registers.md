@@ -20,7 +20,7 @@ The following procedure shows how to create tax registers.
   
 1.  Choose **Financial Management**, choose **Tax Accounting**, choose **Setup**, choose **Tax Register**s, and then choose **Sections**.  
   
-2.  In the **Tax Register Sections** form, choose the **Functions** button.  
+2.  In the **Tax Register Sections** window, choose the **Functions** button.  
   
 3.  Select one of the following fields:  
   
@@ -30,7 +30,7 @@ The following procedure shows how to create tax registers.
   
     -   **Create Registers** -Creates data in the tax registers**.**  
   
-4.  To create data, choose **Create Register**. The **Tax Register Create** form opens.  
+4.  To create data, choose **Create Register**. The **Tax Register Create** window opens.  
   
 5.  On the **General** tab, enter the fields described in the following table.  
   
@@ -48,7 +48,7 @@ The following procedure shows how to create tax registers.
     > [!NOTE]  
     >  If the creation of registers for an already counted period is selected, a warning is displayed. At this stage of the tax register creation, it is possible either to continue counting and delete all existing data, or stop.  
   
-7.  To view the calculated information in the **Tax Register Accumulation** form, choose **Financial Management**, choose **Tax Accounting**, choose **Reporting,** and then choose **Profit Tax**.  
+7.  To view the calculated information in the **Tax Register Accumulation** window, choose **Financial Management**, choose **Tax Accounting**, choose **Reporting,** and then choose **Profit Tax**.  
   
 8.  Using the register list, you can view the contents of any register or using the arrows at the top of the window, you can view the information going from one register to another.  
   
