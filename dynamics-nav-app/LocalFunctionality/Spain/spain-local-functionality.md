@@ -40,4 +40,8 @@ The following topics describe local functionality that is unique to the Spanish 
   [Report 349](report-349.md)  
 
 ## See Also
+<<<<<<< HEAD
 [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)
+=======
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md) 
+>>>>>>> refs/remotes/origin/live
