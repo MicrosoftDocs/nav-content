@@ -51,9 +51,5 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify which report
 4.  Choose the **OK** button.  
 
 ## See Also  
- [How to: Print VAT Reports](../UnitedKingdom/how-to-print-vat-reports.md)   
- [How to: Export and Print Intrastat Reports](how-to-export-and-print-intrastat-reports.md)   
- Report Selection - VAT   
- Report Selection - Intrastat   
- DACH Report Selections   
- Report Selections
+[How to: Export and Print Intrastat Reports](how-to-export-and-print-intrastat-reports.md)  
+[VAT Reporting](vat-reporting.md) 

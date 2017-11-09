@@ -42,4 +42,4 @@ When you post in the **General Journal Templates** window, the contents of the *
 
 ## See Also  
  [Belgium Local Functionality](belgium-local-functionality.md)   
- [How to: Specify Posting Periods](../France/how-to-specify-posting-periods.md)
+ [How to: Specify Posting Periods](../../finance-how-specify-posting-periods.md)

@@ -1,5 +1,5 @@
 ---
-title: Using the GetAddress.io UK Postcodes Extension 
+title: Using the GetAddress.io UK Postcodes Extension
 description: Retrieve addresses for entities like customers, vendors, employees, and banks in the United Kingdom from the GetAddress.io service.
 
 documentationcenter: ''
@@ -29,7 +29,3 @@ The GetAddress.io UK Postcodes extension can save time and prevent mistakes when
 
 > [!TIP]  
 >   If you know the street number, you can filter the addresses by entering some or all of the number in the **Delivery Point** field.
-
-
-## See Also
-[Set up the GetAddress.io UK Postal Code extension](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
