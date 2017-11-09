@@ -109,11 +109,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can export payment journ
 >  You can only post the payment order after you have successfully exported the electronic payments.  
 
 ## See Also  
-<<<<<<< HEAD
  [Electronic Payments – AEB N34.1](electronic-payments-aeb-n341.md)   
-=======
- [Electronic Payments – AEB N34.1](electronic-payments-%E2%80%93-aeb-n34.1.md)   
->>>>>>> refs/remotes/origin/live
  Export Electronic Payments   
  [How to: Set Up Bank Accounts for Electronic Payments](how-to-set-up-bank-accounts-for-electronic-payments.md)   
  [How to: Make Payments with Bank Data Conversion Service or SEPA Credit Transfer](../../finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
