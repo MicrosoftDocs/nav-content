@@ -28,7 +28,7 @@
 		"globalMetadata": {
 			"searchScope": ["DynamcisNAV"],
 			"uhfHeaderId": "MSDocsHeader-Dynamics365",
-			"titleSuffix": "Dynamics NAV"
+			"titleSuffix": "Dynamics NAV App"
 		},
 		"template": "op.html",
 		"dest": "articles"
