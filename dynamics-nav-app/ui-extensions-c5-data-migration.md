@@ -44,8 +44,7 @@ If something goes wrong and an error occurs, the **Status** field will show **Co
 * The number in the **Error Count** field for the entity. 
 * The entity, and then the **Show Errors** action. 
 
-On the **Data Migration Errors** page, to fix an error you can choose an error message, then choose **Edit Record** to open a page that shows the migrated data for the entity. After you fix one or more errors, you can choose **Migrate** to migrate only the entities you fixed, without having to completely restart the migration.  
-
+On the **Data Migration Errors** page, to fix an error you can choose an error message, then choose **Edit Record** to open a page that shows the migrated data for the entity. After you fix one or more errors, you can choose **Migrate** to migrate only the entities you fixed, without having to completely restart the migration.    
 > [!Tip]
 > If you have fixed more than one error, you can use the **Select More** feature to select multiple lines to migrate. Alternatively, if there are errors that are not important to fix, you can choose them and then choose **Skip Selections**.
 
