@@ -39,7 +39,7 @@ All extensions are tested before they are made available to you, but we recommen
 
 Microsoft provides the following extensions:  
 
-* [C5 2012 Data Migration](ui-extensions-c5-data-migration.md)
+* C5 2012 Data Migration (available in Denmark, see help for Local Functionality)
 * [Ceridian Payroll](ui-extensions-ceridian-payroll.md)  
 * [Image Analyzer](ui-extensions-image-analyzer.md)  
 * [Microsoft Pay](https://go.microsoft.com/fwlink/?linkid=857276)
