@@ -25,6 +25,7 @@ The following topics describe local functionality that is unique to the Danish v
 [FIK Details in the Payment Reconciliation Journal](fik-details-in-the-payment-reconciliation-journal.md)  
 [VAT-VIES Reporting](vat-vies-reporting.md)
 [How to: Print VAT Reconciliation Reports](how-to-print-vat-reconciliation-reports.md)
+[C5 2012 Data Migration](ui-extensions-c5-data-migration.md)
 
 ## See Also
 [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)   
