@@ -95,6 +95,7 @@ The following table shows the combinations of FIK and GIRO payment methods that 
 5. Choose the **Export** action.  
 
 ## See also
+[FIK Details in the Payment Reconciliation Journal](fik-details-in-the-payment-reconciliation-journal.md)  
 [Customizing Dynamics NAV Using Extensions](../../ui-extensions.md)  
 [How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](../../finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)  
 [How to: Set Up SEPA Direct Debit](../../finance-how-to-set-up-sepa-direct-debit.md)  
