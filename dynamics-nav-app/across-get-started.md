@@ -25,6 +25,8 @@ For some quick, nice-to-know tricks, see:
 
 For more information, see [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md).  
 
+When you're ready to do some heavier lifting, and want to look at some of the business processes that [!INCLUDE[d365fin](includes/d365fin_md.md)] supports, see [Overview of Business Functionality](madeira-business-functionality.md).  
+
 ## The Home pages
 Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts. Check out the various Home pages by choosing the **Settings** icon ![Settings](media/ui-experience/settings_icon_small.png "Settings icon for role center") in the top right corner,  choosing **My Settings**, and then the Role Center to explore. Sign in again to apply the change. For more information, see [Changing the Role Center](change-role.md).  
 
