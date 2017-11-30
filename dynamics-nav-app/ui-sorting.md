@@ -5,7 +5,7 @@ description: You can use the sorting function to get an overview of your data. F
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

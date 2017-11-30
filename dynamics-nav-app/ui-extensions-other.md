@@ -4,7 +4,7 @@ description: Lists the apps and extensions to customize Dynamics NAV provided by
 documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -5,7 +5,7 @@ description: Set up the charts on the Accounts Role Center to help analyze the f
 documentationcenter: ''
 author: bholtorf
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

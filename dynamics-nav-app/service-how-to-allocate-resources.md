@@ -3,7 +3,7 @@
     description: You can change the annual amount of the service contract or contract quote to correct the amount that will be invoiced annually.
     author: bholtorf
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
