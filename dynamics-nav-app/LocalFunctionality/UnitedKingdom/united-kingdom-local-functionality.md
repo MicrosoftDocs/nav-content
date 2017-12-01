@@ -3,7 +3,7 @@ title: United Kingdom Local Functionality
 description: Get an overview of local functionality in the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

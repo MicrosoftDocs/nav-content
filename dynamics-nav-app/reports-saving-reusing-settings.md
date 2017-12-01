@@ -3,7 +3,7 @@ title: Apply and Modify Saved Settings on Reports
 description: Describes using predefined options and filters to customize a report, and to generate the correct data.
 author: jswymer
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

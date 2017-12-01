@@ -5,7 +5,7 @@ Description: Provides a feature overview of all the business functions and depar
 documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

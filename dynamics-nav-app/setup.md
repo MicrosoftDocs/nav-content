@@ -3,7 +3,7 @@ title: Overview of Tasks to Set Up Dynamics NAV
 description: Outlines tasks to set up, initialize, and configure Dynamics NAV to suit your needs.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

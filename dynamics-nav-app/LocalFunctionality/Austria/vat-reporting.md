@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -29,5 +29,4 @@ You can print the following local VAT reports.
 
 ## See Also  
 [How To: Report VAT to the Tax Authorities](../../finance-how-report-vat.md)  
-[How to: Work with VAT on Sales and Purchases](../../finance-work-with-vat.md)  
-[How to: Set Up Reports for VAT and Intrastat](../Germany/how-to-set-up-reports-for-vat-and-intrastat.md)
+[How to: Work with VAT on Sales and Purchases](../../finance-work-with-vat.md)

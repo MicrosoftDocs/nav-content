@@ -3,7 +3,7 @@
     description: Process payments to your vendors by exporting a file together with the payment information from the journal lines.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

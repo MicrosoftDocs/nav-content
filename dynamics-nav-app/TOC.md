@@ -1,4 +1,6 @@
-# [Getting Started](index.md)
+# [Welcome to Dynamics NAV](index.md)
+
+# [Getting Started](across-get-started.md)
 ## [Minimum Requirements](financials-requirements.md)
 ## [Frequently Asked Questions](across-faq.md)
 ## [Overview of Business Functionality](madeira-business-functionality.md)

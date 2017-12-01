@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -23,7 +23,6 @@ The following topics describe local functionality that is unique to the German v
   [Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)  
   [Physical Inventory Documents](physical-inventory-documents.md)  
   [VAT Reporting](vat-reporting.md)  
-  [VAT-VIES Reporting](../Denmark/vat-vies-reporting.md)  
   [Currency Exchange Rates](currency-exchange-rates.md)  
   [How to: Print General Ledger Setup Information](how-to-print-general-ledger-setup-information.md)  
   [How to: Set Up Reports for VAT and Intrastat](how-to-set-up-reports-for-vat-and-intrastat.md)  

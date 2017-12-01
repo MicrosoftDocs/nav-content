@@ -7,7 +7,7 @@ author: bholtorf
 manager: edupont
 editor: ''
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.workload: na
 ms.tgt_pltfrm: na
 ms.devlang: na

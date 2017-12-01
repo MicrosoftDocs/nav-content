@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -50,5 +50,4 @@ You can select a document line within a document type, and view and retrieve the
 
 ## See Also  
  [How to: Create Blanket Sales Orders](../../sales-how-to-create-blanket-sales-orders.md)   
- [How to: Track Document Lines](how-to-track-document-lines.md)   
- [Germany Local Functionality](../Germany/germany-local-functionality.md)
+ [How to: Track Document Lines](how-to-track-document-lines.md)

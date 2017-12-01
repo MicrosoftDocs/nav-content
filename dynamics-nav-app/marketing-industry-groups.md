@@ -5,7 +5,7 @@ description: Describes how to define an industry group and assign it to a contac
 documentationcenter: ''
 author: jswymer
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

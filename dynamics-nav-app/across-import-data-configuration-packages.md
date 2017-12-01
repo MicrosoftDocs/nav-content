@@ -2,7 +2,7 @@
 title: Use Excel to import data into Dynamics NAV
 description: Use the default configuration package to add customer data in Excel and import the data back into Dynamics NAV.
 author: edupont04
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

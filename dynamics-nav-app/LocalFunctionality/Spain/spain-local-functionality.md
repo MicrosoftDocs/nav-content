@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -21,7 +21,7 @@ The following topics describe local functionality that is unique to the Spanish 
 ## In This Section  
   [Calculating Due Dates](calculating-due-dates.md)  
   [Cartera Module](cartera-module.md)  
-  [Electronic Payments – AEB N34.1](electronic-payments-%E2%80%93-aeb-n34.1.md)  
+  [Electronic Payments – AEB N34.1](electronic-payments-aeb-n341.md)  
   [Transaction Numbers](transaction-numbers.md)  
   [Corrective Invoices](corrective-invoices.md)  
   [How to: Enter CCC Codes](how-to-enter-ccc-codes.md)  
@@ -40,4 +40,4 @@ The following topics describe local functionality that is unique to the Spanish 
   [Report 349](report-349.md)  
 
 ## See Also
-[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md) 
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)

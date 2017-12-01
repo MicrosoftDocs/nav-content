@@ -3,7 +3,7 @@ title: Assigning and managing tasks
 description: Learn how to assign tasks to users, including your accountant, in Dynamics NAV
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
