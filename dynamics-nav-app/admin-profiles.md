@@ -19,10 +19,10 @@ You use profiles to link users to pre-defined Role Centers. A Role Center is a h
 
 The profile that is used appears in the header of the Role Center’s main content area. An administrator can customize this Role Center to meet the needs of a specific role in a specific company. The Order Processor Role Center can then be further personalized on a single computer to meet the needs of a person who is carrying out the job as an order processor. This person can personalize the Role Center by saving queries, adding filters, and adding or removing fields.
 
-Profiles and Role Centers align with the roles and responsibilities in your organization. [!INCLUDE[navnow_md](includes/navnow_md.md)] provides a set of default profiles, which each correspond to and link to a Role Center. Administrators can modify existing profiles or create new ones.  
+Profiles and Role Centers align with the roles and responsibilities in your organization. [!INCLUDE[navnow_md](includes/navnow_md.md)] provides a set of default profiles, which each correspond to and link to a Role Center. Administrators can modify existing profiles or create new ones.
 
 > [!NOTE]  
->  Profiles are not explicitly linked to the roles and permissions that constitute the security system, but profile users must have permissions that align with their roles in the security system. For more information, see [Security in the Role Tailored Environment](http://go.microsoft.com/fwlink?LinkId=147633) in the MSDN Library.
+>  Profiles are not explicitly linked to the roles and permissions that constitute the security system, but profile users must have permissions that align with their roles in the security system. For more information, see [Security Overview](/dynamics-nav/Security-Overview) in the developer and IT-pro help.
 
 ## To create a profile
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Profiles**, and then choose the related link.  

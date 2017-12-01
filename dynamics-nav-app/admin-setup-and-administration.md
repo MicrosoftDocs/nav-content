@@ -35,7 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Manage, delete, or compress documents|[Manage Documents](admin-manage-documents.md)|  
 
 ## See Also
-[Overview of Business Functionality](madeira-business-functionality.md)  
+[Business Functionality](madeira-business-functionality.md)  
 [General Business Functionality](ui-across-business-areas.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  

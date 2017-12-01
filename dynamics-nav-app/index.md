@@ -9,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 11/30/2017
+ms.date: 12/01/2017
 ms.author: edupont
 
 ---
@@ -20,8 +20,8 @@ ms.author: edupont
 
 |||  
 |-|-|  
-|**Business Processes**|-   [Getting Started](across-get-started.md)<br />-   [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Setting up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Overview of Business Functionality](madeira-business-functionality.md)<br />-   [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)|  
-|**Development and Administration**|-   [Getting Started](/dynamics-nav/index)<br />-   [Deployment](/dynamics-nav/deployment)<br />-   [Development in C/AL](/dynamics-nav/development)<br />-   [Development in AL](/dynamics-nav/developer/devenv-dev-overview)<br />-   [Administration](/dynamics-nav/administration)<br />-   [Upgrade](/dynamics-nav/upgrading-to-microsoft-dynamics-nav)<br />-  [Windows PowerShell Cmdlets](powershell/dynamics-nav/overview?view=dynamicsnav-ps-2018)|  
+|**Business Processes**|-   [Getting Started](across-get-started.md)<br />-   [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Setting up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Business Functionality](madeira-business-functionality.md)<br />-   [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)|  
+|**Development and Administration**|-   [Getting Started](/dynamics-nav/index)<br />-   [Deployment](/dynamics-nav/deployment)<br />-   [Development in C/AL](/dynamics-nav/development)<br />-   [Development in AL](/dynamics-nav/developer/devenv-dev-overview)<br />-   [Administration](/dynamics-nav/administration)<br />-   [Upgrade](/dynamics-nav/upgrading-to-microsoft-dynamics-nav)<br />-  [Windows PowerShell Cmdlets](/powershell/dynamics-nav/overview?view=dynamicsnav-ps-2018)|  
 |**Community Resources**|-   [Microsoft Dynamics NAV Team Blog](https://blogs.msdn.microsoft.com/nav/)<br />-   [Microsoft Dynamics NAV Forum](http://community.dynamics.com/product/nav/f/34.aspx)<br />-   [Microsoft Dynamics PartnerSource \(requires PartnerSource account\)](https://mbs.microsoft.com/partnersource)<br />-   [Microsoft Partner Network \(requires Microsoft Partner Network membership account\)](https://mspartner.microsoft.com/en/us/Pages/index.aspx)|  
 
 
