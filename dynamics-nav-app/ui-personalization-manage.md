@@ -15,17 +15,17 @@ ms.prod: "dynamics-nav-2018"
 # Managing Personalization as an Administrator
 Users can personalize their workspace to suit their own preferences. As an administrator, you can control and manage personalization by disabling the ability for users to personalize pages and clearing any page personalizations that users have made.
 
-## Disable personalization for a profile
+## Disabling Personalization for a Profile
 You can prevent all users that belong to a specific profile from being able to personalize their pages.
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Profiles**, and then choose the related link.
 2.  Select the profile in the list that you want to modify.
 3.  Select the **Disable personalization** check box, and then choose the **OK** button.
 
-## Clear user personalizations
+## Clearing User Personalizations
 
 Clearing page personalization changes the page back to its original layout before any personalization was made. There are two ways to clear the personalizations that users have made to pages: using the **Delete User Personalization** page and using the **User Personalization Card** page.
 
-### Clear user personalizations by using the Delete User Personalization page
+### To clear user personalizations by using the Delete User Personalization page
 
 The **Delete User Personalization** page enables you to clear personalization on a per-page, per-user basis.
 
@@ -40,7 +40,7 @@ The **Delete User Personalization** page enables you to clear personalization on
 
     The user will see the changes the next time they sign-in.
 
-### Clear user personalizations by using the User Personalization Card page
+### To clear user personalizations by using the User Personalization Card page
 
 The **User Personalization Card** page enables you to clear the personalization on all pages for specific user. This requires write permission to Table 2000000072 **Profile**.
 

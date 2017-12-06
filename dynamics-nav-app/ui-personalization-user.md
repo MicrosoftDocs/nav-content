@@ -34,7 +34,7 @@ Depending on the type of page and what it includes, you can:
 
 2.  Go to a page that you want to personalize.
 
-    If you see a lock icon in the banner, see [Why the page is locked](ui-personalization-locked.md) for more details.
+    If you see a lock icon in the banner, see [Why the Page is Locked](ui-personalization-locked.md) for more details.
 
 3.  Point to an area that you want to personalize, such as a field or column header in a list. Anything that you can personalize is immediately highlighted with an arrow or border.
 <!--
@@ -57,12 +57,12 @@ Depending on the type of page and what it includes, you can:
 
 5.  You can continue to make changes on the same page or move to another page. Your changes are automatically saved as you make them. When you are done, in the **Personalizing** banner, choose **Done**.
 
-## Clear personalization to change a page back to its original layout
+## Clearing Personalization to Change a Page Back to its Original Layout
 At some point, you might want to undo all the personalization changes that you have made to a page over time so that page looks like it did originally. To do this, in the **Personalizing** banner, choose **More**, and then **Clear personalization**.
 
-## Personalization in detail
+## Personalization in Detail
 To help you better understand personalization, here are some pointers.  
--   When you make changes to a card page that you open from a list, the changes will take effect on all records that you open from that list. For example, let's say you open a specific customer from the Customers list page, and then personalize the page by adding a field. When you open other customers from the list, the field that you added will also be shown.
+-   When you make changes to a card page that you open from a list, the changes will take effect on all records that you open from that list. For example, let us say you open a specific customer from the **Customers list** window, and then personalize the page by adding a field. When you open other customers from the list, the field that you added will also be shown.
 -   Changes that you make will take effect on all your Role Centers. For example, if you make a change to the Customer list when the Role Center is set to Business Manager, you will also see the change in the Customer list when Role Center is set to Sales Order Processor.
 -   Changes to a page in a pane will take effect on the page where ever it is shown.  
 -   You can only add fields and columns from a predefined list, which is based on the page. You cannot create new ones.

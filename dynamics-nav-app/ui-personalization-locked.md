@@ -1,5 +1,5 @@
 ---
-title: "Why is the page is locked from personalizing?" 
+title: "Why is the page is locked from personalizing?"
 description: Explains why you cannot personlaize a page and what you can do to unlock it so you can personalize it.
 author: jswymer
 ms.topic: article
@@ -11,7 +11,7 @@ ms.date: 09/07/2017
 ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
-# Why is the page is locked from personalizing?
+# Why is the Page is Locked from Personalizing?
 If there is a lock icon in the **Personalizing** banner when you open a page (as shown), this means that you are currently prevented from making any more personalization changes to the page in the [!INCLUDE[nav_web](includes/nav_web_md.md)].
 
 ![Personalize Lock](media/personalization-locked.png "Personalize lock")
@@ -23,10 +23,10 @@ There can be two reasons for this:
 
 If you want to continue personalizing the page by using the [!INCLUDE[nav_web](includes/nav_web_md.md)], choose the lock icon, and then **Unlock**.
 
-## What happens when you unlock the page
+## What Happens When you Unlock the Page
 If you choose to unlock the page, the current personalization of the page in the [!INCLUDE[nav_web](includes/nav_web_md.md)] will be cleared, meaning the page will go back to its original layout and you will have to start from scratch.
 
-In the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)], the page will remain as it was before and will not be effected by the new changes in the [!INCLUDE[nav_web](includes/nav_web_md.md)]. The personalization in the [!INCLUDE[nav_web](includes/nav_web_md.md)] and [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)] becomes separated, so you will now have a personalized version in each client. 
+In the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)], the page will remain as it was before and will not be effected by the new changes in the [!INCLUDE[nav_web](includes/nav_web_md.md)]. The personalization in the [!INCLUDE[nav_web](includes/nav_web_md.md)] and [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)] becomes separated, so you will now have a personalized version in each client.
 
 In the future, you will personalize the page in the two clients separately. Therefore, the page can potentially look different between the two.
 

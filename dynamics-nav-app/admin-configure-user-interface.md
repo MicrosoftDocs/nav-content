@@ -19,7 +19,7 @@ You configure the user interface for multiple users by customizing pages for a p
 > [!TIP]  
 >  A quick way to implement UI configurations for a profile is if you already have a configured profile in another [!INCLUDE[d365fin](includes/d365fin_md.md)] database. You can then export that profile, and then import it into the current database. For more information, see [Exporting and Importing Profiles](admin-profiles.md#ExportImportProfile).  
 
-## General information
+## General Information
 Consider the following information before you begin to configure the UI:
 -   Before you begin to configure the UI, the application can be configured to show and hide UI elements (such as fields, FastTabs, and FactBoxes) based on license or user permissions. For more information about how this is done, see [Removing Elements from the User Interface According to Permissions](/dynamics-nav/Removing-Elements-from-the-User-Interface-According-to-Permissions).
 
@@ -29,7 +29,7 @@ Consider the following information before you begin to configure the UI:
 -   You can record UI configurations of the same page based on different access points to the page. For example, the **Sales Orders** window can be customized to look different when opened from the **Customer Card** window than when opened from the **Sales Order Processor** Role Center. The point from which you access the page to be customized is recorded in that specific page customization. Accordingly, there may be multiple page customization records in the database, as you can be seen in the **Delete Profile Configuration** window.  
 -   Unlike when users change the size of windows or the width of columns on their own computer, any such basic view changes that you make during your configuration of the UI for a profile are not saved to the profile and will not be available for users assigned to the profile. Basic view changes are computer-specific.   
 
-## Configure a profile with the [!INCLUDE[nav_windows](includes/nav_windows_md.md)] in configuration mode
+## Configuring a Profile with the [!INCLUDE[nav_windows](includes/nav_windows_md.md)] in Configuration Mode
 1.  Open a command prompt, and type the following command to change to the installation folder of the [!INCLUDE[nav_windows](includes/nav_windows_md.md)]. For example:  
 
     ```  
@@ -52,7 +52,7 @@ Consider the following information before you begin to configure the UI:
 
 3. You are now ready to start configuring the UI, which you do the same way as individual users personalize their own workspaces. For more information, see [Personalizing Your Workspace in the [!INCLUDE[nav_windows](includes/nav_windows_md.md)]](ui-personalization-windows-client.md).
 
-## Cancel UI Configuration
+## Canceling UI Configuration
 You can cancel UI customizations that you have made as configuration for a profile in three ways:  
 
 -   Cancel all UI customization that you have made for a profile by using the **Clear Configured Pages** button in the **Profile Card** window.  
@@ -61,7 +61,7 @@ You can cancel UI customizations that you have made as configuration for a profi
 
 -   Cancel UI customization that you have made for a specific UI area for a specific page for a profile by using the **Restore Defaults** button in the **Customize** window.  
 
-### General information  
+### General Information  
 -   Users can make UI customizations under their own user logon to personalize their user interface. When you cancel your UI configuration of a page that a user has since personalized, the user’s UI personalization is not canceled. Likewise, when you make new UI configuration for a page that a user has personalized, the user’s UI personalization is preserved, and is not overwritten by the new page configuration.  
 
     The only situation where UI configuration does overwrite UI personalization is when a UI element is removed by configuration. For example, if the administrator removes a field that the user has renamed or moved, then the field is still removed from the user’s UI.  
