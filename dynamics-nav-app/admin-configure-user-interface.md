@@ -33,7 +33,7 @@ Consider the following information before you begin to configure the UI:
 1.  Open a command prompt, and type the following command to change to the installation folder of the [!INCLUDE[nav_windows](includes/nav_windows_md.md)]. For example:  
 
     ```  
-    cd C:\Program Files\(x86)\Microsoft Dynamics NAV\110\RoleTailored Client  
+    cd "C:\Program Files (x86)\Microsoft Dynamics NAV\110\RoleTailored Client"  
     ```  
 
 2.  Type the following command to start the [!INCLUDE[nav_windows](includes/nav_windows_md.md)] in the configuration mode for a specific profile:  
@@ -42,9 +42,9 @@ Consider the following information before you begin to configure the UI:
     Microsoft.Dynamics.Nav.Client.exe -configure -profile:"profileid"  
     ```  
 
-     Replace **profileid** with the name of the profile that you want to configure.  
+    Replace **profileid** with the name of the profile that you want to configure.  
 
-     For example, to configure the Accounting Manager profile, use this command:  
+    For example, to configure the Accounting Manager profile, use this command:  
 
     ```  
     Microsoft.Dynamics.Nav.Client.exe -configure -profile:"Accounting Manager"  

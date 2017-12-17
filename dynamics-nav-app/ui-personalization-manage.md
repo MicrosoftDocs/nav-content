@@ -13,7 +13,15 @@ ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
 # Managing Personalization as an Administrator
-Users can personalize their workspace to suit their own preferences. As an administrator, you can control and manage personalization by disabling the ability for users to personalize pages and clearing any page personalizations that users have made.
+Users can personalize their workspace to suit their own preferences. As an administrator, you can control and manage personalization by:
+
+-   Enabling or disabling the personalization feature for the entire the application ([!INCLUDE[nav_web_md](includes/nav_web_md.md) only]
+-   Disabling the personalization feature for users of a specific profile.
+-   Clearing any page personalizations that users have made.
+
+## Enabling or Disabling 
+By default  
+
 
 ## Disabling Personalization for a Profile
 You can prevent all users that belong to a specific profile from being able to personalize their pages.
