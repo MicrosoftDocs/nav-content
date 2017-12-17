@@ -15,13 +15,19 @@ ms.prod: "dynamics-nav-2018"
 # Managing Personalization as an Administrator
 Users can personalize their workspace to suit their own preferences. As an administrator, you can control and manage personalization by:
 
--   Enabling or disabling the personalization feature for the entire the application ([!INCLUDE[nav_web_md](includes/nav_web_md.md) only]
--   Disabling the personalization feature for users of a specific profile.
+-   Enabling or disabling the personalization feature for the entire the application ([!INCLUDE[nav_web_md](includes/nav_web_md.md)] only). You cannot disable personalization on a global basis for the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)].
+-   Enabling or disabling the personalization feature for users of a specific profile.
 -   Clearing any page personalizations that users have made.
 
-## Enabling or Disabling 
-By default  
+## Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] 
+By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]. To enable personalization, you modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_instance_md](includes/nav_web_instance_md.md)] instance for the Web client to include this line:
 
+    ```
+    "PersonalizationEnabled": "True"
+    ```
+If you want to disable personalization in the Web client, remove this line.
+
+For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
 
 ## Disabling Personalization for a Profile
 You can prevent all users that belong to a specific profile from being able to personalize their pages.
@@ -30,11 +36,9 @@ You can prevent all users that belong to a specific profile from being able to p
 3.  Select the **Disable personalization** check box, and then choose the **OK** button.
 
 ## Clearing User Personalizations
-
 Clearing page personalization changes the page back to its original layout before any personalization was made. There are two ways to clear the personalizations that users have made to pages: using the **Delete User Personalization** page and using the **User Personalization Card** page.
 
 ### To clear user personalizations by using the Delete User Personalization page
-
 The **Delete User Personalization** page enables you to clear personalization on a per-page, per-user basis.
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delete User Personalization**, and then choose the related link.
