@@ -26,11 +26,14 @@ Depending on the type of page and what it includes, you can:
 
 ## To personalize a page
 
-1. In the upper-right corner, select the ![Settings](media/ui-experience/settings_icon_small.png "Settings icon for role center") icon, and then **Personalize**.
+1. In the upper-right corner, select your avatar, and then **Personalize**.
 
     The **Personalizing** banner appears at the top, which indicates that you can start making changes.
 
     ![Personalize mode](media/ui_personalize_mode_small.png "Personalize mode")
+
+    > [!IMPORTANT]  
+    >   If you do not the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
 
 2.  Go to a page that you want to personalize.
 
