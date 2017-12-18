@@ -22,9 +22,10 @@ Users can personalize their workspace to suit their own preferences. As an admin
 ## <a name="EnablePersonalization"></a>Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] 
 By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]. To enable personalization, you modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_server_instance_md](includes/nav_web_server_instance_md.md)] instance for the Web client to include this line:
 
-    ```
-    "PersonalizationEnabled": "True"
-    ```
+```
+"PersonalizationEnabled": "True"
+```
+
 If you want to disable personalization in the Web client, remove this line.
 
 For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
