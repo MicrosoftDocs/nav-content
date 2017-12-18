@@ -32,12 +32,14 @@ Depending on the type of page and what it includes, you can:
 
     ![Personalize mode](media/ui_personalize_mode_small.png "Personalize mode")
 
-    > [!IMPORTANT]  
-    >   If you do not the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
+    > [!Note]  
+    >   If you do not see the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
 
 2.  Go to a page that you want to personalize.
 
     If you see a lock icon in the banner, see [Why the Page is Locked](ui-personalization-locked.md) for more details.
+
+    If see a ![Personalization blocked](media/ui_personalization_blocked.png "Personalization blocked"), you cannot personalize the page because it has been configured by an administrator.
 
 3.  Point to an area that you want to personalize, such as a field or column header in a list. Anything that you can personalize is immediately highlighted with an arrow or border.
 <!--
@@ -75,3 +77,4 @@ To help you better understand personalization, here are some pointers.
 [Managing Personalization](ui-personalization-manage.md)  
 [Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  
 [How to: Change the Role Center](change-role.md)  
+[Configuring the User Interface (UI) for Users](admin-configure-user-interface.md)  
