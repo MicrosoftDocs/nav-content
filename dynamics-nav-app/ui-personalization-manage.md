@@ -20,7 +20,7 @@ Users can personalize their workspace to suit their own preferences. As an admin
 -   Clearing any page personalizations that users have made.
 
 ## <a name="EnablePersonalization"></a>Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] 
-By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]. To enable personalization, you modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_instance_md](includes/nav_web_instance_md.md)] instance for the Web client to include this line:
+By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]. To enable personalization, you modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_server_instance_md](includes/nav_web_server_instance_md.md)] instance for the Web client to include this line:
 
     ```
     "PersonalizationEnabled": "True"
