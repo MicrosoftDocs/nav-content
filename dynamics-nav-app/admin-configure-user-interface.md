@@ -21,6 +21,7 @@ You configure the user interface for multiple users by customizing pages for a p
 
 ## General Information
 Consider the following information before you begin to configure the UI:
+-   If you configure a page, then the page cannot be personalized by users in the [!INCLUDE[nav_windows](includes/nav_windows_md.md)]. When users open the page for personalizing, a ![Personalization blocked](media/ui_personalization_blocked.png "Personalization blocked") icon display in the banner, and the user is prevented from making changes.
 -   Before you begin to configure the UI, the application can be configured to show and hide UI elements (such as fields, FastTabs, and FactBoxes) based on license or user permissions. For more information about how this is done, see [Removing Elements from the User Interface According to Permissions](/dynamics-nav/Removing-Elements-from-the-User-Interface-According-to-Permissions).
 
     To see the effect of the UI Elements Removal option, you can log on as a test user with the permission set of the profile you are configuring. The reason is that you as the administrator have the SUPER permission set, and you can therefore not see and test the resulting user interface during your own logon.    
@@ -33,7 +34,7 @@ Consider the following information before you begin to configure the UI:
 1.  Open a command prompt, and type the following command to change to the installation folder of the [!INCLUDE[nav_windows](includes/nav_windows_md.md)]. For example:  
 
     ```  
-    cd C:\Program Files\(x86)\Microsoft Dynamics NAV\110\RoleTailored Client  
+    cd "C:\Program Files (x86)\Microsoft Dynamics NAV\110\RoleTailored Client"  
     ```  
 
 2.  Type the following command to start the [!INCLUDE[nav_windows](includes/nav_windows_md.md)] in the configuration mode for a specific profile:  
@@ -42,9 +43,9 @@ Consider the following information before you begin to configure the UI:
     Microsoft.Dynamics.Nav.Client.exe -configure -profile:"profileid"  
     ```  
 
-     Replace **profileid** with the name of the profile that you want to configure.  
+    Replace **profileid** with the name of the profile that you want to configure.  
 
-     For example, to configure the Accounting Manager profile, use this command:  
+    For example, to configure the Accounting Manager profile, use this command:  
 
     ```  
     Microsoft.Dynamics.Nav.Client.exe -configure -profile:"Accounting Manager"  
