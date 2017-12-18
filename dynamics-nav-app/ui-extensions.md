@@ -23,7 +23,7 @@ You manage the extensions in the **Extension Management** window. You can access
 >   If you think you should have access to an extension but you cannot find its functionality, check the **Extension Management** window - if the extension is not listed there, you can install it as described in the following section.  
 
 ## Installing an Extension
-In the **Extension Management** window, you can see the extensions that are currently available, and are either installed or ready to be installed. 
+In the **Extension Management** window, you can see the extensions that are currently available, and are either installed or ready to be installed.
 
 > [!NOTE]  
 >   Extensions might need to be published before they are available in the list. Typically, this is something a Microsoft Partner helps with. For more information, see [How to: Publish and Install an Extension v2.0](https://go.microsoft.com/fwlink/?linkid=864046).
@@ -50,6 +50,6 @@ Microsoft provides the following extensions:
 
 ## See Also
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-payment-service-extensions.md)  
-[Migrate Business Data from Other Finance Systems](upload-data.md)  
+[Migrating Business Data from Other Finance Systems](upload-data.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] Extensions by Other Providers](ui-extensions-other.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
