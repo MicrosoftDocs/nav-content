@@ -23,6 +23,7 @@
 ## [Printing a Report](ui-work-report.md#PrintReport)
 ## [Language and Locale](about-locale-language.md)  
 ## [Languages of the Docs](about-languages.md)
+## [Accessibility and Keyboard Shortcuts](ui-accessibility.md)
 
 # [Setting Up Dynamics NAV](setup.md)
 ## [Setup and Administration](admin-setup-and-administration.md)
