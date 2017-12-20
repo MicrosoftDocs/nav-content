@@ -1,6 +1,6 @@
 ---
 title: Assistive features
-description: Keyboard shortcuts and other assistive features.
+description: Provides an overview of keyboard shortcuts and other assistive features.
 documentationcenter: ''
 author: jswymer
 ms.prod: "dynamics-nav-2018"
