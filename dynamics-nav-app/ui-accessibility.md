@@ -14,11 +14,11 @@ ms.author: jswymer
 
 ---
 # Accessibility and Keyboard Shortcuts in [!INCLUDE[navnow_md](includes/navnow_md.md)]
-This topic provides information about the features that make [!INCLUDE[navnow_md](includes/navnow_md.md)] readily available to people with disabilities. [!INCLUDE[d365fin](includes/d365fin_md.md)] supports the following accessibility features:  
+This topic provides information about the features that make [!INCLUDE[navnow_md](includes/navnow_md.md)] readily available to people with disabilities. [!INCLUDE[navnow_md](includes/navnow_md.md)] supports the following accessibility features:  
 
 -   Keyboard shortcuts
 
-    For more information, see [Keyboard Shortcuts](keyboard-shortcuts-windows-client.md)
+    For more information, see [Keyboard Shortcuts in [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](keyboard-shortcuts.md) and [Keyboard Shortcuts [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]](keyboard-shortcuts-windows-client.md).
 
 -   Navigation  
 

@@ -107,6 +107,8 @@ The following table provides an overview of shortcut key combinations in the [!I
 |Alt+Tab|Toggle between open windows|  
   
 ## See Also  
- [Keyboard Shortcuts in the AL](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-keyboard-shortcuts)  
- [Keyboard Shortcuts in the Development Environment](https://docs.microsoft.com/en-us/dynamics-nav/Keyboard-Shortcuts-in-the-Development-Environment)    
- [Working with Product](ui-work-product.md)  
+[Assistive Features](ui-accessibility.md)  
+[Keyboard Shortcuts in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](keyboard-shortcuts.md)  
+[Keyboard Shortcuts in the AL](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-keyboard-shortcuts)  
+[Keyboard Shortcuts in the Development Environment](https://docs.microsoft.com/en-us/dynamics-nav/Keyboard-Shortcuts-in-the-Development-Environment)    
+[Working with Product](ui-work-product.md)  
