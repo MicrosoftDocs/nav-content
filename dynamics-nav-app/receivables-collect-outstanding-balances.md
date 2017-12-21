@@ -43,7 +43,7 @@ After you have created finance charge memos and made any needed modifications, y
 
 ## Multiple Interest rates
 
-When you set up finance charge terms and reminder terms, for delayed payment penalty, you can specify multiple interest rates so that the penalty fee is calculated from different interest rates in different periods. If multiple interest rates are not set up, then the interest rate and period that is defined in the Finance Charge Terms and Reminder Terms windows for the whole period of calculation will be used. For more information, see [How to: Set Up Multiple Interest Rates.](finance-how-to-set-up-multiple-interest-rates.md).
+When you set up finance charge terms and reminder terms, for delayed payment penalty, you can specify multiple interest rates so that the penalty fee is calculated from different interest rates in different periods. If multiple interest rates are not set up, then the interest rate and period that is defined in the **Finance Charge Terms** and **Reminder Terms** windows for the whole period of calculation will be used. For more information, see [How to: Set Up Multiple Interest Rates.](finance-how-to-set-up-multiple-interest-rates.md).
 
 ## To send the Customer Statement report
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer Statement**, and then choose the related link.
