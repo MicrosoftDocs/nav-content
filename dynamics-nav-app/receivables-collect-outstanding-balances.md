@@ -9,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
-ms.date: 09/08/2017
+ms.date: 12/21/2017
 ms.author: sgroespe
 
 ---
@@ -39,7 +39,11 @@ You can manually create a finance charge memo for an individual customer, and fi
 
 After you create the finance charge memos, you can modify them. The text that appears at the beginning and end of the finance charge memo is determined by the finance charge terms, and can be seen in the **Description** column on the lines. If a calculated amount has been inserted automatically in the beginning or ending text, the text will not be adjusted if you delete lines. Then you must use the **Update Finance Charge Text** function.  
 
-After you have created finance charge memos and made any needed modifications, you can either print test reports or issue the finance charge memos, typically as email.  
+After you have created finance charge memos and made any needed modifications, you can either print test reports or issue the finance charge memos, typically as email.
+
+## Multiple Interest rates
+
+When you set up finance charge terms and reminder terms, for delayed payment penalty, you can specify multiple interest rates so that the penalty fee is calculated from different interest rates in different periods. If multiple interest rates are not set up, then the interest rate and period that is defined in the Finance Charge Terms and Reminder Terms windows for the whole period of calculation will be used. For more information, see [How to: Set Up Multiple Interest Rates.](finance-how-to-set-up-multiple-interest-rates.md).
 
 ## To send the Customer Statement report
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer Statement**, and then choose the related link.
