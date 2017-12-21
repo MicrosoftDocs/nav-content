@@ -48,7 +48,7 @@ The following procedure describes how to recreate a sales order. The steps are s
 
 The sales order is created and added to the **Sales Orders** window.
 
-## To delete archived Documents
+## To delete archived sales orders
 The following procedure describes how to delete archived sales orders. The steps are similar for other archived sales and purchase documents.
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delete Archived Sales Order Versions**, and then choose the related link.  
