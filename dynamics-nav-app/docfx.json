@@ -26,7 +26,7 @@
 		"overwrite": [],
 		"externalReference": [],
 		"globalMetadata": {
-			"searchScope": ["DynamcisNAV"],
+			"searchScope": ["DynamicsNAV"],
 			"uhfHeaderId": "MSDocsHeader-Dynamics365",
 			"titleSuffix": "Dynamics NAV App"
 		},
