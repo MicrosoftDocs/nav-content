@@ -21,8 +21,6 @@ The following topics describe local functionality that is unique to the Austrian
 ## In This Section  
 
 [VAT Reporting](vat-reporting.md)  
-[How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)  
-[How to: Update Currency Exchange Rates](../../finance-how-update-currencies.md)  
 [How to: Print General Ledger Setup Information](how-to-print-general-ledger-setup-information.md)  
 [How to: Block Shipment for Negative Inventory](how-to-block-shipment-for-negative-inventory.md)  
 [How to: Copy Existing Items to New Items](how-to-copy-existing-items-to-new-items.md)  
