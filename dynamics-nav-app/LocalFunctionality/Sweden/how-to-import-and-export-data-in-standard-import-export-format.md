@@ -11,7 +11,7 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 07/01/2017
+    ms.date: 01/10/2018
     ms.author: sgroespe
 
 ---
@@ -25,7 +25,6 @@ You can import and export general ledger data according to the standard import e
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
-    |**File Name**|Enter the name and path of the file that you want to import.|  
     |**Gen. Journal Template**|Select a general journal template.|  
     |**Gen. Journal Batch**|Select a general journal batch.|  
     |**Dimensions**|Select the SIE dimensions to import.|  
@@ -33,6 +32,7 @@ You can import and export general ledger data according to the standard import e
     |**Use Number Series for Doc. No.**|Select if a document number is not provided in the import file.|  
 
 3.  Choose the **OK** button.  
+4. Select the file to import.
 
 ## To export data in SIE format  
 
