@@ -20,7 +20,6 @@ The following topics describe local functionality that is unique to the Austrian
 
 ## In This Section  
 
-[Enhanced Document Management](enhanced-document-management.md)  
 [VAT Reporting](vat-reporting.md)  
 [How to: Print General Ledger Setup Information](how-to-print-general-ledger-setup-information.md)  
 [How to: Block Shipment for Negative Inventory](how-to-block-shipment-for-negative-inventory.md)  

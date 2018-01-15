@@ -19,8 +19,7 @@
 The following topics describe local functionality that is unique to the Swiss version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
- [Enhanced Document Management](enhanced-document-management.md)  
- [Swiss Electronic Payments](swiss-electronic-payments.md)  
+  [Swiss Electronic Payments](swiss-electronic-payments.md)  
   [Swiss Value Added Tax](swiss-value-added-tax.md)  
   [Swiss Inventory Management](swiss-inventory-management.md)  
   [Swiss General Ledger Accounts](swiss-general-ledger-accounts.md)  
@@ -28,4 +27,4 @@ The following topics describe local functionality that is unique to the Swiss ve
   [How to: Print General Ledger Setup Information](how-to-print-general-ledger-setup-information.md)
 
 ## See Also
-[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md) 
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)
