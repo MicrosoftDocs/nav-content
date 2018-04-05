@@ -9,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 12/01/2017
+ms.date: 04/05/2018
 ms.author: edupont
 
 ---
@@ -23,6 +23,18 @@ ms.author: edupont
 |**Business Processes**|-   [Getting Started](across-get-started.md)<br />-   [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Setting up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Business Functionality](madeira-business-functionality.md)<br />-   [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)|  
 |**Development and Administration**|-   [Getting Started](/dynamics-nav/index)<br />-   [Deployment](/dynamics-nav/deployment)<br />-   [Development in C/AL](/dynamics-nav/development)<br />-   [Development in AL](/dynamics-nav/developer/devenv-dev-overview)<br />-   [Administration](/dynamics-nav/administration)<br />-   [Upgrade](/dynamics-nav/upgrading-to-microsoft-dynamics-nav)<br />-  [Windows PowerShell Cmdlets](/powershell/dynamics-nav/overview?view=dynamicsnav-ps-2018)|  
 |**Community Resources**|-   [Microsoft Dynamics NAV Team Blog](https://blogs.msdn.microsoft.com/nav/)<br />-   [Microsoft Dynamics NAV Forum](http://community.dynamics.com/product/nav/f/34.aspx)<br />-   [Microsoft Dynamics PartnerSource \(requires PartnerSource account\)](https://mbs.microsoft.com/partnersource)<br />-   [Microsoft Partner Network \(requires Microsoft Partner Network membership account\)](https://mspartner.microsoft.com/en/us/Pages/index.aspx)|  
+
+## Previous Versions
+If you are looking for online content for [!INCLUDE[navcorfu](includes/navcorfu_md.md)] and earlier versions of Dynamics NAV, this is available in the **Previous Versions** section of the Docs site.  
+
+Direct links:
+
+* [[!INCLUDE[navcorfu](includes/navcorfu_md.md)]](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2016/hh173988(v=nav.90))    
+* [[!INCLUDE[navcrete](includes/navcrete_md.md)]](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2015/hh173988(v=nav.80))  
+* [Microsoft Dynamics NAV 2013 R2](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.71))  
+* [Microsoft Dynamics NAV 2013](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.70))  
+* [Microsoft Dynamics NAV 2009 R2](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2009r2/gg502505(v=nav.60))  
+* [Microsoft Dynamics NAV 2009](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))  
 
 
 ## See Also
