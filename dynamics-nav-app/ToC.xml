@@ -4,6 +4,7 @@
     <Node Name="" DisplayName="Overview of Business Functionality" Page="madeira-business-functionality.html"/>
     <Node Name="" DisplayName="Importing Business Data from Other Finance Systems" Page="upload-data.html"/>
     <Node Name="" DisplayName="Getting Dynamics NAV on Your Mobile Device" Page="install-mobile-app.html"/>
+    <Node Name="" DisplayName="Synchronize with Contacts in Microsoft Outlook" Page="admin-synchronize-outlook-contacts.html"/>
     <Node Name="" DisplayName="Using Dynamics NAV as Your Business Inbox in Outlook" Page="across-outlook.html"/>
     <Node Name="" DisplayName="Enabling Your Business Data for Power BI" Page="across-powerbi.html"/>
     <Node Name="" DisplayName="Using Dynamics NAV as a Power BI Data Source" Page="across-how-use-financials-data-source-powerbi.html"/>
