@@ -46,8 +46,8 @@ The electronic documents are stored in the locations that are defined in the Sal
 |---------|----------|---------------------|  
 |S|Outgoing VAT, ordinary rate|25|  
 |H|Outgoing VAT, reduced rate – food and beverage|15|  
-|R|Outgoing VAT, reduced rate – raw fish|11.11|  
-|AA|Outgoing VAT, low rate|8|  
+|R|Outgoing VAT, reduced rate – raw fish|15|  
+|AA|Outgoing VAT, low rate|10|  
 |E|VAT Exempt|0|  
 |Z|VAT Exempt (goods and services not included in the VAT regulations)|None, reported as 0|  
 |K|Emission allowances for private or public businesses – buyer calculates VAT|None, reported as 0|  
