@@ -1,1 +1,1 @@
-Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] is available as a preview. The functionality, and the content on this page, are subject to change.
+> Personalization in the [!INCLUDE[nav_web_md](nav_web_md.md)] is available in preview. The functionality, and the content on this page, are subject to change.
