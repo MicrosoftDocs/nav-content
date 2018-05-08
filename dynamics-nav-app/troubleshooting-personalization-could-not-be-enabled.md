@@ -12,6 +12,9 @@ ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
 # Troubleshooting: Personalization could not be enabled due to technical issues
+
+[!INCLUDE[personalization_early_release_md](includes/personalization_early_release_md.md)]
+
 In the ([!INCLUDE[nav_web_md](includes/nav_web_md.md)], when you select **Personalize** from your avatar, you get the following error:
 
 `Personalization could not be enabled due to technical issues. Try again later, or contact your system administrator`

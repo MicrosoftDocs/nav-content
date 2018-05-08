@@ -13,6 +13,9 @@ ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
 # Managing Personalization as an Administrator
+
+[!INCLUDE[personalization_early_release_md](includes/personalization_early_release_md.md)]
+
 Users can personalize their workspace to suit their own preferences. As an administrator, you can control and manage personalization by:
 
 -   Enabling or disabling the personalization feature for the entire the application ([!INCLUDE[nav_web_md](includes/nav_web_md.md)] only). You cannot disable personalization on a global basis for the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)].

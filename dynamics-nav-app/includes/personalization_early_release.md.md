@@ -1,1 +1,1 @@
-This is early-release functionality that we’re still working on. The functionality, and the content on this page, are subject to change.
+Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] is available as a preview. The functionality, and the content on this page, are subject to change.

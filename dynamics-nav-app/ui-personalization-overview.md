@@ -12,6 +12,9 @@ ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
 # Personalizing Your Workspace - Overview
+
+[!INCLUDE[personalization_early_release_md](includes/personalization_early_release_md.md)]
+
 You can customize, or *personalize*, your workspace to suit your work and preferences by changing the layout of pages so that they display only the information you need, where you need it. The personalization changes that you make will only affect what you see, not what other users see.
 
 You can personalize your workspace by using the [[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]](ui-personalization-windows-client.md) and [[!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-user.md). The personlization changes that you make will also be seen in the [!INCLUDE[nav_phone_md](includes/nav_phone_md.md)] and [!INCLUDE[nav_web_md](includes/nav_phone_md.md)].
