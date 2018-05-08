@@ -1,1 +1,2 @@
-> Personalization in the [!INCLUDE[nav_web_md](nav_web_md.md)] is available in preview. The functionality, and the content on this page, are subject to change.
+> [!NOTE]
+> [!INCLUDE[nav_web_md](nav_web_md.md)] personalization is in preview. The functionality is subject to change in coming releases.
