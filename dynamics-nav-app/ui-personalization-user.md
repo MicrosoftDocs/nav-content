@@ -36,7 +36,7 @@ Depending on the type of page and what it includes, you can:
     ![Personalize mode](media/ui_personalize_mode_small.png "Personalize mode")
 
     > [!Note]  
-    >   If you do not see the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
+    >   If you do not see the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
 
 2.  Go to a page that you want to personalize.
 
