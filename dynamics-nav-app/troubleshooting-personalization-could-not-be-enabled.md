@@ -17,7 +17,7 @@ In the ([!INCLUDE[nav_web_md](includes/nav_web_md.md)], when you select **Person
 `Personalization could not be enabled due to technical issues. Try again later, or contact your system administrator`
 
 ## Resolution
-This error can occur if personalization is not enabled correctly. To enable personalization, see [Enable/Disable Personalization](ui-personalization-manage.md#EnablePersonalization)
+This error can occur if personalization is not enabled correctly. To enable personalization, see [Enable/Disable Personalization](ui-personalization-manage.md#EnablePersonalization).
 
 ## See Also
 [Personalization Overview](ui-personalization-overview.md)  
