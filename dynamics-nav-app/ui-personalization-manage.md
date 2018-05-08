@@ -19,24 +19,40 @@ Users can personalize their workspace to suit their own preferences. As an admin
 -   Enabling or disabling the personalization feature for users of a specific profile.
 -   Clearing any page personalizations that users have made.
 
-## <a name="EnablePersonalization"></a>Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] 
-By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]. To enable personalization, you modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_server_instance_md](includes/nav_web_server_instance_md.md)] instance for the Web client to include this line:
+## <a name="EnablePersonalization"></a>Enable/Disable Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)] 
+By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)].
 
-```
-"PersonalizationEnabled": "True"
-```
+1.  Modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_server_instance_md](includes/nav_web_server_instance_md.md)] instance for the Web client to include this line:
 
-If you want to disable personalization in the Web client, remove this line.
+    ```
+    "PersonalizationEnabled": "True"
+    ```
 
-For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
+    If you want to disable personalization in the Web client, remove this line.
 
-## Disabling Personalization for a Profile
+    For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
+
+2. Download and publish the application symbols.
+
+    1. Download the application symbols from [here](http://download.microsoft.com/download/C/7/9/C79AF269-A67E-4EEF-B9F2-52FAFA43E026/Microsoft_Application_11.0.19738.0.app).
+    2. Open the [!INCLUDE[nav_shell](includes/nav_shell_md.md)] as an administrator, and run the following command:
+
+    ```
+    Publish-NAVApp -ServerInstance <ServerInstanceName> -Path "<SymbolFilePath>\Microsoft_Application_11.0.19738.0.app" -PackageType SymbolsOnly
+    ```
+    Replace `<ServerInstanceName>`with the name of [!INCLUDE[nav_server_md](includes/nav_server_md.md)] instance, such as `dynamicsnav110`, and `<SymbolFilePath>` with the path to the application symbol file.
+
+3. Configure [!INCLUDE[nav_server_md](includes/nav_server_md.md)] instance to **Enable loading application symbol references at server startup** (EnableSymbolLoadingAtServerStartup).
+
+    For more information, see [Configuring Dynamics NAV Server](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-server).
+
+## Disable Personalization for a Profile
 You can prevent all users that belong to a specific profile from being able to personalize their pages.
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Profiles**, and then choose the related link.
 2.  Select the profile in the list that you want to modify.
 3.  Select the **Disable personalization** check box, and then choose the **OK** button.
 
-## Clearing User Personalizations
+## Clear User Personalizations
 Clearing page personalization changes the page back to its original layout before any personalization was made. There are two ways to clear the personalizations that users have made to pages: using the **Delete User Personalization** page and using the **User Personalization Card** page.
 
 ### To clear user personalizations by using the Delete User Personalization page
