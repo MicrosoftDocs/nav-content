@@ -14,9 +14,6 @@ ms.prod: "dynamics-nav-2018"
 ---
 # Personalizing Your Workspace Using the Dynamics NAV Web Client
 
-[!INCLUDE[personalization_early_release_md](includes/personalization_early_release_md.md)]
-
-<!--NAV in the Web client-->
 You can customize, or *personalize*, your workspace to suit your work and preferences by changing pages so that they display only the information you need, where you need it. The personalization changes that you make will only affect what you see, not what other users see.
 
 Depending on the type of page and what it includes, you can:
