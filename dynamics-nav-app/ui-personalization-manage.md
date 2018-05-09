@@ -31,7 +31,7 @@ By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes
     "PersonalizationEnabled": "True"
     ```
 
-    If you want to disable personalization in the Web client, remove this line.
+    If you want to disable personalization, remove this line.
 
     For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
 
@@ -45,9 +45,12 @@ By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes
     ```
     Replace `<ServerInstanceName>`with the name of [!INCLUDE[nav_server_md](includes/nav_server_md.md)] instance, such as `dynamicsnav110`, and `<SymbolFilePath>` with the path to the application symbol file.
 
-3. Configure [!INCLUDE[nav_server_md](includes/nav_server_md.md)] instance to **Enable loading application symbol references at server startup** (EnableSymbolLoadingAtServerStartup).
+<!-- 
 
-    For more information, see [Configuring Dynamics NAV Server](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-server).
+3. Configure [!INCLUDE[nav_server_md](includes/nav_server_md.md)] instance to **Enable loading application symbol references at server startup** (EnableSymbolLoadingAtServerStartup). For more information, see [Configuring Dynamics NAV Server](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-server).
+
+    This step is optional, and not required to enable personalization. However, it ensures that new pages that are created by developers can be personalized. 
+-->
 
 ## Disable Personalization for a Profile
 You can prevent all users that belong to a specific profile from being able to personalize their pages.
