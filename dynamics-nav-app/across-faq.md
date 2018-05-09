@@ -46,7 +46,7 @@ Did you read about a new capability in the roadmap or on our blog recently? In t
 If you do not see the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
 
 ## Why am I blocked from personalizing a page? 
-If you cannot personalize a page, it can be caused by one of two reasons, as indicated by the ![Personalization locked](media/personalization-lock-icon.png "Personalization locked") or ![Personalization blocked](media/ui_personalization_blocked.png "Personalization blocked") icon in the **Personalizing** banner appears at the top.
+If you cannot personalize a page, it can be caused by one of two reasons, as indicated by the ![Personalization locked](media/personalization-lock-icon.png "Personalization locked") or ![Personalization blocked](media/ui_personalization_blocked.png "Personalization blocked") icon in the **Personalizing** banner at the top of the page.
 
 -    The ![Personalization locked](media/personalization-lock-icon.png "Personalization locked") icon means that either you have only ever used the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)] to personalize the page or you have used the [!INCLUDE[nav_web](includes/nav_web_md.md)] to personalize the page before, but it was done using an earlier version of [!INCLUDE[navnow_md](includes/navnow_md.md)]. For information about what you can do in this situation, see [Why the Page is Locked](ui-personalization-locked.md).
 
