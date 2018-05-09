@@ -20,7 +20,7 @@ You can customize, or *personalize*, your workspace to suit your work and prefer
 You can personalize your workspace by using the [[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]](ui-personalization-windows-client.md) and [[!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-user.md). The personlization changes that you make will also be seen in the [!INCLUDE[nav_phone_md](includes/nav_phone_md.md)] and [!INCLUDE[nav_web_md](includes/nav_phone_md.md)].
 
 > [!NOTE]
-> Personalization is not enabled in the [[!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-user.md) by default. If you want it enables, contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information.
+> Personalization is not enabled in the [[!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-user.md) by default. If you want it enabled, contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information.
 
 The administrator in your company may have already customized your user interface to a role-specific layout for all users who have the same profile as you and use the same Role Center. Personalizations that you make to your workspace are saved under your user account, so they will be preserved even if an administrator rolls out a new set of role-specific layouts  in your company. For more information, see [Configuring the User Interface](admin-configure-user-interface.md).
 
