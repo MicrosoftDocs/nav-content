@@ -33,6 +33,8 @@
 ### [How to: Manage Users and Permissions](ui-how-users-permissions.md)
 ### [Using Job Queues to Schedule Tasks](admin-job-queues-schedule-tasks.md)
 ### [How to: Publish a Web Service](across-how-publish-web-service.md)
+### [Classifying Data Sensitivity](admin-classifying-data-sensitivity.md)  
+### [Responding to Requests About Personal Data](admin-responding-to-requests-about-personal-data.md)
 ## [Setting Up Finance](finance-setup-finance.md)
 ### [Defining Payment Methods](finance-payment-methods.md)
 ### [Setting Up Posting Groups](finance-posting-groups.md)
