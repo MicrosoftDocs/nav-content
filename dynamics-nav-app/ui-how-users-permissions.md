@@ -103,4 +103,4 @@ Administrators can define periods of time during which specified users are able 
 [Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Creating Microsoft Dynamics NAV Users](dynamics-nav/How-to--Create-Microsoft-Dynamics-NAV-Users)  
+[Creating Microsoft Dynamics NAV Users](/dynamics-nav/How-to--Create-Microsoft-Dynamics-NAV-Users)  
