@@ -44,18 +44,20 @@ The following procedure describes how to set up automatic bills for sales and re
 
 ## To set up automatic bills for sales and receivables  
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales & Receivables Setup**, and then choose the related link.  
-2.  On the **Bills** FastTab, in the **Temporary Bill List No.** field, select the temporary bill list number. Fill in the fields as described in the following table.  
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales & Receivables Setup**, and then choose the related link.  
+2. On the **Bills** FastTab, in the **Temporary Bill List No.** field, select the temporary bill list number. Fill in the fields as described in the following table.  
 
-    |Field|Description|  
-    |---------------------------------|---------------------------------------|  
-    |**Temporary Bill List No.**|Select the number series that will be used for temporary bill lists.|  
-    |**Recall Bill Description**|Specify the descriptive text that will be used for recalled bills.|  
-    |**Bank Receipts Risk Period**|Specify a date formula to calculate the risk period in days, such as **20D**.<br /><br /> This will be a reference for bank receipt closing. Customer bills will be closed only at the end of the risk period that you specify here.|  
 
-3.  Choose the **OK** button.  
+   |             Field             |                                                                                                             Description                                                                                                              |
+   |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   |  **Temporary Bill List No.**  |                                                                                 Select the number series that will be used for temporary bill lists.                                                                                 |
+   |  **Recall Bill Description**  |                                                                                  Specify the descriptive text that will be used for recalled bills.                                                                                  |
+   | **Bank Receipts Risk Period** | Specify a date formula to calculate the risk period in days, such as **20D**.<br /><br /> This will be a reference for bank receipt closing. Customer bills will be closed only at the end of the risk period that you specify here. |
 
- Next, you must specify bill codes for those payment methods that you use for automatic payments and automatic bills.  
+
+3. Choose the **OK** button.  
+
+   Next, you must specify bill codes for those payment methods that you use for automatic payments and automatic bills.  
 
 ## To specify bill codes for a payment method  
 

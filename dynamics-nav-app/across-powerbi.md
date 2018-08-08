@@ -30,12 +30,13 @@ On the Power BI site, you can find additional information about [adding the Dyna
 
 To access the Dynamics NAV content pack in Power BI, in the connection window, you must specify the following information:
 
-| Field       | Description              |
-|-------------|--------------------------|
-|**OData Feed URL**|The OData URL so Power BI can access data from your company, such as https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US').|
-|**Authentication method**|Choose **Basic**.|
-|**User name**|The email account that you used to sign up for Dynamics NAV, such as *me@mybusiness.com*.|
-|**Password**|This is the web service access key for your user account in Dynamics NAV.|
+
+|           Field           |                                                             Description                                                             |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|    **OData Feed URL**     | The OData URL so Power BI can access data from your company, such as <https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US>'). |
+| **Authentication method** |                                                          Choose **Basic**.                                                          |
+|       **User name**       |                  The email account that you used to sign up for Dynamics NAV, such as <em>me@mybusiness.com</em>.                   |
+|       **Password**        |                              This is the web service access key for your user account in Dynamics NAV.                              |
 
 This means that you must get two pieces of information from Dynamics NAV: The OData URL and the web service access key for your user account.  
 **Getting the URL**  
@@ -70,7 +71,7 @@ If you see this error after you enter your Dynamics NAV URL, make sure the follo
 
 - The URL follows exactly this pattern:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+    <https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US>')  
 - Delete any text after the company name in parenthesis  
 - Make sure there are no trailing forward slash at the end of the URL.  
 - Make sure that it is a secure connection as indicated by the URL starting with *https*.  
@@ -92,7 +93,7 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 * Verify that the URL follows the pattern that was specified earlier:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+    <https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US>')  
 * A common mistake is to specify the full URL for a specific web service:
 
     https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance-setup  

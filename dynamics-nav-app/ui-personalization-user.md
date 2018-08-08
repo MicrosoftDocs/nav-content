@@ -35,32 +35,32 @@ Depending on the type of page and what it includes, you can:
     > [!Note]  
     >   If you do not see the **Personalize** action, then personalization has not been enabled. Contact to your administrator or see [Enabling or Disabling Personalization in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](ui-personalization-manage.md#EnablePersonalization) for information about how to enable it.
 
-2.  Go to a page that you want to personalize.
+2. Go to a page that you want to personalize.
 
-    If there is a ![Personalization locked](media/personalization-lock-icon.png "Personalization locked") icon in the banner, see [Why the Page is Locked](ui-personalization-locked.md) for more details.
+   If there is a ![Personalization locked](media/personalization-lock-icon.png "Personalization locked") icon in the banner, see [Why the Page is Locked](ui-personalization-locked.md) for more details.
 
-    If there is a ![Personalization blocked](media/ui_personalization_blocked.png "Personalization blocked") icon, you cannot personalize the page because it has been configured by an administrator.
+   If there is a ![Personalization blocked](media/ui_personalization_blocked.png "Personalization blocked") icon, you cannot personalize the page because it has been configured by an administrator.
 
-3.  Point to an area that you want to personalize, such as a field or column header in a list. Anything that you can personalize is immediately highlighted with an arrow or border.
-<!--
-    -  If a component can be personalized, an arrow head (![Personalization indicator arrow left](media/ui_personalize_arrow_left.png "Personalization indicator arrow left") or ![Personalization indicator arrow down](media/ui_personalize_arrow_down.png "Personalization indicator arrow down")) appears.
-    -   If the component is a part, the extent of the part is indicated by a border.
-    -   The freeze pane in a list is indicated by a vertical line along the entire right-side of the last column of the freeze pane.
-    -->
+3. Point to an area that you want to personalize, such as a field or column header in a list. Anything that you can personalize is immediately highlighted with an arrow or border.
+   <!--
+   -  If a component can be personalized, an arrow head (![Personalization indicator arrow left](media/ui_personalize_arrow_left.png "Personalization indicator arrow left") or ![Personalization indicator arrow down](media/ui_personalize_arrow_down.png "Personalization indicator arrow down")) appears.
+   -   If the component is a part, the extent of the part is indicated by a border.
+   -   The freeze pane in a list is indicated by a vertical line along the entire right-side of the last column of the freeze pane.
+   -->
 
-4.  Use this table to help make changes:
-        <table>
-        <tr><th>What do you want to do</td><th>How to do it</th></tr>
-        <tr><td>Move something, like a field, column in list, tile, or part</td><td> Point anywhere on what you want to move, and drag it to its new location. The location is indicated by either a thick horizontal or vertical line.</td></tr>
-        <tr><td>Remove something</td><td>Select the arrowhead, and choose <b>Remove</b>. </td></tr>
-        <tr><td>Add a field or column</td><td>In the <b>Personalizing</b> banner, choose <b>More</b>, and then choose <b>Field</b>.<br /></br>The <b>Add Field to Page</b> pane opens on the right. It lists the fields that you can add to the page. Fields marked as <b>Placed</b> are already on the page. Fields marked as <b>Ready</b> are not currently on the page.<br /></br>To add a field, drag it from the pane to the location that you want it. The location is indicated by either a thick horizontal or vertical line.</td></tr>
-        <tr><td>Change the freeze pane in a list to another column</td><td>Select the arrowhead of the column that you want as the last column of the freeze pane, and then choose <b>Set Freeze Pane</b>.<br /><br/>If you want to set the freeze pane back to its original designed location, select the arrowhead for the current freeze pane column, and choose <b>Clear Freeze Pane</b>. Note: You cannot remove original freeze pane. There will always be a freeze pane that includes at least one column.</td></tr>
-      </table>
+4. Use this table to help make changes:
+       <table>
+       <tr><th>What do you want to do</td><th>How to do it</th></tr>
+       <tr><td>Move something, like a field, column in list, tile, or part</td><td> Point anywhere on what you want to move, and drag it to its new location. The location is indicated by either a thick horizontal or vertical line.</td></tr>
+       <tr><td>Remove something</td><td>Select the arrowhead, and choose <b>Remove</b>. </td></tr>
+       <tr><td>Add a field or column</td><td>In the <b>Personalizing</b> banner, choose <b>More</b>, and then choose <b>Field</b>.<br /></br>The <b>Add Field to Page</b> pane opens on the right. It lists the fields that you can add to the page. Fields marked as <b>Placed</b> are already on the page. Fields marked as <b>Ready</b> are not currently on the page.<br /></br>To add a field, drag it from the pane to the location that you want it. The location is indicated by either a thick horizontal or vertical line.</td></tr>
+       <tr><td>Change the freeze pane in a list to another column</td><td>Select the arrowhead of the column that you want as the last column of the freeze pane, and then choose <b>Set Freeze Pane</b>.<br /><br/>If you want to set the freeze pane back to its original designed location, select the arrowhead for the current freeze pane column, and choose <b>Clear Freeze Pane</b>. Note: You cannot remove original freeze pane. There will always be a freeze pane that includes at least one column.</td></tr>
+     </table>
 
-    > [!IMPORTANT]  
-    >   You cannot make changes to a list if the list is shown as tiles. You must first switch the page to the list view by selecting the ![Show as list](media/ui_show_as_list_icon.png "Show as list arrow left") icon.
+   > [!IMPORTANT]  
+   >   You cannot make changes to a list if the list is shown as tiles. You must first switch the page to the list view by selecting the ![Show as list](media/ui_show_as_list_icon.png "Show as list arrow left") icon.
 
-5.  You can continue to make changes on the same page or move to another page. Your changes are automatically saved as you make them. When you are done, in the **Personalizing** banner, choose **Done**.
+5. You can continue to make changes on the same page or move to another page. Your changes are automatically saved as you make them. When you are done, in the **Personalizing** banner, choose **Done**.
 
 ## Clearing Personalization to Change a Page Back to its Original Layout
 At some point, you might want to undo all the personalization changes that you have made to a page over time so that page looks like it did originally. To do this, in the **Personalizing** banner, choose **More**, and then **Clear personalization**.
