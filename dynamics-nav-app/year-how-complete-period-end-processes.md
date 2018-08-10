@@ -1,5 +1,5 @@
 ---
-title: Optional Activities for Closing Periods 
+title: Optional Activities for Closing Periods
 description: This topic outlines the optional processes and activities for closing accounting periods in Dynamics NAV.  
 
 documentationcenter: ''
@@ -11,7 +11,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 06/19/2017
+ms.date: 08/10/2018
 ms.author: jswymer
 
 ---
@@ -42,14 +42,14 @@ ms.author: jswymer
 * Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.  
 * Run the **Delete Invoiced Purchase Orders** batch job.  
 
-Fixed Assets
+## Fixed Assets
 * Post all maintenance costs have been posted through the fixed asset journals or invoices.
 * Post adjustments.
 * Post appreciation.
 * Post depreciation.
 * Update and post the recurring fixed asset journal.
 
-Intercompany
+## Intercompany
 * Process Intercompany Transactions
 
 ## Calculate and Process Sales Tax

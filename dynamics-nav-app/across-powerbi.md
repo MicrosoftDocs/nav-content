@@ -2,12 +2,13 @@
 title: "Using the Dynamics NAV Content Pack for Power BI"
 author: edupont04
 ms.custom: na
-ms.date: 09/22/2016
+ms.date: 08/10/2018
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: "dynamics-nav-2018"
+ms.author: edupont
 ---
 
 # Using the Dynamics NAV Content Pack for Power BI

@@ -1,7 +1,7 @@
 ---
-    title: How to Remove and Reapply Item Entries 
+    title: How to Remove and Reapply Item Entries
     description: You can view and manually change certain item application entries that are created automatically during inventory transactions.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -11,14 +11,14 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 09/07/2017
+    ms.date: 08/10/2018
     ms.author: sgroespe
 
 ---
 # How to: Remove and Reapply Item Ledger Entries
 In the **Application Worksheet** window, you can view and manually change certain item application entries that are created automatically during inventory transactions.  
 
-When you post a transaction where items are moved in or out of inventory, an item application is created between each inventory increase and inventory decrease. These applications determine the flow of costs from the goods that are received in inventory to the cost of goods going out of inventory. Because of the way the unit cost is calculated, an incorrect item application could lead to a skewed average cost and a skewed unit cost. For more information, see Design Details: Item Application.
+When you post a transaction where items are moved in or out of inventory, an item application is created between each inventory increase and inventory decrease. These applications determine the flow of costs from the goods that are received in inventory to the cost of goods going out of inventory. Because of the way the unit cost is calculated, an incorrect item application could lead to a skewed average cost and a skewed unit cost. For more information, see [Design Details: Item Application](design-details-item-application.md).
 
 The following scenarios might require that you undo an application or reapply item ledger entries:
 

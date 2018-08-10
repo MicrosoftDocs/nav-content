@@ -1,7 +1,7 @@
 ---
-    title: How to Plan Put-aways in Worksheets 
+    title: How to Plan Put-aways in Worksheets
     description: If your location requires both put-away and receive processing, and you want to plan put-away instructions for a number of receipts, rather than have employees follow the instructions that the program creates for separate posted receipts, you can use the put-away worksheet.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -11,7 +11,7 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 08/16/2017
+    ms.date: 08/10/2018
     ms.author: sgroespe
 
 ---
@@ -24,9 +24,9 @@ If you do not select this field, the program will automatically create put-away 
 
 > [!NOTE]
 >  Regardless of the status of the **Use Put-away Worksheet** field on the location card, you can always get put-away instruction lines, that is, posted receipt lines, into the put-away worksheet by doing the following:  
-> 
+>
 > 1. In the **Warehouse Put-away** window, press Ctrl+D to delete the entire put-away instruction, or select the lines that you want to process in the worksheet and delete them.  
->    2.  Continue the process in as many put-aways as you wish, until you have deleted the lines you want to work on in the worksheet. Now choose **Put-away Worksheets** and proceed with planning.  
+> 2.  Continue the process in as many put-aways as you wish, until you have deleted the lines you want to work on in the worksheet. Now choose **Put-away Worksheets** and proceed with planning.  
 
 ## To plan instructions in the put-away worksheet  
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Put-away Worksheet**, and then choose the related link.  
