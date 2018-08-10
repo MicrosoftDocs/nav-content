@@ -24,14 +24,14 @@ You can choose to include opening balances in the file, but these are not actual
 
 If you do not close your fiscal year or do not run the **Close Year** action before generating the report, income statement accounts will still have balances, which will be reported in the file.  
 
-> [!NOTE]  
+> [!NOTE]
 >  Opening balances are only included in the report for accounts that have a balance not equal to zero. You can identify opening balances by the following values in the fields:  
->   
->  -   JournalCode = 0  
-> -   JournalLib = BALANCE OUVERTURE  
-> -   EcritureNum = 0  
-> -   EcritureLib = Accounts prefixed with BAL OUV  
-> -   ValidDate = Start date specified on the report's request page  
+> 
+> - JournalCode = 0  
+>   -   JournalLib = BALANCE OUVERTURE  
+>   -   EcritureNum = 0  
+>   -   EcritureLib = Accounts prefixed with BAL OUV  
+>   -   ValidDate = Start date specified on the report's request page  
 
 ## To export general ledger entries to a text file for a tax audit  
 

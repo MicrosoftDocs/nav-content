@@ -97,7 +97,7 @@ The following sections describe how to assign VAT posting groups to individual e
 
 * On the **Item** card, expand the **Price & Posting** FastTab, and then choose **Show more** to display the **VAT Product Posting Group** field.  
 * On the **Resource** card, expand the **Invoicing** FastTab.  
-3. Choose the VAT product posting group.  
+* Choose the VAT product posting group.  
 
 ## To set up clauses to explain the use of non-standard VAT rates
 You set up a VAT clause to describe information about the type of VAT that is being applied. The information may be required by government regulation. After you set up a VAT clause, and associate it with a VAT posting setup, the VAT clause is displayed on printed sales documents that use the VAT posting setup group. 
@@ -219,8 +219,8 @@ You use the VAT rate change tool to manage changes in the standard rate of VAT. 
 2. Verify that you have already set up the VAT product posting group conversion or general product posting group conversion.  
 3. Choose the **Perform Conversion** check box.  
   
-> [!IMPORTANT]  
-    >  Clear the **VAT Rate Change Tool Completed** check box. The check box is automatically selected when the VAT rate change conversion is completed.  
+> [!IMPORTANT]
+>  Clear the **VAT Rate Change Tool Completed** check box. The check box is automatically selected when the VAT rate change conversion is completed.  
   
 4. Choose the **Convert** action.  
 5. After the conversion is complete, on the **Home** tab, in the **Process** group, choose **VAT Rate Change Log Entries** to view the results of the conversion.  

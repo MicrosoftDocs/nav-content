@@ -28,8 +28,8 @@ To create an invoice directly, you can use the **Service Contract** window. You 
 5. In the **Action** field, choose **Create Invoices**.  
 6. Choose **OK** to create the service invoices.  
   
-  > [!NOTE]  
-  >  You cannot create service invoices for the service contract when the **Change Status** field value is set to **Open**.  
+   > [!NOTE]  
+   >  You cannot create service invoices for the service contract when the **Change Status** field value is set to **Open**.  
   
 ## To post an invoice from a service order  
 The following procedure describes how to define the part of service that you will charge the customer for.  
@@ -46,9 +46,9 @@ The following procedure describes how to define the part of service that you wil
   
 5. Choose **Post**, and then either **Invoice** or **Ship and Invoice**. For more information about these options, see [Posting in Service Management](service-service-posting.md).  
   
- The service line you have selected is posted. You can post several service lines at once by selecting them all and choosing **Post**. If you do this, make sure you have filled in all the necessary information on the lines you want to post.  
+   The service line you have selected is posted. You can post several service lines at once by selecting them all and choosing **Post**. If you do this, make sure you have filled in all the necessary information on the lines you want to post.  
   
- When you post the order with the **Invoice** option, a posted service invoice is created along with the corresponding ledger entries and updates to the relevant fields on the service lines of the order. In addition, previously posted shipment documents are updated with the quantities that have been invoiced. If you select the **Ship and Invoice** posting option, a posted shipment is created.
+   When you post the order with the **Invoice** option, a posted service invoice is created along with the corresponding ledger entries and updates to the relevant fields on the service lines of the order. In addition, previously posted shipment documents are updated with the quantities that have been invoiced. If you select the **Ship and Invoice** posting option, a posted shipment is created.
 
 ## To create a service invoice manually  
 Typically, after you post a service order with the **Invoice** or **Ship and Invoice** option, a service invoice is posted automatically. Yet, you may need to issue an invoice that is not linked either to a service contract or to a service order. This procedure explains how to issue an invoice at the same time that the customer receives the service.  
@@ -76,7 +76,7 @@ You might need to create a service invoice for the service that has already been
 3. Create invoice lines for services shipped but not invoiced. Alternatively, you can use the **Get Shipment Lines** action to add posted shipment lines to the invoice.  
 4. Post the service invoice.  
   
- The posted service invoice and the corresponding ledger entries are created. Previously posted shipment documents are updated with the invoiced quantities and the relevant quantities on the service lines of the source orders.  
+   The posted service invoice and the corresponding ledger entries are created. Previously posted shipment documents are updated with the invoiced quantities and the relevant quantities on the service lines of the source orders.  
 
 ## To create a combined invoice  
 You can invoice the customer for services provided on different service orders. Invoice lines are created for items, resource hours, or costs that have already been shipped from different service orders but not yet invoiced.  

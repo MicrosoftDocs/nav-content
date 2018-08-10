@@ -21,7 +21,7 @@ In the **Chart of Accounts** window, the following fields are available:
 - **Source Type**  
 - **Currency Code**  
 
- The following table shows the field, associated tab, description, and the usage.  
+  The following table shows the field, associated tab, description, and the usage.  
 
 |Field|Tab|Description|Usage|  
 |-----------|---------|-----------------|-----------|  

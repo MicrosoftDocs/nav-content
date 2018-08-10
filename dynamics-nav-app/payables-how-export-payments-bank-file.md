@@ -39,12 +39,12 @@ You use the **Credit Transfer Registers** window to view the payment files that 
     Any error messages will be shown in the **Payment File Errors** FactBox where you can also choose an error message to see detailed information. You must resolve all errors before the payment file can be exported.
 
     > [!TIP]  
->   When you use the bank data conversion service, a common error message states that the bank account number does not have the length that your bank requires. To avoid or resolve the error, you must remove the value in the **IBAN** field in the **Bank Account Card** window and then, in the **Bank Account No.** field, enter a bank account number in the format that your bank requires.
+   >   When you use the bank data conversion service, a common error message states that the bank account number does not have the length that your bank requires. To avoid or resolve the error, you must remove the value in the **IBAN** field in the **Bank Account Card** window and then, in the **Bank Account No.** field, enter a bank account number in the format that your bank requires.
 
 6. In the **Save As** window, specify the location that the file is exported to, and then choose **Save**.
 
     > [!NOTE]  
->   If you are using EFT, save the resulting vendor remittance form as a Word document or select to have it emailed directly to the vendor. The payments are now added to the **Generate EFT File** window from where you can generate multiple payment orders together to save transmission cost. For more information, see the following steps.
+   >   If you are using EFT, save the resulting vendor remittance form as a Word document or select to have it emailed directly to the vendor. The payments are now added to the **Generate EFT File** window from where you can generate multiple payment orders together to save transmission cost. For more information, see the following steps.
 7. In the **Payment Journal** window, choose the **Generate EFT File** action.
 
     In the **Generate EFT File** window, all payments set up for EFT that you have exported from the payment journal for a specified bank account but not yet generated are listed on the **Lines** FastTab.
@@ -56,11 +56,11 @@ The bank payment file is exported to the location that you specify, and you can 
 ## To export payments that represent customer refunds
 The following describes a work-around for exporting electronic refund payments.
 
-> [!CAUTION]  
+> [!CAUTION]
 >   The resulting payment journal lines cannot be posted, deleted, or voided.
-1. Set up the customer as a vendor. Name it "Customer X for Refunds", for example. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).
-2. On the payment journal line for the customer, set the **Account Type** field to **Customer**, and the **Document Type** field to **Refund**.
-3. Perform the normal steps for payment export as described in the "To export payments to a bank file" section.
+> 1. Set up the customer as a vendor. Name it "Customer X for Refunds", for example. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).
+> 2. On the payment journal line for the customer, set the **Account Type** field to **Customer**, and the **Document Type** field to **Refund**.
+> 3. Perform the normal steps for payment export as described in the "To export payments to a bank file" section.
 
 ## To plan when to post exported payments
 If you do not want to post a payment journal line for an exported payment, for example because you are waiting for confirmation that the transaction has been processed by the bank, you can just delete the journal line. When you later create a payment journal line to pay the remaining amount on the invoice, the **Total Exported Amount** field shows how much of the payment amount has already been exported. Also, you can find detailed information about the exported total by choosing the **Credit Transfer Reg. Entries** button to see details about exported payment files.
