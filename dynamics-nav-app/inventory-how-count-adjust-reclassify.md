@@ -95,7 +95,7 @@ Employees can now proceed to count inventory and record any discrepancies on the
     The related fields are updated accordingly.
 
     > [!NOTE]  
->   If the physical count reveals differences that are caused by items posted with incorrect location codes, do not enter the differences in the physical inventory journal. Instead, use the reclassification journal or a transfer order to redirect the items to the correct locations. For more information, see Item Reclass. Journal or How to: Create Transfer Orders.
+   >   If the physical count reveals differences that are caused by items posted with incorrect location codes, do not enter the differences in the physical inventory journal. Instead, use the reclassification journal or a transfer order to redirect the items to the correct locations. For more information, see Item Reclass. Journal or How to: Create Transfer Orders.
 
 2. To adjust the calculated quantities to the actual counted quantities, choose the **Post** action.
 

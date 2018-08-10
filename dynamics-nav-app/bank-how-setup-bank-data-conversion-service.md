@@ -32,7 +32,7 @@ To import or export bank files, you must set up your own bank account and your v
 2. The **Bank Data Conv. Service Setup** window opens with three fields prefilled with relevant URLs of the provider of bank data conversion service.
 
     > [!NOTE]  
->   In the CRONUS International Ltd. demonstration database, the User Name and Password fields are prefilled with demonstration logon information, which you will replace with your company’s actual information as you sign up for the bank data conversion service.
+   >   In the CRONUS International Ltd. demonstration database, the User Name and Password fields are prefilled with demonstration logon information, which you will replace with your company’s actual information as you sign up for the bank data conversion service.
 3. In the **Sign-up URL** field, choose the browser button to open the service provider’s sign-up page.  
 4. On the sign-up page of the bank data service provider, enter the user name and password for your company’s subscription to the service, and then complete the sign-up process as instructed by the service provider.
 

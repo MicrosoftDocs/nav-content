@@ -23,10 +23,10 @@ The point of the registration is that Dynamics NAV and the service that you want
     If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://azure.microsoft.com/en-us/documentation/articles).
 2. In the left navigation pane, choose **More services**, and then choose **App registrations**.
 3. In the top menu, choose **Add**, and then, in the **Create pane**, fill in the fields with the following information:
-    - **Name**: Specify a name for your Dynamics NAV solution, such as *Dynamics NAV*.
-    - **Application Type**: Choose **Web app* / API**.
-    - **Sign-on URL**: Enter the URL for your Dynamics NAV browser client, such as *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
-        The OAuthLanding.htm file is a file that helps manage the exchange of data between Dynamics NAV and other services through Azure AD.
+   - **Name**: Specify a name for your Dynamics NAV solution, such as *Dynamics NAV*.
+   - **Application Type**: Choose <strong>Web app* / API</strong>.
+   - **Sign-on URL**: Enter the URL for your Dynamics NAV browser client, such as *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
+       The OAuthLanding.htm file is a file that helps manage the exchange of data between Dynamics NAV and other services through Azure AD.
 4. Choose the **Create** button.
     This adds your Dynamics NAV to the **App registrations pane**, so you can now add settings to it.
 5. In the **App registrations list**, choose your new app. If this does not open the **Settings** pane, you should see an action to open **Settings**.

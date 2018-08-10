@@ -177,13 +177,13 @@ You can add links to the button.
 ### To add a link to a button   
 If you have permission to view a list, such as the sales order list, you can add a link to the list from a button in your navigation pane.  
 
-1.  In the **Customize Navigation Pane** dialog box, in the **Navigation pane buttons** field, select the menu that you want to add the link to.  
+1. In the **Customize Navigation Pane** dialog box, in the **Navigation pane buttons** field, select the menu that you want to add the link to.  
 
-2.  Choose the **Add** button.  
+2. Choose the **Add** button.  
 
-3.  Browse to the link that you want to add, and then choose the **OK** button.  
-> [!TIP]
-> If you find a link in the **Departments** pages, you can also add it to the navigation pane. For more information, see the section Adding a Link from Departments to Your Role Center.  
+3. Browse to the link that you want to add, and then choose the **OK** button.  
+   > [!TIP]
+   > If you find a link in the **Departments** pages, you can also add it to the navigation pane. For more information, see the section Adding a Link from Departments to Your Role Center.  
 
 ### To move or copy a link from one button to another  
 
@@ -215,19 +215,21 @@ The following table describes the types of links in each category on the **Depar
 
 ### To copy department links to your Role Center  
 
-1.  Open the **Departments** page.  
+1. Open the **Departments** page.  
 
-2.  Right-choose the link, and then choose of the following (only one of these options will be available).  
+2. Right-choose the link, and then choose of the following (only one of these options will be available).  
 
-    |**Select**|**To add the link to**|  
-    |----------------|----------------------------|  
-    |**Add to Navigation Pane**|The **Home** button in navigation pane on your Role Center.|  
-    |**Add to Actions on Role Center Ribbon**|The **Actions** menu on the ribbon on your Role Center|  
-    |**Add to Reports on Role Center Ribbon**|The **Reports** menu on the ribbon on your Role Center|  
 
-3.  Confirm the message that appears.  
+   |                **Select**                |                   **To add the link to**                    |
+   |------------------------------------------|-------------------------------------------------------------|
+   |        **Add to Navigation Pane**        | The **Home** button in navigation pane on your Role Center. |
+   | **Add to Actions on Role Center Ribbon** |   The **Actions** menu on the ribbon on your Role Center    |
+   | **Add to Reports on Role Center Ribbon** |   The **Reports** menu on the ribbon on your Role Center    |
 
- The new link now appears in the menu to which you added it. However, you may want to move the link to another position in the menu. For example, if you added a link to the navigation pane, it will appear on the **Home** menu, but you can move it to another menu in the navigation pane. For more information, see the section Customizing the Navigation Pane.
+
+3. Confirm the message that appears.  
+
+   The new link now appears in the menu to which you added it. However, you may want to move the link to another position in the menu. For example, if you added a link to the navigation pane, it will appear on the **Home** menu, but you can move it to another menu in the navigation pane. For more information, see the section Customizing the Navigation Pane.
 
 ## Adding Charts to Role Centers and List Pages
 When you have complex information, you may want to view a visual representation of the data to help see trends and make decisions. For example, you may want to monitor the balances per bank account for your company in a chart. You use the chart pane to visually show data from a list on the following types of pages:  
@@ -318,33 +320,33 @@ Basic UI changes include things like:
 
 #### To cancel basic UI changes
 
-1.  Go to your Role Center.  
+1. Go to your Role Center.  
 
-     On the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon"), choose **Customize**, and then choose **Reset User-Specified Settings**.  
+    On the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon"), choose **Customize**, and then choose **Reset User-Specified Settings**.  
 
-2.  Choose the **Reset UI settings** button. Alternatively, choose the **Reset all** button to also cancel your decisions for handling files and automation objects.  
+2. Choose the **Reset UI settings** button. Alternatively, choose the **Reset all** button to also cancel your decisions for handling files and automation objects.  
 
- All basic UI changes that you have ever made under your current user logon to [!INCLUDE[navnow_md](includes/navnow_md.md)], or since you last chose the **Reset UI settings** button, are canceled. The user interface is reset to the default configuration for your profile.  
+   All basic UI changes that you have ever made under your current user logon to [!INCLUDE[navnow_md](includes/navnow_md.md)], or since you last chose the **Reset UI settings** button, are canceled. The user interface is reset to the default configuration for your profile.  
 
 #### To cancel your decision for running or saving external files  
 
-1.  Go to your Role Center.  
+1. Go to your Role Center.  
 
-     On the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon"), choose **Customize**, and then choose **Reset User-Specified Settings**.  
+    On the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon"), choose **Customize**, and then choose **Reset User-Specified Settings**.  
 
-2.  Choose the **Reset file handling decision** button. Alternatively, choose the **Reset all** button to also cancel your view changes and decision for handling automation objects.  
+2. Choose the **Reset file handling decision** button. Alternatively, choose the **Reset all** button to also cancel your view changes and decision for handling automation objects.  
 
- All decisions for default handling of file types that you have ever made under your current user logon, or since you last chose the **Client file access** button, are canceled and reset to the default configuration for your profile. The next time [!INCLUDE[navnow_md](includes/navnow_md.md)] receives an external file of any type, you are presented with a dialog with the options, **Save**, **Run**, and **Cancel**  
+   All decisions for default handling of file types that you have ever made under your current user logon, or since you last chose the **Client file access** button, are canceled and reset to the default configuration for your profile. The next time [!INCLUDE[navnow_md](includes/navnow_md.md)] receives an external file of any type, you are presented with a dialog with the options, **Save**, **Run**, and **Cancel**  
 
 ### To cancel your decision for handling automation objects  
 
-1.  Go to your Role Center.  
+1. Go to your Role Center.  
 
-     On the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon"), choose **Customize**, and then choose **Reset User-Specified Settings**.  
+    On the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon"), choose **Customize**, and then choose **Reset User-Specified Settings**.  
 
-2.  Choose the **Reset automation decisions** button. Alternatively, choose the **Reset all** button to also cancel your view changes and decision for running or saving external files.  
+2. Choose the **Reset automation decisions** button. Alternatively, choose the **Reset all** button to also cancel your view changes and decision for running or saving external files.  
 
- All decisions about how to run automation objects that you have ever made under your current user logon, or since you last chose the **Reset automation decisions** button, are canceled. The file handling behavior is reset to the default configuration for your profile.The next time [!INCLUDE[navnow_md](includes/navnow_md.md)] must run an automation object of any type, you are presented with a dialog with the options, **Always allow** and **Never allow**.    
+   All decisions about how to run automation objects that you have ever made under your current user logon, or since you last chose the **Reset automation decisions** button, are canceled. The file handling behavior is reset to the default configuration for your profile.The next time [!INCLUDE[navnow_md](includes/navnow_md.md)] must run an automation object of any type, you are presented with a dialog with the options, **Always allow** and **Never allow**.    
 
 <!--Use the following table to get more information about customizing the different elements of the UI.
 

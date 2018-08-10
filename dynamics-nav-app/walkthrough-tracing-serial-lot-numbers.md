@@ -275,18 +275,18 @@ Then you must create various purchase, production, and sales transactions with t
 
 ### To find all occurrences of LOT1 in non-posted records, such as open orders  
 
-1.  In the **Item Tracing** window, select the first trace line, the purchase receipt of LOT1.  
-2.  Choose the **Navigate** action.  
+1. In the **Item Tracing** window, select the first trace line, the purchase receipt of LOT1.  
+2. Choose the **Navigate** action.  
 
-    The **Navigate** window is preset with search filters based on the trace result for LOT1. The quality controller recognizes most of the records as pertaining to documents already identified in the **Item Tracing** window. For example, the last Navigate line of type Production Order refers to the two released production orders that consumed racing frames from LOT1.  
+   The **Navigate** window is preset with search filters based on the trace result for LOT1. The quality controller recognizes most of the records as pertaining to documents already identified in the **Item Tracing** window. For example, the last Navigate line of type Production Order refers to the two released production orders that consumed racing frames from LOT1.  
 
-    However, the second Navigate line of type **Sales Line** is a non-posted document line, so the quality controller proceeds to investigate.  
+   However, the second Navigate line of type **Sales Line** is a non-posted document line, so the quality controller proceeds to investigate.  
 
-3.  To open the sales line record, select the second Navigate line, choose the **Show** action. Alternatively, choose the value in the **No. of Records** field.  
+3. To open the sales line record, select the second Navigate line, choose the **Show** action. Alternatively, choose the value in the **No. of Records** field.  
 
-    Here the quality controller sees one open sales line for the faulty racing frames. He immediately suggests to the sales department that this order be canceled and a new production order, based on good racing frames, be initiated.  
+   Here the quality controller sees one open sales line for the faulty racing frames. He immediately suggests to the sales department that this order be canceled and a new production order, based on good racing frames, be initiated.  
 
- This completes the walkthrough of how to use the **Navigate** window for defects management in integration with the **Item Tracing** window.  
+   This completes the walkthrough of how to use the **Navigate** window for defects management in integration with the **Item Tracing** window.  
 
 ## See Also
 [How to: Work with Serial and Lot Numbers](inventory-how-work-item-tracking.md)  
