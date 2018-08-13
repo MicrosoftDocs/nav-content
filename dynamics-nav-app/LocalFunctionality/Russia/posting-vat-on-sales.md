@@ -41,11 +41,12 @@ The following procedure shows how the accounting entries are created.
 
 The following accounting entries create the different settings.  
 
-|Accounting Entries|Settings|  
-|------------------------|--------------|  
-|**Amount + Tax**|Debit 62 Payables and Receivables - Credit 90-1 Gain and Sales Amount Including VAT<br /><br /> Debit 90-3 Gain VAT<br /><br /> Credit 68 VAT to Federal Budget<br /><br /> Sales VAT Amount|  
-|**Amount & Tax**|Debit 62 Payables and Receivables<br /><br /> Credit 90-1 Gain<br /><br /> Amount Excluding VAT<br /><br /> Debit 62 Payables and Receivables<br /><br /> Credit 90-3 Gain VAT<br /><br /> Sales VAT Amount<br /><br /> Debit 90-3 Gain VAT<br /><br /> Credit 68 VAT to Budget<br /><br /> Sales VAT amount|  
-|**<Blank>**|Debit 62 Payables and Receivables<br /><br /> Credit 90-1 Gain<br /><br /> Amount Excluding VAT<br /><br /> Debit 62 Payables and Receivables<br /><br /> Credit 68 VAT to Budget<br /><br /> Sales VAT Amount|  
+
+| Accounting Entries |                                                                                                                                                   Settings                                                                                                                                                   |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  **Amount + Tax**  |                                                         Debit 62 Payables and Receivables - Credit 90-1 Gain and Sales Amount Including VAT<br /><br /> Debit 90-3 Gain VAT<br /><br /> Credit 68 VAT to Federal Budget<br /><br /> Sales VAT Amount                                                         |
+|  **Amount & Tax**  | Debit 62 Payables and Receivables<br /><br /> Credit 90-1 Gain<br /><br /> Amount Excluding VAT<br /><br /> Debit 62 Payables and Receivables<br /><br /> Credit 90-3 Gain VAT<br /><br /> Sales VAT Amount<br /><br /> Debit 90-3 Gain VAT<br /><br /> Credit 68 VAT to Budget<br /><br /> Sales VAT amount |
+|    **<Blank>**     |                                                Debit 62 Payables and Receivables<br /><br /> Credit 90-1 Gain<br /><br /> Amount Excluding VAT<br /><br /> Debit 62 Payables and Receivables<br /><br /> Credit 68 VAT to Budget<br /><br /> Sales VAT Amount                                                |
 
 ## Trans. VAT Account Field  
 In the **Trans. VAT Account** field, enter Subaccount 90-3 Gain VAT or Subaccount 62 Prepayment VAT. If this field is blank, the postings use the account from the Customer posting groups from the **Receivables Account** field.  

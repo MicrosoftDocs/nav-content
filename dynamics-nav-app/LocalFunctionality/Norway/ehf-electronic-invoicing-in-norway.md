@@ -30,7 +30,7 @@ Companies must send sales invoices and credit memos to the Norwegian public sect
 - Sales credit memo  
 - Service credit memo  
 
- [!INCLUDE[navnow](../../includes/navnow_md.md)] exports other electronic documents in version 1.6, which uses UBL version 2.0. You can submit the following types of documents:  
+  [!INCLUDE[navnow](../../includes/navnow_md.md)] exports other electronic documents in version 1.6, which uses UBL version 2.0. You can submit the following types of documents:  
 
 - Finance charge memo  
 - Reminder  

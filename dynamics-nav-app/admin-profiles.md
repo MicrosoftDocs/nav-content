@@ -42,7 +42,7 @@ Profiles and Role Centers align with the roles and responsibilities in your orga
 The procedure for modifying an existing profile is the same, except you select an existing profile in the Profiles page instead of choosing the **New** action.  
 
 
-##Copying a profile
+## Copying a profile
 Copying a profile can save you time if you want to use similar settings on a profile and you only want to change a few settings.
 
 1.  Open the profile that you want to copy, and then choose the **Copy Profile** action.

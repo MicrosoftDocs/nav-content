@@ -37,7 +37,7 @@ The Intrastat batch jobs include only item entries, and not general ledger entri
   
 You can export the entries to a file that you can send to your Intrastat authorities. You can also print a report, manually enter the information on the forms from your authorities, and then submit the information.
 
->  [!Note]
+> [!Note]
 > We recommended that you set up an Intrastat journal batch for each month.  
   
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Intrastat Journal Templates**, and then choose the related link.  

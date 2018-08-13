@@ -96,15 +96,15 @@ To enable import/export of data in XML files through the data exchange framework
 
 ### To generate a data exchange definition that is based on an XML schema  
 
-1.  In the **Search** box, enter  **XML Schemas**, and then choose the related link.  
+1. In the **Search** box, enter  **XML Schemas**, and then choose the related link.  
 
-2.  Select the relevant XML schema, and then on the on the **Home** tab, in the **Process** group, choose **Open XML Schema Viewer**.  
+2. Select the relevant XML schema, and then on the on the **Home** tab, in the **Process** group, choose **Open XML Schema Viewer**.  
 
-3.  Make sure the relevant nodes are selected. For more information, see the “To select or clear nodes in an XML schema” section.  
+3. Make sure the relevant nodes are selected. For more information, see the “To select or clear nodes in an XML schema” section.  
 
-4.  In the **XML Schema Viewer** window, on the **Home** tab, in the **Process** group, choose **Generate Data Exchange Definition**.  
+4. In the **XML Schema Viewer** window, on the **Home** tab, in the **Process** group, choose **Generate Data Exchange Definition**.  
 
- A data exchange definition is created in the **Posting Exchange Definition** window, which you can complete by specifying which elements in the file map to which fields in [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).  
+   A data exchange definition is created in the **Posting Exchange Definition** window, which you can complete by specifying which elements in the file map to which fields in [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).  
 
 > [!NOTE]  
 >  You can also use the **Get File Structure** function from the **Posting Exchange Definition** window, which uses the functionality of the **XML Schema Viewer** window to prefill the **Column Definitions** TastTab.  

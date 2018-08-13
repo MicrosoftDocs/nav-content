@@ -55,20 +55,22 @@ Before you can process customer payments electronically by exporting direct debi
 4. In the **Customer Bank Account List** window, select the customer bank account that will use direct debits, and then, on the **Home** tab, in the **Process** group, choose **Direct Debit Mandates**.  
 5. In the **SEPA Direct Debit Mandates** window, fill in the fields as described in the following table.  
 
-    |Field|Description|  
-    |---------------------------------|---------------------------------------|  
-    |**Customer Bank Account Code**|Specifies the bank account from which direct\-debit payments are collected. This field is filled automatically.|  
-    |**Valid From**|Specify the date when the direct\-debit mandate starts.|  
-    |**Valid To**|Specify the date when the direct\-debit mandate ends.|  
-    |**Date of Signature**|Specify the date when the customer signed the direct\-debit mandate.|  
-    |**Sequence Type**|Specify if the agreement covers multiple (**Recurring**) or a single (**One Off**) direct debit collection.|  
-    |**Expected Number of Debits**|Specify how many direct debit collections you expect to make. This field is only relevant if you selected **Recurring** in the **Sequence Type** field.|  
-    |**Debit Counter**|Specifies how many direct debit collections have been made using this direct\-debit mandate. This field is automatically updated.|  
-    |**Blocked**|Specify that direct debit collections cannot be made using this direct\-debit mandate.|  
 
-6.  Repeat steps 1 through 5 for all customers that you want to set up for SEPA direct debits.  
+   |             Field              |                                                                       Description                                                                       |
+   |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+   | **Customer Bank Account Code** |                     Specifies the bank account from which direct\-debit payments are collected. This field is filled automatically.                     |
+   |         **Valid From**         |                                                 Specify the date when the direct\-debit mandate starts.                                                 |
+   |          **Valid To**          |                                                  Specify the date when the direct\-debit mandate ends.                                                  |
+   |     **Date of Signature**      |                                          Specify the date when the customer signed the direct\-debit mandate.                                           |
+   |       **Sequence Type**        |                       Specify if the agreement covers multiple (**Recurring**) or a single (**One Off**) direct debit collection.                       |
+   | **Expected Number of Debits**  | Specify how many direct debit collections you expect to make. This field is only relevant if you selected **Recurring** in the **Sequence Type** field. |
+   |       **Debit Counter**        |            Specifies how many direct debit collections have been made using this direct\-debit mandate. This field is automatically updated.            |
+   |          **Blocked**           |                                 Specify that direct debit collections cannot be made using this direct\-debit mandate.                                  |
 
- The direct-debit mandate is automatically inserted in the **Direct Debit Mandate ID** field when you create a sales invoice for the customer that you selected in step 2. For more information, see [How to: Create Recurring Sales and Purchase Lines](sales-how-work-standard-lines.md).  
+
+6. Repeat steps 1 through 5 for all customers that you want to set up for SEPA direct debits.  
+
+   The direct-debit mandate is automatically inserted in the **Direct Debit Mandate ID** field when you create a sales invoice for the customer that you selected in step 2. For more information, see [How to: Create Recurring Sales and Purchase Lines](sales-how-work-standard-lines.md).  
 
 ## See Also  
 [Collecting Payments with SEPA Direct Debit](finance-collect-payments-with-sepa-direct-debit.md)  

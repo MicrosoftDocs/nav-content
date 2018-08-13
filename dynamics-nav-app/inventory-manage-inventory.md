@@ -51,4 +51,4 @@ Even though inventory costs are automatically posted to the general ledger, it i
 [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)
 
-##
+# #

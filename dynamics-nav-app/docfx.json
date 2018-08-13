@@ -1,5 +1,5 @@
 {
-	"build": {
+  "build": {
     "content": [
       {
         "files": [
@@ -10,12 +10,12 @@
           "**/obj/**",
           "../**",
           "**/includes/**",
-           "**/_themes/**",
-           "**/_themes.pdf/**",
-           "README.md",          
-           "LICENSE",
-           "LICENSE-CODE",
-           "ThirdPartyNotices" 
+          "**/_themes/**",
+          "**/_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
         ]
       }
     ],
@@ -33,21 +33,23 @@
         ]
       }
     ],
-
-		"overwrite": [],
-		"externalReference": [],
-		"globalMetadata": {
-   		  "feedback_system": "GitHub",
-   		  "feedback_github_repo": "MicrosoftDocs/nav-content",
-   		  "feedback_product_url": "https://aka.ms/collaborate",
-		  "searchScope": ["DynamicsNAV"],
-		  "uhfHeaderId": "MSDocsHeader-Dynamics365",
-		  "titleSuffix": "Dynamics NAV App",
-	          "breadcrumb_path": "/dynamics-nav-app/bread/toc.json",
-     	          "extendBreadcrumb": true
-		},
-                "fileMetadata": {},
-		"template": [],
-		"dest": "dynamics-nav-app"
-	}
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/nav-content",
+      "feedback_product_url": "https://aka.ms/collaborate",
+      "searchScope": [
+        "DynamicsNAV"
+      ],
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "titleSuffix": "Dynamics NAV App",
+      "breadcrumb_path": "/dynamics-nav-app/bread/toc.json",
+      "extendBreadcrumb": true
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "dynamics-nav-app",
+    "markdownEngineName": "markdig"
+  }
 }

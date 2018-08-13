@@ -29,10 +29,10 @@ The following procedure describes how to invoice a prepayment for a sales orders
     On the **Prepayment** FastTab, the **Prepayment %** field will be filled in automatically if there is a default prepayment percentage on the customer card. You can change the contents of the field. The prepayment percentage is only copied from the header to lines that do not copy the default prepayment percentage from the item.  
 
     If the **Compress Prepayment** field is selected, lines will be combined on the invoice if:  
-    - They have the same general ledger account for prepayments as determined by the general posting setup.  
-    - They have the same dimensions.  
+   - They have the same general ledger account for prepayments as determined by the general posting setup.  
+   - They have the same dimensions.  
 
-    Leave the field blank if you want to specify a prepayment invoice with one line for each sales order line that has a prepayment percentage.  
+     Leave the field blank if you want to specify a prepayment invoice with one line for each sales order line that has a prepayment percentage.  
 
 3. Fill in the sales lines.  
 
