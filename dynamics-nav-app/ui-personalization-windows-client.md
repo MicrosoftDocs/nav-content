@@ -144,7 +144,7 @@ To get a better overview of the information that you need, you can customize lis
     -   Choose the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon") icon, choose **Customize**, and then **Choose Columns**.
     -   Right-choose a column header and then choose **Choose Columns**.
 
-2.  In the **Choose wich columns to show in list** dialog boxThe **Available columns** pane contains columns that are hidden. The **Show columns in this order** pane contains columns that are shown. Use the **Add** and **Remove** buttons to move columns from one field to the other. Use the **Move Up** and **Move Down** buttons to position the columns.
+2.  In the **Choose which columns to show in list** dialog boxThe **Available columns** pane contains columns that are hidden. The **Show columns in this order** pane contains columns that are shown. Use the **Add** and **Remove** buttons to move columns from one field to the other. Use the **Move Up** and **Move Down** buttons to position the columns.
 
 >[!TIP]
 >Select the **Quick Entry** check box to add the field to the quick entry field list. When you work on the page, and press the Enter key in a field, the pointer jumps to the next field that is set to be a Quick Entry field.
