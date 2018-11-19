@@ -29,7 +29,7 @@ Forming production families reduces the scrap quantity because what would normal
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Families**, and then choose the related link.
 2. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## To produce based on a production familily
+## To produce based on a production family
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Firm Planned Prod. Orders**, and then choose the related link.
 2. Create a new production order. For more information, see [How to: Create Production orders](production-how-to-create-production-orders.md).
 3. In the **Source Type** field, select **Family**.  
