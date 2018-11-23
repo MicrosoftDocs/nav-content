@@ -14,10 +14,8 @@ ms.author: edupont
 
 ---
 > [!NOTE]
-> This Help library is not being updated regularly. This is because Dynamics NAV is gradually being replaced by Dynamics Business Central.<br /><br />
-
-> To learn about recent functionality, which also exists in NAV, go to the Help library for Business Central, which is structured in the same way: https://docs.microsoft.com/en-us/dynamics365/business-central/ <br /><br />
-
+> This Help library is not being updated regularly. This is because Dynamics NAV is gradually being replaced by Dynamics Business Central.<br /
+> To learn about recent functionality, which also exists in NAV, go to the Help library for Business Central, which is structured in the same way: https://docs.microsoft.com/en-us/dynamics365/business-central/ <br />
 > Note that many descriptions of general client capabilities are different, because Business Central is a cloud product.    
 
 # Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
