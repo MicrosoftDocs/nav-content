@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ---
 # How to: Set Up Alternative Addresses for Contacts
 You can assign an alternative address where your contacts are sometimes sent mail and information, for example, their summer cottage. You can also assign one or several date ranges to each alternative address you have entered for your contacts to specify when each address is valid.
@@ -29,5 +29,5 @@ You can also assign alternative addresses from the contact list window by follow
 
 Repeat these steps to assign as many date ranges as you want.
 
-##See Also
+## See Also
 [Create Contact Companies](marketing-create-contact-companies.md)

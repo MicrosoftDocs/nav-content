@@ -5,7 +5,7 @@ description: You create a location card for each place you store inventory items
 documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

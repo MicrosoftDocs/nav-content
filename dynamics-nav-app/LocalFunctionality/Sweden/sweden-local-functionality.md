@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -20,7 +20,6 @@ The following topics describe local functionality that is unique to the Swedish 
 
 ## In This Section  
   [Automatic Account Codes](automatic-account-codes.md)  
-  [Multiple Interest Rates Overview](multiple-interest-rates-overview.md)  
   [How to: Import and Export Data in Standard Import Export Format](how-to-import-and-export-data-in-standard-import-export-format.md)  
   [How to: Print Balance Sheet and Income Statement Reports](how-to-print-balance-sheet-and-income-statement-reports.md)  
   [How to: Post Preliminary Invoices by Using Inward Registration](how-to-post-preliminary-invoices-by-using-inward-registration.md)  

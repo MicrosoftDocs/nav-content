@@ -7,7 +7,7 @@ author: bholtorf
 manager: edupont
 editor: ''
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.workload: na
 ms.tgt_pltfrm: na
 ms.devlang: na
@@ -42,7 +42,7 @@ If you wait to post payments until after your bank confirms that it has processe
 
 * In a payment journal with suggested payment lines, sort on either the **Exported to Payment File** or **Total Exported Amount** columns, and then delete payment suggestions for open invoices for which payments have already been made and you do not want to make payments for.
 
-    **Note** You might have to add these columns to the list. For more information, see [User Personalization](ui-user-personalization.md).  
+    **Note** You might have to add these columns to the list. For more information, see [Personalization in the Web Client](ui-personalization-user.md) or [Personalization in the Windows Client](ui-personalization-windows-client.md).  
 * Alternatively, on the **Suggest Vendor Payments** batch job, where you specify the payments to include in the payment journal, you can specify not to insert journal lines for payments that have already been exported by choosing the **Skip Exported Payments** check box.
 
 ## See Also

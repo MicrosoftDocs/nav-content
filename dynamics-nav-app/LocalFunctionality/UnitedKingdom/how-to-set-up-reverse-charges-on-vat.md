@@ -3,7 +3,7 @@ title: How to Set Up Reverse Charges on VAT
 description: Learn how you can use reverse charge VAT accounting for a specific range of items to prevent Missing Trader Intercommunity Fund Fraud (MTIC).
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,7 +13,7 @@ ms.date: 07/17/2017
 ms.author: edupont
 
 ---
-# How to: Set Up Multiple Interest Rates
+# How to: Set Up Reverse Charges on VAT
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use reverse charge VAT accounting for a specific range of items to prevent Missing Trader Intercommunity Fund Fraud (MTIC), also known as carousel fraud. This feature is supplemented by the **Reverse Charge Sales List** report. The VAT accounting changes will affect companies trading in electronic goods and integrated circuit devices, such as mobile telephones, microprocessors, and central processing units. These goods will apply to reverse charges.
 
 > [!IMPORTANT]  
@@ -40,7 +40,7 @@ Examples of goods subject to reverse charge:
 -   Mobile telephones.  
 -   Computer chips  
 
-Consult the [HMRC website](http:\\www.hmrc.gov.uk) for the list of goods subject to reverse charge.  
+Consult the [HMRC website](http:/www.hmrc.gov.uk) for the list of goods subject to reverse charge.  
 
 ## See Also  
 [United Kingdom Local Functionality](united-kingdom-local-functionality.md)  

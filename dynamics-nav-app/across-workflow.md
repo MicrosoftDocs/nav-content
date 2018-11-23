@@ -1,11 +1,11 @@
 ---
-    title: Workflow 
+    title: Workflow
     description: You can set up and use workflows that connect business-process tasks performed by different users. System tasks, such as automatic posting, can be included as steps in workflows, preceded or followed by user tasks. Requesting and granting approval to create new records are typical workflow steps.
-    
+
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -22,7 +22,7 @@ You can set up and use workflows that connect business-process tasks performed b
 
  The generic version of [!INCLUDE[d365fin](includes/d365fin_md.md)] includes a number of preconfigured workflows represented by workflow templates that you can copy to create workflows. The code for workflow templates that are added by Microsoft are prefixed with “MS-“. For more information, see the list of workflow templates in the Workflow Templates window.  
 
- If a business scenario requires a workflow event or response that is not supported, a Microsoft partner must implement them by customizing the application code. For more information, see [Walkthrough: Implementing New Workflow Events and Responses](https://msdn.microsoft.com/en-us/library/mt574349.aspx) on MSDN.  
+ If a business scenario requires a workflow event or response that is not supported, a Microsoft partner must implement them by customizing the application code. For more information, see [Walkthrough: Implementing New Workflow Events and Responses](/dynamics_nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses) in the developer and IT-pro help.  
 
  The following table describes a sequence of tasks, with links to the topics that describe them.  
 

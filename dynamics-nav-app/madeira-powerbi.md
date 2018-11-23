@@ -3,7 +3,7 @@ title: Dynamics NAV and Power BI Content Packs
 description: Getting insight, business intelligence, and KPIs from your Dynamics NAV data is easy with Power BI and the Dynamics NAV content packs.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -47,12 +47,13 @@ On the Power BI site, you can find additional information about [connecting to s
 
 To access your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Power BI, on the connection page, you must specify the following information:
 
-| Field | Description |
-| --- | --- |
-| **OData Feed URL** |The OData URL so Power BI can access data from your company, such as https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('My%2Business'). |
-| **Authentication method** |Choose **Basic**. |
-| **User name** |Your name as it displays for your account in [!INCLUDE[d365fin](includes/d365fin_md.md)], such as *John Smith*. |
-| **Password** |This is the web service access key for your user account in [!INCLUDE[d365fin](includes/d365fin_md.md)]. |
+
+|           Field           |                                                                        Description                                                                         |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    **OData Feed URL**     | The OData URL so Power BI can access data from your company, such as <https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('My%2Business>'). |
+| **Authentication method** |                                                                     Choose **Basic**.                                                                      |
+|       **User name**       |                      Your name as it displays for your account in [!INCLUDE[d365fin](includes/d365fin_md.md)], such as *John Smith*.                       |
+|       **Password**        |                          This is the web service access key for your user account in [!INCLUDE[d365fin](includes/d365fin_md.md)].                          |
 
 This means that you must get 2 pieces of information from [!INCLUDE[d365fin](includes/d365fin_md.md)]: The *OData URL* and the *web service access key* for your user account.  
 
@@ -83,7 +84,7 @@ If you see this error after you enter your [!INCLUDE[d365fin](includes/d365fin_m
 
 * The URL follows exactly this pattern:
 
-    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
+    <https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US>')  
 * Delete any text after the company name in parenthesis  
 * Make sure there are no trailing forward slash at the end of the URL.  
 * Make sure that it is a secure connection as indicated by the URL starting with *https*.  
@@ -97,7 +98,7 @@ If you get a "login failed" error when you log in to the dashboard, using your [
 * The [!INCLUDE[d365fin](includes/d365fin_md.md)] instance that you are trying to connect to does not have a valid SSL certificate. In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship").
 
     > [!NOTE]  
->   Self-signed certificates are not supported.  
+  >   Self-signed certificates are not supported.  
 
 **"Oops"**  
 If you see an "Oops" error dialog after you pass the authentication dialog, this is most frequently caused by a problem connecting to the data for the content pack.

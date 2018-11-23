@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -22,15 +22,16 @@ If you change the CCC code structure, the **CCC No.** field updates automaticall
 
 ## To enter CCC codes  
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Company Information**, and then choose the related link.  
-2.  On the **Payments** FastTab, fill in the fields as described in the following table  
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Company Information**, and then choose the related link.  
+2. On the **Payments** FastTab, fill in the fields as described in the following table  
 
-    |Field|Description|  
-    |---------------------------------|--------------|---------------------------------------|  
-    |**CCC Bank No.**|1-4|Identifies the bank where the account has been opened.|  
-    |**CCC Bank Branch No.**|5-8|Identifies the branch code. If the bank does not use this reference, these can be zeros.|  
-    |**CCC Control Digits**|9-10|Identifies the control digits.|  
-    |**CCC Bank Account No.**|11-20 (Spain)<br /><br /> 11-21 (Portugal)|Identifies the account number, which may be adjusted with preceding zeros.|  
+
+   |          Field           |                Description                 |
+   |--------------------------|--------------------------------------------|
+   |     **CCC Bank No.**     |                    1-4                     |
+   | **CCC Bank Branch No.**  |                    5-8                     |
+   |  **CCC Control Digits**  |                    9-10                    |
+   | **CCC Bank Account No.** | 11-20 (Spain)<br /><br /> 11-21 (Portugal) |
 
 ## See Also  
 [Spain Local Functionality](spain-local-functionality.md)

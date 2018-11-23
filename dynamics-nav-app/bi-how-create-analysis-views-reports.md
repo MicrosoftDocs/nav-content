@@ -5,7 +5,7 @@ description: Describes how to create new analysis reports for sales, purchases, 
 documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -66,10 +66,10 @@ A template contains a set of lines each representing the analysis columns that y
 4. In the **Analysis Columns** window, fill in the fields to specify the columns that you want to include in your analysis report.  
 
     > [!NOTE]  
->   To define a column, you must fill in the **Analysis Type Codes** field for all column types except **Formula**. Set up the analysis type codes in the **Analysis Types** window.  
+   >   To define a column, you must fill in the **Analysis Type Codes** field for all column types except **Formula**. Set up the analysis type codes in the **Analysis Types** window.  
 
     **Note**. In the **Ledger Entry Type** field, if you select **Item Entries**, the actual figures from the item ledger entry are copied. If you select **Item Budget Entries**, the budgeted figures from the budget are copied.  
-5.  Choose the **OK** button to save your changes.  
+5. Choose the **OK** button to save your changes.  
 
 ## To set up analysis line templates  
 The following procedure is based on analysis reports for sales. The steps are similar for purchase and inventory analysis reports.

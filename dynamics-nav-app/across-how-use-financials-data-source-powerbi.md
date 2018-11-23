@@ -3,7 +3,7 @@ title: Make a Power BI data source with your Dynamics NAV
 description: You can make your Dynamics NAV data available as a data source in Power BI and build powerful reports of the state of your business.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -31,7 +31,7 @@ You can make your [!INCLUDE[d365fin](includes/d365fin_md.md)] data available as 
 3. Once you have entered the information, choose the OK button. The next step in the wizard will be to enter your username and password.
 
    > [!NOTE]  
->    If there are other authentication options available in the left hand navigation, choose *Basic*.
+   >    If there are other authentication options available in the left hand navigation, choose *Basic*.
 4. Enter your username and password. You can find this information in the **Users** window in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Use the **Web Access Key** as your password.
 
    For example, your username is *ADMIN*, and the web service access key that serves as your password is *EgzeUFQ9Uv0o5O0lUMyqCzo1ueUW9yRF3SsLU=*.
@@ -43,7 +43,7 @@ You can make your [!INCLUDE[d365fin](includes/d365fin_md.md)] data available as 
 7. Repeat the previous steps to add additional [!INCLUDE[d365fin](includes/d365fin_md.md)] data to your Power BI data model.
 
    > [!NOTE]  
->    Once you have successfully connected to [!INCLUDE[d365fin](includes/d365fin_md.md)], you will not be prompted again for the OData URL, username, or password.
+   >    Once you have successfully connected to [!INCLUDE[d365fin](includes/d365fin_md.md)], you will not be prompted again for the OData URL, username, or password.
 
 Once the data is loaded it will appear in the right navigation on the page. At this point, you have successfully connected to your Dynamics NAV data and are ready to begin building your Power BI report. For more information, see the [Power BI documentation](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 

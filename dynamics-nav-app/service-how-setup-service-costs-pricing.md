@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -28,10 +28,10 @@ You can set up groups containing service items that you want to receive the same
 2. Create a new service price group.  
 3. Fill in the **Code** and **Description** fields.  
 4. Choose the **Setup** action.  
-2. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+5. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
- > [!Tip]
- > The **Adjustment Type** and **Amount** fields work together to specify whether an adjustment concerns a fixed amount, or applies only when the total service price exceeds or is lower than the amount in the **Amount** field.  
+   > [!Tip]
+   > The **Adjustment Type** and **Amount** fields work together to specify whether an adjustment concerns a fixed amount, or applies only when the total service price exceeds or is lower than the amount in the **Amount** field.  
 
 ## To set up a service price adjustment group  
 You can set up price adjustment groups to adjust service pricing of service items. For example, you can set up price adjustment groups that adjust price of freight or spare parts.  

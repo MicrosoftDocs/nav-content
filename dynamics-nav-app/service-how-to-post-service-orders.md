@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -109,11 +109,11 @@ You can cancel the consumption on the service orders. For example, because it wa
 3. Choose **Actions**, choose **Shipment**, and then choose **Service Shipment Lines**.  
 4. Choose the lines that contain the incorrect consumption, and then choose the **Undo Consumption** action.  
   
- A balancing service shipment line is inserted with negative values in the quantity fields for the selected lines.  
+   A balancing service shipment line is inserted with negative values in the quantity fields for the selected lines.  
   
-> [!NOTE]  
+> [!NOTE]
 >  You cannot undo service consumption if:  
-
+> 
 >    * The service order has been closed.  
 >    * It has been posted to the Jobs area, so there are job ledger entries linked to it.  
   

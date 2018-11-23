@@ -3,7 +3,7 @@ title: Dynamics NAV accountant experience
 description: Learn about the accountant portal for Dynamics NAV and the Accountant Role Center that supports internal and external accountants in the client company.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -22,7 +22,7 @@ The Role Center is a dashboard with activity tiles that show you real-time key f
 If you are new to [!INCLUDE[d365fin](includes/d365fin_md.md)], you can launch a list of videos right from your Home page. You can also launch a **Getting Started** tour that points out key areas.  
 
 ### Get Invited to a Client's [!INCLUDE[d365fin](includes/d365fin_md.md)]
-A company who use [!INCLUDE[d365fin](includes/d365fin_md.md)] can invite you to [!INCLUDE[d365fin](includes/d365fin_md.md)] as their external accountant. This requires that they have set up SMTP mail, so they might want to contact their [!INCLUDE[d365fin](includes/d365fin_md.md)] partner for assistance. For more information, see [Invite Your External Accountant](finance-invite-external-accountant.md). Also, we recommend that you give them the email address that you plan to use for your accounting work - that way, you can choose if you want to use *me@accountant.com* or *me@client.com*  
+A company who use [!INCLUDE[d365fin](includes/d365fin_md.md)] can invite you to [!INCLUDE[d365fin](includes/d365fin_md.md)] as their external accountant. This requires that they have set up SMTP mail, so they might want to contact their [!INCLUDE[d365fin](includes/d365fin_md.md)] partner for assistance. For more information, see [Invite Your External Accountant](finance-invite-external-accountant.md). Also, we recommend that you give them the email address that you plan to use for your accounting work - that way, you can choose if you want to use <em>me@accountant.com</em> or <em>me@client.com</em>  
 
 As a result, you will receive email from your client with a link to their [!INCLUDE[d365fin](includes/d365fin_md.md)]  
 
@@ -33,8 +33,8 @@ If you are an accountant with several clients, you can use the accountant portal
 
 The accountant portal is a dedicated version of [!INCLUDE[d365fin](includes/d365fin_md.md)]. You can get access to the dashboard by signing up from [Dynamics NAV for Accountants on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants).  
 
-> [!TIP]  
->  When you sign up for the accountant portal, you must specify your work email address, such as *me@accountant.com*. We recommend that you use the same email address when you work in your clients' [!INCLUDE[d365fin](includes/d365fin_md.md)], so that you can easily switch between clients.  
+> [!TIP]
+>  When you sign up for the accountant portal, you must specify your work email address, such as <em>me@accountant.com</em>. We recommend that you use the same email address when you work in your clients' [!INCLUDE[d365fin](includes/d365fin_md.md)], so that you can easily switch between clients.  
 
 When you first log in to the accountant portal, the dashboard shows a sample client to help you get started. Once you are comfortable, you can remove that sample client.  
 

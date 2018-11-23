@@ -4,7 +4,7 @@ description: Make it easier for customers to pay their invoices by enabling paym
 
 documentationcenter: ''
 author: SorenGP
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -35,7 +35,7 @@ The PayPal Payments Standard and WorldPay Payments Standard extensions are insta
 3. In the **Payment Service** field, choose the payment service.  
 
     > [!NOTE]  
->   The **Payment Service** field is available only if you've enabled the payment service.  
+   >   The **Payment Service** field is available only if you've enabled the payment service.  
 
 ## See Also  
 [Setting Up Sales](sales-setup-sales.md)  

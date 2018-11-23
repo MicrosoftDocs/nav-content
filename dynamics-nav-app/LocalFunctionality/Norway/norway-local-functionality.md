@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -26,8 +26,7 @@ The following topics describe local functionality that is unique to the Norwegia
   [Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)  
   [Norwegian Sales Documents](norwegian-sales-documents.md)  
   [Norwegian VAT Reporting](norwegian-vat-reporting.md)  
- [Recurring Orders](recurring-orders.md)  
-  [Multiple Interest Rates Overview](multiple-interest-rates-overview.md)  
-
+  [Recurring Orders](recurring-orders.md)  
+  
 ## See Also
 [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)    

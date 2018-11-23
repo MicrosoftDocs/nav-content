@@ -4,7 +4,7 @@ description: Describes how to trade non-inventoriable items or items that are no
 documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

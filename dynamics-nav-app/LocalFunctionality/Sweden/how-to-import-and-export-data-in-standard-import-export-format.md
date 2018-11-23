@@ -5,13 +5,13 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 07/01/2017
+    ms.date: 01/10/2018
     ms.author: sgroespe
 
 ---
@@ -25,7 +25,6 @@ You can import and export general ledger data according to the standard import e
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
-    |**File Name**|Enter the name and path of the file that you want to import.|  
     |**Gen. Journal Template**|Select a general journal template.|  
     |**Gen. Journal Batch**|Select a general journal batch.|  
     |**Dimensions**|Select the SIE dimensions to import.|  
@@ -33,6 +32,7 @@ You can import and export general ledger data according to the standard import e
     |**Use Number Series for Doc. No.**|Select if a document number is not provided in the import file.|  
 
 3.  Choose the **OK** button.  
+4. Select the file to import.
 
 ## To export data in SIE format  
 
@@ -43,13 +43,13 @@ You can import and export general ledger data according to the standard import e
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**File Type**|Select the type of file to be created. Select from one of the following options:<br /><br /> -   **Year - End Balances** - Contains the annual account balance carried forward for all accounts in the chart of accounts.<br />-   **Periodic Balances** - Contains the annual account balance carried forward and monthly changes for all accounts in the chart of accounts.<br />-   **Object Balances** - Contains the annual account balance carried forward, monthly changes, and balances on the object level, such as cost units and projects, for all accounts in the chart of accounts.<br />-   **Transactions** - Contains all the general ledger entries for the period.|  
-    |**File Name**|Enter the name and path of the file that you want to create.|  
-    |** Contact**|Enter the contact person. This field is optional.|  
+    |**Contact**|Enter the contact person. This field is optional.|  
     |**Comments**|Describe the content of the file.|  
     |**Dimensions**|Select the dimensions to export.|  
     |**Fiscal Year**|Enter the fiscal tax year.|  
 
-4.  Choose the **OK** button.  
+4. Choose the **OK** button.  
+5. Choose the **Open** or **Save** button to decide where to place the exported file.
 
 ## See Also  
  [Standard Import Export Group](http://go.microsoft.com/fwlink/?LinkID=164870&clcid=0x41d)   

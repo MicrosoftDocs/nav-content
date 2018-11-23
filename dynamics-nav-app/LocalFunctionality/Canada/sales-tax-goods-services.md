@@ -5,7 +5,7 @@ description: Learn about local sales tax and goods and services tax in Canada.
  
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

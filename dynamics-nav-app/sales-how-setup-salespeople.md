@@ -3,7 +3,7 @@ title: Set Up a Salesperson '
 description: You can set up a identifier for each of your salespeople, so you can track an individual’s performance or assign a salesperson to a contact.
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

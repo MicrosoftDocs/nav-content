@@ -5,7 +5,7 @@ description: Learn about the tasks to set up finance in your business to suit al
 documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -34,6 +34,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Set up business intelligence (BI) charts to analyze cash flow. |[Setting Up Cash Flow Analysis](finance-setup-cash-flow-analyses.md) |
 |Enable invoicing of a customer who is not set up in the system.|[How to: Set Up Cash Customers](finance-how-to-set-up-cash-customers.md)|
 | Set up Intrastat reporting, and submit the report to an authority | [How to: Set Up and Report Intrastat](finance-how-setup-report-intrastat.md)|
+|Set up different interest rates that you can use on finance charges to charge different interests on late payments depending on the period.|[How to: Set Up Multiple Interest Rates](finance-how-to-set-up-multiple-interest-rates.md)|
 
 ## See Also
 [Finance](finance.md)  
@@ -43,4 +44,4 @@ The following table describes a sequence of tasks, with links to the topics that
 [Analyzing Cash Flow in Your Company](finance-analyze-cash-flow.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-##
+# #

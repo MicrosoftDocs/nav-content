@@ -5,7 +5,7 @@ description: You can define different or alternate prices and discount agreement
 documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -55,7 +55,7 @@ When your vendors have informed you which invoice discounts they grant, enter th
 3. In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.
 
     > [!NOTE]  
->   Invoice discount codes are represented by existing vendor cards. This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.
+   >   Invoice discount codes are represented by existing vendor cards. This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.
 
     Proceed to set up new the purchase invoice discount terms.
 4. In the **Vendor Card** window, choose the **Invoice Discounts** action. The **Vend. Invoice Discounts** window opens.

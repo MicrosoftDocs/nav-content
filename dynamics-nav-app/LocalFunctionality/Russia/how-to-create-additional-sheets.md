@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -20,13 +20,13 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create additional sh
   
 ### To create entries for an additional sheet for a VAT purchase or sales ledger  
   
-1.  Select the VAT purchase or sales line in the **VAT Ledger List** window with the required accounting period.  
+1. Select the VAT purchase or sales line in the **VAT Ledger List** window with the required accounting period.  
   
-2.  On the **Actions** tab, choose **Functions**, and then choose **Create Additional Sheet**.  
+2. On the **Actions** tab, choose **Functions**, and then choose **Create Additional Sheet**.  
   
-3.  Fill in the batch job according to the guidelines at Create VAT Sales Led. Ad. Sh..  
+3. Fill in the batch job according to the guidelines at Create VAT Sales Led. Ad. Sh..  
   
- The parameters for creating a VAT purchase ledger additional sheet and VAT sales ledger additional sheet are the same as the parameters for creating the VAT Purchase Ledger and the VAT Sales Ledger.  
+   The parameters for creating a VAT purchase ledger additional sheet and VAT sales ledger additional sheet are the same as the parameters for creating the VAT Purchase Ledger and the VAT Sales Ledger.  
   
 ### To print additional sheets on a VAT Purchase Ledger report  
   

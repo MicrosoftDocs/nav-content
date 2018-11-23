@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -33,22 +33,24 @@ You can create and process inventory acts of contractors' accounts. You can prin
 ### Creating an Inventory Act Card  
 The following procedure shows how to create an inventory act card.  
 
-1.  Choose the **General Ledger** action, choose the **Analysis & Reporting** action, and then choose the **Contractor Invent. Act.** action.
-2.  In the **Inventory Account Card** window, enter information in the following fields:  
+1. Choose the **General Ledger** action, choose the **Analysis & Reporting** action, and then choose the **Contractor Invent. Act.** action.
+2. In the **Inventory Account Card** window, enter information in the following fields:  
 
-    |Field|Description|  
-    |-----------|-----------------|  
-    |**No.**|This field displays the number of the act, and is filled in automatically from the number series.|  
-    |**Act Date**|This field displays the act date, and is filled in with the work date.|  
-    |**Inventory Date**|This field displays the date of inventory, and is filled with the work date. Debts and liabilities will be calculated on this date.|  
-    |**Reason Document Type**|Select the type of reason document from the following:<br /><br /> -   **Order**<br />-   **Resolution**<br />-   **Regulation**|  
 
-3.  Choose the **Add Lines** action.  
+   |          Field           |                                                             Description                                                             |
+   |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+   |         **No.**          |                  This field displays the number of the act, and is filled in automatically from the number series.                  |
+   |       **Act Date**       |                               This field displays the act date, and is filled in with the work date.                                |
+   |    **Inventory Date**    | This field displays the date of inventory, and is filled with the work date. Debts and liabilities will be calculated on this date. |
+   | **Reason Document Type** |  Select the type of reason document from the following:<br /><br /> -   **Order**<br />-   **Resolution**<br />-   **Regulation**   |
 
-    > [!NOTE]  
-    >  You must not set filters.  
 
- Debts and liabilities for vendors and customers are calculated, and lines are created. For each customer and vendor, the total debt and the total liability amount (taking posting groups into account) on the inventory date are calculated, and shown in a separate line. The line fields are listed in the following table.  
+3. Choose the **Add Lines** action.  
+
+   > [!NOTE]  
+   >  You must not set filters.  
+
+   Debts and liabilities for vendors and customers are calculated, and lines are created. For each customer and vendor, the total debt and the total liability amount (taking posting groups into account) on the inventory date are calculated, and shown in a separate line. The line fields are listed in the following table.  
 
 |Field|Description|  
 |-----------|-----------------|  

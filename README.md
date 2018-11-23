@@ -204,7 +204,7 @@ In the editor, add two blank spaces at the end of the sentence and hit return. T
 Enter four spaces in front of the non-step para. Otherwise, the non-step para will restart the step sequence.
 
 ### TOC
-This repo contains two TOC files. One is in MarkDown format and the other is in XML format. For the Dynamics NAV Help Server, you must use the XML file. For more information, see [Microsoft Dynamics NAV Help Server](https://msdn.microsoft.com/en-us/dynamics-nav/microsoft-dynamics-nav-help-server).
+This repo contains two TOC files. One is in MarkDown format and the other is in XML format. For the Dynamics NAV Help Server, you must use the XML file. For more information, see [Microsoft Dynamics NAV Help Server](https://docs.microsoft.com/en-us/dynamics-nav/Microsoft-Dynamics-NAV-Help-Server).
 
 ### Standard Phrases
 All fields in Dynamics NAV have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    

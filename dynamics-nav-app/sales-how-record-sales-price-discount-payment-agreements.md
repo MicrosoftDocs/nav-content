@@ -3,7 +3,7 @@ title: Set Up Special Sales Prices and Discounts for Customers
 description: Describes how to define the alternate pricing and discount agreements that you want to apply to sales documents when selling to different customers.
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -51,7 +51,7 @@ When you have decided which customers are eligible for invoice discounts, enter 
 3. In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.
 
     > [!NOTE]  
->   Invoice discount codes are represented by existing customer cards. This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.
+   >   Invoice discount codes are represented by existing customer cards. This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.
 
     Proceed to set up new the sales invoice discount terms.
 4. In the **Customer Card** window, choose the **Invoice Discounts** action. The **Cust. Invoice Discounts** window opens.

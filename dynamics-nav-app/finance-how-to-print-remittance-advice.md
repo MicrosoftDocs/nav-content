@@ -4,7 +4,7 @@
     documentationcenter: ''
     author: bholtorf
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -15,10 +15,10 @@
 
 ---
 
-#How to: Print Remittance Advice
+# How to: Print Remittance Advice
 You can print remittance advice before posting a payment journal and after posting a payment. This advice displays vendor invoice numbers, which helps vendors to perform reconciliations.
 
-##To print remittance advice
+## To print remittance advice
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journals**, and then choose the related link.  
 2. In the **Payment Journal** window, select the payment for which remittance advice must be printed.  
 3. Choose the **Print Remittance Advice** action.  
@@ -44,5 +44,5 @@ The following table describes the reports that you can use with remittance advic
 > [!Tip]
 > For more information about how to work with reports, see [Viewing Test Reports before Posting](ui-how-view-test-reports-posting.md), [Work with Reports](ui-work-report.md), and [Searching, Filtering, and Sorting Data](ui-enter-criteria-filters.md).
 
-##See Also  
+## See Also  
 [Welcome to Dynamics NAV](across-get-started.md)

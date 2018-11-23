@@ -3,7 +3,7 @@ title: Schedule jobs to run automatically
 description: Scheduled tasks are managed by the job queue. These jobs run reports and codeunits. You can set jobs to run one time, or on a recurring basis.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -33,11 +33,11 @@ Job queues are an effective tool to schedule the running of business processes i
 
  [!INCLUDE[d365fin](includes/d365fin_md.md)] supports background posting for the following document types:  
 
--   Sales: sales order, return order, credit memo, invoice  
+- Sales: sales order, return order, credit memo, invoice  
 
--   Purchases: purchase order, return order, credit memo, invoice  
+- Purchases: purchase order, return order, credit memo, invoice  
 
- If the job queue cannot post the sales order, the status is changed to **Error**, and the sales order is added to the list of sales orders that the user will have to handle.  
+  If the job queue cannot post the sales order, the status is changed to **Error**, and the sales order is added to the list of sales orders that the user will have to handle.  
 
 > [!NOTE]  
 >  When you schedule a document for posting and the posting process begins, the posting routine is automatically configured to time out within two hours if the posting routine stops responding for any reason.  

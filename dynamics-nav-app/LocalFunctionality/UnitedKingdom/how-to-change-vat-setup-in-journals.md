@@ -3,7 +3,7 @@ title: How to Change VAT Setup in Journals
 description: You can add VAT setup information to journal lines if needed. If you enter items without VAT, you do not need to remove VAT setup information manually.
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

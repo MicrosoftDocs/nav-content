@@ -3,7 +3,7 @@
     description: When you receive an unregistered item for servicing, you can register it as a service item.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na

@@ -5,7 +5,7 @@ description: Build, showcase, and promote your apps and extensions for Dynamics 
 documentationcenter: ''
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -59,10 +59,10 @@ Partners in​ this list:
 * Are assisting or have assisted a minimum of three partners with bringing apps into Microsoft AppSource  
 * Have a packaged service available (and listed on their website) about the app guidance that they provide  
 
-If you believe you should be listed as an app service partner, don't hesitate to reach out to [d365-smb@microsoft.com​](mailto:d365-smb@microsoft.com​).
+If you believe you should be listed as an app service partner, don't hesitate to reach out to [d365-smb@microsoft.com ](mailto:d365-smb@microsoft.com).
 
 ## Questions?
-This [FAQ](https://go.microsoft.com/fwlink/?linkid=841520) responds to the most common questions you might have about apps for [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]. If you have further questions, don't hesitate to contact your local Microsoft representative or email [d365-smb@microsoft.com](mailto:d365-smb@microsoft.com​).
+This [FAQ](https://go.microsoft.com/fwlink/?linkid=841520) responds to the most common questions you might have about apps for [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]. If you have further questions, don't hesitate to contact your local Microsoft representative or email [d365-smb@microsoft.com](mailto:d365-smb@microsoft.com).
 
 ## Further Resources
 Please find further resources for app development on our [DLP topic page](https://mbspartner.microsoft.com/BFI/Topic/76) DLP topic page. Some selected ones are available below:

@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -27,11 +27,11 @@ If you want to invoice more than one shipment at a time, you can use the combine
 4. On the **Lines** FastTab, choose the **Get Shipment Lines** action.  
 5. Select the shipment line that you want to include in the invoice:  
 
-    - To insert all lines, select all lines and choose the **OK** button.  
-    - To insert specific lines, select the lines and choose the **OK** button. You can use the Ctrl key to select multiple nonsequential lines.  
+   - To insert all lines, select all lines and choose the **OK** button.  
+   - To insert specific lines, select the lines and choose the **OK** button. You can use the Ctrl key to select multiple nonsequential lines.  
 
-    If an incorrect shipment line was selected or you want to start over, you can simply delete the lines on the invoice and re-run the **Get Shipment Lines** function.  
-7. To post the invoice, choose the **Post** action.  
+     If an incorrect shipment line was selected or you want to start over, you can simply delete the lines on the invoice and re-run the **Get Shipment Lines** function.  
+6. To post the invoice, choose the **Post** action.  
 
 ## To automatically combine shipments on a single invoice  
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Combine Shipments**, and then choose the related link. The batch job request window opens.  

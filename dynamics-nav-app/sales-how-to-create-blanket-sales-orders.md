@@ -3,7 +3,7 @@
     description: Use blanket orders when a customer has agreed to buy large quantities that are to be delivered in several smaller shipments over a certain period of time.
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -76,19 +76,19 @@ The link between the blanket sales order and the originating sales order, and an
     <th>Description</th>
     </tr>
     <tr>
-    <td>**Orders**</td>
+    <td><strong>Orders</strong></td>
     <td>Specifies open orders associated with the selected line.</td>
     </tr>
     <tr>
-    <td>**Invoices**</td>
+    <td><strong>Invoices</strong></td>
     <td>Specifies open invoices that have been associated with the selected line. Open invoices are manually associated with a blanket order by entering the blanket order number on the sales invoice line.</td>
     </tr>
     <tr>
-    <td>**Return Orders**</td>
+    <td><strong>Return Orders</strong></td>
     <td>Specifies open return orders that have been associated with the selected line.</td>
     </tr>
     <tr>
-    <td>**Credit Memos**</td>
+    <td><strong>Credit Memos</strong></td>
     <td>Specifies open credit memos that have been associated with the selected line.</td>
     </tr>
     </table>
@@ -100,19 +100,19 @@ The link between the blanket sales order and the originating sales order, and an
     <th>Description</th>
     </tr>
     <tr>
-    <td>**Shipments**</td>
+    <td><strong>Shipments</strong></td>
     <td>Posted shipments associated with the selected line.</td>
     </tr>
     <tr>
-    <td>**Invoices**</td>
+    <td><strong>Invoices</strong></td>
     <td>Posted invoices associated with the selected line.</td>
     </tr>
     <tr>
-    <td>**Return Receipts**</td>
+    <td><strong>Return Receipts</strong></td>
     <td>Posted return receipts that have been associated with the selected line.</td>
     </tr>
     <tr>
-    <td>**Credit Memos**</td>
+    <td><strong>Credit Memos</strong></td>
     <td>Posted credit memos that have been associated with the selected line.</td>
     </tr>
     </table>

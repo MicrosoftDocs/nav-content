@@ -1,11 +1,11 @@
 ---
-    title: How to Set Up and Publish KPI Web Services Based on Account Schedules 
+    title: How to Set Up and Publish KPI Web Services Based on Account Schedules
     description: In the **Account Schedule KPI Web Service Setup** window, you set up how to show the account-schedule KPI data and which specific account schedules to base the KPIs on.
-    
+
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -45,8 +45,8 @@ In the **Account Schedule KPI Web Service Setup** window, you set up how to show
 6.  To view the account-schedule KPI data that you have set up, choose the **Account Schedule KPI Web Service** action.  
 7.  To publish the account-schedule KPI web service, choose the **Publish Web Service** action. The web service is added to the list of published web services in the **Web Services** window.  
 
-    > [!NOTE]  
-    >  You can also publish the KPI web service by pointing to the **Account Schedule KPI Web Service Setup** page object from the **Web Services** window. For more information, see [How to: Publish a Web Service](https://msdn.microsoft.com/en-us/library/dd338978.aspx) on MSDN.  
+> [!NOTE]  
+>  You can also publish the KPI web service by pointing to the **Account Schedule KPI Web Service Setup** page object from the **Web Services** window. For more information, see [How to: Publish a Web Service](across-how-publish-web-service.md).  
 
 ## See Also  
 [Business Intelligence](bi.md)  

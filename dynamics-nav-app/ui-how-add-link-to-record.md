@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: jswymer
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -21,22 +21,22 @@ Another example could be when you receive printed invoices from vendors. You can
   
 ## To add a link on a record   
   
-1.  Open the record that you want to attach the link to, such as a customer card or sales order. If you want to attach the link to a specific line, such as a journal line, select the line.  
+1. Open the record that you want to attach the link to, such as a customer card or sales order. If you want to attach the link to a specific line, such as a journal line, select the line.  
   
-2.  Choose the **Links** action to open the **Links** windows that shows all the current links that are added to the record.
+2. Choose the **Links** action to open the **Links** windows that shows all the current links that are added to the record.
 
 3. To add a new link, choose **+new**. 
   
-4.  In the **Link Address** field, enter
+4. In the **Link Address** field, enter
 
-    -   To link to a file on your computer or network, enter the full path and file name, such as  **C:My Documentsinvoice1.doc**.
-    -   To link to website, enter the Internet address (URL), such as **www.microsoft.com**. 
-    -   To link to website, enter the Internet address (URL), such as **www.microsoft.com**. 
-    -   To link to a program, enter a specific string to open the program. For example, to open OneNote with a specific page, enter **onenote:///C:My Documentstest.one**. Or, to open Outlook with a new empty email to a specific alias, enter **mailto:testalias**.  
+   - To link to a file on your computer or network, enter the full path and file name, such as  **C:My Documentsinvoice1.doc**.
+   - To link to website, enter the Internet address (URL), such as <strong>www.microsoft.com</strong>. 
+   - To link to website, enter the Internet address (URL), such as <strong>www.microsoft.com</strong>. 
+   - To link to a program, enter a specific string to open the program. For example, to open OneNote with a specific page, enter **onenote:///C:My Documentstest.one**. Or, to open Outlook with a new empty email to a specific alias, enter **mailto:testalias**.  
   
-5.  Fill in the **Description** field with information about the link.  
+5. Fill in the **Description** field with information about the link.  
   
-6.  Choose the **Save** button.  
+6. Choose the **Save** button.  
   
 ## To delete a link from a record  
   

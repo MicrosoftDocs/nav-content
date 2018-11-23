@@ -5,7 +5,7 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -46,9 +46,9 @@ For each cash point, create a General Journal batch. The value of the **Balance 
 
 The following procedure shows how to access the **Ingoing Cash Order** window.  
 
--   In **Financial Management**, choose **Cash Management**, and then choose **Ingoing Cash Orders**.  
+- In **Financial Management**, choose **Cash Management**, and then choose **Ingoing Cash Orders**.  
 
- To create a new ingoing cash order, or to work with an existing unposted cash order, choose the correct batch name (and accordingly the cash point) in the **Cash** field. This field is required and matches the **Batch Name** field in financial journals. The **Ingoing Cash Order** window contains the fields listed in the following table.  
+  To create a new ingoing cash order, or to work with an existing unposted cash order, choose the correct batch name (and accordingly the cash point) in the **Cash** field. This field is required and matches the **Batch Name** field in financial journals. The **Ingoing Cash Order** window contains the fields listed in the following table.  
 
 |Field|Description|  
 |-----------|-----------------|  

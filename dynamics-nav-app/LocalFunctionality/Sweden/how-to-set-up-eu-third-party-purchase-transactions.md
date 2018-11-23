@@ -5,13 +5,13 @@
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 07/01/2017
+    ms.date: 01/10/2018
     ms.author: sgroespe
 
 ---
@@ -21,8 +21,8 @@ European Union (EU) third-party trade occurs when you receive a purchase invoice
 ## To set up EU third-party purchase transactions  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Invoices**, and then choose the related link.  
-2.  Choose the **New** action.  
-3.  On the **Foreign Trade** FastTab, select **EU 3-Party Trade**.  
+2.  Select an existing purchase invoice, or choose the **New** action to create a new one.  
+3.  On the **Invoice Details** FastTab, select the **EU 3-Party Trade** check box.  
 4.  Choose the **OK** button.  
 
 ## See Also  

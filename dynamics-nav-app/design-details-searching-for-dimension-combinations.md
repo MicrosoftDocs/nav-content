@@ -1,11 +1,11 @@
 ---
-    title: Design Details - Searching for Dimension Combinations 
+    title: Design Details - Searching for Dimension Combinations
     description: When you close a window after you edit a set of dimensions, [!INCLUDE[d365fin](includes/d365fin_md.md)] evaluates whether the edited set of dimensions exists. If the set does not exist, a new set is created and the dimension combination ID is returned.
-    
+
     documentationcenter: ''
     author: SorenGP
 
-    ms.prod: "dynamics-nav-2017"
+    ms.prod: "dynamics-nav-2018"
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -71,7 +71,7 @@ EXIT(DimSet.ID);
 ```  
 
 ## See Also  
- [GET Function (Record)](https://msdn.microsoft.com/en-us/library/dd301056.aspx)    
+ [GET Function (Record)](/dynamics-nav/GET-Function--Record-)    
  [Design Details: Dimension Set Entries](design-details-dimension-set-entries.md)   
  [Dimension Set Entries Overview](design-details-dimension-set-entries-overview.md)   
  [Design Details: Table Structure](design-details-table-structure.md)   

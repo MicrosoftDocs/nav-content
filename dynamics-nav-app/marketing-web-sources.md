@@ -5,7 +5,7 @@ description: You can define internet or web sources and assign them to a contact
 documentationcenter: ''
 author: jswymer
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

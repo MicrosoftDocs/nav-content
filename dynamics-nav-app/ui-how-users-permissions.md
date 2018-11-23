@@ -1,24 +1,22 @@
 ---
 title: Assign User Permissions and Create or Modify Permission Sets
 description: Describes how add Office 365 users to Dynamics NAV, and then assign permissions, access rights, and security settings.
-author: SorenGP
+author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: access, right, security
-ms.date: 06/27/2017
-ms.author: sgroespe
+ms.date: 07/12/2018
+ms.author: edupont
 
 ---
 # How to: Manage Users and Permissions
-To add users in [!INCLUDE[d365fin](includes/d365fin_md.md)], your company's Office 365 administrator must first create the users in the Office 365 Admin Center. For more information, see [Add Users to Office 365 for business](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)
+If you get a new employee, your company's system administrator or IT pro has to add them to your [!INCLUDE[d365fin](includes/d365fin_md.md)]. Then, you can assign them access to the relevant parts of the product based on their work area by assigning user groups and permissions.
 
-Once users are created in Office 365, they can be imported into the **Users** window by using the **Get Users from Office 365** action. Users are assigned permission sets depending on the plan assigned to the User in Office 365.
-
-You can then proceed to assign permission sets to the users to define which database objects, and thereby which UI elements, they have access to, and in which companies.
+Permission sets define which database objects, and thereby which UI elements, users have access to, and in which companies.
 
 A permission set is a collection of permissions for specific objects in the database. All users must be assigned one or more permission sets before they can access [!INCLUDE[d365fin](includes/d365fin_md.md)]. A number of predefined permission sets are provided by default. You can use these permission sets as already defined, modify the default permission sets, or create additional permission sets.
 
@@ -105,3 +103,4 @@ Administrators can define periods of time during which specified users are able 
 [Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Creating Microsoft Dynamics NAV Users](/dynamics-nav/How-to--Create-Microsoft-Dynamics-NAV-Users)  

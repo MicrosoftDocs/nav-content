@@ -5,7 +5,7 @@ description: You can make sure that entries for documents and journals are accur
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

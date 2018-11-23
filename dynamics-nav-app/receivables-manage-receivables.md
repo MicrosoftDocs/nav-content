@@ -5,7 +5,7 @@ description: Outlines tasks to manage receivables and apply payments to customer
 documentationcenter: ''
 author: SorenGP
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -30,14 +30,16 @@ Another part of managing receivables is to collect outstanding balances, includi
 
 The following table describes a sequence of tasks, with links to the topics that describe them.  
 
-| To | See |
-| --- | --- |
-| Apply payments to open customer or vendor ledger entries based on an imported bank statement file or feed, and reconcile the bank account when all payments are applied. |[Applying Payments Automatically and Reconciling Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
-| Apply payments to open customer ledger entries based on manual entry in a list of unpaid sales documents. |[How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
-| Post cash receipts or refunds for customers in the cash receipt journal and apply to customer ledger entries, either from the journal or from posted ledger entries. |[How to: Reconcile Customer Payments Manually](receivables-how-apply-sales-transactions-manually.md) |
-| Remind customers of overdue amounts, calculate interest and finance charges, and manage accounts receivable. |[How to: Collect Outstanding Balances](receivables-collect-outstanding-balances.md) |
-|Ensure that you know the cost of shipped items by assigning added item costs, such as freight, physical handling, insurance, and transportation that you incur after selling.|[How to: Use Item Charges to Account for Additional Trade Costs](payables-how-assign-item-charges.md)|
-|Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.|[How to: Work with Payment Tolerances and Payment Discount Tolerances](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+
+|                                                                                      To                                                                                       |                                                                               See                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Apply payments to open customer or vendor ledger entries based on an imported bank statement file or feed, and reconcile the bank account when all payments are applied.    |                   [Applying Payments Automatically and Reconciling Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)                    |
+|                                   Apply payments to open customer ledger entries based on manual entry in a list of unpaid sales documents.                                   | [How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
+|     Post cash receipts or refunds for customers in the cash receipt journal and apply to customer ledger entries, either from the journal or from posted ledger entries.      |                               [How to: Reconcile Customer Payments Manually](receivables-how-apply-sales-transactions-manually.md)                               |
+|                                 Remind customers of overdue amounts, calculate interest and finance charges, and manage accounts receivable.                                  |                                       [How to: Collect Outstanding Balances](receivables-collect-outstanding-balances.md)                                        |
+| Ensure that you know the cost of shipped items by assigning added item costs, such as freight, physical handling, insurance, and transportation that you incur after selling. |                              [How to: Use Item Charges to Account for Additional Trade Costs](payables-how-assign-item-charges.md)                               |
+|           Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.           |               [How to: Work with Payment Tolerances and Payment Discount Tolerances](finance-payment-tolerance-and-payment-discount-tolerance.md)                |
+
 ## See Also
 [Sales](sales-manage-sales.md)  
 [Managing Payables](payables-manage-payables.md)  

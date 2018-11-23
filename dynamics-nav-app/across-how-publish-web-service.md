@@ -1,15 +1,15 @@
 ---
-title: Expose objects as web services 
+title: Expose objects as web services
 description: Publish [!INCLUDE[d365fin](includes/d365fin_md.md)] objects as web services, they are immediately available on the network.
 author: edupont04
 
-ms.prod: "dynamics-nav-2017"
+ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords:
-ms.date: 09/01/2017
+ms.date: 08/10/2018
 ms.author: edupont
 
 ---
@@ -40,31 +40,17 @@ After you publish a web service, it is available to external parties. You can ve
 
 #### To verify the availability of a web service  
 
-1.  In your browser, enter the relevant URL. The following table illustrates the types of URLs that you can enter. For SOAP web services, use the following format for your URI.  
+1. In your browser, enter the relevant URL. The following table illustrates the types of URLs that you can enter. For SOAP web services, use the following format for your URI.  
 
-    <table>
-    <tr>
-    <th>Web service type</th>
-    <th>Syntax</th>
-    <th>Example</th>
-    </tr>
-    <tr>
-    <td>SOAP</td>
-    <td>https://*Server*:*SOAPWebServicePort*/*ServerInstance*/WS/*CompanyName*/salesDocuments/</td>
-    <td>https://mycompany.financials.dynamics.com:7047/MS/WS/MyCompany/Page/salesDocuments?tenant=mycompany.financials.dynamics.com</td>
-    </tr>
-    <tr>
-    <td>OData</td>
-    <td>https://*Server*:*ODataWebServicePort*/*ServerInstance*/OData/Company('*CompanyName*')</td>
-    <td>https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com
+> [!div class="mx-tdBreakAll"]
+> |Type|Syntax|Example|
+> |----------------|------|-------|
+> |SOAP |https://*Server*:*SOAPWebServicePort*/*ServerInstance*/WS/*CompanyName*/salesDocuments/ |https://mycompany.financials.dynamics.com:7047/MS/WS/MyCompany/Page/salesDocuments?tenant=mycompany.financials.dynamics.com |
+> |OData |https://*Server*:*ODataWebServicePort*/*ServerInstance*/OData/Company('*CompanyName*')|[https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com](https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com) <br />    The company name is case-sensitive.|
 
-         The company name is case-sensitive.</td>
-    </tr>
-    </table>
+2. Review the information that is displayed in the browser. Verify that you can see the name of the web service that you have created.  
 
-2.  Review the information that is displayed in the browser. Verify that you can see the name of the web service that you have created.  
-
- When you access a web service, and you want to write data back to [!INCLUDE[d365fin](includes/d365fin_md.md)], you must specify the company name. You can specify the company as part of the URI as shown in the examples, or you can specify the company as part of the query parameters. For example, the following URIs point to the same OData web service and are both valid URIs.  
+   When you access a web service, and you want to write data back to [!INCLUDE[d365fin](includes/d365fin_md.md)], you must specify the company name. You can specify the company as part of the URI as shown in the examples, or you can specify the company as part of the query parameters. For example, the following URIs point to the same OData web service and are both valid URIs.  
 
 ```  
 https://localhost:7048/server/OData/Company('CRONUS International Ltd.')/Customer  
