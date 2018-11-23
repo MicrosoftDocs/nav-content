@@ -13,15 +13,15 @@ ms.date: 11/23/2018
 ms.author: edupont
 
 ---
-> [!NOTE]
-> This Help library is not being updated regularly. This is because Dynamics NAV is gradually being replaced by Dynamics Business Central.<br /><br />
-> To learn about recent functionality, which also exists in NAV, go to the Help library for Business Central, which is structured in the same way: https://docs.microsoft.com/en-us/dynamics365/business-central/ <br /><br />
-> Note that many descriptions of general functions in the UI are different because Business Central is a cloud product.    
-
 # Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] is a business management solution for small and mid-sized organizations that automates and streamlines business processes and helps you manage your business. Highly adaptable and rich with features, [!INCLUDE[d365fin](includes/d365fin_md.md)] enables companies to manage their business, including finance, manufacturing, sales, shipping, project management, services, and more. Companies can easily add functionality that is relevant to the region of operation, and that is customized to support even highly specialized industries.
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] is fast to implement, easy to configure, and simplicity guides innovations in product design, development, implementation, and usability. In this section, you can find information about using [!INCLUDE[d365fin](includes/d365fin_md.md)] in your company. And if you are a partner or customer looking at extending the functionality, you will find relevant links under Development and Administration.  
+
+> [!NOTE]
+> This Help library is not being updated regularly. This is because Dynamics NAV is gradually being replaced by Dynamics Business Central.<br /><br />
+> To learn about recent functionality, which also exists in NAV, go to the Help library for Business Central, which is structured in the same way: https://docs.microsoft.com/en-us/dynamics365/business-central/ <br /><br />
+> Note that many descriptions of general functions in the UI are different because Business Central is a cloud product.
 
 |||  
 |-|-|  
