@@ -7,9 +7,9 @@ There are different repos in GitHub for the source content and each of the langu
 
 **NOTE**: Microsoft accepts pull requests to the *nav-content* repo only, not the language-specific repos. If you have feedback about translations, you can report a GitHub issue in the relevant repo.
 
-The *live* branch has been updated in preparation for the upcoming release of Dynamics NAV 2018. If you want to source files for Dynamics NAV 2017, see the *Release* tab.
+The *live* branch contains content for Dynamics NAV 2018. If you want source files for Dynamics NAV 2017, see the *Release* tab.
 
-If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
+We welcome contributions submitted through pull requests. If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
 
 ## Getting Started
 1. Fork this repo
