@@ -1,7 +1,7 @@
 ---
     title: Walkthrough - Selling, Assembling, and Shipping Kits 
     description: To support just-in-time inventory and the ability to customize products to customer requests, assembly orders can be automatically created and linked as soon as the sales order line is created. The link between the sales demand and the assembly supply enables sales order processors to customize the assembly item and promise delivery dates according to component availability. In addition, assembly consumption and output are posted automatically with the shipment of the linked sales order.
-    
+
     documentationcenter: ''
     author: SorenGP
 
@@ -205,35 +205,37 @@ When the sales order is later posted as fully invoiced, the sales order and the 
 
 ### Selling the Assembly Items  
 
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
-2.  On the **Home** tab, in the **Manage** group, choose **New**.  
-3.  Create two sales order lines for customer 62000, The Device Shop, on the work date with the following information.  
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.  
+2. On the **Home** tab, in the **Manage** group, choose **New**.  
+3. Create two sales order lines for customer 62000, The Device Shop, on the work date with the following information.  
 
-    |**Type**|**Description**|**Quantity**|Qty. to Assemble to Order|Shipment Date|  
-    |--------------|---------------------|------------------|-------------------------------|-------------------|  
-    |Item|Kit B – Pro PC|3|3|January 23|  
-    |Item|Kit A – Basic PC|15|5|January 27|  
+   |**Type**|**Description**|**Quantity**|Qty. to Assemble to Order|Shipment Date|  
+   |--------------|---------------------|------------------|-------------------------------|-------------------|  
+   |Item|Kit B – Pro PC|3|3|January 23|  
+   |Item|Kit A – Basic PC|15|5|January 27|  
 
-    > [!NOTE]  
-    >  The following availability issue exists for the sales order line for Kit B:  
-    >   
-    >  -   Assembly component 80210 is not available. This means that the three specified units of Kit B cannot be assembled, indicated by **0** in the **Able to Assemble** field in the **Assembly Availability** window.  
-    >   
-    >  The following availability issue exists for the sales order line for Kit A:  
-    >   
-    >  -   The ten units of Kit A are not available. This indicates to the planning system that the quantity must be assembled to inventory.  
+   > [!NOTE]
+   >  The following availability issue exists for the sales order line for Kit B:  
+   > 
+   > - Assembly component 80210 is not available. This means that the three specified units of Kit B cannot be assembled, indicated by **0** in the **Able to Assemble** field in the **Assembly Availability** window.  
+   > 
+   >   The following availability issue exists for the sales order line for Kit A:  
+   > 
+   > - The ten units of Kit A are not available. This indicates to the planning system that the quantity must be assembled to inventory.  
 
-    Next, customize the sales order.  
+   Next, customize the sales order.  
 
-4.  Select the sales order line for three units of Kit B.  
-5.  On the **Lines** FastTab, choose **Line**, choose **Assemble to Order**, and then choose **Assemble-to-Order Lines**.  
-6.  In the **Assemble-to-Order Lines** window, on the assembly order line for item 80014, enter **2** in the **Quantity per** field.  
-7.  On the assembly order line for item 80210, choose the **No.** field, and then select item 80209 instead.  
-8.  Create a new assembly order line with the following information.  
+4. Select the sales order line for three units of Kit B.  
+5. On the **Lines** FastTab, choose **Line**, choose **Assemble to Order**, and then choose **Assemble-to-Order Lines**.  
+6. In the **Assemble-to-Order Lines** window, on the assembly order line for item 80014, enter **2** in the **Quantity per** field.  
+7. On the assembly order line for item 80210, choose the **No.** field, and then select item 80209 instead.  
+8. Create a new assembly order line with the following information.  
 
-    |Type|No.|Quantity per|  
-    |----------|---------|------------------|  
-    |Item|80203|1|  
+
+   | Type |  No.  | Quantity per |
+   |------|-------|--------------|
+   | Item | 80203 |      1       |
+
 
 9. Close the **Assemble-to-Order Lines** window.  
 

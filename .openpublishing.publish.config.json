@@ -1,6 +1,6 @@
 {
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
+  "build_entry_point": "docs",
+  "need_generate_pdf": true,
   "docsets_to_publish": [
     {
       "docset_name": "dynamics-nav-app",
@@ -31,7 +31,29 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ],
+    "master": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
+  "need_generate_intellisense": false,
+  "Targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  }
 }

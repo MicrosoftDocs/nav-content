@@ -32,7 +32,7 @@ To transfer items, locations and transfer routes must be set up. For more inform
 2. In the **Transfer Order** window, fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
->   If you have filled in the **In-Transit Code**, **Shipping Agent Code**, and **Shipping Agent Service** fields in the **Trans. Route Spec.** window when you set up the transfer route, then the corresponding fields on the transfer order are filled in automatically.
+   >   If you have filled in the **In-Transit Code**, **Shipping Agent Code**, and **Shipping Agent Service** fields in the **Trans. Route Spec.** window when you set up the transfer route, then the corresponding fields on the transfer order are filled in automatically.
 
     When you fill in the **Shipping Agent Service** field, the receipt date at the transfer-to location is calculated by adding the shipping time of the shipping agent service to the shipment date.
 
@@ -50,7 +50,7 @@ To transfer items, locations and transfer routes must be set up. For more inform
 3. In the **Location Code** field, enter the location where the items are currently stored.
 
     > [!NOTE]  
->   To transfer items that have no location code, leave the **Location Code** field blank.
+   >   To transfer items that have no location code, leave the **Location Code** field blank.
 4. In the **New Location Code** field, enter the location that you want to transfer the items to.
 5. Choose the **Post** action.
 
@@ -62,4 +62,4 @@ To transfer items, locations and transfer routes must be set up. For more inform
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 [General Business Functionality](ui-across-business-areas.md)
 
-##
+# #

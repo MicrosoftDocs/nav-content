@@ -1,0 +1,11 @@
+- name: Dynamics 365
+  tocHref: /dynamics365/
+  topicHref: /dynamics365/index
+  items:
+  - name: Dynamics NAV
+    tocHref: /dynamics-nav-app/
+    topicHref: /dynamics-nav-app/index
+    items:
+      - name: Developer and IT-Pro Help
+        tocHref: /dynamics-nav/
+        topicHref: /dynamics-nav/index
