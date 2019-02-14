@@ -18,11 +18,6 @@ ms.author: edupont
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] is fast to implement, easy to configure, and simplicity guides innovations in product design, development, implementation, and usability. In this section, you can find information about using [!INCLUDE[d365fin](includes/d365fin_md.md)] in your company. And if you are a partner or customer looking at extending the functionality, you will find relevant links under Development and Administration.  
 
-> [!NOTE]
-> This Help library is not being updated regularly. This is because Dynamics NAV is gradually being replaced by Dynamics Business Central.<br /><br />
-> To learn about recent functionality, which also exists in NAV, go to the Help library for Business Central, which is structured in the same way: https://docs.microsoft.com/en-us/dynamics365/business-central/ <br /><br />
-> Note that many descriptions of general functions in the UI are different because Business Central is a cloud product.
-
 |||  
 |-|-|  
 |**Business Processes**|-   [Getting Started](across-get-started.md)<br />-   [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Setting up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Business Functionality](madeira-business-functionality.md)<br />-   [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)|  
