@@ -1,6 +1,6 @@
 ---
     title: How to Archive Sales and Purchase Documents | Microsoft Docs
-    description: You can archive sales and purchase orders, quotes, return orders, and blanket orders, and you can use the archived document to recreate the document that it was archived from.
+    description: You can archive sales and purchase orders, quotes, return orders, and blanket orders, and you can use the archived document to restore the document that it was archived from.
 
     documentationcenter: ''
     author: SorenGP
@@ -11,12 +11,12 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 12/21/2017
+    ms.date: 11/21/2018
     ms.author: sgroespe
 
 ---
 # How to: Archive Documents
-You can archive sales and purchase orders, quotes, return orders, and blanket orders, and you can use the archived document to recreate the document that it was archived from.
+You can archive sales and purchase orders, quotes, return orders, and blanket orders, and you can use the archived document to restore the document that it was archived from.
 
 ## To set up automatic document archiving  
 You can set up automatic archiving of sales and purchase orders, quotes, blanket orders, and return orders, before you delete documents.
@@ -38,18 +38,20 @@ The following procedure describes how to archive a sales order. The steps are si
 2.  Open a sales order that you want to archive.  
 3.  Choose the **Archive Document** action.
 
-The sales order is archived. You can view it in the **Archived Sales orders** window. From here, you can also use it to recreate the sales order that it was archived from.
+The sales order is archived. You can view it in the **Archived Sales orders** window. From here, you can also use it to restore the sales order that it was archived from.
 
-## To recreate a sales order from the archive
-The following procedure describes how to recreate a sales order. The steps are similar for all orders, blanket orders, return orders, and quotes.
+## To restore a sales order from the archive
+The following procedure describes how to restore a sales order. The steps are similar for all orders, blanket orders, return orders, and quotes.
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Archived Sales Orders**, and then choose the related link.
-2.  Select the archived sales order that you want to recreate, and then choose the **Restore** action.  
+2.  Select the archived sales order that you want to restore, and then choose the **Restore** action.  
 
-The sales order is created and added to the **Sales Orders** window.
+The sales order is restored to the earlier state.
+
+NOTE: An archived version of a sales quote / sales order cannot be restored after deleting an original document.
 
 ## To delete archived sales orders
-The following procedure describes how to delete archived sales orders. The steps are similar for other archived sales and purchase documents.
+The following procedure describes how to delete archived sales orders when the original sales order has been deleted. The steps are similar for other archived sales and purchase documents.
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delete Archived Sales Order Versions**, and then choose the related link.  
 2.  In the **Delete Archived Sales Order Versions** window, select the appropriate filters.  
