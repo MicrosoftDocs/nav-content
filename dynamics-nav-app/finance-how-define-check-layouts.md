@@ -1,8 +1,6 @@
 ---
 title: Specify the Layout of a Check
 description: You can design and print your checks in different formats to conform with standards.
-
-documentationcenter: ''
 author: edupont04
 
 ms.prod: "dynamics-nav-2018"
@@ -11,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, customize
-ms.date: 06/15/2017
+ms.date: 04/24/2019
 ms.author: edupont
 
 ---
@@ -28,8 +26,9 @@ Checks are designed to print in both the United States and Canadian check image 
 | Report ID | Report Name | Description |
 | --- | --- | --- |
 | 1401 |Check |This is the default report. |
-| 10401 |Check (Stub/Stub/Check) |This report is designed to print checks in a stub/stub/check format. |
-| 10411 |Check (Stub/Check/Stub) |This report is designed to print checks in a check/stub/check format. |
+| 10411 |Check (Stub/Stub/Check) |This report is designed to print checks in a stub/stub/check format. |
+| 10412 |Check (Stub/Check/Stub) |This report is designed to print checks in a stub/check/stub format. |
+| 10413 |Three Checks per Page |This report is designed to print three checks on each page. |
 
 When you have set up check layouts, you can print checks from the **Payment Journal** window. For more information, see [How to: Work with Checks](payables-how-work-checks.md).
 
