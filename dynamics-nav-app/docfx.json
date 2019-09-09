@@ -8,7 +8,6 @@
         ],
         "exclude": [
           "**/obj/**",
-          "../**",
           "**/includes/**",
           "**/_themes/**",
           "**/_themes.pdf/**",
@@ -28,7 +27,6 @@
         ],
         "exclude": [
           "**/obj/**",
-          "../**",
           "**/includes/**"
         ]
       }
