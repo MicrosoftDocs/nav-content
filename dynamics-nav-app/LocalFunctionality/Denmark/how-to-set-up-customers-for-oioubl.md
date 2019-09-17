@@ -1,4 +1,4 @@
-fhow-register-new-customers---
+---
     title: How to Set Up Customers for OIOUBL
     description: To create Offentlig Information Online UBL (OIOUBL) documents for customers in the public sector, you must add OIOUBL information to the relevant customers.
     
@@ -11,7 +11,7 @@ fhow-register-new-customers---
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 07/01/2017
+    ms.date: 09/17/2019
     ms.author: sgroespe
 
 ---
