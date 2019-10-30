@@ -17,7 +17,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 ## Getting Started
 1. Fork this repo
 
-    You cannot work directly in the nav-content repo, so the first thing you need to do is create a fork of the repo under your GitHub account. A fork basically is copy of this repo that lets you work freely on the content without affecting the nav-content repo. For more information, see [Fork a Repo] (https://help.github.com/articles/fork-a-repo/)
+    You cannot work directly in the nav-content repo, so the first thing you need to do is create a fork of the repo under your GitHub account. A fork basically is copy of this repo that lets you work freely on the content without affecting the nav-content repo. For more information, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 
 2.  Install GitHub Desktop (optional) and clone your forked repo.
 
