@@ -1,5 +1,5 @@
 # nav-content
-Welcome to the repository for the application help content for Dynamics NAV! Dynamics NAV is aimed at small and midsized businesses, and this repo gives you access to the source files that are used to build the application help that is shipped as part of the Help Server with Dynamics NAV. This repo enables you to take the Dynamics NAV help and customize it to suit your application. It also provides a way for you to actively contribute to the current Dynamics NAV content.
+Welcome to the repository for the application help content for Microsoft Dynamics NAV! Dynamics NAV is aimed at small and midsized businesses, and this repo gives you access to the source files that are used to build the application help that is shipped as part of the Help Server with Dynamics NAV. This repo enables you to take the Dynamics NAV help and customize it to suit your application. It also provides a way for you to actively contribute to the current Dynamics NAV content.
 
 The content is available as markdown files (.md), where each file represents an article in the help. You can edit these markdown files, and then convert them to HTML files for application.
 
@@ -9,7 +9,10 @@ There are different repos in GitHub for the source content and each of the langu
 
 The *live* branch contains content for Dynamics NAV 2018. If you want source files for Dynamics NAV 2017, see the *Release* tab.
 
-We welcome contributions submitted through pull requests. If you have any questions, please contact the Dynamics NAV User Assistance (UA) team at nav-olh@microsoft.com.
+We welcome contributions submitted through pull requests. 
+
+## Code of Conduct
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Getting Started
 1. Fork this repo
@@ -23,6 +26,8 @@ We welcome contributions submitted through pull requests. If you have any questi
 2. Get hold of your favorite MarkDown editor, and start making changes.
 
     The help content is stored in the articles folder of the repo. Articles use a syntax for formatting text called GitHub Flavored Markdown. To learn more about working with markdown, see [Getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/).
+    
+    You can get additional tips and tricks for how to contribute in the [Docs Contributor Guide](https://docs.microsoft.com/contribute/) and in the contributor guide for Microsoft Dynamics 365 Business Central at [https://docs.microsoft.com/dynamics365/business-central/dev-itpro/help/contributor-guide](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/help/contributor-guide#get-started-with-github).
 
 3. Build the HTML files for the Dynamics NAV Help Server.
 
@@ -204,7 +209,7 @@ In the editor, add two blank spaces at the end of the sentence and hit return. T
 Enter four spaces in front of the non-step para. Otherwise, the non-step para will restart the step sequence.
 
 ### TOC
-This repo contains two TOC files. One is in MarkDown format and the other is in XML format. For the Dynamics NAV Help Server, you must use the XML file. For more information, see [Microsoft Dynamics NAV Help Server](https://docs.microsoft.com/en-us/dynamics-nav/Microsoft-Dynamics-NAV-Help-Server).
+This repo contains two TOC files. One is in MarkDown format and the other is in XML format. For the Dynamics NAV Help Server, you must use the XML file. For more information, see [Microsoft Dynamics NAV Help Server](https://docs.microsoft.com/dynamics-nav/Microsoft-Dynamics-NAV-Help-Server).
 
 ### Standard Phrases
 All fields in Dynamics NAV have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    
@@ -241,5 +246,4 @@ Naming consists of the following elements: ```<country prefix>-<category prefix>
 ### Country-specific content
 To simplify content localization and translation, country-specific articles live in the same folder ```/dynamics-nav-app``` as the articles for the generic product. We distinguish country-specific article file names by a country prefix. However, we are moving towards having local functionality descriptions in country-specific subfolders under ```/dynamics-nav-app/LocalFunctionality```.
 
-## Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
