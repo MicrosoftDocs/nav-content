@@ -1,7 +1,6 @@
 ---
     title: Keyboard Shortcuts in the Dynamics NAV Windows Clients
     description: Describes the keyboard shortcuts that you can use to move through the user interface.
-    documentationcenter: ''
     author: jswymer
     ms.prod: "dynamics-nav-2018"
     ms.topic: article
@@ -9,10 +8,12 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords: accessibility, shortcuts, keyboarding
-    ms.date: 19/17/2017
+    ms.date: 12/04/2019
     ms.author: jswymer
 ---
+
 # Keyboard Shortcuts
+
 The following table provides an overview of shortcut key combinations in the [!INCLUDE[nav_windows](includes/nav_windows_md.md)].  
   
 |Keyboard shortcut|Action|  
@@ -106,9 +107,10 @@ The following table provides an overview of shortcut key combinations in the [!I
 |Alt+Enter|Move to the field below without opening the drop-down menu|  
 |Alt+Tab|Toggle between open windows|  
   
-## See Also  
+## See Also
+
 [Assistive Features](ui-accessibility.md)  
 [Keyboard Shortcuts in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]](keyboard-shortcuts.md)  
-[Keyboard Shortcuts in the AL](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-keyboard-shortcuts)  
-[Keyboard Shortcuts in the Development Environment](https://docs.microsoft.com/en-us/dynamics-nav/Keyboard-Shortcuts-in-the-Development-Environment)    
+[Keyboard Shortcuts in the AL](/dynamics-nav/developer/devenv-keyboard-shortcuts)  
+[Keyboard Shortcuts in the Development Environment](/dynamics-nav/Keyboard-Shortcuts-in-the-Development-Environment)    
 [Working with Product](ui-work-product.md)  
