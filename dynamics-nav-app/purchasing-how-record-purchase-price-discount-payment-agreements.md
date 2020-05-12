@@ -54,7 +54,7 @@ When your vendors have informed you which invoice discounts they grant, enter th
 2. Open the vendor card for a vendor that will be eligible for invoice discounts.
 3. In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.
 
-    > [!NOTE]  
+   > [!NOTE]  
    >   Invoice discount codes are represented by existing vendor cards. This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.
 
     Proceed to set up new the purchase invoice discount terms.
@@ -81,7 +81,7 @@ Before you can do this, you must have already set up the necessary accounts for 
 |**Line Discounts**|Subtracted|Posted separately|  
 |**No Discounts**|Subtracted|Subtracted|  
 
-# Purchase Invoice Discounts and Service Charges
+## Purchase Invoice Discounts and Service Charges
 If you have fixed terms for invoice discounts with any vendors, you can enter them for those vendors. Then the discount will be calculated when you fill in a purchase invoice.  
 
  Before you can use invoice discounts with purchases, you must specify the vendors that offer you the discounts.  

@@ -20,7 +20,7 @@ The point of the registration is that Dynamics NAV and the service that you want
 
 ## To register Dynamics NAV in the Azure Management Portal
 1. Log in to the Azure Management Portal at [https://portal.azure.com](https://portal.azure.com).
-    If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://azure.microsoft.com/en-us/documentation/articles).
+    If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://docs.microsoft.com/azure/).
 2. In the left navigation pane, choose **More services**, and then choose **App registrations**.
 3. In the top menu, choose **Add**, and then, in the **Create pane**, fill in the fields with the following information:
    - **Name**: Specify a name for your Dynamics NAV solution, such as *Dynamics NAV*.

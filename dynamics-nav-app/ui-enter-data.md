@@ -9,7 +9,7 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 09/19/2017
+    ms.date: 05/12/2020
     ms.author: jswymer
 
 ---
@@ -33,7 +33,7 @@ Even though the field contains a red asterisk, you are not forced to fill the fi
 
 -   Drop-down - Displays the set of options that exist for the field. You can select only one of the options.  
 
-<!--Onprem ## Copy Fields or Lines  
+## Copy Fields or Lines  
  Depending on the type of writable document, you can copy individual line fields or whole lines to other lines in the document. Read-only data, such as posted entries, cannot be copied.  
 
  Several database dependencies are used to determine if fields or lines can be copied. One way to determine these dependencies is to view the shortcut menu. The content of the shortcut menu indicates which copy functions are supported by displaying either of these functions:  
@@ -49,11 +49,11 @@ Even though the field contains a red asterisk, you are not forced to fill the fi
  Journal lines are very flexible and can be copied freely in the same journal, indicated by the presence of **Paste** on the shortcut menu.  
 
 > [!NOTE]  
->   If you copy a journal line or document line, the fields that are not in your view are not copied to the new line.
+> If you copy a journal line or document line, the fields that are not in your view are not copied to the new line.
 
-#### To copy previous field  
+### To copy previous field
 
--   To enter the value of the field immediately above the active field, select **Copy Previous** from the shortcut menu.-->
+- To enter the value of the field immediately above the active field, select **Copy Previous** from the shortcut menu.
 
 ## Entering Quantities by Calculation  
  When entering numbers into quantity fields, such as the **Quantity** field on an item journal line, you can enter the formula instead of the sum quantity.  
@@ -104,10 +104,10 @@ You can enter dates and times in all the fields that are specifically assigned t
 |t|This is today's date (the system date for the computer).|  
 |w|This is the work date that is setup in the application. To change the work date, see [Changing Basic Settings](ui-change-basic-settings.md). You may want to use a work date if you have many transactions with a date other than today's date.|  
 
-<!--Onprem ## Closing Date  
+<## Closing Date  
  When you close a fiscal year, you can use closing dates to indicate that an entry is a closing entry. A closing date technically is between two dates, for example between Dec 31 and Jan 1.  
 
- To specify that a date is a closing date, put C just before the date: C123101. -->
+ To specify that a date is a closing date, put C just before the date: C123101.
 
 ## Entering Times  
  When you enter times, you can insert any separator sign that you want between the units, but it is not required. You do not have to write minutes, seconds, or AM/PM.  
@@ -174,7 +174,7 @@ You can enter dates and times in all the fields that are specifically assigned t
 
  The number 5 is converted to 5 hrs, if the unit of measure is hours.  
 
-<!--OnPrem  ##  <a name="BKMK_SettingDateRanges"></a> Setting Date Ranges  
+##  <a name="BKMK_SettingDateRanges"></a> Setting Date Ranges  
  You can set filters containing a start date and an end date to display only the data contained in that date range or time interval. Special rules apply to the way you set date ranges.  
 
 |**Meaning**|**Sample expression**|**Entries included**|  
@@ -188,7 +188,7 @@ You can enter dates and times in all the fields that are specifically assigned t
 |**Sample expression**|**Entries included**|  
 |---------------------------|--------------------------|  
 |12 15 00&#124;12 01 00..12 10 00|Entries posted either on 12 15 00 or on dates between and including 12 01 00 and 12 10 00.|  
-|..12 14 00&#124;12 30 00..|Entries posted on 12 14 00 or earlier, or entries posted on 12 30 00 or later - that is, all entries except those posted on dates between and including 12 15 00 and 12 29 00.|  -->
+|..12 14 00&#124;12 30 00..|Entries posted on 12 14 00 or earlier, or entries posted on 12 30 00 or later - that is, all entries except those posted on dates between and including 12 15 00 and 12 29 00.| 
 
 ## Using Date Formulas  
  A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates. You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.  
@@ -250,8 +250,10 @@ You can enter dates and times in all the fields that are specifically assigned t
 |-|-|  
 |-1Y|1 year ago from today|  
 
-<!--OnPrem > [!CAUTION]  
->  If the location uses a base calendar, then the date formula that you enter in, for example, the **Shipping Time** field is interpreted according to the calendar working days. For example, a 1W means seven working days. For more information, see Base Calendar Card.-->  
-## See Also  
+[!CAUTION]  
+> If the location uses a base calendar, then the date formula that you enter in, for example, the **Shipping Time** field is interpreted according to the calendar working days. For example, a 1W means seven working days. For more information, see Base Calendar Card.
+
+## See Also
+
  [Searching, Filtering, and Sorting Data](ui-enter-criteria-filters.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
