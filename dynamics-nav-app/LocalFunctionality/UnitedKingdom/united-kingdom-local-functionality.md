@@ -17,7 +17,7 @@ ms.author: edupont
 The following topics describe local functionality that is unique to the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
-[Making Tax Digital in the United Kingdom](https://docs.microsoft.com/en-us/dynamics365/business-central/localfunctionality/unitedkingdom/united-kingdom-local-functionality)  
+[Making Tax Digital in the United Kingdom](https://docs.microsoft.com/dynamics365/business-central/localfunctionality/unitedkingdom/united-kingdom-local-functionality)  
 [How to: Enter Statutory Information](how-to-enter-statutory-information.md)  
 [How to: Set Up the GetAddress.io UK Postcodes Extension](uk-setup-postal-code-service.md)  
 [How to: Set Up a Posting Date Warning](how-to-set-up-a-posting-date-warning.md)  

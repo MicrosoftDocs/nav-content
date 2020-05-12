@@ -25,12 +25,12 @@ Companies that sell goods or services to European Union (EU) countries must subm
 > [!NOTE]  
 >  Before you can send electronic declarations to the tax authorities you must register your company for electronic declaration. The information that the tax authorities need depends on the sign method your company will use, PIN or PKI. For both methods, you have to send the form "Aanmeldingsformulier voor elektronisch berichtenverkeer met de belastingdienst" to the tax authorities.  
 >   
->  For more information, see the [website](http://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
+>  For more information, see the [website](https://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
 
 ## Submitting Electronic Tax Declarations  
 You can submit the VAT declarations and ICP declarations in the following ways:  
 
-- Log on to the website of the Dutch tax office and enter the information manually. For more information, see the [website](http://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
+- Log on to the website of the Dutch tax office and enter the information manually. For more information, see the [website](https://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
 
     For ICP declarations, you can enter a maximum of 99 lines.  
 
@@ -47,10 +47,10 @@ You can submit the VAT and ICP declarations electronically to the tax authoritie
  Uses a PIN code to sign the declaration. If you submit your declarations using the PIN method, you must create a PIN code for your company and deliver it to the tax authorities. This code helps the tax authorities to identify the company that has submitted the electronic declaration. This PIN code is not stored in the database. Therefore, you must save the PIN code in a secure location.  
 
 > [!WARNING]  
->  The tax authorities are reconsidering whether to accept declarations that are signed using a PIN code. For more information, see the [website](http://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
+>  The tax authorities are reconsidering whether to accept declarations that are signed using a PIN code. For more information, see the [website](https://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
 
 **Public Key Infrastructure (PKI) method**  
- Uses digital certificates to encrypt messages and verify digital signature. If you submit your declarations using the PKI method, you must also have additional certificates, generic parameters, and other parameters when you use the PKI method. For more information, see the [website](http://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
+ Uses digital certificates to encrypt messages and verify digital signature. If you submit your declarations using the PKI method, you must also have additional certificates, generic parameters, and other parameters when you use the PKI method. For more information, see the [website](https://go.microsoft.com/fwlink/?LinkID=223151) of the Dutch tax office.  
 
 ## Contact Information  
 The electronic VAT and ICP declarations contain contact information about the taxpayer or the agent. For more information, see VAT Registration No..  
