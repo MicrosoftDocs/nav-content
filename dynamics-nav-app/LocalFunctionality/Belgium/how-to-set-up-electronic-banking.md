@@ -82,7 +82,7 @@ Optionally, you can assign bank accounts to each customer and vendor. This helps
 4.  Choose the **OK** button.  
 
 ## See Also  
- [Isabel website](http://go.microsoft.com/fwlink/?LinkId=210323)   
+ [Isabel website](https://go.microsoft.com/fwlink/?LinkId=210323)   
  [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [Belgian Electronic Payments](belgian-electronic-payments.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)   

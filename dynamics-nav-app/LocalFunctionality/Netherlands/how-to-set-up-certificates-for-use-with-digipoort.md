@@ -33,8 +33,8 @@ Next, you have to install the certificates. The certificates have to be installe
 
 ## To install the certificates  
 
-1.  Open the **Windows Certificate Console** to import the certificates that you have obtained from the government. For more information, see [How to: Use the Certificates Console](http://social.technet.microsoft.com/wiki/contents/articles/2167.how-to-use-the-certificates-console.aspx).  
-2.  Import the two certificates. For more information, [To import a certificate](http://social.technet.microsoft.com/wiki/contents/articles/2167.how-to-use-the-certificates-console.aspx#To_import_certificates).  
+1.  Open the **Windows Certificate Console** to import the certificates that you have obtained from the government. For more information, see [How to: Use the Certificates Console](https://social.technet.microsoft.com/wiki/contents/articles/2167.how-to-use-the-certificates-console.aspx).  
+2.  Import the two certificates. For more information, [To import a certificate](https://social.technet.microsoft.com/wiki/contents/articles/2167.how-to-use-the-certificates-console.aspx#To_import_certificates).  
 
     **Personal Certificate**  
 

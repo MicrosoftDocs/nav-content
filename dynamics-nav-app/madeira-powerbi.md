@@ -40,10 +40,10 @@ The content packs are preconfigured to work with data from the demonstration com
 ## Accessing [!INCLUDE[d365fin](includes/d365fin_md.md)] in Power BI
 To see your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Power BI, you must have the following:  
 
-* Access to [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
+* Access to [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [Dynamics NAV](https://go.microsoft.com/fwlink/?LinkID=759714).  
 * Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
-On the Power BI site, you can find additional information about [connecting to services with content packs for Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+On the Power BI site, you can find additional information about [connecting to services with content packs for Power BI](https://go.microsoft.com/fwlink/?LinkID=760850).  
 
 To access your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Power BI, on the connection page, you must specify the following information:
 

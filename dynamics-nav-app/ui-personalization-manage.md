@@ -28,7 +28,7 @@ By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes
 
 If you want to disable personalization in the Web client, remove this line.
 
-For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/en-us/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
+For more information about how to modify the navsettings.json file, see [Modify the navsettings.json file directly](https://docs.microsoft.com/dynamics-nav/configuring-microsoft-dynamics-nav-web-client-by-modifying-the-web.config-file#WebClientSettingsFile).
 
 ## Disabling Personalization for a Profile
 You can prevent all users that belong to a specific profile from being able to personalize their pages.

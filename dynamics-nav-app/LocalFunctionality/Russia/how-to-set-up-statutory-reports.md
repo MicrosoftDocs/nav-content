@@ -20,7 +20,7 @@ The Russian federal tax authorities require companies to submit statutory report
 
 After you have set up a report and specified the required information, you can export the report to Excel, and then print the report.  
 
-For more information, see [Statutory Reporting Directives](http://go.microsoft.com/fwlink/?LinkId=216143) and [Statutory Reporting Software](http://go.microsoft.com/fwlink/?LinkId=216142) on the Federal Tax Service website.  
+For more information, see [Statutory Reporting Directives](https://go.microsoft.com/fwlink/?LinkId=216143) and [Statutory Reporting Software](https://go.microsoft.com/fwlink/?LinkId=216142) on the Federal Tax Service website.  
 
 First, you must set up general information that applies to all statutory reports.  
 

@@ -21,7 +21,7 @@ You must submit a periodic report of transactions with customers and vendors in 
 - Purchases of goods or services  
 - Sales of goods or services  
 
-On a monthly or quarterly basis, you must generate the blacklist communication report for transactions with countries/regions that have privileged taxation and send it to the Italian Revenue Agency. The Italian Revenue Agency decides which countries/regions are included on the blacklist. You can view or change countries/regions on the blacklist by using the **Countries/Regions** window. The periodic report includes only transactions that have an amount above a certain threshold. The threshold amount calculation is applied at the document level. For more information, see the [Italian Revenue Agency](http://go.microsoft.com/fwlink/?LinkId=396483).  
+On a monthly or quarterly basis, you must generate the blacklist communication report for transactions with countries/regions that have privileged taxation and send it to the Italian Revenue Agency. The Italian Revenue Agency decides which countries/regions are included on the blacklist. You can view or change countries/regions on the blacklist by using the **Countries/Regions** window. The periodic report includes only transactions that have an amount above a certain threshold. The threshold amount calculation is applied at the document level. For more information, see the [Italian Revenue Agency](https://go.microsoft.com/fwlink/?LinkId=396483).  
 
 Before you can submit the periodic report, you must set up [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
@@ -35,7 +35,7 @@ Before you can submit the periodic report, you must set up [!INCLUDE[navnow](../
 
 3.  Enter the **Foreign Country/Region Code** for the blacklisted country/region.  
 
-For a list of relevant countries/regions and codes, see the [Italian Revenue Agency](http://go.microsoft.com/fwlink/?LinkID=206524).  
+For a list of relevant countries/regions and codes, see the [Italian Revenue Agency](https://go.microsoft.com/fwlink/?LinkID=206524).  
 
 ## To specify the current threshold amount  
 

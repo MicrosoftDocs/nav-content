@@ -24,10 +24,10 @@ The dashboard and underlying reports refresh daily. You can control the refresh 
 ## Accessing Dynamics NAV in Power BI
 To see your Dynamics NAV data in Power BI, you must have the following:  
 
-- Access to Dynamics NAV. For more information, see [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
+- Access to Dynamics NAV. For more information, see [Dynamics NAV](https://go.microsoft.com/fwlink/?LinkID=759714).  
 - Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
-On the Power BI site, you can find additional information about [adding the Dynamics NAV content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+On the Power BI site, you can find additional information about [adding the Dynamics NAV content pack to Power BI](https://go.microsoft.com/fwlink/?LinkID=760850).  
 
 To access the Dynamics NAV content pack in Power BI, in the connection window, you must specify the following information:
 

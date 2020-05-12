@@ -74,7 +74,7 @@ Now, you can generate the statutory report.
 
     This creates an XML file that has the data that you created for this statutory report.  
 
-Now, you can submit the report. For more information, see [Statutory Reporting Directives](http://go.microsoft.com/fwlink/?LinkId=216142) on the Federal Tax Services website.  
+Now, you can submit the report. For more information, see [Statutory Reporting Directives](https://go.microsoft.com/fwlink/?LinkId=216142) on the Federal Tax Services website.  
   
 ## See Also  
  [Statutory Reports](statutory-reports.md)   

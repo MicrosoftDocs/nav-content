@@ -23,7 +23,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], to submit valid sales VAT ad
 - The user authentication for the tax authorities.  
 - The VAT statement.  
 
-You must also download components from the ELSTER portal. For more information, see the [ELSTER online portal](http://go.microsoft.com/fwlink/?LinkId=155998).  
+You must also download components from the ELSTER portal. For more information, see the [ELSTER online portal](https://go.microsoft.com/fwlink/?LinkId=155998).  
 
 ## To set up company information  
 
@@ -53,7 +53,7 @@ You must also download components from the ELSTER portal. For more information, 
 
 5. Choose the **Certificates** action.  
 
-   For more information about ELSTER certificates, see the [ELSTER online portal](http://go.microsoft.com/fwlink/?LinkId=155998).  
+   For more information about ELSTER certificates, see the [ELSTER online portal](https://go.microsoft.com/fwlink/?LinkId=155998).  
 
    1.  In the **Certificates** window, in the **User ID** field, specify the user who you want to authorize to submit documents to ELSTER.  
    2.  Choose the **Upload Elster Certificate** action, and then specify the certificate file, such as Coala2019.pem.cer.  
