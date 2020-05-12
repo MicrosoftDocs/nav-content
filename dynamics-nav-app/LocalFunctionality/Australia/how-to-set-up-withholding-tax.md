@@ -11,7 +11,7 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 07/01/2017
+    ms.date: 05/12/2020
     ms.author: sgroespe
 
 ---
@@ -20,10 +20,22 @@ Withholding tax (WHT) is the tax withheld by a company when it makes a payment t
 
 If a supplier without an Australian Business Number (ABN) provides an invoice, a withholding tax amount must be withheld if the total amount of the invoice is more than the threshold amount.  
 
+## To enable withholding tax
+
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
+
+2. On the **Local Functionalities** FastTab, choose the **Enable WHT** field.  
+
+3. Optionally, choose the **Round Amount for WHT Calc** field.
+
+    If you choose this field, all WHT amounts will be rounded down to the nearest number. For example, if the WHT amount on an invoice is calculated to be 33.90, and the **Round Amount for WHT Calc** field is chosen in the General Ledger Setup, then the WHT amount will round to 33.
+
+## Set up WHT posting groups
+
 To use withholding tax, you must set up the business posting groups and product posting groups for withholding tax so that the correct WHT calculations are made for each vendor.  
 
 > [!NOTE]  
->  As a prerequisite, you need to set up source codes for WHT settlement in the **Source Code Setup** window.  
+>  As a prerequisite, you need to set up source codes for WHT settlement in the **Source Code Setup** page. For more information, see [Set Up Trail Codes](/previous-versions/dynamicsnav-2016/hh168751(v=nav.90)) in the Help for Dynamics NAV 2016.  
 
 The following procedure describes how to set up product posting groups for WHT, but the same steps also apply to setting up business posting groups for WHT.  
 
