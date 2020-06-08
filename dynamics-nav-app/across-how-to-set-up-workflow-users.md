@@ -10,7 +10,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reject, delegate, request
-ms.date: 08/01/2017
+ms.date: 06/08/2020
 ms.author: sgroespe
 
 ---
@@ -22,11 +22,11 @@ In the **Workflow User Group** window, you set up users under workflow user grou
 Workflow users that function as approval users, both approval requesters and approvers, must also be set up in the **Approval User Setup** window. For more information, see [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md).  
 
 > [!NOTE]  
->  To define that an approval request is not approved until multiple approvers in an approval chain have approved it, set up approvers in a hierarchy. For approver type **Approver**, set approvers up in the **Approval User Setup** window. For approver type, **Workflow User Group**, set approvers up in the **Workflow User Groups** window and define the hierarchy by assigning incremental numbers to each approver in the **Sequence No.** field. For more information, see [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md) and this topic.  
->   
->  To define that an approval request is not approved until multiple equal approvers have approved it, regardless of a hierarchy, set up a flat workflow user group. For approver type, **Workflow User Group**, set up approvers in the **Workflow User Groups** window and assign the same number to each approver in the **Sequence No.** field. For more information, see this topic.  
+> To define that an approval request is not approved until multiple approvers in an approval chain have approved it, set up approvers in a hierarchy. For approver type **Approver**, set approvers up in the **Approval User Setup** window. For approver type, **Workflow User Group**, set approvers up in the **Workflow User Groups** window and define the hierarchy by assigning incremental numbers to each approver in the **Sequence No.** field. For more information, see [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md) and the following section.  
+>
+> To define that an approval request is not approved until multiple equal approvers have approved it, regardless of a hierarchy, set up a flat workflow user group. For approver type, **Workflow User Group**, set up approvers in the **Workflow User Groups** window and assign the same number to each approver in the **Sequence No.** field. For more information, see the following section.  
 
-### To set up a workflow user  
+### To set up a workflow user
 
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Workflow User Groups**, and then choose the related link.  
 2. Choose the **New** action. The **Workflow User Group** window opens.  
