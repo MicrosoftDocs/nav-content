@@ -23,7 +23,7 @@ Users can personalize their workspace to suit their own preferences. As an admin
 By default, personalization is not enabled in the [!INCLUDE[nav_web_md](includes/nav_web_md.md)]. To enable personalization, you modify the configuration file (navsettings.json) of the [!INCLUDE[nav_web_server_instance_md](includes/nav_web_server_instance_md.md)] instance for the Web client to include this line:
 
 ```
-"PersonalizationEnabled": "True"
+"PersonalizationEnabled": true
 ```
 
 If you want to disable personalization in the Web client, remove this line.
