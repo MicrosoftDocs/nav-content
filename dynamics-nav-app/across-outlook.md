@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.search.keywords: SMTP, mail, Microsoft 365
 ms.prod: "dynamics-nav-2018"
+ms.author: edupont
 ---
 
 # Using Dynamics NAV as your Business Inbox in Outlook
