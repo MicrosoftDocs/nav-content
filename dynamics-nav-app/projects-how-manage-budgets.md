@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project budget, forecast
 ms.date: 06/06/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Manage Job Budgets

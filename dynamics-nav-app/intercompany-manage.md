@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 06/20/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Managing Intercompany Transactions

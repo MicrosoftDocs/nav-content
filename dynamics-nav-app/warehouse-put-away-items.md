@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/31/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Putting Items Away

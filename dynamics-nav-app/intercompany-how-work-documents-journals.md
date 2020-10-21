@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 06/21/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Work with Intercompany Documents and Journals

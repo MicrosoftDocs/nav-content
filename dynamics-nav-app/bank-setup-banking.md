@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feed, stream, data exchange, AMC, link
 ms.date: 06/02/2016
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Setting Up Banking

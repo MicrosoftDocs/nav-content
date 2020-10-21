@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/14/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Work with Manufacturing Batch Units of Measure

@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: check, clearing
 ms.date: 06/16/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Export a Positive Pay file

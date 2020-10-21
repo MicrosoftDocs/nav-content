@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 06/28/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Managing Payables

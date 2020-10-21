@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bank account transfer, multiple currencies
 ms.date: 06/02/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Transfer Bank Funds

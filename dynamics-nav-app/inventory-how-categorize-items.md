@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: category, search, attribute, facet
 ms.date: 06/02/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Categorize Items

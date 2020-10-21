@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365, cover, body, PayPal, layout
 ms.date: 03/30/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Send Documents by Email

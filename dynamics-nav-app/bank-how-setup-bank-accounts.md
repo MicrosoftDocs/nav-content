@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream
 ms.date: 11/14/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Set Up Bank Accounts

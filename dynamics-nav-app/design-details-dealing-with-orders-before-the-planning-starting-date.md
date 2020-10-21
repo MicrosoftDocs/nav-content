@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: planning, frozen, design serial, lot
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Dealing with Orders Before the Planning Starting Date

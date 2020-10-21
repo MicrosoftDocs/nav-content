@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement
 ms.date: 08/08/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Record Purchases

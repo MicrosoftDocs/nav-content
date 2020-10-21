@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: machinery, buildings
 ms.date: 08/15/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Setting Up Fixed Assets

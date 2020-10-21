@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: email, PDF, electronic document
 ms.date: 03/29/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Set Up Document Sending Profiles

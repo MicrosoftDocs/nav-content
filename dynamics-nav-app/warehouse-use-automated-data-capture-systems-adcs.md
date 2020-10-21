@@ -10,7 +10,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/18/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Enable Automated Data Capture Systems (ADCS)

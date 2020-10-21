@@ -23,6 +23,6 @@ You can send documents such as invoices as email using your business email addre
 
 ## See Also
 [Welcome to Dynamics NAV](index.md)  
-[Using Dynamics NAV as your Business Inbox in Outlook](madeira-outlook.md)  
+[Using Dynamics NAV as your Business Inbox in Outlook](across-outlook.md)  
 [Getting Dynamics NAV on my Mobile Device](install-mobile-app.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)

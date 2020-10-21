@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, KPI, work in process, work in progress
 ms.date: 07/04/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Monitor Job Progress and Performance

@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: sepa, credit, transfer, payment, 
     ms.date: 08/21/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up SEPA Credit Transfer

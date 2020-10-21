@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/19/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up Work Centers and Machine Centers

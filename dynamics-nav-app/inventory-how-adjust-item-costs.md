@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cost adjustment, cost forwarding, costing method, inventory valuation, costing
 ms.date: 08/07/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Adjust Item Costs

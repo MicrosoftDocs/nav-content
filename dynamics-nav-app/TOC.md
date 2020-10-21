@@ -8,7 +8,7 @@
 ## [Importing Business Data from Other Finance Systems](upload-data.md)
 ## [Getting Dynamics NAV on Your Mobile Device](install-mobile-app.md)
 ## [Synchronize with Contacts in Microsoft Outlook](admin-synchronize-outlook-contacts.md)
-## [Using Dynamics NAV as Your Business Inbox in Outlook](madeira-outlook.md)
+## [Using Dynamics NAV as Your Business Inbox in Outlook](across-outlook.md)
 ## [Using Dynamics NAV Without Outlook](madeira-no-outlook.md)
 ## [Enabling Your Business Data for Power BI](madeira-powerbi.md)
 ## [Using Dynamics NAV as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)

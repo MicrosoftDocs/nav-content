@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, task
 ms.date: 06/06/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Create Jobs

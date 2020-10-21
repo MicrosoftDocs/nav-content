@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/16/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Move Components to an Operation Area in Basic Warehouse Configurations

@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/10/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Calculate Order Promising Dates

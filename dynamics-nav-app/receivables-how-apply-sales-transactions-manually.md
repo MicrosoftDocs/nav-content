@@ -10,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, cash receipt
 ms.date: 09/08/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Reconcile Customer Payments Manually
