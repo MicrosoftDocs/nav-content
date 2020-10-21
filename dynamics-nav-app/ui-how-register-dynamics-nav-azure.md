@@ -14,7 +14,7 @@ ms.prod: "dynamics-nav-2018"
 # How to: Register Dynamics NAV in the Azure Management Portal
 If you want to use services that are based on Microsoft Azure, you must register your Dynamics NAV in the Azure Management Portal. For example, the [Sales and Inventory Forecast](ui-extensions-sales-forecast.md) extension requires that you specify an API key and API URI, and other services require similar information. So where do you find that information?
 
-You can use the **Set Up Azure Management Portal** guide to register Dynamics NAV in the Azure Management Portal and extract the information you need to use services such as the Sales and Inventory Forecast extension, Power BI, Office 365, and so on. You must register in the Azure Management Portal only once, and you must be an administrator or superuser in Dynamics NAV.
+You can use the **Set Up Azure Management Portal** guide to register Dynamics NAV in the Azure Management Portal and extract the information you need to use services such as the Sales and Inventory Forecast extension, Power BI, Microsoft 365, and so on. You must register in the Azure Management Portal only once, and you must be an administrator or superuser in Dynamics NAV.
 
 The point of the registration is that Dynamics NAV and the service that you want to connect to must know the Azure Active Directory (Azure AD) details about each other.
 

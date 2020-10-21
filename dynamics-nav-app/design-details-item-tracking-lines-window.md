@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: design, inventory, item, tracking, serial number, lot number
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Item Tracking Lines Window

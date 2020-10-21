@@ -10,7 +10,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/17/2019
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up Customers for OIOUBL

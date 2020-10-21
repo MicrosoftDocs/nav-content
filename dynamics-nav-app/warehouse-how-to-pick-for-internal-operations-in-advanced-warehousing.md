@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/06/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Pick for Assembly or Production in Advanced Warehouse Configurations

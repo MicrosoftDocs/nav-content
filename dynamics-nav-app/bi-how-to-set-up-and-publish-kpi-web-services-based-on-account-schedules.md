@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/08/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up and Publish KPI Web Services Based on Account Schedules

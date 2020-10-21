@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: design, supply, inventory, planning
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Monitoring the Projected Inventory Level and the Reorder Point

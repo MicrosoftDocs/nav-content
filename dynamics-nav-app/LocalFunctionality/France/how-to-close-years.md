@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Close Years
@@ -36,7 +36,7 @@ Even though a fiscal year has been closed, you can still post general ledger ent
 
 After a fiscal year is closed, you must close the income statement accounts and transfer the year's results to an account in the balance sheet. You can repeat this each time you post to the closed fiscal year.  
 
-After a fiscal year is fiscally closed, it cannot be opened again, and general ledger entries cannot be posted.  
+After a fiscal year is fiscally closed, it cannot be opened again. 
 
 ## See Also  
  [How to: Fiscally Close Years](how-to-fiscally-close-years.md)   

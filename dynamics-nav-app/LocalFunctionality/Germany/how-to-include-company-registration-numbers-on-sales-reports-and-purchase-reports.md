@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Include Company Registration Numbers on Sales Reports and Purchase Reports

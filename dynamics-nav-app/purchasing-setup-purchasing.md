@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
 ms.date: 03/29/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Setting Up Purchasing

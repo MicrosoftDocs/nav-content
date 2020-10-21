@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Codeunit 12 Changes: Mapping Global Variables for General Journal Post Line

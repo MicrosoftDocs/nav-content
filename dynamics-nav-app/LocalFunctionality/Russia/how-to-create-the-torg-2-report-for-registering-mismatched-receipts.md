@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Create the TORG-2 Report for Registering Mismatched Receipts

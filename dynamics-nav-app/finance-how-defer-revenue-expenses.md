@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: postpone
 ms.date: 06/16/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Defer Revenues and Expenses

@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 05/20/2020
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Cost Components

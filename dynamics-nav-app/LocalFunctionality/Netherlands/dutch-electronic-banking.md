@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 10/26/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Dutch Electronic Banking

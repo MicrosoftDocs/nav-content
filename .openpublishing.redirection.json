@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "dynamics-nav-app/madeira-outlook.md",
+            "redirect_url": "across-outlook",
+            "redirect_document_id": false
+        }
+    ]
+}

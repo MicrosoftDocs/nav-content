@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: cost types, general ledger, accounts
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up Cost Types

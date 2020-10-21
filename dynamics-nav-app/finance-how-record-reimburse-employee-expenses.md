@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reimbursement
 ms.date: 06/28/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Record and Reimburse Employees' Expenses

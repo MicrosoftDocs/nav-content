@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment application, payment processing, match payments
 ms.date: 06/15/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Reconcile Vendor Payments Manually

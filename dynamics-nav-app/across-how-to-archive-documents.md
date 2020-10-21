@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 11/21/2018
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Archive Documents

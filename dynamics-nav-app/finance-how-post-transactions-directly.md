@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: direct posting, general ledger
 ms.date: 06/28/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Post Transactions Directly to the General Ledger

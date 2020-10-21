@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 01/10/2018
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Import and Export Data in Standard Import Export Format

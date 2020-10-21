@@ -7,7 +7,7 @@ ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.search.keywords:
 ms.date: 11/20/2018
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Work with Production Families

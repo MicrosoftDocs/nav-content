@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: item, finished good, component, raw material, assembly item
 ms.date: 08/31/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Register New Items

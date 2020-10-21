@@ -1,6 +1,6 @@
 ---
 title: Using Dynamics NAV with Outlook
-description: Dynamics NAV has deep integration with Office 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
+description: Dynamics NAV has deep integration with Microsoft 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
 
 documentationcenter: ''
 author: edupont04
@@ -10,7 +10,7 @@ ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: SMTP, mail, Office 365
+ms.search.keywords: SMTP, mail, Microsoft 365
 ms.date: 06/02/2017
 ms.author: edupont
 
@@ -19,11 +19,11 @@ ms.author: edupont
 [!INCLUDE[d365fin](includes/d365fin_md.md)] introduces the ability to manage business interactions with your customers and vendors, directly in Microsoft Outlook. With the [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook add-ins, you can see financial data related to customers and vendors, as well as create and send financial documents, such as quotes and invoices.  
 
 ## Getting the Add-in
-In [!INCLUDE[d365fin](includes/d365fin_md.md)], one of the steps in the Getting Started assisted setup is the **Run your business within Office 365** window. In that window, when you choose the **Set up in Outlook** button, you must specify your Office 365 user name and password. The [!INCLUDE[d365fin](includes/d365fin_md.md)] add-ins are then automatically added to your Outlook.  
+In [!INCLUDE[d365fin](includes/d365fin_md.md)], one of the steps in the Getting Started assisted setup is the **Run your business within Office 365** window. In that window, when you choose the **Set up in Outlook** button, you must specify your Microsoft 365 user name and password. The [!INCLUDE[d365fin](includes/d365fin_md.md)] add-ins are then automatically added to your Outlook.  
 
 Then, when you open Outlook, you will see an email messages from Dynamics NAV Admin. The new add-in is added to the Outlook ribbon, and in Outlook Web Access, you can see it in the add-in ribbon, immediately above the body of the email message. The add-in itself will be updated periodically, and you'll get notified that a new version is ready for you in Outlook.  
 
-Some companies using Office 365 restrict users’ permissions to deploy add-ins. So you must make sure that you have an Office 365 subscription that includes email and allows you to deploy add-ins. If you want to try out the add-in anyway, you can [try Office 365 for free](https://products.office.com/try).  
+Some companies using Microsoft 365 restrict users’ permissions to deploy add-ins. So you must make sure that you have a Microsoft 365 subscription that includes email and allows you to deploy add-ins. If you want to try out the add-in anyway, you can [try Microsoft 365 for free](https://products.office.com/try).  
 
 ## Using the Contact Insights Add-in
 Let's say that you get an email from a customer that wants to get a quote on some items. Directly in Outlook, you can open the Dynamics NAV add-in, which recognizes the sender as a customer, and opens the customer card for his company. From this dashboard, you can see overview information for the customer, as well as drill down for more detail on specific documents. You can also dig into the sales history for the customer. If it's a new customer, you can create them as a new customer in [!INCLUDE[d365fin](includes/d365fin_md.md)] without leaving Outlook.  
@@ -48,11 +48,11 @@ In the Document Links add-in, you can modify and take actions with the document,
 ## Adding the Add-ins Manually
 In some cases, the add-ins do not get added automatically to Outlook. Even if you or a colleague ran the assisted setup guide on behalf of the company, [!INCLUDE[d365fin](includes/d365fin_md.md)] might not show up in Outlook. If you experience this issue, you can add the [!INCLUDE[d365fin](includes/d365fin_md.md)] add-ins manually.  
 
-First, you must verify that you have access to the add-ins in your Office 365 account. Quite simply open your Outlook Web Access in a browser, and then add `/owa/#path=/options/manageapps` to the URL in the address bar. This opens the **Manage add-ins** page, where you can enable Dynamics NAV for your Outlook. Then, when you navigate back to Outlook, [!INCLUDE[d365fin](includes/d365fin_md.md)] should be available.  
+First, you must verify that you have access to the add-ins in your Microsoft 365 account. Quite simply open your Outlook Web Access in a browser, and then add `/owa/#path=/options/manageapps` to the URL in the address bar. This opens the **Manage add-ins** page, where you can enable Dynamics NAV for your Outlook. Then, when you navigate back to Outlook, [!INCLUDE[d365fin](includes/d365fin_md.md)] should be available.  
 
 Similarly in the Outlook desktop client, you can verify that [!INCLUDE[d365fin](includes/d365fin_md.md)] is listed in the **Manage Add-ins** window.  
 
-In both cases, if [!INCLUDE[d365fin](includes/d365fin_md.md)] is still not available, you have to get the add-in manifest files. For more information, please contact your Office 365 administrator.
+In both cases, if [!INCLUDE[d365fin](includes/d365fin_md.md)] is still not available, you have to get the add-in manifest files. For more information, please contact your Microsoft 365 administrator.
 
 ## See Also
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  

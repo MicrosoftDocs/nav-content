@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, cash receipts, customer payment
 ms.date: 09/08/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents

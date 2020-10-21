@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 11/14/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Central Concepts of the Planning System

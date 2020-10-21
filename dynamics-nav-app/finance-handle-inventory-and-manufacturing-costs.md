@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/09/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Handling Inventory and Manufacturing Costs

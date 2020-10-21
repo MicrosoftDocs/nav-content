@@ -11,7 +11,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 06/07/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Allocate Costs and Income

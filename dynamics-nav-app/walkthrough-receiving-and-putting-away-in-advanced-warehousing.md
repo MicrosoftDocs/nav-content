@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Walkthrough: Receiving and Putting Away in Advanced Warehouse Configurations

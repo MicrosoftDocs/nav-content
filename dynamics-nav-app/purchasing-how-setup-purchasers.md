@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: purchasing agent
 ms.date: 03/29/2017
-ms.author: sgroespe
+ms.author: edupont
 ---
 # How to: Set Up Purchasers
 If several purchasers work at your company, you can set them up in a window and assign them each a code. You can then use the codes to prepare statistics and to filter information in printed reports.

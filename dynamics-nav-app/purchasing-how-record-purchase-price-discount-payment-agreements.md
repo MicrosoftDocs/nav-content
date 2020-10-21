@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: special price, alternate price, pricing
 ms.date: 07/03/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Record Special Purchase Prices and Discounts

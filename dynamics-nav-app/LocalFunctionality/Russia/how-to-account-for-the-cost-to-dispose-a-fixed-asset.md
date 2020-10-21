@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Account for the Cost  to Dispose a Fixed Asset
