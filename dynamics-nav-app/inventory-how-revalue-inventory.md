@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: costing, inventory cost, value entries
 ms.date: 08/07/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Revalue Inventory

@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
 ms.date: 07/05/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Reconcile Inventory Costs with the General Ledger

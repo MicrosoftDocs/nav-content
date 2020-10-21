@@ -11,7 +11,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 07/02/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Working with General Journals

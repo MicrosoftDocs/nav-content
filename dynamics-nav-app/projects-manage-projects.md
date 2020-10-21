@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: projects
 ms.date: 06/06/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # Project Management

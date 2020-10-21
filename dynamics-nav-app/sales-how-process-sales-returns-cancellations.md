@@ -10,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: undo, credit memo, return
 ms.date: 04/16/2018
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Process Sales Returns or Cancellations

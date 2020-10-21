@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 05/11/2018
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Electronic Funds Transfer (EFT)

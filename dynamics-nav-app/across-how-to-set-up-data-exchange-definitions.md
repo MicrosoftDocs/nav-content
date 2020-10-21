@@ -10,7 +10,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/21/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up Data Exchange Definitions

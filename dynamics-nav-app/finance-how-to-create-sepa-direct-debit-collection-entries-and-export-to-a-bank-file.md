@@ -10,7 +10,7 @@
     ms.workload: na
     ms.search.keywords: direct-debit, collection, payment, sepa
     ms.date: 08/21/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File

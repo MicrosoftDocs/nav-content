@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/10/2018
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Plan Put-aways in Worksheets

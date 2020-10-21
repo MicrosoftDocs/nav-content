@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: design, item, tracking, serial number, lot number, outbound documents
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Item Tracking Availability

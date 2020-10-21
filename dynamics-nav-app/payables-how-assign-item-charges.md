@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: transportation, added cost
 ms.date: 06/06/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Use Item Charges to Account for Additional Trade Costs

@@ -10,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 11/09/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Use OCR to Turn PDF and Image Files into Electronic Documents

@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: design, reconciliation, general ledger, inventory
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Design Details: Reconciliation with the General Ledger

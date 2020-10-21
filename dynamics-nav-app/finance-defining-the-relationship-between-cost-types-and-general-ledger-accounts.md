@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: cost types, general ledger
     ms.date: 07/01/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Defining the Relationship Between Cost Types and General Ledger Accounts

@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords: inventory, periods 
     ms.date: 08/07/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Work with Inventory Periods

@@ -10,7 +10,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 09/08/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Setup Best Practices: Global Planning Setup

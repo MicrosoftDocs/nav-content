@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/23/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Set Up Items and Locations for Directed Put-away and Pick

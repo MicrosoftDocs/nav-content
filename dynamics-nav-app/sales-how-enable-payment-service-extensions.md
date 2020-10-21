@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: online payment
 ms.date: 07/07/2017
-ms.author: sgroespe
+ms.author: edupont
 
 ---
 # How to: Enable Customer Payments Through Payment Services

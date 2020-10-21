@@ -8,7 +8,7 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
+ms.search.keywords: FAQ, email, Microsoft 365, subscription, trial, plan
 ms.date: 07/27/2017
 ms.author: edupont
 
@@ -21,11 +21,11 @@ This section contains answers to frequently asked questions about signing up for
 
 If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address. For more information, see [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md).  
 
-## Do I have to buy Office 365?
-No. But if you want to experience [!INCLUDE[d365fin](includes/d365fin_md.md)] as fully integrated with Office 365, you can sign up for a 1-month free trial of Office 365 [here](https://products.office.com/try).  
+## Do I have to buy Microsoft 365?
+No. But if you want to experience [!INCLUDE[d365fin](includes/d365fin_md.md)] as fully integrated with Microsoft 365, you can sign up for a 1-month free trial of Microsoft 365 [here](https://products.office.com/try).  
 
-## What is the integration with Office 365 about?
-[!INCLUDE[d365fin](includes/d365fin_md.md)] is fully integrated with Office 365 so that you can navigate freely between Office 365 apps and [!INCLUDE[d365fin](includes/d365fin_md.md)] using the app launcher. In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can open data in Excel, print reports using Word, and you can work with your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Outlook, for example. For more information, see [Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] as your Business Inbox in Outlook](madeira-outlook.md).  
+## What is the integration with Microsoft 365 about?
+[!INCLUDE[d365fin](includes/d365fin_md.md)] is fully integrated with Microsoft 365 so that you can navigate freely between Microsoft 365 apps and [!INCLUDE[d365fin](includes/d365fin_md.md)] using the app launcher. In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can open data in Excel, print reports using Word, and you can work with your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Outlook, for example. For more information, see [Using [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] as your Business Inbox in Outlook](across-outlook.md).  
 
 ## Can I cancel my subscription?
 Yes, but depending on how you signed up to [!INCLUDE[d365fin](includes/d365fin_md.md)], your data can be deleted or preserved. For more information, see [Canceling [!INCLUDE[d365fin](includes/d365fin_md.md)]](madeira-cancel.md).  
@@ -44,7 +44,7 @@ Did you read about a new capability in the roadmap or on our blog recently? In t
 
 ## See Also
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
-[Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as Your Business Inbox in Outlook](madeira-outlook.md)  
+[Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as Your Business Inbox in Outlook](across-outlook.md)  
 [Using [!INCLUDE[d365fin](includes/d365fin_md.md)] without Outlook](madeira-no-outlook.md)  
 [How to: Change the Role Center](change-role.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/15/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # How to: Sell Assemble-to-Order Items and Inventory Items Together

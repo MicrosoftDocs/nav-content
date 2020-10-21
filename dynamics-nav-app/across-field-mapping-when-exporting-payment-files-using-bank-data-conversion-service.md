@@ -10,7 +10,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/18/2017
-    ms.author: sgroespe
+    ms.author: edupont
 
 ---
 # Field Mapping When Exporting Payment Files Using Bank Data Conversion Service
