@@ -15,7 +15,7 @@ ms.prod: "dynamics-nav-2018"
 The people in your company who have access to [!INCLUDE[navnow_md](includes/navnow_md.md)] are all assigned a *profile* that gives them access to a *Role Center*. As an administrator, you can assign and change profiles in [!INCLUDE[navnow_md](includes/navnow_md.md)], and you can add and remove users as part of your [!INCLUDE[navnow_md](includes/navnow_md.md)] subscription.  
 
 ## Adding Users
-To add users in [!INCLUDE[navnow_md](includes/navnow_md.md)], your company's Office 365 administrator must first create the users in the Office 365 Admin Center. For more information, see [How to: Manage Users and Permissions](ui-how-users-permissions.md).  
+To add users in [!INCLUDE[navnow_md](includes/navnow_md.md)], your company's Microsoft 365 administrator must first create the users in the Microsoft 365 admin center. For more information, see [How to: Manage Users and Permissions](ui-how-users-permissions.md).  
 
 ## Profiles
 Profiles are collections of [!INCLUDE[navnow_md](includes/navnow_md.md)] users who share the same Role Center. A Role Center is a type of page on which you can place different parts. Each part is a container in which you can host other pages or pre-defined system parts, such as an Outlook part or parts for adding tasks, notifications, or notes. For more information, see [Managing Profiles](admin-profiles.md).

@@ -13,10 +13,10 @@ ms.prod: "dynamics-nav-2018"
 # Using Dynamics NAV as your Business Inbox in Outlook
 Dynamics NAV introduces the ability to manage business interactions with your customers and vendors, directly in Microsoft Outlook. With the Dynamics NAV Outlook Add-in, you can see financial data related to customers and vendors, as well as create and send financial documents, such as quotes and invoices.  
 
-Some companies using Office 365 restrict users’ permissions to deploy add-ins. So you must make sure that you have an Office 365 subscription that includes email and allows you to deploy add-ins. You can sign up for a 1-month free trial of Office 365 [here](https://products.office.com/try).  
+Some companies using Microsoft 365 restrict users’ permissions to deploy add-ins. So you must make sure that you have a Microsoft 365 subscription that includes email and allows you to deploy add-ins. You can sign up for a 1-month free trial of Microsoft 365 [here](https://products.office.com/try).  
 
 ## Get the add-in
-In Dynamics NAV, one of the assisted setup guides is **Set Up Office Add-Ins**. The guide helps you  set up a connection between your Office 365 account and Dynamics NAV. The Dynamics NAV add-in is then automatically added to your Outlook.  
+In Dynamics NAV, one of the assisted setup guides is **Set Up Office Add-Ins**. The guide helps you  set up a connection between your Microsoft 365 account and Dynamics NAV. The Dynamics NAV add-in is then automatically added to your Outlook.  
 
 The new add-in is added to the Outlook ribbon, and in Outlook Web Access, you can see it in the add-in ribbon, immediately above the body of the email message.  
 
