@@ -1,6 +1,6 @@
-- name: Dynamics 365
-  tocHref: /dynamics365/
-  topicHref: /dynamics365/index
+- name: Dynamics 365 Business Central
+  tocHref: /dynamics365/business-central/
+  topicHref: /dynamics365/business-central/index
   items:
   - name: Dynamics NAV
     tocHref: /dynamics-nav-app/
