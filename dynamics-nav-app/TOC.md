@@ -2,7 +2,7 @@
 
 # [Getting Started](across-get-started.md)
 ## [Minimum Requirements](financials-requirements.md)
-## [Frequently Asked Questions](across-faq.md)
+## [Frequently Asked Questions](across-faq.yml)
 ## [Overview of Business Functionality](madeira-business-functionality.md)
 ## [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md)
 ## [Importing Business Data from Other Finance Systems](upload-data.md)
