@@ -29,7 +29,7 @@ While customizing the UI, it is a good idea to keep these points in mind:
 
 -   You can record multiple customizations of the same page based on different access points to the page. For example, the Sales Orders window can be customized to look different when it is opened from the Customer Card window than when it is opened from the Sales Order Processor Role Center. The point from which you access the page to be customized is recorded in that specific page customization. Accordingly, there may be multiple page-customization records in the database, as you can see in the **Delete User Personalization** window.
 
--   The application can be configured to show and hide user interface (UI) elements (such as fields, FatTabs, and FactBoxes)lbased on your license or permissions. You will only be able to view and customize elemnts fields that you have permission to.
+-   The application can be configured to show and hide user interface (UI) elements (such as fields, FatTabs, and FactBoxes)lbased on your license or permissions. You will only be able to view and customize elements fields that you have permission to.
 
 ## Customizing Ribbons
 The ribbon provides you access to several actions. By customizing the ribbon, you can optimize it for your work processes and preferences. For example, if you frequently use the **Dimensions** window, you can add the **Dimensions** action to the **Process** actions group. You can also remove actions that you never use for better overview.  
