@@ -61,5 +61,6 @@ To set up the indicator, you specify up to two threshold values that define thre
     |**Ambiguous**|Yellow|  
     |**Subordinate**|Gray|  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Set Up a Colored Indicator on Cues of Your Workspace](ui-how-setup-colored-indicator-cues.md)  

@@ -43,7 +43,8 @@ Before you can file a SEPA payment you must complete the following administratio
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [How to: Set Up Export Protocols](how-to-set-up-export-protocols.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Export Protocols](how-to-set-up-export-protocols.md)   
  [How to: File Non-Euro SEPA Payments](how-to-file-non-euro-sepa-payments.md)   
  [How to: Activate SEPA Payments](how-to-activate-sepa-payments.md)

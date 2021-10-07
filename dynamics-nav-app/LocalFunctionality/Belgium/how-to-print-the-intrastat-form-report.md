@@ -39,8 +39,9 @@ Before you print the **Intrastat - Form** report, you can also print the **Intra
 
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
   
-## See Also  
- [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
  [How to: Set Up Declaration Types](how-to-set-up-declaration-types.md)   
  [How to: Set Up Belgian Tariff Numbers](how-to-set-up-belgian-tariff-numbers.md)   
  [How to: Set Up Intrastat Establishment Numbers](how-to-set-up-intrastat-establishment-numbers.md)   

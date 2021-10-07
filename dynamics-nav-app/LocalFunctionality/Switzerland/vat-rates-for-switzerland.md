@@ -20,6 +20,7 @@ If VAT rates change, you must use the VAT rate change tool. In earlier versions 
 
 For more information, see [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md).  
 
-## See Also  
- [Swiss Value Added Tax](swiss-value-added-tax.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Value Added Tax](swiss-value-added-tax.md)   
  [How to: Print Swiss VAT Statements (older version)](how-to-print-swiss-vat-statements-older-version-.md)

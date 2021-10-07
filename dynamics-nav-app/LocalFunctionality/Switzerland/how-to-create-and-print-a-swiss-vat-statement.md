@@ -47,5 +47,6 @@ Based on the information that you have specified in the **VAT Posting Setup** wi
     |**Hotel (Other Rate) %**|Enter an alternative VAT rate for accommodation that applies to certain transactions during the time period.|  
     |**Show Amounts in Add. Reporting Currency**|Select to show amounts in an additional reporting currency.|  
 
-## See Also  
- [Swiss Value Added Tax](swiss-value-added-tax.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Value Added Tax](swiss-value-added-tax.md)

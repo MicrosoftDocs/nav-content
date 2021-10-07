@@ -30,7 +30,8 @@ You use the following windows to create and analyze cost budgets. Choose the ![S
 |See cost budget registers and cost budget entries.|**Cost Budget Registers** page|  
 |Print cost budget comparisons using various reports.|**Cost Acctg. Balance-Budget** report<br /><br /> **Cost Acctg. Statement-Budget** report<br /><br /> **Cost Budget by Cost Center** report<br /><br /> **Cost Budget by Cost Object** report|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [How to: Create Budgets](finance-how-create-budgets.md)  
 [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   

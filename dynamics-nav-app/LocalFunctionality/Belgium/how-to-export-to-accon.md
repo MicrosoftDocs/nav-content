@@ -31,5 +31,6 @@ The **Link to Accon** report enables you to create a file that can be imported i
 3.  On the **G/L Account** FastTab, enter the filter information.  
 4.  Choose the **OK** button.  
 
-## See Also  
- [Belgium Local Functionality](belgium-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgium Local Functionality](belgium-local-functionality.md)

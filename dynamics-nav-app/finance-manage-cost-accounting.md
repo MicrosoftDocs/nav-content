@@ -27,7 +27,8 @@ Cost accounting is used to help you understand the costs of running a business. 
 |Learn the processes in defining and allocating costs.|[Defining and Allocating Costs](finance-define-and-allocate-costs.md)|  
 |Learn the processes in creating cost budgets.|[Creating Cost Budgets](finance-create-cost-budgets.md)|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

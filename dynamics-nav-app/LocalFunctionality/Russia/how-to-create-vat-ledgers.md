@@ -45,7 +45,8 @@ You can create and store any number of VAT ledgers. For example, you can create 
 
 Now, you can print the VAT ledger as a VAT ledger or as an additional sheet.  
 
-## See Also  
- [VAT Ledgers](vat-ledgers.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[VAT Ledgers](vat-ledgers.md)   
  [How to: Set Up VAT Ledgers](how-to-set-up-vat-ledgers.md)   
  [How to: Create Additional Sheets](how-to-create-additional-sheets.md)

@@ -33,7 +33,8 @@ In the **Work Center Card** and **Machine Center Card** windows, you can view th
 
 The **Capacity Ledger Entries** window displays the posted entries from the work center in the order they were posted.   
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

@@ -29,6 +29,7 @@ Bank payment orders must be used if a bank payment is for the official state bud
 7.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Source Code Setup**, and then choose the related link.  
 8.  On the **General** FastTab, in the **Bank Payments** field, select the source code that you entered in the **Source Codes** window.  
 
-## See Also  
- [How to: Set Up Bank Interface Files](assetId:///e960b140-df19-4ff4-bcfa-5a034ceb4b53)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Bank Interface Files](assetId:///e960b140-df19-4ff4-bcfa-5a034ceb4b53)   
  [Bank Management](bank-management.md)

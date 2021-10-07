@@ -28,6 +28,7 @@ You can calculate VAT amounts for specific types of expenses which can be partia
 3.  On the **Posting** FastTab, enter the amount in **% Non deductible VAT** field.  
 4.  Choose the **OK** button.  
 
-## See Also  
- [Belgian VAT](belgian-vat.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian VAT](belgian-vat.md)   
  [How to: Print Periodic VAT Reports](how-to-print-periodic-vat-reports.md)

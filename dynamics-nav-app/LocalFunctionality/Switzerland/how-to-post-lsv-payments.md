@@ -40,8 +40,9 @@ You can post payments after you have received Lastschrift Verfahren (LSV+) payme
 
 6.  Choose the **Post** action.  
 
-## See Also  
- [Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
  [How to: Process an LSV Collection](how-to-process-an-lsv-collection.md)   
  [How to: Close an LSV Collection](how-to-close-an-lsv-collection.md)   
  [How to: Export Payments Using LSV](how-to-export-payments-using-lsv.md) 

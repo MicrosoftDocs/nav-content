@@ -25,8 +25,9 @@ When you have created a workflow and you are sure that it is ready to start, you
 2.  Open the workflow that you want to enable.  
 3.  In the **Workflow** window, select the **Enabled** check box.  
 
-## See Also  
- [How to: Create Workflows](across-how-to-create-workflows.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Create Workflows](across-how-to-create-workflows.md)   
  [How to: View Archived Workflow Step Instances](across-how-to-view-archived-workflow-step-instances.md)   
  [How to: Delete Workflows](across-how-to-delete-workflows.md)   
  [Setting Up Workflows](across-set-up-workflows.md)   

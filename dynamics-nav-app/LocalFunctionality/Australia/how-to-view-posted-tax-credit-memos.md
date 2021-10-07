@@ -35,6 +35,7 @@ The following procedure describes how to view posted sales tax credit memos, but
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [How to: View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)   
  [How to: View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) 

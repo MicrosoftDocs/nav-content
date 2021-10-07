@@ -38,6 +38,7 @@ To find items by characteristics, you can assign item attributes to items and al
 3. Choose the lookup button in the **Item Category Code** field and select an existing item category. Alternatively, choose the **New** action to first create a new item category as explained in the "To create an item category" section.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Work with Item Attributes](inventory-how-work-item-attributes.md)  
 [How to: Register New Items](inventory-how-register-new-items.md)  
 [Inventory](inventory-manage-inventory.md)  

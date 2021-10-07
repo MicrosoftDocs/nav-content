@@ -32,5 +32,6 @@ Companies in Iceland are required to send the tax authority a data file in a pre
 2.  Select a general ledger account that has an **Account Type** of **Posting**.  
 3.  In the **IRS Number** field, select an IRS number from the list.  
 
-## See Also  
- [Special Data Output and Reports for the Tax Authority](special-data-output-and-reports-for-the-tax-authority.md) 
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Special Data Output and Reports for the Tax Authority](special-data-output-and-reports-for-the-tax-authority.md) 

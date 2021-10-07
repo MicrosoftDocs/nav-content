@@ -200,8 +200,9 @@ The average cost of an item is calculated with a periodic weighted average, base
 |02-15-20|-1|-17.00|3|  
 |02-16-20|-1|-17.00|4|  
 
-## See Also  
- [Design Details: Inventory Costing](design-details-inventory-costing.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)   
  [Design Details: Cost Adjustment](design-details-cost-adjustment.md)   
  [Design Details: Item Application](design-details-item-application.md)  

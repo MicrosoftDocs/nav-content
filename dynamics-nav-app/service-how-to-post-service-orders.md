@@ -127,6 +127,7 @@ The following procedure describes shipment posting directly from a service order
 4. On the lines you are going to post, fill in the **Qty. to Ship**, **Qty. to Invoice**, and **Qty. to Consume** fields, depending on how you will post the lines.  
 5. Choose the **Post** action.
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Posting in Service Management](service-service-posting.md)  
 [How to: Create a Service Order](service-how-to-create-service-orders.md)  

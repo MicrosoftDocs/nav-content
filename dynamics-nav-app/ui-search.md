@@ -21,4 +21,5 @@ When you start typing characters, a drop-down list shows page names containing t
 >   The **Search for Page or Report** function does not search through data, such as customer names, addresses, or transactions. Instead, you can search for data in list pages by choosing the magnifier symbol in the right corner of the list header. The search applies only to the list you are viewing. For more information, see [Entering Criteria in Filters](ui-enter-criteria-filters.md).  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Work with Dynamics NAV](ui-work-product.md)

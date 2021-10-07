@@ -24,6 +24,7 @@
 2.  Edit the document amount in the **Doc. Amount Incl. VAT** field and the **Doc. Amount VAT** field.  
 3.  The value entered in the **Doc. Amount Incl. VAT** field is divided on the invoice lines according to how it was defined in the standard vendor purchase code scheme in the **Standard Purchase Code** table. Accept the proposal and post the invoice or credit memo.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create Recurring Sales and Purchase Lines](../../sales-how-work-standard-lines.md)   
 [Belgium Local Functionality](belgium-local-functionality.md)

@@ -30,5 +30,6 @@ Isabel is a third-party software program that is frequently used in Belgium to m
     > [!NOTE]  
     >  The **Process Status** field for the line will now be **Archived**. You can delete a record with a status of **Archived**.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Belgium Local Functionality](belgium-local-functionality.md)

@@ -80,6 +80,7 @@ If an opportunity follows a sales cycle, you can move it forward or back through
 3. Fill in the other fields as needed, and then choose the **OK** button.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Creating and Managing Contacts](marketing-contacts.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

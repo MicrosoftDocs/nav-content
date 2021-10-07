@@ -31,5 +31,6 @@ When generating certain sales reports and purchase reports, you can print regist
 3.  On the **Invoicing** FastTab, in the **Registration No.** field, enter the registration number of the vendor.  
 4.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Register New Vendors](../../purchasing-how-register-new-vendors.md)

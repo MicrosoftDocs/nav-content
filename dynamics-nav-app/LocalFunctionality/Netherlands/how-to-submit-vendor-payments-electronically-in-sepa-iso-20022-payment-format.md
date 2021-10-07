@@ -43,7 +43,8 @@ Before you can create and submit SEPA vendor payments, you must enable SEPA paym
 
 The proposal lines populate in the **Telebank Proposal** window.  
 
-## See Also  
- [How to: Activate SEPA Payments](how-to-activate-sepa-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Activate SEPA Payments](how-to-activate-sepa-payments.md)   
  [Single EURO Payments Area (SEPA)](single-euro-payments-area-sepa-.md)   
  

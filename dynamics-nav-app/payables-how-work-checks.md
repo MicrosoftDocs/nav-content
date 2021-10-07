@@ -57,6 +57,7 @@ When check payment have been posted, you can only cancel (void) checks from the 
 5. Choose the **OK** button.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Payables](payables-manage-payables.md)  
 [Setting Up Banking](bank-setup-banking.md)  
 [How to: Export a Positive Pay file](finance-how-positive-pay.md)  

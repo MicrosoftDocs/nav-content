@@ -31,6 +31,7 @@ In the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)], the page will rem
 In the future, you will personalize the page in the two clients separately. Therefore, the page can potentially look different between the two.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Personalization Overview](ui-personalization-overview.md)  
 [Working with personalization between the Dynamics NAV Windows and Web client](ui-personalization-overview.md#PersonalizationWinWeb)  
 [Personalizing Your Workspace by Using the Web Client](ui-personalization-user.md)  

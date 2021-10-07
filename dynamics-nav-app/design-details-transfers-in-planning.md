@@ -156,7 +156,8 @@ In this example, BLUE SKU is set up with the Order reordering policy, while PINK
   
 If demand is changed from 27 to 22, the system will lower the quantity down through the chain, with the binding reservation also being reduced.  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Planning Parameters](design-details-planning-parameters.md)   
 [Design Details: Planning Assignment Table](design-details-planning-assignment-table.md)   
 [Design Details: Handling Reordering Policies](design-details-handling-reordering-policies.md)   

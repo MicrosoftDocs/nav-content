@@ -46,5 +46,6 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can set up bank accounts
 
 3.  On the **Transfer** FastTab, make sure that the **CCC Bank No.**, **CCC Bank Branch No.**, **CCC Control Digits**, and **CCC Bank Account No.** fields are filled in correctly.  
 
-## See Also  
- [Electronic Payments – AEB N34.1](electronic-payments-aeb-n341.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Payments – AEB N34.1](electronic-payments-aeb-n341.md)

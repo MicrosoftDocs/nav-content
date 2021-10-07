@@ -69,5 +69,6 @@ In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], the batch for the migrated
 You can stop migrating data by choosing **Stop All Migrations**. If you do, all pending migrations are also stopped.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Denmark Local Functionality](denmark-local-functionality.md)  
   

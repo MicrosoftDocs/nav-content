@@ -46,7 +46,8 @@ The following procedure shows how to combine backward flushing and routing link 
     > [!IMPORTANT]  
     >  The component must have a routing link to the last operation in the routing.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create Production BOMs](production-how-to-create-production-boms.md)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Manufacturing](production-manage-manufacturing.md)    

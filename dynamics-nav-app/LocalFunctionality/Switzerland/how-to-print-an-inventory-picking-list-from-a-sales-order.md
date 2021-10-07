@@ -33,8 +33,9 @@ The picking list includes only those items with a shipping quantity greater than
 4.  On the **Options** FastTab, in the **No. of Copies** field, enter the required number of copies.  
 5.  Choose the **Print** button to print the picking list or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Swiss Purchase Documents and Sales Documents](swiss-purchase-documents-and-sales-documents.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Purchase Documents and Sales Documents](swiss-purchase-documents-and-sales-documents.md)   
  [How to: Set Up Automatic Archiving of Documents in Switzerland](how-to-set-up-automatic-archiving-of-documents-in-switzerland.md)   
  [How to: Import Swiss Post Codes](how-to-import-swiss-post-codes.md)   
  [How to: Print Sales and Purchase Orders During Batch Posting](how-to-print-sales-and-purchase-orders-during-batch-posting.md)

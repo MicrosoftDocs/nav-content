@@ -41,6 +41,7 @@ In [!INCLUDE[d365fin](includes/d365fin_md.md)], codeunit 12 has had the followin
 * Many helper functions have been transferred to corresponding customer and vendor ledger entry tables.  
 * The use of global variables has been minimized, so that each procedure uses parameters and encapsulates its own application logic.  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Posting Interface Structure](design-details-posting-interface-structure.md)   
 [Design Details: Posting Engine Structure](design-details-posting-engine-structure.md)

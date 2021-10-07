@@ -42,7 +42,8 @@ You can view the results of the conversion process from one unit of measure to a
 > - Set up the base unit of measure for an item as the smallest unit of measure that you expect to handle in your warehouse processes.  
 > - Set up your alternative units of measure for the item as multiples of the base unit of measure.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

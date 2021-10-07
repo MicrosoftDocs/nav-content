@@ -54,7 +54,8 @@ To process electronic payments, you must first set up bank reference files to de
 
 5.  Choose the **OK** button.  
 
-## See Also  
- [Electronic Banking in Finland](electronic-banking-in-finland.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Banking in Finland](electronic-banking-in-finland.md)   
  [How to: Generate Payment Files](how-to-generate-payment-files.md)   
  [How to: Disregard Payment Discounts](how-to-disregard-payment-discounts.md)

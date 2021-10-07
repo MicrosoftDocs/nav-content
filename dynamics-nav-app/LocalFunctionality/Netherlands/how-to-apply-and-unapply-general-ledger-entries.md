@@ -80,5 +80,6 @@ You can unapply the applied general ledger entries and then open the closed entr
 
 4.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [General Ledger](general-ledger.md)

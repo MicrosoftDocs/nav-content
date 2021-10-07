@@ -36,6 +36,7 @@ You use the **Make 340 Declaration** batch job to report 340 payments in cash de
 > [!NOTE]  
 >  The amount received in cash in the declaration .txt file can contain values that differ from the total invoiced amount for a customer. This is because not all of the payments are made in cash.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Receivables](../../receivables-manage-receivables.md)     
  [Report 340](report-340.md)

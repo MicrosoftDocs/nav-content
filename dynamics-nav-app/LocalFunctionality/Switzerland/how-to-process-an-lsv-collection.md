@@ -55,8 +55,9 @@ All related lines are transferred to the LSV journal. After processing the LSV c
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
  [How to: Close an LSV Collection](how-to-close-an-lsv-collection.md)   
  [How to: Post LSV+ Payments](how-to-post-lsv-payments.md)   
  [How to: Export Payments Using LSV](how-to-export-payments-using-lsv.md)

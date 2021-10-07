@@ -41,7 +41,8 @@ A cost type may not have a relationship to general ledger accounts if one of the
 * Helping cost types, such as cost types 9901, 9902, and 9903 in the [!INCLUDE[d365fin](includes/d365fin_md.md)] database, are used as credit and debit accounts for allocations.  
 * The helping account, 9920 in the [!INCLUDE[d365fin](includes/d365fin_md.md)] database, contains actual accruals that show the difference between costs and the expense from the general ledger.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
 [About Cost Accounting](finance-about-cost-accounting.md)  

@@ -33,5 +33,6 @@ You can enter NACE codes in the **Company Information** window. NACE codes are u
 2.  On the **General** FastTab, in the **Industrial Classification** field, enter the NACE code.  
 3.  Choose the **OK** button.  
 
-## See Also  
- [Spain Local Functionality](spain-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Spain Local Functionality](spain-local-functionality.md)

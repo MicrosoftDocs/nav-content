@@ -48,7 +48,8 @@ You can set up and maintain cost centers in either the **Cost Center Card** card
 > [!IMPORTANT]  
 >  If you have entered definitions in the **Totaling** fields for **End-Total** cost centers before you run the indent function, then you must enter them again. The function overwrites the values in all **End-Total** fields.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
 [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   

@@ -35,6 +35,7 @@ The following table lists some of the general functionality with links to topics
 | Get reports to show data from specific date ranges. |[Entering Date Ranges in Dynamics NAV](ui-enter-date-ranges.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [General Business Functionality](ui-across-business-areas.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 

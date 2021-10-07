@@ -158,7 +158,8 @@ You define variations of workflows by filling fields on workflow lines from fixe
 
 If a business scenario requires a workflow event or response that is not supported, a Microsoft partner must implement them by customizing the application code. For more information, see [Walkthrough: Implementing New Workflow Events and Responses](/dynamics-nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses) in the developer and IT-pro help.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md)   
 [Setting Up Workflow Notifications](across-setting-up-workflow-notifications.md)   
 [How to: Create Workflows](across-how-to-create-workflows.md)   

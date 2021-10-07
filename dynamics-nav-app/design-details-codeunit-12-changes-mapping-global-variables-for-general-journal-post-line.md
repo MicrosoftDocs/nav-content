@@ -105,5 +105,6 @@ The following changes have been implemented in this release of [!INCLUDE[d365fin
 ||AmountRoundingPrecision@1012 : Decimal;|Added|  
 ||CrCardTransactionEntryNo@1013 : Integer;|Added|  
 
-## See Also  
- [Design Details: Codeunit 12 Changes: Changes in General Journal Post Procedures](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Codeunit 12 Changes: Changes in General Journal Post Procedures](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)

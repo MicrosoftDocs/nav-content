@@ -60,6 +60,7 @@ If no errors occur, then the updates is applied to the report layouts. If errors
   
  After you modify the layout, try to update the layout again.  
   
-## See Also  
- [Managing Report Layouts](ui-manage-report-layouts.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Managing Report Layouts](ui-manage-report-layouts.md)  
  [Working with Reports](ui-work-report.md)  

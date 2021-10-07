@@ -35,5 +35,6 @@ You may want to periodically remit the net VAT from sales and purchase transacti
 
 The entries are copied to the appropriate VAT settlement journals. You can now run the **Calc. and Post VAT Settlement** batch job to close the VAT entries.  
 
-## See Also  
- [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

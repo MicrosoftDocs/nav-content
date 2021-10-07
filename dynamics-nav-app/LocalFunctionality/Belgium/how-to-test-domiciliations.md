@@ -25,8 +25,9 @@ To test the domiciliation journal lines, you can use the **Domiciliation Journal
 3.  Choose the **Test Report** action.  
 4.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Belgian Electronic Banking](belgian-electronic-banking.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Electronic Banking](belgian-electronic-banking.md)   
  [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
  [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md)   
  [How to: Generate Domiciliation Suggestions](how-to-generate-domiciliation-suggestions.md)   

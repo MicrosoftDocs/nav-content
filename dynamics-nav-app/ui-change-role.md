@@ -22,5 +22,6 @@ The content on the Home page is based on the selected Role Center. The standard 
 4. Sign out of Dynamics NAV and then sign in again to have the change take effect.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Welcome to Dynamics NAV](across-get-started.md)  
 [Work With Dynamics NAV](ui-work-product.md)  

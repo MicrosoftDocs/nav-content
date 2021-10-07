@@ -57,6 +57,7 @@ To reexport Positive Pay files
 5. In the **Positive Pay Entries** window, choose the **Reexport Positive Pay to File** action.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Working with General Journals](ui-work-general-journals.md)  

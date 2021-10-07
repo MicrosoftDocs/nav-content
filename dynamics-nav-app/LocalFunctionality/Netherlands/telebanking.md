@@ -52,8 +52,9 @@ A payment history is nothing more than a proposal except for the fact that data 
 - Rabobank ASCII (import)  
 - SEPA CAMT  
 
-## See Also  
- [How to: Invoice Sales](../../sales-how-invoice-sales.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Invoice Sales](../../sales-how-invoice-sales.md)   
  [How to: Record Purchases](../../purchasing-how-record-purchases.md)   
  [How to: Create Proposals](how-to-create-proposals.md)   
  [How to: Create and Export Payment History](how-to-create-and-export-payment-history.md)

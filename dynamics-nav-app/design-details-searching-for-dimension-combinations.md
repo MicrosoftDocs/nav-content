@@ -70,8 +70,9 @@ EXIT(DimSet.ID);
 
 ```  
 
-## See Also  
- [GET Function (Record)](/dynamics-nav/GET-Function--Record-)    
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[GET Function (Record)](/dynamics-nav/GET-Function--Record-)    
  [Design Details: Dimension Set Entries](design-details-dimension-set-entries.md)   
  [Dimension Set Entries Overview](design-details-dimension-set-entries-overview.md)   
  [Design Details: Table Structure](design-details-table-structure.md)   

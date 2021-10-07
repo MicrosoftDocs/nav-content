@@ -35,5 +35,6 @@ You can save the generated file to a specified location, or you can open the fil
 > [!WARNING]  
 >  If you have set the start date and end date to include the entire fiscal year, the process can take several minutes.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Print General Ledger Reports](how-to-print-general-ledger-reports.md)

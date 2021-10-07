@@ -24,7 +24,8 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use electronic banki
 - Process bank statements with CODA  
 - Process direct debits with domiciliations  
 
-## See Also  
- [Belgian Electronic Payments](belgian-electronic-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Electronic Payments](belgian-electronic-payments.md)   
  [CODA Bank Statements](coda-bank-statements.md)   
  [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)

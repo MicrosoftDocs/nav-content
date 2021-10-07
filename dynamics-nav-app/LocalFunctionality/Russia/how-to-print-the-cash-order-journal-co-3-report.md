@@ -34,5 +34,6 @@ This report shows the register of posted ingoing and outgoing cash orders during
 
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen. Choose the **Cancel** button to save the information without printing the report.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

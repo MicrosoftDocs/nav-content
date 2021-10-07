@@ -54,8 +54,9 @@ If you post an acquisition, depreciation, or disposal for the accounting depreci
 
 After you set up the tax depreciation book and the accounting depreciation book, the accelerated depreciation is calculated automatically for fixed assets using the calculate depreciation batch job in the accounting depreciation book. For more information, see [How to: Calculate Accelerated Depreciation](how-to-calculate-accelerated-depreciation.md).  
 
-## See Also  
- [How to: Set Up Accelerated Depreciation](how-to-set-up-accelerated-depreciation.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Accelerated Depreciation](how-to-set-up-accelerated-depreciation.md)   
  [How to: Calculate Accelerated Depreciation](how-to-calculate-accelerated-depreciation.md)   
  [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)   
 [Fixed Assets](../../fa-manage.md)  

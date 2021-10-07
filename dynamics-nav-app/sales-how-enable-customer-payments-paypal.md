@@ -40,7 +40,8 @@ The PayPal Payments Standard service is installed as an extension to Dynamics NA
 
 **Note**: The **Payment Service** field is only visible if the PayPal Payments Standard service is enabled.   
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Customizing Dynamics NAV Using Extensions](ui-extensions.md)

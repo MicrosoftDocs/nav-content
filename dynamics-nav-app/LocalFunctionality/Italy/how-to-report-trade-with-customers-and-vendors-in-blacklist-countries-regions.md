@@ -138,5 +138,6 @@ The printed report includes all transactions that meet threshold requirements. I
 
 You can now submit the list of transactions to the Italian Revenue Agency. If you have more than 1500 records, multiple files will be exported.  
 
-## See Also  
- [Italian VAT](italian-vat.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Italian VAT](italian-vat.md)

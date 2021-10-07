@@ -33,6 +33,7 @@ You cannot create an invoice without a customer number. This is true, even if yo
 >  You must enter a number for a receivables account for the posting group, even though the balance in this account will always be 0 after you post an invoice.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Receivables](receivables-manage-receivables.md)  
 [How to: Register New Customers](sales-how-register-new-customers.md)    
 [Finance](finance.md)  

@@ -48,7 +48,8 @@ In the **Account Schedule KPI Web Service Setup** window, you set up how to show
 > [!NOTE]  
 >  You can also publish the KPI web service by pointing to the **Account Schedule KPI Web Service Setup** page object from the **Web Services** window. For more information, see [How to: Publish a Web Service](across-how-publish-web-service.md).  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

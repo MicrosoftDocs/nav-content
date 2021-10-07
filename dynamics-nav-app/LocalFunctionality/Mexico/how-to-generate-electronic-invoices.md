@@ -32,7 +32,8 @@ The following procedure describes how to generate electronic invoices for sales 
 > [!NOTE]  
 >  ADD INCLUDE<!--[!INCLUDE[bp_refimplementation](../../includes/bp_refimplementation_md.md)]-->  
 
-## See Also  
- [How to: Set Up Electronic Invoicing](how-to-set-up-electronic-invoicing.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Electronic Invoicing](how-to-set-up-electronic-invoicing.md)   
   [Electronic Invoicing](electronic-invoicing.md)  
   [Mexico Local Functionality](mexico-local-functionality.md)

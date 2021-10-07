@@ -54,5 +54,6 @@ The following procedure shows how to create a Letter of Attorney.
 
 2.  Choose the **OK** button.  
 
-## See Also  
- [How to: Set Up Responsible Employees and Advance Statements](how-to-set-up-responsible-employees-and-advance-statements.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Responsible Employees and Advance Statements](how-to-set-up-responsible-employees-and-advance-statements.md)

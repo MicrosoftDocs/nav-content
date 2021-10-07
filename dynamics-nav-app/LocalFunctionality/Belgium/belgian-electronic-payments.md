@@ -43,8 +43,9 @@ You must correct all errors before you can post the electronic payment lines. Yo
 
 For more information, see [How to: Manage Electronic Payment Lines](how-to-manage-electronic-payment-lines.md).  
 
-## See Also  
- [Belgian Electronic Banking](belgian-electronic-banking.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Electronic Banking](belgian-electronic-banking.md)   
  [How to: Set Up Electronic Banking](how-to-set-up-electronic-banking.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)   
  [How to: Set Up Vendors for Automatic Payment Suggestions](how-to-set-up-vendors-for-automatic-payment-suggestions.md)   

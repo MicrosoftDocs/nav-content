@@ -48,8 +48,9 @@ In the following procedures describe how to enable SEPA payment and set up vendo
 4.  On the **Transfer** FastTab, in the **IBAN** and **SWIFT Code** fields, enter the international bank identifier code of the bank where the vendor has the account.  
 5.  Choose the **OK** button.  
 
-## See Also  
- [SEPA Payments](sepa-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[SEPA Payments](sepa-payments.md)   
  [How to: File SEPA Payments](how-to-file-sepa-payments.md)   
  [How to: File Non-Euro SEPA Payments](how-to-file-non-euro-sepa-payments.md)   
  [How to: Set Up Export Protocols](how-to-set-up-export-protocols.md)

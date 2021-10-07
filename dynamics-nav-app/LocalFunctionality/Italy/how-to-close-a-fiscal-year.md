@@ -63,6 +63,7 @@ Fiscal year closing involves the following steps:
 
 An entry is posted to each income statement account so that it has a zero balance. The year-end result is transferred to the balance sheet.  
 
-## See Also  
- [Closing Years and Periods](../../year-close-years-periods.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Closing Years and Periods](../../year-close-years-periods.md)   
  [Italy Local Functionality](italy-local-functionality.md)

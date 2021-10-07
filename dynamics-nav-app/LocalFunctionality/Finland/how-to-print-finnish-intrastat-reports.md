@@ -27,5 +27,6 @@ The completed entries can be sent in a file to the Intrastat authorities, or you
 3.  Choose the **Print** action, and then choose the **Checklist Report** action.  
 4.  Choose the **Print** action.  
 
-## See Also  
- [How to: Set Up Intrastat Reporting](../../finance-how-setup-report-intrastat.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Intrastat Reporting](../../finance-how-setup-report-intrastat.md)

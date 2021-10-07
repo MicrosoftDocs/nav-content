@@ -50,6 +50,7 @@ If you want to use this vendor card as a template when you create new vendor car
    The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)   
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

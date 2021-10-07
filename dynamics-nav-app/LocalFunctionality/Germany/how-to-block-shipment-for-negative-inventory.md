@@ -27,5 +27,6 @@ You can block outbound shipment for an item when a transaction results in a nega
 
 3.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Sales](../../sales-setup-sales.md)

@@ -36,5 +36,6 @@ Credit memos are included in the VAT transaction report if the customer or vendo
 
 Now that you have created the VAT report, you must submit it to the tax authorities. For more information, see [How to: Export VAT Transactions Reports](how-to-export-vat-transactions-reports.md).  
 
-## See Also  
- [Italian VAT](italian-vat.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Italian VAT](italian-vat.md)

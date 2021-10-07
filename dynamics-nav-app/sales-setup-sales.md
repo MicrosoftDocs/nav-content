@@ -36,5 +36,6 @@ Finance-related sales setup, such as payment methods and currencies, are covered
 |Enter information about the different transportation vendors you use, including a link to their package tracking service.|[How to: Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md)|
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -27,7 +27,8 @@ Before you start working with cost accounting, you must perform setup tasks.
 |Create the chart of cost centers.|[How to: Set Up Cost Centers](finance-how-to-set-up-cost-centers.md)|  
 |Create the chart of cost objects.|[How to: Set Up Cost Objects](finance-how-to-set-up-cost-objects.md)|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [Transferring and Posting Cost Entries](finance-transfer-and-post-cost-entries.md)   
 [Defining and Allocating Costs](finance-define-and-allocate-costs.md)  

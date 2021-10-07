@@ -30,7 +30,8 @@ The following procedure shows how to close such entries by performing two correc
 1.  Use the **Applies-from Entry** field to post a positive adjustment with the corresponding quantity. This closes the original negative entry with a fixed application.  
 2.  Use the **Applies-to Entry** field to post a negative adjustment. This closes the original corrective positive entry with a fixed application.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [ How to: Remove and Reapply Item Ledger Entries](finance-how-to-remove-and-reapply-item-entries.md)  
  [How to: Process Sales Returns and Cancellations](sales-how-process-sales-returns-cancellations.md)   
  [Setting Up Inventory Valuation and Costing](finance-set-up-inventory-valuation-and-costing.md)   

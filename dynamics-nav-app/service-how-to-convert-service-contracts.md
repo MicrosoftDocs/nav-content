@@ -59,7 +59,8 @@ The following procedure describes how to create a new credit memo using the **Ge
 5. Choose the **Get Prepaid Contract Entries** action.  
 6. After the conversion is complete, VAT and service ledger entries will be correct.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Work with Service Contracts and Service Contract Quotes](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
 [Finance](finance.md)  
 [How to: Report VAT to Tax Authorities](finance-how-report-vat.md)  

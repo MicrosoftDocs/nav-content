@@ -54,6 +54,7 @@ You can use the **Fixed Asset - Projected Value** report to calculate future dep
 5. Choose the **Print** or **Preview** button.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Fixed Assets](fa-manage.md)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  

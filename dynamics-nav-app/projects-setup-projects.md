@@ -29,6 +29,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Create job cards and prepare job tasks. Set up prices for job items and job resources and define job posting groups. |[How to: Set Up Jobs](projects-how-setup-jobs.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Projects](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Purchasing](purchasing-manage-purchasing.md)         

@@ -46,5 +46,6 @@ When you run the report for a location, the **Last Goods Report No.** and **Last
 
 3.  Choose the **Print** button.  
 
-## See Also  
- [Setting Up Inventory](../../inventory-setup-inventory.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Setting Up Inventory](../../inventory-setup-inventory.md)

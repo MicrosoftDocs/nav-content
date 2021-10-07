@@ -22,5 +22,6 @@ You can reallocate the amount in one general ledger account to other general led
 
  The net changes or balances of the accounts in the **Allocation** window determine the allocation percentage calculated.  
 
-## See Also  
- [New Zealand Local Functionality](new-zealand-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[New Zealand Local Functionality](new-zealand-local-functionality.md)

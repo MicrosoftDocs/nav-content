@@ -35,7 +35,8 @@ Before you can start to use the electronic banking functionality for CODA statem
 
 4.  Choose the **OK** button.  
 
-## See Also  
- [CODA Bank Statements](coda-bank-statements.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[CODA Bank Statements](coda-bank-statements.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)   
  [How to: Import CODA Statements](how-to-import-coda-statements.md)

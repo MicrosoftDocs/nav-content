@@ -26,5 +26,6 @@ The following procedure describes how to display VAT summary information on a sa
 2.  In the list, select the relevant document, and then choose the **Print** action.  
 3.  To display VAT information in the report, select the **Always Show VAT Summary** check box.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

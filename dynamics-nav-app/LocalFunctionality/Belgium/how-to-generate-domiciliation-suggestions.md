@@ -40,8 +40,9 @@ When the batch job is finished, the domiciliation journal contains all open cust
 > [!NOTE]  
 >  The domiciliation suggestions will only include customers who have a Domiciliation number set up. For more information, see [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md).  
 
-## See Also  
- [Belgian Electronic Banking](belgian-electronic-banking.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Electronic Banking](belgian-electronic-banking.md)   
  [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
  [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md)   
  [How to: Test Domiciliations](how-to-test-domiciliations.md)   

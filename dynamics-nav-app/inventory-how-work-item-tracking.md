@@ -255,6 +255,7 @@ Reclassifying item tracking for an item means changing a lot or serial number to
 8.  Post the journal to link the renewed item tracking numbers or expiration dates to the associated item ledger entry
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Trace Item-Tracked Items](inventory-how-to-trace-item-tracked-items.md)   
 [Inventory](inventory-manage-inventory.md)  
 [Design Details: Item Tracking](design-details-item-tracking.md)

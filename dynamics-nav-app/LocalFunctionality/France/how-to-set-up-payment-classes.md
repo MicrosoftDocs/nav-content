@@ -37,8 +37,9 @@ To use payment management, you must set up payment classes to define operation t
 
 4.  Choose the **OK** button.  
 
-## See Also  
- [Payment Management](payment-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Payment Management](payment-management.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   
  [How to: Set Up Payment Steps](how-to-set-up-payment-steps.md)   
  [How to: Set Up Payment Addresses](how-to-set-up-payment-addresses.md)   

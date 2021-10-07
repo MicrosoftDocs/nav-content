@@ -42,7 +42,8 @@ When you run the report, [!INCLUDE[navnow](../../includes/navnow_md.md)] process
 - The **Blacklisted** field for the VAT entry must be blank.  
 - The **Type** field for the VAT entry must not be **Settlement**.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Set Up VAT](../../finance-setup-vat.md)  
  [How to: Prepare for VAT Transactions Reports](how-to-prepare-for-vat-transactions-reports.md)   
  [Italian VAT](italian-vat.md)   

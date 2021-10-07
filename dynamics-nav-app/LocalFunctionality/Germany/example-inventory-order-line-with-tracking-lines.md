@@ -62,6 +62,7 @@ When finishing the physical inventory order the program will calculate for the i
 |CH1006|10|0|- 10|  
 |**Total**|**120**|**112**|**- 8**|  
 
-## See Also  
- [Physical Inventory Order Lines With Item Tracking Lines](physical-inventory-order-lines-with-item-tracking-lines.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Physical Inventory Order Lines With Item Tracking Lines](physical-inventory-order-lines-with-item-tracking-lines.md)  
  [How to: Work with Serial and Lot Numbers](../../inventory-how-work-item-tracking.md)

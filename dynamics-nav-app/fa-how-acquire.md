@@ -95,6 +95,7 @@ You can post the salvage value together with the acquisition cost from a fixed a
 >   The **Salvage Value** posting type is an option in the **Fixed Asset Journal** window only. It is not available in the **Fixed Asset G/L Journal** window because salvage value is never posted to the general ledger.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Fixed Assets](fa-manage.md)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  

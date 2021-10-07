@@ -26,8 +26,9 @@ The **Planning** FastTab in the **Manufacturing Setup** window contains several 
 |Default Dampener Period|Set between 1D and 5D.<br /><br /> If new to planning in [!INCLUDE[d365fin](includes/d365fin_md.md)], then set a longer period.|When users are more familiar with the different reasons for action messages, then shorten the dampener period to allow more change suggestions.|  
 |Default Dampener Quantity|Set between 5 and 20 percent of the item’s lot size.||  
 
-## See Also  
- [Setup Best Practices: Supply Planning](setup-best-practices-supply-planning.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Setup Best Practices: Supply Planning](setup-best-practices-supply-planning.md)   
  [Design Details: Supply Planning](design-details-supply-planning.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

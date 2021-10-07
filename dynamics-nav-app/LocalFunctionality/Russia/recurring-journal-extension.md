@@ -26,5 +26,6 @@ The **Recurring General Journal** window enables you to fill in the recurring jo
 3.  Fill the fields for the recurring general journal lines.  
 4.  Post the journal.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Working with General Journals](../../ui-work-general-journals.md)

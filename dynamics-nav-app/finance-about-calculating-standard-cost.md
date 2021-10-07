@@ -98,8 +98,9 @@ The process of updating or calculating standard costs typically consists of the 
 3.  Implementing the standard costs that are entered when you run the previous batch jobs. The standard costs do not take effect until they are implemented. For more information, see the **Implement Standard Cost Changes** batch job.  
 4.  Implementing the changes to update the **Unit Cost** field on the item card and perform inventory revaluation. For more information, see [How to: Revalue Inventory](inventory-how-revalue-inventory.md).
 
-## See Also  
- [Design Details: Costing Methods](design-details-costing-methods.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Costing Methods](design-details-costing-methods.md)   
  [How to: Work with Bills of Material](inventory-how-work-BOMs.md)   
  [How to: Update Standard Costs](finance-how-to-update-standard-costs.md)   
  [Design Details: Inventory Costing](design-details-inventory-costing.md)

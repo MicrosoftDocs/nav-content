@@ -30,8 +30,9 @@ The **Costing Method** on the item card defines item’s cost flow is recorded a
 |Specific|Use in production or trade of easily identifiable items with fairly high unit costs.<br /><br /> Use for items that are subject to regulation.<br /><br /> Use for items with serial numbers.|An item’s unit cost is calculated as the average unit cost at each point in time after a purchase.<br /><br /> For inventory valuation, it is assumes that all inventories are sold simultaneously.|  
 |Standard|Use where cost control is critical.<br /><br /> Use in repetitive manufacturing, to value the costs of direct material, direct labor, and manufacturing overhead.<br /><br /> Use where there is discipline and staff to maintain standards.|An item’s unit cost is preset based on estimated.<br /><br /> When the actual cost is realized later, the standard cost must be adjusted to the actual cost through variance values.|  
 
-## See Also  
- [Design Details: Costing Methods](design-details-costing-methods.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Costing Methods](design-details-costing-methods.md)   
  [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

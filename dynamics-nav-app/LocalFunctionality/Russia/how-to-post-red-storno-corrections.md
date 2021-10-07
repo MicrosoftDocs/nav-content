@@ -74,5 +74,6 @@ The correction is posted, and any general ledger account correspondence that you
 
 3.  Post the document.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Inventory](../../inventory-setup-inventory.md)   

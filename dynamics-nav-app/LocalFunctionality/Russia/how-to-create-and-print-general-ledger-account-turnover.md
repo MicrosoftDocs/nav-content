@@ -80,5 +80,6 @@
     |**Debit Credit Separately**|Select if you want to separate the debit and credit entries on the report.|  
     |**New Page for GL Acc**|Select if you want to print a new page for each general ledger account.|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

@@ -46,7 +46,8 @@ The **Recurring Group Code** field in the **Blanket Sales Order** window defines
 
 5.  Choose the **OK** button.  
 
-## See Also  
- [Recurring Orders](recurring-orders.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Recurring Orders](recurring-orders.md)   
  [How to: Set Up Recurring Orders](how-to-set-up-recurring-orders.md)   
  [How to: Create Recurring Orders](how-to-create-recurring-orders.md)

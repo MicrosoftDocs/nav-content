@@ -59,6 +59,7 @@ There are three depreciation methods that are unique to Russia that can be used 
 |**Min. Group Balance**|Enter the minimum amount that is valid as the balance for the depreciation group. If the book value for the fixed assets is less than this amount, the depreciation can be written off in this period.|  
 |**Write-off in Charges**|Select if you want to write off fixed asset charges if the book value of the fixed assets is written off in the period when the book value is less than or equal to the **Min. Group Balance** amount. Otherwise, the book value will be written off in the next period.|  
 
-## See Also  
- [Depreciation Bonus](depreciation-bonus.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Depreciation Bonus](depreciation-bonus.md)   
  [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)

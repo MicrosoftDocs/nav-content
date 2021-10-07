@@ -30,5 +30,6 @@ When you print an address that has a DPID, a bar code will be printed together w
 
 Contact your Microsoft partner for information on how to obtain AMAS software.  
 
-## See Also  
- [New Zealand Local Functionality](new-zealand-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[New Zealand Local Functionality](new-zealand-local-functionality.md)

@@ -35,8 +35,9 @@ You can view the differences in the statistic window or you can print them as a 
 3.  Choose the **Print** action.  
 4.  In the **Phys. Invt. Order Diff. List** window, choose the **Print** button to print the report on paper or choose the **Preview** button to see them on the screen.  
 
-## See Also  
- [How to: Finish a Physical Inventory Order](how-to-finish-a-physical-inventory-order.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Finish a Physical Inventory Order](how-to-finish-a-physical-inventory-order.md)   
  [How to: Post Physical Inventory Orders](how-to-post-physical-inventory-orders.md)   
  [Physical Inventory Order Lines With Item Tracking Lines](physical-inventory-order-lines-with-item-tracking-lines.md)  
  [How to: Count, Adjust, and Reclassify Inventory](../../inventory-how-count-adjust-reclassify.md)

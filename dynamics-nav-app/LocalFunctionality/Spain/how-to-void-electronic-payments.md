@@ -36,6 +36,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can void the exported pa
     |---------------------------------|---------------------------------------|  
     |**Payment Order No.**|Specify the payment order number from which the payments will be voided.|  
 
-## See Also  
- [How to: Set Up Bank Accounts for Electronic Payments](how-to-set-up-bank-accounts-for-electronic-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Bank Accounts for Electronic Payments](how-to-set-up-bank-accounts-for-electronic-payments.md)   
  [How to: Pay Vendors by Using Electronic Payments](how-to-pay-vendors-by-using-electronic-payments.md)

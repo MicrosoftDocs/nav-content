@@ -61,6 +61,7 @@ The VAT reporting feature enables you to print VAT transaction details. You must
 3.  If you have to make a correction, Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT – VIES Correction**, and then choose the related link.  
 4.  Choose the **Edit List** action, and then enter the information that has to be adjusted. Choose the **OK** button.  
 
-## See Also  
- [Belgian VAT](belgian-vat.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian VAT](belgian-vat.md)   
  [How to: Set Up Non-Deductible VAT](how-to-set-up-non-deductible-vat.md)

@@ -48,6 +48,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Prepare a report that lists VAT from sales, and submit the report to tax authorities in the EU. | [How to: Report VAT to Tax Authorities](finance-how-report-vat.md)|
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  

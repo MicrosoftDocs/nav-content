@@ -31,5 +31,6 @@ Before you can run the **Close Income Statement** batch job, you must close the 
 6.  Enter one line with a balancing entry that posts the net income to the correct general ledger account under owners’ equity on the balance sheet.  
 7.  Choose the **Post** action to post the journal.  
 
-## See Also  
- [How to: Fiscally Close Years](how-to-fiscally-close-years.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Fiscally Close Years](how-to-fiscally-close-years.md)

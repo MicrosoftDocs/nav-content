@@ -31,5 +31,6 @@ This effectuates the application by setting the Letter and Letter Date fields.
 > [!NOTE]  
 >  Applied entries will be identified by the same three-letter combination and the same date. Balanced entries will be assigned only uppercase letters, and unbalanced entries will be assigned only lowercase letters.  
 
-## See Also  
- [How to: Unapply General Ledger Entries](how-to-unapply-general-ledger-entries.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Unapply General Ledger Entries](how-to-unapply-general-ledger-entries.md)

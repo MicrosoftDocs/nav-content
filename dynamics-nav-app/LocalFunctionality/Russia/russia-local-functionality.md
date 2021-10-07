@@ -35,7 +35,8 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], there are Russian-specific f
 |[Tax Accounting](tax-accounting.md)|Enables you to follow tax accounting principles by setting up tax registers and calculating tax differences.|  
 |[VAT](vat.md)|Enables you to set up, calculate, and pay VAT amounts based on Russian VAT rates and regulations.|  
 
-## See Also  
- [Russian Chart of Accounts](russian-chart-of-accounts.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Russian Chart of Accounts](russian-chart-of-accounts.md)   
  [Russian Receivables Reports](russian-receivables-reports.md)   
  [Russian Payables Reports](russian-payables-reports.md)

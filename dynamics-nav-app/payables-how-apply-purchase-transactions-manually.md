@@ -116,6 +116,7 @@ When you unapply an erroneous application, correcting entries that are identical
 >   If an entry has been applied by more than one application entry, you must unapply the latest application entry first.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Payables](payables-manage-payables.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -24,7 +24,8 @@ Reordering policies define how much to order when the item needs to be replenish
 [Design Details: Order](design-details-order.md)  
 [Design Details: Lot-for-Lot](design-details-lot-for-lot.md)  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Planning Parameters](design-details-planning-parameters.md)   
 [Design Details: Handling Reordering Policies](design-details-handling-reordering-policies.md)   
 [Design Details: Supply Planning](design-details-supply-planning.md)

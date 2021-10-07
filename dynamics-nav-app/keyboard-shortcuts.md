@@ -27,7 +27,8 @@ The following table describes keyboard shortcuts for navigating and accessing di
 |Alt+Right Arrow|See the transactions that resulted in a calculated value in a field.|  
 
 
-## See also
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Assistive Features](ui-accessibility.md)  
 [Keyboard Shortcuts in the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]](keyboard-shortcuts-windows-client.md)  
 [Keyboard Shortcuts in the AL](https://docs.microsoft.com/dynamics-nav/developer/devenv-keyboard-shortcuts)  

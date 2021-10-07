@@ -89,7 +89,8 @@ When you post credit memos, you must update the **Refers to Period** field to sp
 
  You must submit a VAT transactions report electronically to the tax authorities. For more information, see [How to: Create Electronic VAT Transactions Reports](how-to-create-electronic-vat-transactions-reports.md).  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Set Up VAT](../../finance-setup-vat.md)   
 [How to: Record VAT](../../finance-how-report-vat.md)  
  [How to: Prepare for VAT Transactions Reports](how-to-prepare-for-vat-transactions-reports.md)   

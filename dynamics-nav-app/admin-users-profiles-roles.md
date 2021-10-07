@@ -31,7 +31,8 @@ The concept of UI customization in [!INCLUDE[navnow_md](includes/navnow_md.md)] 
 
     Users personalize the user interface of their personal version by customizing the user interface under their own user logon. This personalization can be deleted by the administrator. For more information, see, [Personalizing Workspaces](ui-personalization-overview.md). 
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)  
 [Customizing the User Interface](ui-customizing-overview.md)   
 <!-- [Security Overview](../Security%20Overview.md)-->

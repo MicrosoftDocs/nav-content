@@ -27,5 +27,6 @@ A batch job is like a report, except the batch job uses the result of its work t
 4. Choose the **OK** button to start the batch job.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Entering Criteria in Filters](ui-enter-criteria-filters.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

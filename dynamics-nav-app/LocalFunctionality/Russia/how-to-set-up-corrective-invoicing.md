@@ -30,5 +30,6 @@ You can create corrective invoices and corrective credit memos to reflect change
 
 You can set up a separate code for each inventory posting group.  
 
-## See Also  
- [Corrective Documents](corrective-documents.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Corrective Documents](corrective-documents.md)

@@ -32,7 +32,8 @@ When a single fiscal period has been fiscally closed it might be necessary to re
 
 When the period is reopened, the **Fiscally Closed** field is cleared, and the **Period Reopened Date** field is updated for the period.  
 
-## See Also  
- [How to: Close Years](how-to-close-years.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Close Years](how-to-close-years.md)   
  [How to: Fiscally Close Years](how-to-fiscally-close-years.md)   
  [How to: Fiscally Close Accounting Periods](how-to-fiscally-close-accounting-periods.md)

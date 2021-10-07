@@ -32,5 +32,6 @@ Payment files can be uploaded using the **IBS Logs** window. The **Upload Integr
 4.  Choose the **Perform Download** action. The payment files will be uploaded to the Isabel server and the **Process Status** field will be set to **Processed**.  
 5.  Continue processing the payment files by signing and sending the files on the Isabel server.  
 
-## See Also  
- [How to: Archive IBS Log Entries](how-to-archive-ibs-log-entries.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Archive IBS Log Entries](how-to-archive-ibs-log-entries.md)

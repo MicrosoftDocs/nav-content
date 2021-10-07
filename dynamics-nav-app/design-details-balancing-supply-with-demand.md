@@ -109,7 +109,8 @@ Before balancing supply by demand, the program deletes all existing order tracki
 > [!NOTE]  
 >  Even if the item is not set up for dynamic order tracking, the planned system will create balanced order tracking links as explained above.  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Balancing Demand and Supply](design-details-balancing-demand-and-supply.md)   
 [Design Details: Central Concepts of the Planning System](design-details-central-concepts-of-the-planning-system.md)   
 [Design Details: Supply Planning](design-details-supply-planning.md)

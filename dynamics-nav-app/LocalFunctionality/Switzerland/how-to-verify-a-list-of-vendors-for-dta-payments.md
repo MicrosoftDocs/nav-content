@@ -32,8 +32,9 @@ The DatenTrägerAustausch (DTA) payment journal report displays information for 
 
 You can edit or delete the payments in the payment journal. You can print the DTA journal multiple times to verify corrected payments, and then post the payment journal when it is accurate. For more information, see [How to: Suggest DTA Payment for Vendors](how-to-suggest-dta-payment-for-vendors.md) .  
 
-## See Also  
- [Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   
  [How to: Suggest DTA Payment for Vendors](how-to-suggest-dta-payment-for-vendors.md)   
  [How to: Submit DTA Payments](how-to-submit-dta-payments.md)   
  [How to: Export Payments Using EZAG](how-to-export-payments-using-ezag.md)   

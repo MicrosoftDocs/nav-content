@@ -43,7 +43,8 @@ If your PAC offers the service of canceling signed documents, you must specify t
     > [!IMPORTANT]  
     >  SAT has certified more than one PAC in Mexico, and you must obtain the appropriate information for communication with the PAC of your choice.  
 
-## See Also  
- [Electronic Invoicing](electronic-invoicing.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Invoicing](electronic-invoicing.md)   
  [How to: Set Up Electronic Invoicing](how-to-set-up-electronic-invoicing.md)  
  [Mexico Local Functionality](mexico-local-functionality.md)

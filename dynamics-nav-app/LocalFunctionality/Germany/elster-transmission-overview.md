@@ -51,7 +51,8 @@ The integrity is assured by the fact that if the document is changed after it ha
 
 The identity of the sender is determined by mapping the certificate to a registered user. It is checked if the certificate is valid, if it is locked or if other conspicuities have been noticed.  
 
-## See Also  
- [Error Messages of the ElsterTransferHandler](error-messages-of-the-elstertransferhandler.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Error Messages of the ElsterTransferHandler](error-messages-of-the-elstertransferhandler.md)   
  [Electronic Submission of Sales VAT Advance Notifications to ELSTER](electronic-submission-of-sales-vat-advance-notifications-to-elster.md)   
  [How to: Set Up Sales VAT Advance Notifications for ELSTER](how-to-set-up-sales-vat-advance-notifications-for-elster.md)

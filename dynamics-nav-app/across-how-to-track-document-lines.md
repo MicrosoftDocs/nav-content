@@ -28,6 +28,7 @@ The following procedure describes how to track from a sales order line. The step
 5. To view the entire document for the selected document line, choose the **Show Document** action.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [General Business Functionality](ui-across-business-areas.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

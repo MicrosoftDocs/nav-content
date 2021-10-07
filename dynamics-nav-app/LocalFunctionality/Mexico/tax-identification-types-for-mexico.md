@@ -30,5 +30,6 @@ This tax identification type can only be applied to people. A CURP number is 18 
 
 When you create a new customer or vendor in [!INCLUDE[navnow](../../includes/navnow_md.md)], you specify whether the customer or vendor is a company or a person, and then you specify the tax identification type. The tax identification type and the tax identification number are included in any reports that reference tax information about a customer or vendor.  
 
-## See Also  
- [Mexico Local Functionality](mexico-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Mexico Local Functionality](mexico-local-functionality.md)

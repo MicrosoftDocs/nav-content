@@ -38,7 +38,8 @@ You can print these reports and send them to your Microsoft Certified Partner to
 5.  On the **Options** tab, enter the relevant information into the fields.  
 6.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)

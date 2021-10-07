@@ -40,6 +40,7 @@ You use an external service provider to exchange electronic documents with your 
 1. In the **VAN Service Setup** window, choose the **Encryption Management** action.  
 2. In the **Data Encryption Management** window, enable encryption of your data. <!--For more information, see [Manage Data Encryption](../manage-data-encryption.md).-->  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Data Exchange](across-set-up-data-exchange.md)  
 [Exchanging Data Electronically](across-data-exchange.md)

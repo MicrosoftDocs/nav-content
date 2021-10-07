@@ -49,5 +49,6 @@ You can import payroll transactions into a general journal from two external pay
 
 4.  Choose the **OK** button.  
 
-## See Also  
- [Norway Local Functionality](norway-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norway Local Functionality](norway-local-functionality.md)

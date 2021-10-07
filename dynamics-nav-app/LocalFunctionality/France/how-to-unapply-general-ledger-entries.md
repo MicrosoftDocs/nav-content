@@ -25,5 +25,6 @@ You can unapply general ledger entries in a very straightforward way.
 3.  In the **Apply G/L Entries** window, select the ledger entries you want to unapply.  
 4.  Choose the **Unapply Entries** action.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Apply General Ledger Entries](how-to-apply-general-ledger-entries.md)

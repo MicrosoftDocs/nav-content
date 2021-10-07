@@ -88,6 +88,7 @@ You can view the number of analyses you've done, and how many you can still do, 
 2. Clear the **Enable Image Analyzer** check box.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Work with Item Attributes](inventory-how-work-item-attributes.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  

@@ -32,5 +32,6 @@ The following fields are required for reporting DEB:
 > [!NOTE]  
 >  The **Export DEB DTI** report exports shipments and receipts in one batch. If you want to report only shipments or receipts, then you must set a filter to remove the lines that are not needed in the **Intrastat Journal** table.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [France Local Functionality](france-local-functionality.md)

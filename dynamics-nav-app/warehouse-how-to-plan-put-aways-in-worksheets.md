@@ -60,7 +60,8 @@ If you do not select this field, the program will automatically create put-away 
 
 8. Choose the **OK** button, and the program creates the put-away according to your requests.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

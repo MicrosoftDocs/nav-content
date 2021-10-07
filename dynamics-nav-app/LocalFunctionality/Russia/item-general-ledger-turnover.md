@@ -144,5 +144,6 @@ On the **Parameters** FastTab, you can specify the format options listed in the 
 |**Print Cost**|Select this field to print the costs that are mentioned in the report.|  
 |**Print Group Totals**|Select this field to print preliminary group totals.|  
 
-## See Also  
- [Item Obligatory Acts](item-obligatory-acts.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Item Obligatory Acts](item-obligatory-acts.md)

@@ -41,5 +41,6 @@ You can print and send required trade information in a file format approved by t
 
 The Intrastat information is exported, and you can save the data to a file, or open the file in the appropriate program.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)

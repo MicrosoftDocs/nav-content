@@ -37,5 +37,6 @@ To use fiscal inventory valuation, you must set up inventory valuation methods.
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [Fiscal Inventory Valuation](fiscal-inventory-valuation.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Fiscal Inventory Valuation](fiscal-inventory-valuation.md)   

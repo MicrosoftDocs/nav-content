@@ -38,5 +38,6 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create bank director
 |**Bank Account G/L Turnover**|This report is a list of general ledger turnover information.|  
 |**Bank Account Card**|This report contains information about bank operations.|  
 
-## See Also  
- [How to: Set Up a Bank Payment Order](how-to-set-up-a-bank-payment-order.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up a Bank Payment Order](how-to-set-up-a-bank-payment-order.md)

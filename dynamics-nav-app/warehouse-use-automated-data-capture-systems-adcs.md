@@ -105,7 +105,8 @@ In the [!INCLUDE[d365fin](includes/d365fin_md.md)] development environment, edit
 
 For more information, see [Configuring an Automated Data Capture System](/dynamics-nav/Configuring-Automated-Data-Capture-System) in the developer and IT-pro help.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

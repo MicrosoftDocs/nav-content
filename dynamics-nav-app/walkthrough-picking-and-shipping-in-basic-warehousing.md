@@ -116,8 +116,9 @@ In the **Inventory Pick** window, you can manage all outbound warehouse activiti
 
     The 30 loudspeakers are now registered as picked from bins S-01-0001 and S-01-0002, and a negative item ledger entry is created reflecting the posted sales shipment.  
 
-## See Also  
- [How to: Pick Items with Inventory Picks](warehouse-how-to-pick-items-with-inventory-picks.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Pick Items with Inventory Picks](warehouse-how-to-pick-items-with-inventory-picks.md)   
  [How to: Pick Items for Warehouse Shipment](warehouse-how-to-pick-items-for-warehouse-shipment.md)   
  [How to: Set Up Basic Warehouses with Operations Areas](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)   
  [How to: Move Components to an Operation Area in Basic Warehouse Configurations](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)   

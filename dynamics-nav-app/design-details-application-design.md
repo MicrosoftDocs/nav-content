@@ -29,8 +29,9 @@ This content contains detailed technical information about complex application f
 |Learn about historic and the current design of item tracking functionality and how it integrates with the reservation system to include serial/lot numbers in availability calculations.|[Design Details: Item Tracking](design-details-item-tracking.md)|  
 |Learn about the General Journal Posting Line feature, including recent simplifications to the design of codeunit 12.|[Design Details: General Journal Post Line](design-details-general-journal-post-line.md)|  
 
-## See Also  
- [Planning](production-planning.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Planning](production-planning.md)   
  [Managing Inventory Costs](finance-manage-inventory-costs.md)   
  [Warehouse Management](warehouse-manage-warehouse.md)   
  [Setting Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  

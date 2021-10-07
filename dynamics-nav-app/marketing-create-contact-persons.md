@@ -35,6 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Assign mailing groups your contacts |[Assigning Mailing Groups to a Contact](marketing-mailing-groups.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Creating Contact Companies](marketing-create-contact-companies.md)  
 [Creating and Managing Contacts]()  
 [Working with Dynamics NAV](ui-work-product.md)

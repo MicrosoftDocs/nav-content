@@ -43,7 +43,8 @@ The **Internal Put-aways** enables you to perform put-aways without having to re
 3.  Fill in the item numbers and quantities on the lines.  
 4.  Choose the **Create Put-away** action. A warehouse put-away instruction is now ready for a warehouse employee to perform.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

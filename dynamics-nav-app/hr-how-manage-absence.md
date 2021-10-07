@@ -65,6 +65,7 @@ You can register employee absences on a daily basis or at some other interval th
     The **Abs. Overview by Periods Matrix** window opens showing employee absences broken down by periods.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manage Human Resources](hr-manage-human-resources.md)  
 [Finance](finance.md)  
 [Working With [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

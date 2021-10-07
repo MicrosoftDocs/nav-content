@@ -69,6 +69,7 @@ The following procedure is for updating an analysis view from the **Analysis by 
 >   To update some or all analysis views at the same time, you must use the **Update Analysis Views** batch job.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

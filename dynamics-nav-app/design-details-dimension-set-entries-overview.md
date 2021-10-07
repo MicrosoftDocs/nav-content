@@ -41,7 +41,8 @@ When you edit and close the **Edit Dimension Set Entries** window, a check is pe
 ## Performance Improvement  
 By storing dimension sets once in the database, database space is preserved, and overall performance is improved.  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Searching for Dimension Combinations](design-details-searching-for-dimension-combinations.md)   
 [Design Details: Table Structure](design-details-table-structure.md)   
 [Design Details: Codeunit 408 Dimension Management](design-details-codeunit-408-dimension-management.md)   

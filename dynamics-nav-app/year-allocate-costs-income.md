@@ -49,6 +49,7 @@ You can allocate an entry in a recurring general journal to several different ac
 4. Change the relevant fields, and then choose the **OK** button.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Closing Years and Periods](year-close-years-periods.md)  
 [Working with General Journals](ui-work-general-journals.md)    
 [Posting Documents and Journals](ui-post-documents-journals.md)    

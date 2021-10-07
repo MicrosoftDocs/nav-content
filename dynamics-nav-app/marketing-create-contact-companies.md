@@ -35,5 +35,6 @@ The following table describes a sequence of tasks, with links to the topics that
 | Assign Web sources (search engines and Web sites) to your contacts to indicate where on the Internet you intend to search for information about the contacts. |[How to: Set Up Web Sources on Contacts](marketing-web-sources.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Creating Contact Persons](marketing-create-contact-persons.md)   
 [Working with Dynamics NAV](ui-work-product.md)

@@ -27,7 +27,8 @@ You can also set the system up to automatically post (*flush*) components when y
     If the warehouse location where the components are stored is set up to use bins but does not require pick processing, assign a bin code to the journal line to indicate where the items should be taken from in the warehouse. For more information, see [How to: Pick for Production or Assembly](warehouse-how-to-pick-for-production.md).  
 3.  Choose the **Post** action to post the consumption. The related item ledger entries are reduced.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

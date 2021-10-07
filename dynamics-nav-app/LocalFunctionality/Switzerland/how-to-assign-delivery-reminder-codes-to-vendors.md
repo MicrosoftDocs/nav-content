@@ -25,8 +25,9 @@ In order to enable delivery reminders for overdue purchases, you must assign del
 3.  On the **Receiving** FastTab, in the **Delivery Reminder Terms** field, select a delivery reminder terms code for the vendor.  
 4.  Choose the **OK** button.  
 
-## See Also  
- [How to: Register New Vendors](../../purchasing-how-register-new-vendors.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Register New Vendors](../../purchasing-how-register-new-vendors.md)   
  [Delivery Reminders](delivery-reminders.md)   
  [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   
  [How to: Set Up Delivery Reminder Terms, Levels, and Text](how-to-set-up-delivery-reminder-terms-levels-and-text.md)   

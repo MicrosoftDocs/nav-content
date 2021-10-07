@@ -118,8 +118,9 @@ After you create a payment slip, you can generate payment files and send them to
 
 5.  In the case of error, review the errors listed in the **File Export Errors** FactBox, and take the appropriate action.  
 
-## See Also  
- [Payment Management](payment-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   
  [How to: Set Up Payment Steps](how-to-set-up-payment-steps.md)   

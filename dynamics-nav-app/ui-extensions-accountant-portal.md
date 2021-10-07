@@ -33,5 +33,6 @@ For more information, see [Accountant Experiences in Dynamics NAV](finance-accou
 This extension is used when you sign up at [Dynamics NAV for Accountants on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). If you install the extension in your [!INCLUDE[d365fin](includes/d365fin_md.md)], it will replace your current Role Center. If you then want to return to the other Role Center, then you can do that in My Settings. For more information, see [How to: Change the Role Center](change-role.md).  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Accountant Experiences in Dynamics NAV](finance-accounting.md)  
 [Finance](finance.md)  

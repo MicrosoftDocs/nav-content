@@ -31,6 +31,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Post transfers between bank accounts in the same currency or in different currencies. |[How to: Transfer Bank Funds](bank-how-transfer-bank-funds.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Banking](bank-setup-banking.md)  
 [Managing Receivables](receivables-manage-receivables.md)  
 [Managing Payables](payables-manage-payables.md)    

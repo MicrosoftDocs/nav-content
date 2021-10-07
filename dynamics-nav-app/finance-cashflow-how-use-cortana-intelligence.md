@@ -67,5 +67,6 @@ For example, you can see how the forecast:
 * Subtracts payables and adds receivables
 * Skips duplicate sales orders and purchase orders
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Work With Dynamics NAV](ui-work-product.md)

@@ -40,6 +40,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Set up service items and service item components. |[How to: Set Up Service Items](service-how-setup-service-items.md) |
 | Lay the groundwork for creating service contracts and contract quotes. |[How to: Set Up Service Contracts](service-how-setup-service-contracts.md) |
 
-## See also
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Service Management](service-service.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

@@ -39,7 +39,8 @@ A company's distribution strategy is reflected in the configuration of its wareh
 |Integrate bar code readers to your warehouse management solution.|[Use Automated Data Capture Systems (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|  
 |Get tips on how to reorganize locations, bins, or zones to obtain more efficient warehouse activities.|[How to: Restructure Warehouses](warehouse-how-to-restructure-warehouses.md)|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Assembly Management](assembly-assemble-items.md)    

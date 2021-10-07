@@ -31,8 +31,9 @@ When using the extended declaration, you will also need to set up an Incoterm in
 2.  On the **General** FastTab, select the **Simplified Intrastat Decl.** check box to set up a simplified declaration type. Clear this field to use extended declaration.  
 3.  Choose the **OK** button.  
 
-## See Also  
- [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
  [How to: Set Up Belgian Tariff Numbers](how-to-set-up-belgian-tariff-numbers.md)   
  [How to: Set Up Intrastat Establishment Numbers](how-to-set-up-intrastat-establishment-numbers.md)   
  [How to: Export Intrastat Third-Party Declararations](how-to-export-intrastat-third-party-declararations.md)   

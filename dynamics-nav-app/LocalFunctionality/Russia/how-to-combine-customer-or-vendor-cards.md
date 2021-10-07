@@ -33,4 +33,5 @@ The following procedure shows how to combine the information of two cards.
 The old customer or vendor card is deleted, and all documents with the old customer or vendor code are transferred to the new customer or vendor card.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

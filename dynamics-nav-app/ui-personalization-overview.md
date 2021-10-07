@@ -61,6 +61,7 @@ Before you start personalizing pages, it is important to understand how the pers
 >If you open the **Delete User Personalization** page, you can see all the pages that have been personalized by each user. The **Legacy Personalization** column gives you an indication as to whether the personalization was done in the Windows client or Web client. If there is a check mark in the column, the personalization was done in the Windows client (or in the Web client prior to [!INCLUDE[navnow_md](includes/navnow_md.md)]).
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Personalizing Your Workspace in the Dynamics NAV Windows Client](ui-personalization-windows-client.md)  
 [Personalizing Your Workspace in the Dynamics NAV Web Client](ui-personalization-user.md)  
 [Managing Personalization](ui-personalization-manage.md)  

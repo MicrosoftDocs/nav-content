@@ -51,5 +51,6 @@ Use the cost plus percentage function to set a sales price based on the cost of 
 
 9. Choose the **OK** button.  
 
-## See Also  
- [New Zealand Local Functionality](new-zealand-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[New Zealand Local Functionality](new-zealand-local-functionality.md)
