@@ -65,6 +65,7 @@ If you have set up recurring sales lines for the customer, such as a monthly rep
 The sales quote is removed from the database. A sales invoice or a sales order is created based on the information in the sales quote in which you can process the sale. In the **Quote No.** field on the sales invoice or sales order, you can see the number of the sales quote that it was made from. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) or [How to: Sell Products](sales-how-sell-products.md).
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Setting Up Sales](sales-setup-sales.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  

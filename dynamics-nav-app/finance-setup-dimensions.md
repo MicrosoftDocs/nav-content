@@ -28,5 +28,6 @@ Furthermore, you can set up a default dimension for each type of account so that
 Finally, you can also make a dimension required, so that it is not possible to post an entry with a specific type of account unless the account has a dimension value assigned to it.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Working with Dimensions](finance-dimensions.md)  
 [Set Up Core Financial Processes](finance-setup-finance.md)

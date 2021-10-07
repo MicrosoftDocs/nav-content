@@ -49,5 +49,6 @@ You can indent and validate the chart of accounts in the **G/L Account Card** wi
 1.  In the **Chart of Accounts** window, choose the **Check Chart of Accounts** action.  
 2.  Choose the **Yes** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)

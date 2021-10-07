@@ -44,8 +44,9 @@ At the end of the year, you must do the following:
 - Post the year-end closing entry, along with the offset equity account entries.  
 - Close the fiscal year using the **Fiscally Close Year** function.  
 
-## See Also  
- [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   
  [How to: Fiscally Close Accounting Periods](how-to-fiscally-close-accounting-periods.md)   
  [Closing Years and Periods](../../year-close-years-periods.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   

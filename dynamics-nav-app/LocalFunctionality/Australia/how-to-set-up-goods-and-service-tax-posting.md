@@ -40,6 +40,7 @@ You must set up GST posting before you generate the BAS report.
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [How to: Report BAS Information](how-to-report-bas-information.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Report BAS Information](how-to-report-bas-information.md)  
  [How to: Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)

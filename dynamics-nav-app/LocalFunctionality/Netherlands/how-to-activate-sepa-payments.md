@@ -83,6 +83,7 @@ In the following procedures, the first four describe how to enable SEPA payments
 4.  On the **Transfer** FastTab, in the **IBAN** and **SWIFT Code** fields, enter the international bank identifier code of the bank where the vendor has the account.  
 5.  Choose the **OK** button.  
 
-## See Also  
- [Single EURO Payments Area (SEPA)](single-euro-payments-area-sepa-.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Single EURO Payments Area (SEPA)](single-euro-payments-area-sepa-.md)   
  [How to: Submit Vendor Payments Electronically in SEPA ISO 20022 Payment Format](how-to-submit-vendor-payments-electronically-in-sepa-iso-20022-payment-format.md) 

@@ -50,6 +50,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can specify which report
 
 4.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Export and Print Intrastat Reports](how-to-export-and-print-intrastat-reports.md)  
 [VAT Reporting](vat-reporting.md) 

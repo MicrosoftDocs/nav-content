@@ -152,8 +152,9 @@ The parameters of the reports are listed in the following table.
 ## Cash Report CO-4  
 The **Cash Report CO-4** report shows mandatory daily cash transactions in standard format as required by Russian accounting legislation. For more information, see[How to: Print the Cash Report CO-4 Report](how-to-print-the-cash-report-co-4-report.md).  
 
-## See Also  
- [Bank Management](bank-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Bank Management](bank-management.md)   
  [How to: Create Cash Account Cards](how-to-create-cash-account-cards.md)   
  [How to: Print the Cash Order Journal CO-3 Report](how-to-print-the-cash-order-journal-co-3-report.md)   
  [How to: Print the Cash Report CO-4 Report](how-to-print-the-cash-report-co-4-report.md)   

@@ -114,5 +114,6 @@ The flow of items between bins at a company location centers on picking componen
 
    ![Bin flow chart](media/binflow.png "BinFlow")  
 
-## See Also  
- [Design Details: Warehouse Management](design-details-warehouse-management.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Warehouse Management](design-details-warehouse-management.md)

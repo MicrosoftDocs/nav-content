@@ -82,7 +82,8 @@ When you enter an assemble-to-order item on a sales line, an assembly order is a
 -   The minimum quantity that you can enter is 1. This is because you must at least assemble one unit to be able to sell the four units, assuming that the remaining three are available in the inventory.  
 -   The maximum quantity that you can enter is 4. This is to ensure that you do not assemble more of this assemble-to-order item than what is needed on the sale.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Assembly Management](assembly-assemble-items.md)  
 [How to: Work with Bills of Material](inventory-how-work-BOMs.md)  
 [Inventory](inventory-manage-inventory.md)  

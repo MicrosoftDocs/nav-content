@@ -32,6 +32,7 @@ When you have set up your inventory, you can manage various processes related to
 | Assign items to categories and give them attributes to help you and customers find items. |[How to: Categorize Items](inventory-how-categorize-items.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Inventory](inventory-manage-inventory.md)  
 [Managing Purchasing](purchasing-manage-purchasing.md)  
 [Managing Sales](sales-manage-sales.md)    

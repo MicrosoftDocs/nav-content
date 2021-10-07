@@ -33,8 +33,9 @@ To set up and view tax difference entries, you will use the following tables, wh
 |Tax Calc. Corresp. Entry|Specifies tax difference information that is needed for external reports and forms.|  
 |Tax Diff. Journal Line|Specifies posted tax difference journal entries.|  
 
-## See Also  
- [Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md)   
  [Tax Difference Registers](tax-difference-registers.md)   
  [Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3)   
  [Tax Accounting](tax-accounting.md)   

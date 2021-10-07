@@ -51,7 +51,8 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 
 4. Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Mexico Local Functionality](mexico-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)

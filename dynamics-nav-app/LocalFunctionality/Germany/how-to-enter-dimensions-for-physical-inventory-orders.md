@@ -32,7 +32,8 @@ That is why you should create the physical inventory order lines first after com
 6.  Choose the **Line** action, and then choose the **Dimensions** action.  
 7.  In the **Edit Dimension Set Entries** window, optionally, enter the dimensions for the inventory order line.  
 
-## See Also  
- [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
  [How to: Post Physical Inventory Orders](how-to-post-physical-inventory-orders.md)   
  [Dimension Set Entries Overview](../../design-details-dimension-set-entries-overview.md)

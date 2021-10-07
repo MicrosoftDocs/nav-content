@@ -27,7 +27,8 @@ A test report is a document that lets you review and modify a delivery reminder 
 3.  In the **Delivery Reminder - Test** window, set a filter if you want to print only selected delivery reminders.  
 4.  Choose the **Print** to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Delivery Reminders](delivery-reminders.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Issue Delivery Reminders](how-to-issue-delivery-reminders.md)

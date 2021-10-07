@@ -24,6 +24,7 @@ You can set up the general ledger to use the work date as the posting date for c
 2.  On the **Application** FastTab, select the **Use Workdate for Appl./Unappl.** field.  
 3.  Choose the **OK** button.  
 
-## See Also  
- [Belgium Local Functionality](belgium-local-functionality.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgium Local Functionality](belgium-local-functionality.md)   
  [How to: Apply and Unapply General Ledger Entries](how-to-apply-and-unapply-general-ledger-entries.md)

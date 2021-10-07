@@ -64,6 +64,7 @@ The assessed tax feature enables you to calculate the assessed tax for fixed ass
 14. In the **Calculate Assessed Tax** window, fill in the **Tax Authority No.**, **Year**, and the **Reporting Period** fields.  
 15. Choose the **OK** button.  
 
-## See Also  
- [Fixed Assets](../../fa-manage.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Fixed Assets](../../fa-manage.md)  
  [Setting Up Fixed Assets](../../fa-setup.md)

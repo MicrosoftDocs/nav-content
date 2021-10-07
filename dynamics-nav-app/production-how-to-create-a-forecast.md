@@ -65,7 +65,8 @@ It can be stated in the manufacturing setup if. Note, though, that if location-b
 > [!NOTE]  
 >  You can also edit an existing forecast. In the **Production Forecast Matrix** window, choose the **Copy Production Forecast** action and populate the **Production Forecast** window with an existing forecast. You can then edit quantities as appropriate.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Inventory](inventory-manage-inventory.md)  

@@ -40,6 +40,7 @@ Some functionality, either general or for specific business processes, can be se
 Some areas require you to be an administrator in your [!INCLUDE[d365fin](includes/d365fin_md.md)] subscription. For more information, see [Setup and Administration in Dynamics NAV](admin-setup-and-administration.md).  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  

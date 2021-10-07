@@ -46,6 +46,7 @@ The following table lists the error messages that the ELSTER portal sends to [!I
 |7100|The XML document could not be signed. This can be caused by a lack of sufficient memory on the computer, or that the operating system has stopped the compression process.|  
 |9000|An error occurred when the ELSTER portal was trying to read the configuration of the certificate. You must verify the content of the generated XML document.|  
 
-## See Also  
- [ELSTER Transmission Overview](elster-transmission-overview.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[ELSTER Transmission Overview](elster-transmission-overview.md)   
  [How to: Set Up Sales VAT Advance Notifications for ELSTER](how-to-set-up-sales-vat-advance-notifications-for-elster.md)

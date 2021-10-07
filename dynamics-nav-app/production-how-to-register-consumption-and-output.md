@@ -62,7 +62,8 @@ If values remain to be posted, the journal will contain these remaining values n
 > [!WARNING]  
 >  The **Production Journal** window cannot be used by two users simultaneously. This means that if User 2 opens the window and enters data when User 1 is already working in the window, then User 2 may lose data when User 1 closes the window.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

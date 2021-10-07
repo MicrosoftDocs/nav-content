@@ -39,8 +39,9 @@ The following procedure describes how to set up a payment address for a vendor, 
 > [!NOTE]  
 >  If a payment address is not set up, the address in the vendor or customer card is set as the default value.  
 
-## See Also  
- [Payment Management](payment-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   
  [How to: Set Up Payment Steps](how-to-set-up-payment-steps.md)   

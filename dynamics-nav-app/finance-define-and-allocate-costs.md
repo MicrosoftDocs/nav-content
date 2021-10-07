@@ -39,8 +39,9 @@ The following table describes a sequence of tasks, with links to the topics that
 |See an example of how to define a static allocation.|[Scenario Example: Defining Static Allocations Based on Allocation Ratio](finance-scenario-example-defining-static-allocations-based-on-allocation-ratio.md)|  
 |See an example of how to define a dynamic allocation.|[Scenario Example: Defining Dynamic Allocations Based on Items Sold](finance-scenario-example-defining-dynamic-allocations-based-on-items-sold.md)|  
 
-## See Also  
- [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
  [Transferring and Posting Cost Entries](finance-transfer-and-post-cost-entries.md)   
  [Accounting for Costs](finance-manage-cost-accounting.md)   
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   

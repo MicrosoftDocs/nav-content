@@ -138,5 +138,6 @@ You can cancel resource allocations for service tasks without reallocating the t
     > In the **Status** field, the **Reallocation Needed** option is automatically selected. If the repair status of the service item in the entry is **Initial**, the repair status is changed to **Referred**, that is, no service has been started. If the repair status is **In Process**, it is changed to **Partly Serviced**, that is, some service has been completed.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Set Up Resource Allocation](service-how-setup-resource-allocation.md)  
 [Allocation Status and Repair Status](service-allocation-status-and-repair-status.md)  

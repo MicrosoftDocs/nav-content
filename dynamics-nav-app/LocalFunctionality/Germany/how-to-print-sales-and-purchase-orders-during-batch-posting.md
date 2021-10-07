@@ -28,5 +28,6 @@ The following procedure describes how to print sales orders, but the same steps 
 4.  Optionally, on the **Options** FastTab, fill in the additional fields.  
 5.  To batch post and print the sales orders, choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Invoice Sales](../../sales-how-invoice-sales.md)

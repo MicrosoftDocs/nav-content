@@ -27,5 +27,6 @@ Some general ledger accounts do not accept payment discounts or invoice discount
 5.  Enter information into the required fields.  
 6.  Choose the **OK** button.  
 
-## See Also  
- [Spain Local Functionality](spain-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Spain Local Functionality](spain-local-functionality.md)

@@ -30,5 +30,6 @@ You must print the Factura-Invoice document as part of customs declaration.
 2.  Choose the **Print** action, and then choose the **Order Factura-Invoice** action.  
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen. Choose the **Cancel** button to save the information without printing the report.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Enter Custom Declarations Information](how-to-enter-custom-declarations-information.md)

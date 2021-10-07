@@ -88,5 +88,6 @@ This business scenario is supported with Late Binding functionality that enables
   
 **Item XX cannot be fully applied.**  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Item Tracking](design-details-item-tracking.md)

@@ -33,8 +33,9 @@ The following table describes a sequence of tasks, with links to the topics that
 |Perform period-end control and reporting tasks, such calculate the value of inventory and post costs to the general ledger.|[Reporting Costs and Reconciling with the General Ledger](finance-report-costs-and-reconcile-with-the-general-ledger.md)|  
 |Learn about all mechanisms in the costing system.|[Design Details: Inventory Costing](design-details-inventory-costing.md)|  
 
-## See Also  
- [Finance](finance.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Finance](finance.md)  
  [Inventory](inventory-manage-inventory.md)   
  [Sales](sales-manage-sales.md)   
  [Purchasing](purchasing-manage-purchasing.md)  

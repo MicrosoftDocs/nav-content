@@ -37,8 +37,9 @@ An inward registration is now created to represent the preliminary invoice posti
 
 If you want to cancel the inward registration before the final invoice posting, then you must reverse the inward registration manually. For more information, see [How to: Reverse Preliminary Invoices by Using Inward Registration](how-to-reverse-preliminary-invoices-by-using-inward-registration.md)  
 
-## See Also  
- [How to: Record Purchases](../../purchasing-how-record-purchases.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Record Purchases](../../purchasing-how-record-purchases.md)   
  [How to: Reverse Preliminary Invoices by Using Inward Registration](how-to-reverse-preliminary-invoices-by-using-inward-registration.md)   
  [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)   
  [Sweden Local Functionality](sweden-local-functionality.md)

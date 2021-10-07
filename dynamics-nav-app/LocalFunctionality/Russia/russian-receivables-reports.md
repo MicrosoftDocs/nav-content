@@ -186,6 +186,7 @@ On the **Options** FastTab, you can specify the format options listed in the fol
 |**Detailed**|Select one of these values:<br /><br /> -   **Full**<br />-   **Partial**<br />-   **None**|  
 |**Print Contractor Data**|Select this option to fill in the, the right side of the report with the customer's data.|  
 
-## See Also  
- [Russian Payables Reports](russian-payables-reports.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Russian Payables Reports](russian-payables-reports.md)   
  [How to: Set Up Customer and Vendor Agreements](how-to-set-up-customer-and-vendor-agreements.md)

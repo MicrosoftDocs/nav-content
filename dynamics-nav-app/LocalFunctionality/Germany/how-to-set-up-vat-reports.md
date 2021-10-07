@@ -35,6 +35,7 @@ Information from various invoice types is used to feed data into the EU Sales Li
 5.  On the **ZIVIT** FastTab, specify information for the fields.  
 6.  Choose the **OK** button.  
 
-## See Also  
- [VAT Reporting](vat-reporting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[VAT Reporting](vat-reporting.md)   
  [How to: Create VAT Reports](how-to-create-vat-reports.md)

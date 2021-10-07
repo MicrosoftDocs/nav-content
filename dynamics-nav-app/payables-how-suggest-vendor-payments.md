@@ -49,6 +49,7 @@ Alternatively, you can manually create payment lines using the due date to calcu
 >   If the purchase invoice is overdue, the posting date is set to the work date, and the font on the line becomes red.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Payables](payables-manage-payables.md)  
 [Making Payments](payables-make-payments.md)  
 [Working with General Journals](ui-work-general-journals.md)  

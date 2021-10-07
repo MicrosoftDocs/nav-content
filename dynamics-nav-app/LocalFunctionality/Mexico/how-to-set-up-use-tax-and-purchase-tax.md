@@ -81,6 +81,7 @@ Sales tax includes taxes that companies pay for using items:
 4.  Choose the **OK** button.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Mexico Local Functionality](mexico-local-functionality.md)  
 [Reporting Sales Tax in Mexico](mexico-sales-tax.md)  
 [Finance](../../finance.md)  

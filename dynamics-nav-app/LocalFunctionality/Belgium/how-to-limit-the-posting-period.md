@@ -40,6 +40,7 @@ When you post in the **General Journal Templates** window, the contents of the *
 2.  To specify the start of the period, choose the **Allow Posting From** field, and then enter the earliest date on which the user can post to the company.  
 3.  To specify the end of the period, choose the **Allow Posting To** field, and then enter the last date the user will be able to post to the company.  
 
-## See Also  
- [Belgium Local Functionality](belgium-local-functionality.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgium Local Functionality](belgium-local-functionality.md)   
  [How to: Specify Posting Periods](../../finance-how-specify-posting-periods.md)

@@ -29,7 +29,8 @@ You can either set email up manually or you can get help by using the **Email Se
 4. When all the fields are correctly filled in, choose the **Test Email Setup** action.
 5. When the test succeeds, close the window.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  

@@ -25,6 +25,7 @@ European Union (EU) third-party trade occurs when you receive a purchase invoice
 3.  On the **Invoice Details** FastTab, select the **EU 3-Party Trade** check box.  
 4.  Choose the **OK** button.  
 
-## See Also  
- [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)   
  [Sweden Local Functionality](sweden-local-functionality.md)

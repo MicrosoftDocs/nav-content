@@ -31,8 +31,9 @@ You set up different aspects of workflow notifications in the following places:
 3.  You set up the general content and layout of notifications, including notifications about overdue workflow responses, by setting up notification templates in the **Notification Templates** window. You can use the default templates provided with [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 4.  You set up specific content and rules of a workflow notification when you create the workflow in question. You do this by selecting options in the **Workflow Response Options** window for the workflow response that represents the notification. For more information, see step 9 in [How to: Create Workflows](across-how-to-create-workflows.md).  
 
-## See Also  
- [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Approval Users](across-how-to-set-up-approval-users.md)   
  [How to: Set Up Workflow Users](across-how-to-set-up-workflow-users.md)   
  [How to: Specify When and How to Receive Notifications](across-how-to-specify-when-and-how-to-receive-notifications.md)   
  [How to: Create Workflows](across-how-to-create-workflows.md)   

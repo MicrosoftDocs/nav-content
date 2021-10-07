@@ -29,4 +29,5 @@ The following procedure shows how to use the Tax Authority or Fund card.
 3.  In the **Tax Authority and Fund** card, enter the required information.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

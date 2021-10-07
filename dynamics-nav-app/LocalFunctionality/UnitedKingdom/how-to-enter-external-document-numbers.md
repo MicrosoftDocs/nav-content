@@ -26,5 +26,6 @@ You can enter external document numbers for customers and vendors in all sales a
 4.  Enter information into the required fields.  
 5.  Choose the **OK** button.  
 
-## See Also  
- [United Kingdom Local Functionality](united-kingdom-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[United Kingdom Local Functionality](united-kingdom-local-functionality.md)

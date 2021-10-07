@@ -37,7 +37,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |Split a put-away line to place part of the put-away quantity in available bins because the designated bin is filled up.|[How to: Split Warehouse Activity Lines](warehouse-how-to-split-warehouse-activity-lines.md)|
 |Get immediate access to put-aways that are assigned to you as a warehouse worker.|[How to: Find Your Warehouse Assignments](warehouse-how-to-find-your-warehouse-assignments.md)|    
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

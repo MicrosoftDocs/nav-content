@@ -34,6 +34,7 @@ This also works if the transaction with this VAT combination is posted through a
 > [!NOTE]  
 >  If this functionality is used on a purchase order that is used for buying items for inventory, the functionality will not influence the cost of the item. The cost of the item will be added by using the non-deductible VAT. This works on the general ledger level only.  
 
-## See Also  
- [How to: Calculate Proportional VAT](how-to-calculate-proportional-vat.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Calculate Proportional VAT](how-to-calculate-proportional-vat.md)   
  [Norwegian VAT Reporting](norwegian-vat-reporting.md)

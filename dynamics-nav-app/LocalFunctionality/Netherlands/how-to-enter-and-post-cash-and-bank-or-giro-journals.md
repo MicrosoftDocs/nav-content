@@ -78,5 +78,6 @@ You can apply the payments from customers to the open invoices from accounts rec
 
 The entries are posted to the general ledger. For more information, see General Ledger Entries.  
 
-## See Also  
- [How to: Print the Test Reports for Cash and Bank or Giro Journals](how-to-print-the-test-reports-for-cash-and-bank-or-giro-journals.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Print the Test Reports for Cash and Bank or Giro Journals](how-to-print-the-test-reports-for-cash-and-bank-or-giro-journals.md)

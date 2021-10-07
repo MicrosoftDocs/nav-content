@@ -52,5 +52,6 @@ You can use an external service, such as Yahoo Currency Exchange Rates, to keep 
 The value in the **Exchange Rate** field in the **Currencies** window is updated with the latest currency exchange rate.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Closing Years and Periods](year-close-years-periods.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

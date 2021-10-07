@@ -35,6 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Manage, delete, or compress documents|[Manage Documents](admin-manage-documents.md)|  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Business Functionality](madeira-business-functionality.md)  
 [General Business Functionality](ui-across-business-areas.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -74,5 +74,6 @@ The general posting type will be handled in two ways, depending on the value in 
 |**Mandatory**|The general posting type is automatically set to **Sale** on journal lines. Before you post, [!INCLUDE[navnow](../../includes/navnow_md.md)] verifies if the general posting type is specified, but there is no verification if the field is set to **Sale**.<br /><br /> **VAT Code 3** can be used for both sales and purchase documents.|  
 |**Same**|The general posting type is automatically set to **Sale** on journal lines. Before you post, [!INCLUDE[navnow](../../includes/navnow_md.md)] verifies if the general posting type is set to **Sale**.<br /><br /> **VAT Code 3** can be used for sales documents, but not on purchase documents.<br /><br /> This enables you to restrict the use of VAT codes to predefined general posting types.|  
 
-## See Also  
- [Norwegian VAT Reporting](norwegian-vat-reporting.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norwegian VAT Reporting](norwegian-vat-reporting.md)

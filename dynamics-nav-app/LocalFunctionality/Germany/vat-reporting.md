@@ -27,7 +27,8 @@ You can print the following local VAT reports.
 |**Sales VAT Adv. Not. Acc. Proof**|Confirms that entries in the VAT statement form are also posted in general ledger accounts.<br /><br /> To verify VAT in sales VAT advance notifications, select the same settings for the VAT statement form and the sales VAT advance notification.|  
 |**VAT Statement Schedule**|This report can be retrieved from the **VAT Statement** window.<br /><br /> Prints the settings in the VAT statement. Using this report, you can print the characteristics of the **Sales VAT Adv. Not. Acc. Proof**.|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How To: Report VAT to the Tax Authorities](../../finance-how-report-vat.md)  
 [How to: Work with VAT on Sales and Purchases](../../finance-work-with-vat.md)  
 [How to: Set Up Reports for VAT and Intrastat](how-to-set-up-reports-for-vat-and-intrastat.md)

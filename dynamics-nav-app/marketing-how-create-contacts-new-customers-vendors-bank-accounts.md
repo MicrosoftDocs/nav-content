@@ -29,6 +29,7 @@ Before you can record contacts this way, you must specify a business relation co
 The contact information is transferred from the **Contact** card to the **Bank Account** card, the **Customer** card, or the **Vendor** card. You may want to add specific information to each of the cards, such as invoicing and payment details.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create Contact Companies](marketing-create-contact-companies.md)  
 [How to: Create Contact Persons](marketing-create-contact-persons.md)  
 [Setting Up Relationship Management](marketing-setup-marketing.md)  

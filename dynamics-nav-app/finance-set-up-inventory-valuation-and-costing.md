@@ -33,7 +33,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |Ensure that purchase returns are applied to the original inbound transaction to preserve inventory value.|**Exact Cost Reversing Mandatory** field in the **´Purchases & Payables** page|
 |Set up the rounding rules to apply when adjusting or suggesting item prices and when adjusting or suggesting standard costs.|**Rounding Method** page|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Working with Dynamics NAV](ui-work-product.md)  
 [Finance](finance.md)  

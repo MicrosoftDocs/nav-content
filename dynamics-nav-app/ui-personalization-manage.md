@@ -68,6 +68,7 @@ The **User Personalization Card** page enables you to clear the personalization 
     The user will see the changes the next time they sign-in.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Personalization Overview](ui-personalization-overview.md)  
 [Personalizing Your Workspace](ui-personalization-user.md)  
 [Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  

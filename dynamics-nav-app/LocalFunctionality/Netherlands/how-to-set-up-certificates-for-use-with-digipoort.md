@@ -52,5 +52,6 @@ Next, you have to install the certificates. The certificates have to be installe
 
 4.  Close the **Console** window.  
 
-## See Also  
- [Digipoort Overview](digipoort-overview.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Digipoort Overview](digipoort-overview.md)

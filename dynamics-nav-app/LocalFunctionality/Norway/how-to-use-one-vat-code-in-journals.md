@@ -55,5 +55,6 @@ For example, the VAT rate posted in the journal is defined by the setup that you
 >   
 >  No changes are made to the posting.  
 
-## See Also  
- [Norwegian VAT Codes](norwegian-vat-codes.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norwegian VAT Codes](norwegian-vat-codes.md)

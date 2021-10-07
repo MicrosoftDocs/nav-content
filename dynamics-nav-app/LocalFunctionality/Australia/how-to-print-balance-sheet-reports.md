@@ -32,7 +32,8 @@ You can use the **Balance Sheet** report to view the company’s balance sheet.
   
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
   
-## See Also  
- [How to: Print Income Statements](how-to-print-income-statements.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Print Income Statements](how-to-print-income-statements.md)   
  [How to: Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)   
  [How to: Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)

@@ -113,6 +113,7 @@ If you did not select the **Depr. until FA Posting Date** check box, the asset w
 *Total of depreciation = 100 + 15 + 55.54 = 170.54*
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Fixed Assets](fa-manage.md)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  

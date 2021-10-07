@@ -95,6 +95,7 @@ A service credit memo document is typically used when a customer returns an item
 4. On the credit memo lines, enter information about the items that have been returned or removed, or the compensation that will be given to the customer.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Post Service Invoices](service-how-to-post-service-orders.md)  
 [Setting Up Service Management](service-setup-service.md)  
 [Service Posting](service-service-posting.md)  

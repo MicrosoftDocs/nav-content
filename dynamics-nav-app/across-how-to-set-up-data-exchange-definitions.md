@@ -155,7 +155,8 @@ Creating a data exchange definition involves two tasks:
 4. Choose the **Import Data Exchange Definition** action.  
 5. Choose the file that you saved in step 1.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Data Exchange](across-set-up-data-exchange.md)  
 [How to: Set Up Electronic Document Sending and Receiving](across-how-to-set-up-electronic-document-sending-and-receiving.md)  
 [How to: Set Up SEPA Credit Transfer](finance-how-to-set-up-sepa-credit-transfer.md)  

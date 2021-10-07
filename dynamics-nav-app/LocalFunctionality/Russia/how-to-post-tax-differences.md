@@ -59,8 +59,9 @@ You can use the **Tax Difference Journal** window to manually create tax differe
 3.  Choose the **Post** action. The tax difference journal transaction is posted.  
 4.  Choose the **Ledger Entries** action to open the **Tax Diff. Ledger Entry** window and review the posted entries.  
 
-## See Also  
- [Tax Differences](tax-differences.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Tax Differences](tax-differences.md)   
  [Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md)   
  [Tax Accounting](tax-accounting.md)   
  [Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3)   

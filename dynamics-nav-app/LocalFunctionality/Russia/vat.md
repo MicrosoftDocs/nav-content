@@ -32,7 +32,8 @@ An organization’s VAT liability is calculated as the difference between the VA
 ## VAT Payment  
 For most organizations, VAT payments are required to be submitted no later than the 20th day of the month. The timely submission of VAT payments is the responsibility of the taxpayer.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)   
  [How to: Set Up VAT Ledgers](how-to-set-up-vat-ledgers.md)   
  [How to: Prepare VAT Entries for Posting](how-to-prepare-vat-entries-for-posting.md)

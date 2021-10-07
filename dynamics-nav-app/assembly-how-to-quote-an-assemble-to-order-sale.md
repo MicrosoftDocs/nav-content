@@ -36,7 +36,8 @@ As when you sell any other type of item, you can also create a sales quote for a
 6.  When you have adjusted the assembly order lines according to the quote, close the **Assemble-to-Order Lines** window to return to the **Sales Quote** window.  
 7.  If the customer accepts the quote, then create a sales order for the quoted assembly item. For more information, see [How to: Make Offers](sales-how-make-offers.md). The linked assembly quote and any customizations are linked to that new sales order to prepare for assembly of the item or items to be sold.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Assembly Management](assembly-assemble-items.md)  
 [How to: Work with Bills of Material](inventory-how-work-BOMs.md)  
 [Inventory](inventory-manage-inventory.md)  

@@ -39,4 +39,5 @@ The following table lists these general business areas with links to topics that
 | Set up data exchange definitions to you can send and receive electronic documents. |[Exchanging Data Electronically](across-data-exchange.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

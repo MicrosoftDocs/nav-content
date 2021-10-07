@@ -21,5 +21,6 @@ If your company has different types of addresses, such as a legal address or an 
 ## Types of Addresses  
  Some statutory reports require certain types of addresses, such as the address for tax inspection or the address for the pension fund that the company reports. You can define two or more of each type of address and use unique codes for each of them.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Statutory Reports](statutory-reports.md)

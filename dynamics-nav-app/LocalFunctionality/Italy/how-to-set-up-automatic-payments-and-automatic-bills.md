@@ -69,6 +69,7 @@ The following procedure describes how to set up automatic bills for sales and re
 
 Now, you can process customer bills and vendor bills so that they are handled automatically.  
 
-## See Also  
- [Defining Payment Methods](../../finance-payment-methods.md)     
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Defining Payment Methods](../../finance-payment-methods.md)     
   [Italy Local Functionality](italy-local-functionality.md)

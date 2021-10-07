@@ -66,8 +66,9 @@ Proposals can be generated manually or automatically based on either vendor or c
 
 6.  If you want to view or adjust the proposal's detail lines, choose the **Detail Information** action. To return to the proposal, close the **Proposal Detail Line** window.  
 
-## See Also  
- [How to: Register New Customers](../../sales-how-register-new-customers.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Register New Customers](../../sales-how-register-new-customers.md)   
  [How to: Invoice Sales](../../sales-how-invoice-sales.md)   
  [How to: Record Purchases](../../purchasing-how-record-purchases.md)   
  [How to: Create and Export Payment History](how-to-create-and-export-payment-history.md)

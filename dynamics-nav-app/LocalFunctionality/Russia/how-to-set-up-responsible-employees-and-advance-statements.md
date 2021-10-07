@@ -201,5 +201,6 @@ The following procedure shows how to print the posted **Advance Statement**.
 
 5.  Choose the **Print** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Human Resources](../../hr-manage-human-resources.md)

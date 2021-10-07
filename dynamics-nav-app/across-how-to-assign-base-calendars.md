@@ -111,6 +111,7 @@ Base calendars are assigned to your own company, customers, vendors, locations, 
 >  Before you can make customized calendar entries, you must first assign a base calendar to the company.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Inventory](inventory-manage-inventory.md)  

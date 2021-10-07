@@ -94,7 +94,8 @@ When planning with capacity-constrained resources, the system ensures that no re
 > 
 > In case of operation splitting, the setup time is only assigned once because it is assumed that some manual adjustment is done to optimize the schedule.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create Shop Calendars](production-how-to-create-work-center-calendars.md)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Manufacturing](production-manage-manufacturing.md)    

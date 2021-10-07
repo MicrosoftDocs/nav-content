@@ -38,8 +38,9 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase deliver
 
 4.  Choose the **OK** button.  
 
-## See Also  
- [Delivery Reminders](delivery-reminders.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Delivery Reminders](delivery-reminders.md)   
  [How to: Set Up Delivery Reminder Terms, Levels, and Text](how-to-set-up-delivery-reminder-terms-levels-and-text.md)   
  [How to: Assign Delivery Reminder Codes to Vendors](how-to-assign-delivery-reminder-codes-to-vendors.md)   
  [How to: Create Delivery Reminders Manually](how-to-create-delivery-reminders-manually.md)

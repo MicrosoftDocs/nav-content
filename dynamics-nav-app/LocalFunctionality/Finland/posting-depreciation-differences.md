@@ -23,6 +23,7 @@ In Finland, the following depreciation methods are commonly used for fixed asset
 
 If two depreciation methods are used, Finnish tax legislation requires that the difference in accumulated depreciation between the different depreciation methods be calculated and posted to the general ledger.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finland Local Functionality](finland-local-functionality.md)  
 [Fixed Assets](../../fa-manage.md)   

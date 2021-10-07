@@ -97,5 +97,6 @@ You can undo changes for that you have made to individual UI areas, such as a ri
 
 The UI customization for the profile of the particular UI area on the particular page is canceled. The layout of the UI area on the page is reset to the default configuration, as made either by the administrator or as installed with the application.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Customizing [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-customizing-overview.md)   

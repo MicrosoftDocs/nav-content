@@ -45,8 +45,9 @@ Transactions are processed using specific tax accounting principles that are app
 |Future Expense Entry|A group of analytic registers based on tax data for future expenses. This group is created by using a fixed asset ledger and a tax depreciation book that is not integrated with the financial accounting ledger.|  
 |Accumulation|A synthetic register based on calculated algorithms defined during tax register set up.|  
 
-## See Also  
- [How to: Set Up Tax Accounting](how-to-set-up-tax-accounting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Tax Accounting](how-to-set-up-tax-accounting.md)   
  [Tax Registers](tax-registers.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   
  [How to: Set Up Tax Register Sections](how-to-set-up-tax-register-sections.md)   

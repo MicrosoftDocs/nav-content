@@ -37,6 +37,7 @@ You can import the Einzahlungsschein mit Referenznummer (ESR) invoice data from 
 
 The payments information is imported to the journal lines. The payments are automatically applied to the respective invoices according to unique ESR reference numbers.  
 
-## See Also  
- [Swiss Electronic Payments Using ESR](swiss-electronic-payments-using-esr.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using ESR](swiss-electronic-payments-using-esr.md)   
  [How to: Print ESR Invoices](how-to-print-esr-invoices.md)

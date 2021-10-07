@@ -53,8 +53,9 @@ The reorder point expresses the anticipated demand during the lead time of the i
 
  This concludes the description of central principles relating to inventory planning based on reordering policies. The following section describes the characteristics of the four supported reordering policies.  
 
-## See Also  
- [Design Details: Reordering Policies](design-details-reordering-policies.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Reordering Policies](design-details-reordering-policies.md)   
  [Design Details: Planning Parameters](design-details-planning-parameters.md)   
  [Design Details: Handling Reordering Policies](design-details-handling-reordering-policies.md)   
  [Design Details: Supply Planning](design-details-supply-planning.md)

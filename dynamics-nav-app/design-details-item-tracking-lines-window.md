@@ -28,5 +28,6 @@ To coordinate the flow of serial and lot numbers through inventory, the followin
   
 The rules for entering data in the **Item Tracking Lines** window also support the coupling principles that govern order tracking, planning, and reservation. For more information, see [Design Details: Item Tracking and Planning](design-details-item-tracking-and-planning.md).  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Item Tracking](design-details-item-tracking.md)

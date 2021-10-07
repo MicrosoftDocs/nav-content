@@ -37,6 +37,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up different interest rates that you can use on finance charges to charge different interests on late payments depending on the period.|[How to: Set Up Multiple Interest Rates](finance-how-to-set-up-multiple-interest-rates.md)|
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)  
 [Working with Dimensions](finance-dimensions.md)  

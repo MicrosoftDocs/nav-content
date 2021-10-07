@@ -44,8 +44,9 @@ When the collection is complete, the current collection number is assigned in th
 
 3.  Choose the **Yes** button to confirm the reopening of the collection.  
 
-## See Also  
- [Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
  [How to: Process an LSV Collection](how-to-process-an-lsv-collection.md)   
  [How to: Post LSV+ Payments](how-to-post-lsv-payments.md)   
  [How to: Export Payments Using LSV](how-to-export-payments-using-lsv.md)

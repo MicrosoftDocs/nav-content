@@ -33,5 +33,6 @@ If you change the CCC code structure, the **CCC No.** field updates automaticall
    |  **CCC Control Digits**  |                    9-10                    |
    | **CCC Bank Account No.** | 11-20 (Spain)<br /><br /> 11-21 (Portugal) |
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)

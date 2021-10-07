@@ -24,5 +24,6 @@ The OCR-B-10 BT font is generally available from software vendors. In [!INCLUDE[
 
 You can use any OCR-B font, but if other fonts are used, the sales documents must be updated by a Microsoft Certified Partner. Contact your partner for more information.  
   
-## See Also  
- [Norwegian Sales Documents](norwegian-sales-documents.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norwegian Sales Documents](norwegian-sales-documents.md)

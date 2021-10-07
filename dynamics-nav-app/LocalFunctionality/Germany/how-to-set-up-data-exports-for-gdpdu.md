@@ -164,6 +164,7 @@ In this example, you set multiple filter definitions for the same table.
 - Customers that have Net Change (LCY) <> 0 in the period from 1/1/2013 and 12/31/2013.  
 - Customers that have Net Change (LCY) <> 0 on the day before the start date.  
 
-## See Also  
- [Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)   
  [How to: Export GDPdU Data](how-to-export-gdpdu-data.md)

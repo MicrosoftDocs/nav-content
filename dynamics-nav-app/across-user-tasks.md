@@ -35,4 +35,5 @@ When you have completed a task, simply mark it as completed.
 If you want to bulk delete all or some user tasks, you can use the **Delete User Tasks** report. In the request page, you can set filters to determine which tasks must be deleted.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Searching for a Page or Report](ui-search.md)  

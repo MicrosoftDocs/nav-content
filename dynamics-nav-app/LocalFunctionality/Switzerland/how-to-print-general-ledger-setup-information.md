@@ -34,5 +34,6 @@ Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily busi
 
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Finance](../../finance-setup-finance.md)

@@ -76,6 +76,7 @@ For each depreciation book, you define a default setup of templates and batches.
 4. In the other fields, select the journal template or journal batch that must be used by default.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  

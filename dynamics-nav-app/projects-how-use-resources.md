@@ -62,6 +62,7 @@ If you have already set up alternate resource price for some resources, you can 
 4. When the batch job is finished, open the **Resource Price Changes** window to see the results of the batch job.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Project Management](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Purchasing](purchasing-manage-purchasing.md)         

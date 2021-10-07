@@ -52,7 +52,8 @@ To set this up, you assign responsibility centers to users in three functional a
 > [!NOTE]  
 >  Users will still be able to view all posted documents and ledger entries, not just those related to their own responsibility center.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Inventory](inventory-setup-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)
 [Inventory](inventory-manage-inventory.md)[Warehouse Management](warehouse-manage-warehouse.md)  

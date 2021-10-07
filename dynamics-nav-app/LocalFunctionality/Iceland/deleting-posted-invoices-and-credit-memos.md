@@ -23,5 +23,6 @@ In Iceland, in accordance with legislation, [!INCLUDE[navnow](../../includes/nav
 - Purchase invoices  
 - Purchase credit memos  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Invoice Sales](../../sales-how-invoice-sales.md)

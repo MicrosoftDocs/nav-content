@@ -27,5 +27,6 @@ The **Deposit Slip** report displays cash and check details in a format required
 5.  On the **Gen. Journal Line** FastTab, select the appropriate filters.  
 6.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Australia Local Functionality](australia-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Australia Local Functionality](australia-local-functionality.md)

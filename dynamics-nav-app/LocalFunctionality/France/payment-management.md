@@ -44,8 +44,9 @@ For more information, see [How to: Create Payment Slips](how-to-create-payment-s
 ## Archiving Payment Slips  
 You can separate a fully processed payment slip from the active payment slips by archiving it. You can manually archive an individual payment slip or you can automatically archive a batch of payment slips. For more information, see [How to: Archive Payment Slips](how-to-archive-payment-slips.md).  
 
-## See Also  
- [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   
  [How to: Set Up Payment Steps](how-to-set-up-payment-steps.md)   
  [How to: Set Up Payment Addresses](how-to-set-up-payment-addresses.md)   

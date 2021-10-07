@@ -51,6 +51,7 @@ After posting the order, you can view the posted physical inventory orders. Post
 
 4.  Close the window.  
 
-## See Also  
- [Physical Inventory Documents](physical-inventory-documents.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Physical Inventory Documents](physical-inventory-documents.md)   
  [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)

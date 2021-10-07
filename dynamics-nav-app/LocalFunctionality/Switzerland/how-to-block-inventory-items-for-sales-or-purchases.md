@@ -46,8 +46,9 @@ You will receive an error message if you try to do the following:
 - Create new lines in an item journal for blocked items. For more information, see the Item Journal window.  
 - Post item transactions for blocked items.  
 
-## See Also  
- [Swiss Inventory Management](swiss-inventory-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Inventory Management](swiss-inventory-management.md)   
  [How to: Block Shipment for Negative Inventory](how-to-block-shipment-for-negative-inventory.md)   
  [How to: Copy Existing Items to New Items](how-to-copy-existing-items-to-new-items.md)   
  [How to: Deactivate Item Cost Tracking](how-to-deactivate-item-cost-tracking.md)

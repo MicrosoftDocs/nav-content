@@ -51,5 +51,6 @@ The following accounting entries create the different settings.
 ## Trans. VAT Account Field  
 In the **Trans. VAT Account** field, enter Subaccount 90-3 Gain VAT or Subaccount 62 Prepayment VAT. If this field is blank, the postings use the account from the Customer posting groups from the **Receivables Account** field.  
 
-## See Also  
- [VAT Ledgers](vat-ledgers.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[VAT Ledgers](vat-ledgers.md)

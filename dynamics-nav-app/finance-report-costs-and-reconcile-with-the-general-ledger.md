@@ -30,7 +30,8 @@ At the end of accounting periods, monthly, yearly or other, a sequence of cost c
 |Use one window to audit the reconciliation between the inventory ledger and the general ledger.|[How to: Reconcile Inventory Costs with the General Ledger](finance-how-to-post-inventory-costs-to-the-general-ledger.md)|  
 |Determine the WIP amount that needs to be posted to balance sheet accounts for period-end reporting.|[How to: Monitor Job Progress and Performance](projects-how-monitor-progress-performance.md)|
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Inventory Valuation and Costing](finance-set-up-inventory-valuation-and-costing.md)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Finance](finance.md)  

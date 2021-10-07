@@ -71,6 +71,7 @@ You can use an account schedule to create a statement comparing general ledger f
 Now you can copy and paste your budget statement into a spreadsheet.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

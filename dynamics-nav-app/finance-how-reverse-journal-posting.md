@@ -64,6 +64,7 @@ You can reverse entries from all **Ledger Entries** windows. The following proce
 8.  Correct the entry in the **Quantity** field and post the purchase return order again.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md)  
 [Working with General Journals](ui-work-general-journals.md)  
 [Finance](finance.md)  

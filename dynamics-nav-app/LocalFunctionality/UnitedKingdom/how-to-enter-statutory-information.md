@@ -37,5 +37,6 @@ To comply with legal requirements, statutory information is available on the **S
 
 3.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [United Kingdom Local Functionality](united-kingdom-local-functionality.md)

@@ -57,6 +57,7 @@ When parts of a document line quantity are posted, only that particular quantity
 |**Item Tracking Lines** window|7|0|**5**|7|2|  
 |**T336**|7|0|0|7|7|  
 
-## See Also  
- [Design Details: Item Tracking](design-details-item-tracking.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Item Tracking](design-details-item-tracking.md)   
  [Design Details: Item Tracking Lines Window](design-details-item-tracking-lines-window.md)

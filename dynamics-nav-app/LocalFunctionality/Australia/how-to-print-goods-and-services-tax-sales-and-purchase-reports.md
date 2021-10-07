@@ -39,8 +39,9 @@ You can create reports of goods and services tax (GST) for purchases and sales f
   
 4.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
   
-## See Also  
- [Business Activity Statements](business-activity-statements.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Business Activity Statements](business-activity-statements.md)   
  [How to: Set Up Business Activity Statements](how-to-set-up-business-activity-statements.md)   
  [How to: Export Business Activity Statements](how-to-export-business-activity-statements.md)   
  [How to: Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)

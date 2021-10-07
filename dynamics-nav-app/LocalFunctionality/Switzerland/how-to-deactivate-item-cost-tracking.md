@@ -33,6 +33,7 @@ You can deactivate item cost tracking for an item. Generally, item cost tracking
 
 4.  Choose the **OK** button.  
 
-## See Also  
- [Swiss Inventory Management](swiss-inventory-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Inventory Management](swiss-inventory-management.md)   
  [How to: Block Inventory Items for Sales or Purchases](how-to-block-inventory-items-for-sales-or-purchases.md)

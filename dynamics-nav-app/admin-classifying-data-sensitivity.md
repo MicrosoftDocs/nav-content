@@ -46,4 +46,5 @@ For example, the Data Classification worksheet lets you do things like:
 > We have defined sample sensitivity classifications for the tables and fields in the Cronus demonstration company. You can use those classifications as inspiration when you classify your own tables and fields.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Classifying Data](https://docs.microsoft.com/dynamics-nav/classifying-data)  

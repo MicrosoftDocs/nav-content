@@ -31,5 +31,6 @@ You can export the account schedule data into a digital file format approved by 
 4.  In the **Export Schedules to ASC format** window, on the **Options** FastTab, enter information into the relevant fields.  
 5.  Choose the **OK** button.  
   
-## See Also  
- [Spain Local Functionality](spain-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Spain Local Functionality](spain-local-functionality.md)

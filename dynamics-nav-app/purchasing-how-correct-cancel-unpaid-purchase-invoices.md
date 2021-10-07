@@ -47,6 +47,7 @@ In the **Posted Purchase Invoice** window, you can choose the **Correct** button
 4. Choose **Show Corrective Credit Memo** to view the posted purchase credit memo that voids the initial posted purchase invoice.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

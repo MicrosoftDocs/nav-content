@@ -42,5 +42,6 @@
 6.  On the **General** FastTab, in the **Tax Auth. Receipt No.** field, specify the receipt number that you received from the tax authorities.  
 7.  Choose the **Mark as Submitted** action to finalize the report. The **Status** field is updated to Submitted.  
 
-## See Also  
- [How to: Export VAT Transactions Reports](how-to-export-vat-transactions-reports.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Export VAT Transactions Reports](how-to-export-vat-transactions-reports.md)

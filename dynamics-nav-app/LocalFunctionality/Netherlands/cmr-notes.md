@@ -39,5 +39,6 @@ The following details the standard life cycle of a CMR note:
 - The signed CMR notes are then given to the respective internal Accounts Receivable departments.  
 - The Accounts Payable administrators receive the signed CMR notes, along with the invoice for freight forwarding services from the freight forwarder.  
 
-## See Also  
- [Netherlands Local Functionality](netherlands-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Netherlands Local Functionality](netherlands-local-functionality.md)

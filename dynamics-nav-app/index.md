@@ -45,6 +45,7 @@ Direct links:
 If you are looking for online content for [!INCLUDE [d365bc](includes/d365bc.md)], which is the continuation of [!INCLUDE [navnow_md](includes/navnow_md.md)], see [[!INCLUDE [d365bc](includes/d365bc.md)]](/dynamics365/business-central/).  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Finance](finance.md)  

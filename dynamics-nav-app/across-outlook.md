@@ -40,6 +40,7 @@ For example, if you receive an email message that mentions the text *S-QUO100*, 
 In the Document Links add-in, you can modify and take actions with the document, just like you can in Dynamics NAV.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Welcome to Dynamics NAV](across-get-started.md)  
 [Finance](finance.md)  
 [Manage Sales](sales-manage-sales.md)  

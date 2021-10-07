@@ -44,5 +44,6 @@ To be able to see the most common methods of repair for particular item faults w
 4. To retain the records that you have already inserted manually in the **Fault/Resol. Codes Relationships** page, choose the **Retain Manually Inserted Rec.** check box.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Service Management](service-setup-service.md)  
 [Service Management](service-service.md)  

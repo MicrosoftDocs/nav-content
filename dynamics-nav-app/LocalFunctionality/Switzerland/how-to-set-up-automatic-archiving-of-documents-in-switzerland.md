@@ -34,8 +34,9 @@ The following procedure describes how to set up automatic archiving of sales doc
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [Swiss Purchase Documents and Sales Documents](swiss-purchase-documents-and-sales-documents.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Purchase Documents and Sales Documents](swiss-purchase-documents-and-sales-documents.md)   
  [How to: Import Swiss Post Codes](how-to-import-swiss-post-codes.md)   
  [How to: Print an Inventory Picking List from a Sales Order](how-to-print-an-inventory-picking-list-from-a-sales-order.md)   
  [How to: Print Sales and Purchase Orders During Batch Posting](how-to-print-sales-and-purchase-orders-during-batch-posting.md)

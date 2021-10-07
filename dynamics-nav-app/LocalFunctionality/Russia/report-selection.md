@@ -37,4 +37,5 @@ The following procedure shows how to print several reports at the same time.
 You can select all lines in the **Report Selection-Print** window by choosing the **Set all** action. You can clear all lines by choosing the **Clear all** action.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

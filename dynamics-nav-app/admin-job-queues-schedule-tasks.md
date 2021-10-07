@@ -63,6 +63,7 @@ When a job queue is activated manually, it is run with the credentials of the us
 ## Using Job Queues Effectively  
 The job queue entry record has many fields whose purpose is to carry parameters into a codeunit that you have specified to be run with a job queue. This also means that codeunits that are to be run via the job queue must be specified with the Job Queue Entry record as a parameter in the **OnRun** trigger. This helps provide an extra level of security, as this prevents users from running random codeunits via the job queue. If the user must pass parameters to a report, the only way to do this is by wrapping the report execution into a codeunit, which then parses the input parameters and enters them into the report before executing it.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
 [Setting Up Dynamics NAV](setup.md)  

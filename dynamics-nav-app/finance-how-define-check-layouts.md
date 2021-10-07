@@ -33,6 +33,7 @@ Checks are designed to print in both the United States and Canadian check image 
 When you have set up check layouts, you can print checks from the **Payment Journal** window. For more information, see [How to: Work with Checks](payables-how-work-checks.md).
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Payables](payables-manage-payables.md)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)   
 [Completing Period-End Processes](year-how-complete-period-end-processes.md)  

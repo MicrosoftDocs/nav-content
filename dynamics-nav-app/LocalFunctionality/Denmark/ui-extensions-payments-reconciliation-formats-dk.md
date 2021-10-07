@@ -94,7 +94,8 @@ The following table shows the combinations of FIK and GIRO payment methods that 
 4. In the **Bank Payment Type** field, choose **Electronic Payment**.  
 5. Choose the **Export** action.  
 
-## See also
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [FIK Details in the Payment Reconciliation Journal](fik-details-in-the-payment-reconciliation-journal.md)  
 [Customizing Dynamics NAV Using Extensions](../../ui-extensions.md)  
 [How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](../../finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)  

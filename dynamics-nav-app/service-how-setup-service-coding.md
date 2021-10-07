@@ -33,4 +33,5 @@ When you perform typical service, you often have to create service documents tha
 3. Fill in the service lines linked to this service code.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Service Management](service-service.md)

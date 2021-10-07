@@ -45,5 +45,6 @@ The enterprise number is set up in the following locations:
 -   Company Information table  
 -   Location table  
 
-## See Also  
- [Belgium Local Functionality](belgium-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgium Local Functionality](belgium-local-functionality.md)

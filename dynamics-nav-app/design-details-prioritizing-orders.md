@@ -51,7 +51,8 @@ Apart from priorities given by the type of demand and supply, the present state 
 4. Firm Planned Production Order (Planning Flexibility = Unlimited)  
 5. Planned/Open – all order types (Planning Flexibility = Unlimited)  
   
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Balancing Demand and Supply](design-details-balancing-demand-and-supply.md)   
 [Design Details: Central Concepts of the Planning System](design-details-central-concepts-of-the-planning-system.md)   
 [Design Details: Supply Planning](design-details-supply-planning.md)

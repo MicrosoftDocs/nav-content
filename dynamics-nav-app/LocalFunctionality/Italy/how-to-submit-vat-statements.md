@@ -44,5 +44,6 @@ After you calculate and post the VAT settlement, VAT amounts are transferred to 
 
 The exported file can now be submitted to the tax authorities.  
 
-## See Also  
- [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

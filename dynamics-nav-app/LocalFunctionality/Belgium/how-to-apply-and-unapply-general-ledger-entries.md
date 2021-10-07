@@ -81,5 +81,6 @@ Applying temporary general ledger entries allows companies to work with temporar
 
 4.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Belgium Local Functionality](belgium-local-functionality.md)

@@ -54,6 +54,7 @@ When you have set up time sheets, you can create time sheets for resources, assi
 >   You cannot change the ID of the time sheet approver if there are time sheets that have not yet been processed and have the status of **Submitted** or **Open**.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Project Management](projects-setup-projects.md)  
 [Project Management](projects-manage-projects.md)  
 [Finance](finance.md)  

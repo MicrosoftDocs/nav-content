@@ -30,6 +30,7 @@ The Payment Management module allows you to export your payments electronically 
 
 The next time you make a payment that is based on this payment step, the payments will be exported to a file as specified.  
 
-## See Also  
- [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Steps](how-to-set-up-payment-steps.md)

@@ -40,6 +40,7 @@ You can create multiple fixed asset cards automatically during purchase invoice 
 
 9. Choose the **OK** button.  
 
-## See Also  
- [Fixed Assets](../../fa-manage.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Fixed Assets](../../fa-manage.md)  
  [Italian Fixed Assets](italian-fixed-assets.md)

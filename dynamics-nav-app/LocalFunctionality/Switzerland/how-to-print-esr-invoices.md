@@ -44,6 +44,7 @@ The following procedure describes how to print ESR sales invoices, but the same 
 
 You can also reprint the sales invoice ESR report or sales ESR coupon report.  
 
-## See Also  
- [Swiss Electronic Payments Using ESR](swiss-electronic-payments-using-esr.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using ESR](swiss-electronic-payments-using-esr.md)   
  [How to: Import ESR Payments](how-to-import-esr-payments.md)

@@ -35,5 +35,6 @@ The dates that you define here apply to the whole company, that is, to all users
 
 If you enter dates here, the dates entered on the **General** tab in the **General Ledger Setup** window will not apply to these users.  
 
-## See Also  
- [Fiscal Periods and Fiscal Years](fiscal-periods-and-fiscal-years.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Fiscal Periods and Fiscal Years](fiscal-periods-and-fiscal-years.md)

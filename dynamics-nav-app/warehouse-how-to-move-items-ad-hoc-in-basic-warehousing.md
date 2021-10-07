@@ -67,7 +67,8 @@ In stead of using warehouse movement documents, you can record the moving of ite
     > [!NOTE]  
     >  Unlike with movement documents, a movement posted with the reclassification journal does not create a warehouse request to perform the physical task.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

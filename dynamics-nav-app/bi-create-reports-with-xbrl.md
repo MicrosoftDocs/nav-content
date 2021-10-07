@@ -102,6 +102,7 @@ When a taxonomy changes you need to update the current taxonomy accordingly. The
 7.  Choose the **Yes** button to apply the linkbase to the schema.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)    
 [Business Intelligence](bi.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
