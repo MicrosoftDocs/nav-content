@@ -65,7 +65,8 @@ You can use the **General Ledger Setup** window to set up unrealized sales tax. 
     >  In this field, if you enter USD 5, you may correct tax amounts by up to five dollars. To use the tax difference function, an amount must be entered in the **Max. Tax Difference Allowed** field.  
 9. Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Reporting Sales Tax in Canada](ca-sales-tax.md)  
 [Finance](../../finance.md)  

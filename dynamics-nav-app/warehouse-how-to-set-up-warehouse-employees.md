@@ -26,7 +26,8 @@ Each user who performs warehouse activities must be set up as a warehouse employ
 7.  Select the **Default** check box to define the location as the only location where the employee can perform warehouse activities.  
 8.  Repeat these steps to assign other employees to locations or assign non-default locations to existing warehouse employees.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

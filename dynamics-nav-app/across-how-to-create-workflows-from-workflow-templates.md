@@ -32,8 +32,9 @@ In the **Workflow** window, you create a workflow by listing the involved steps 
      The **Workflow** window opens for a new workflow containing all the information of the selected template. The value in the **Code** field is extended with, for example, “-01” to indicate that this is the first workflow that is created from the workflow template.  
 4.  Proceed to create the workflow by editing the workflow steps or add new steps. For more information, see [How to: Create Workflows](across-how-to-create-workflows.md).  
 
-## See Also  
- [How to: Create Workflows](across-how-to-create-workflows.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Create Workflows](across-how-to-create-workflows.md)   
  [How to: Export and Import Workflows](across-how-to-export-and-import-workflows.md)   
  [How to: View Archived Workflow Step Instances](across-how-to-view-archived-workflow-step-instances.md)   
  [How to: Delete Workflows](across-how-to-delete-workflows.md)   

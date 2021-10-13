@@ -30,7 +30,8 @@ You can use proportional VAT to calculate VAT when there is both deductible and 
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [Proportional VAT](proportional-vat.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Proportional VAT](proportional-vat.md)   
  [Norway Local Functionality](norway-local-functionality.md)   
  

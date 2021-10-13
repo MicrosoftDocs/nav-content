@@ -30,7 +30,8 @@ The **Direct Sales Details** and **Direct Purchase Details** reports include hea
 2.  On the **G/L Entry** FastTab, select the appropriate filters.  
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [United Kingdom Local Functionality](united-kingdom-local-functionality.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[United Kingdom Local Functionality](united-kingdom-local-functionality.md)  
 [Sales](../../sales-manage-sales.md)   
 [Purchasing](../../purchasing-manage-purchasing.md)   

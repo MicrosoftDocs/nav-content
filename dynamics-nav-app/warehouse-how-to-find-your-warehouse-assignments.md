@@ -28,7 +28,8 @@ To find your warehouse assignments, open the card window for a selected item. If
 
 You can use the **Assigned User ID** field on the header to claim work assignments, if the warehouse manager does not assign particular instructions to individuals. Simply enter your user ID in the header of the warehouse before you begin work on an instruction. Your co-workers can then choose to work on other instructions, and the warehouse will avoid a duplication of effort.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

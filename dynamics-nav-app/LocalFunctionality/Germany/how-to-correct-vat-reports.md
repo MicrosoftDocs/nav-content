@@ -57,5 +57,6 @@ The **Suggest Lines** action recalculates the values to report. The **Correct Li
 5.  If the **Suggest Lines** action does not provide suggestions to correct the amounts that you intended, use the **Correct Lines** action to insert cancellation and correction lines for the customer or vendor.  
 6.  Continue with the VAT report creation process, and release the report.  
 
-## See Also  
- [How to: Set Up VAT Reports](how-to-set-up-vat-reports.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up VAT Reports](how-to-set-up-vat-reports.md)

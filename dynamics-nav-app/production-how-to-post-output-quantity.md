@@ -38,7 +38,8 @@ The run time represents work progress in the form of the necessary working time.
 3.  If the operation is completed, select the **Finished** field.  
 4. Choose the **Post** action to post the time spent per operation. Capacity ledger entries are updated for the used work or machine centers.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

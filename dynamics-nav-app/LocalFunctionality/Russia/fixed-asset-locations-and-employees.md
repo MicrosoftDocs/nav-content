@@ -51,5 +51,6 @@ If the **Employee No. Mandatory** or the **FA Location Mandatory** check box is 
 
  When posting the documents and journals, the values of these fields are transferred to the corresponding new fixed asset operations and to corresponding fields in the Fixed Asset cards.  
 
-## See Also  
- [Fixed Asset Inventory](fixed-asset-inventory.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Fixed Asset Inventory](fixed-asset-inventory.md)

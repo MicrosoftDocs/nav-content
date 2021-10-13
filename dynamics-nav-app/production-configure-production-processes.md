@@ -37,6 +37,7 @@ When you have set up manufacturing, you can plan and execute production orders. 
 |Prepare work centers and routings to represent subcontracted production operations.|[How to: Subcontract Manufacturing](production-how-to-subcontract-manufacturing.md)|  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Planning](production-planning.md)   
 [Inventory](inventory-manage-inventory.md)  

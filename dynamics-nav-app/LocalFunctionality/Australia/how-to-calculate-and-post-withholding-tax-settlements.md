@@ -45,8 +45,9 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
 
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Withholding Tax](withholding-tax.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Withholding Tax](withholding-tax.md)   
  [How to: Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
  [How to: Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)   
  [How to: View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)

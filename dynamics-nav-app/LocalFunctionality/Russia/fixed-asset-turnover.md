@@ -46,7 +46,8 @@ The **FA G/L Turnover** window shows financial turnover as a result of fixed ass
 ## Fixed Asset General Ledger Turnover Report  
 The **Fixed Asset G/L Turnover** report is similar to the **FA G/L Turnover** window, but it is in a printing layout, and has differences in the options and in the information and fields that can be shown in the layout. You can define what is included in the report by setting filters.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Fixed Asset Locations and Employees](fixed-asset-locations-and-employees.md)   
 [Fixed Asset Charges](fixed-asset-charges.md)   
 [Fixed Assets](fixed-assets.md)   

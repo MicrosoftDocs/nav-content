@@ -36,8 +36,9 @@ You can select these formats when you set up the payment status for your payment
 3.  Choose the **Save** button to open the **Save As** window and navigate to the location where the file should be saved.  
 4.  Choose the **OK** button.  
 
-## See Also  
- [Payment Management](payment-management.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   
  [How to: Set Up Payment Steps](how-to-set-up-payment-steps.md)   

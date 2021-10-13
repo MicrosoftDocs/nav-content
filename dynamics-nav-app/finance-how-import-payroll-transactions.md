@@ -33,6 +33,7 @@ To account for salary payments and related transactions, you must import and pos
 4. Edit or post the journal lines as for any other general ledger transactions. For more information, see [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md).   
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Working with General Journals](ui-work-general-journals.md)  

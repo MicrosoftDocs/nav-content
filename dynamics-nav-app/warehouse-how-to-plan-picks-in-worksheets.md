@@ -52,6 +52,7 @@ Another effective sorting option is bin ranking, if the physical layout of the w
 In the pick worksheet, you can also sort by ship-to address, enabling you to assemble and ship the orders to far-away customers first.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

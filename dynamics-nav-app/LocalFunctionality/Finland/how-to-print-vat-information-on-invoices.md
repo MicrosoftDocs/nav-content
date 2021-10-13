@@ -25,7 +25,8 @@ You can use posting groups to print VAT information for each item on the sales i
 3.  Select **Print VAT info on Invoice** to print the VAT information for each item on the respective sales invoice.  
 4.  Create and post a sales invoice. Choose the **Preview** button to review the invoice and verify that it contains VAT information for each row from the posting group.  
 
-## See Also  
- [Electronic Banking in Finland](electronic-banking-in-finland.md)  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Banking in Finland](electronic-banking-in-finland.md)  
  [Setting Up Posting Groups](../../finance-posting-groups.md)   
  [Setting Up Value-Added Tax](../../finance-setup-vat.md)

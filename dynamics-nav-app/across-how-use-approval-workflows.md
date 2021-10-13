@@ -78,6 +78,7 @@ The **Send Overdue Approval Notifications** function checks for all open approva
 2. In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)    
 [Incoming Documents](across-income-documents.md)  
 [Purchasing](purchasing-manage-purchasing.md)  

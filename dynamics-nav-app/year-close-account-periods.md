@@ -35,6 +35,7 @@ Even though a fiscal year has been closed, you can still post general ledger ent
 After a fiscal year is closed, you must close the income statement accounts and transfer the year's results to an account in the balance sheet. You can repeat this every time that you post to the closed fiscal year.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Closing Books](year-close-books.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
 [How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)  

@@ -63,6 +63,7 @@ The saved settings entry called **Last used options and filters** is always avai
 A report layout controls what is shown on a report, how it is arranged, and how it is styled. If you want to switch to a different layout, see [How to: Change Which Layout is Currently Used on a Report](ui-how-change-layout-currently-used-report.md). Or, if you want to customize your own report layout, see [How to: Create and Modify a Custom Report Layout](ui-how-create-custom-report-layout.md).
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Specify Printer Selection for Reports](ui-specify-printer-selection-reports.md)  
 [Managing Report and Document Layouts](ui-manage-report-layouts.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

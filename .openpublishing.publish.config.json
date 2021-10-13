@@ -7,7 +7,7 @@
       "build_output_subfolder": "dynamics-nav-app",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -40,10 +40,6 @@
   ],
   "branch_target_mapping": {
     "live": [
-      "Publish",
-      "Pdf"
-    ],
-    "master": [
       "Publish",
       "Pdf"
     ]

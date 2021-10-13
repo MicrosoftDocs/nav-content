@@ -55,8 +55,9 @@ You can submit the VAT and ICP declarations electronically to the tax authoritie
 ## Contact Information  
 The electronic VAT and ICP declarations contain contact information about the taxpayer or the agent. For more information, see VAT Registration No..  
 
-## See Also  
- [Electronic Tax Declarations](electronic-tax-declarations.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Tax Declarations](electronic-tax-declarations.md)   
  [How to: Set Up VAT Categories](how-to-set-up-vat-categories.md)   
  [How to: Create Electronic VAT and ICP Declarations](how-to-create-electronic-vat-and-icp-declarations.md)   
  [How to: Process Response Messages from Tax Authorities](how-to-process-response-messages-from-tax-authorities.md)

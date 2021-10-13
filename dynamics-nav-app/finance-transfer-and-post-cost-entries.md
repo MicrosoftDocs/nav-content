@@ -29,8 +29,9 @@ Before you define cost allocations, you must understand how cost entries come fr
 |Transfer general ledger entries to cost entries with a batch job.|[How to: Transfer General Ledger Entries to Cost Entries](finance-how-to-transfer-general-ledger-entries-to-cost-entries.md)|  
 |See the results of the transfer.|[Results of the Transfer](finance-results-of-the-transfer.md)|  
 
-## See Also  
- [About Cost Accounting](finance-about-cost-accounting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[About Cost Accounting](finance-about-cost-accounting.md)   
  [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
  [Defining and Allocating Costs](finance-define-and-allocate-costs.md)   
  [Accounting for Costs](finance-manage-cost-accounting.md)

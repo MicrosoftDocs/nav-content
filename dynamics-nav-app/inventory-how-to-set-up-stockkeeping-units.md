@@ -33,7 +33,8 @@ To create several stockkeeping units for an item, use the **Create Stockkeeping 
 > [!NOTE]  
 >  The information on the **Stockkeeping Unit** card has priority over the **Item** card.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Register New Items](inventory-how-register-new-items.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)  
 [Warehouse Management](warehouse-manage-warehouse.md)  

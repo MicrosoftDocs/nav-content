@@ -44,5 +44,6 @@
 
 If your VAT statement does not contain errors, you can now submit the FDF file to the tax authorities. For more information, see the [Finanz-Online portal](https://go.microsoft.com/fwlink/?LinkId=239929).  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [VAT Reporting](vat-reporting.md)

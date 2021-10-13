@@ -43,7 +43,8 @@ The next time you calculate bin replenishment, the suggestions that you have del
 > 
 >   then the **From Zone** and **From Bin** fields will be blank because the algorithm to calculate from where to move the items is triggered only when you activate the **Create Movement** function.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Picking by FEFO](warehouse-picking-by-fefo.md)  
 [Inventory](inventory-manage-inventory.md)  

@@ -45,5 +45,6 @@ Companies must submit their business transaction entries, grouped by transaction
 
 5.  In the **G/L Registers** window, choose the **Print Page** action.  
 
-## See Also  
- [Transaction Numbers](transaction-numbers.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Transaction Numbers](transaction-numbers.md)

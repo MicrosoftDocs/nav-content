@@ -45,6 +45,7 @@ When you sell or dispose of a fixed asset, the disposal value is posted to the g
 The **General Ledger Entries** window opens where you can see the entries that the disposal posting resulted in.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Fixed Assets](fa-manage.md)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  

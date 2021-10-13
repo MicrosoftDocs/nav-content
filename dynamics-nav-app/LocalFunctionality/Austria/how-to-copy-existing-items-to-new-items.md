@@ -36,5 +36,6 @@ You can group items with similar settings in an item catalog. When you add a new
 4.  Select the appropriate check boxes for the data that you want to copy.  
 5.  To copy your selections to the new item, choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Inventory](../../inventory-setup-inventory.md)

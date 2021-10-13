@@ -30,6 +30,7 @@ The **VAT Reconciliation** report shows the reconciliation settlement for the ba
 
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Norway Local Functionality](norway-local-functionality.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norway Local Functionality](norway-local-functionality.md)   
  [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

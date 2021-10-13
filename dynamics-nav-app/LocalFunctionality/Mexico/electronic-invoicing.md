@@ -70,7 +70,8 @@ The [!INCLUDE[navnow](../../includes/navnow_md.md)] component for electronic inv
 
 The PAC returns an XML document that has the original string, but this file also includes a section for the digital stamp. In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can export the XML files for documents that have a digital stamp and learn more about the data that goes into each XML element.  
 
-## See Also  
- [How to: Set Up Electronic Invoicing](how-to-set-up-electronic-invoicing.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Electronic Invoicing](how-to-set-up-electronic-invoicing.md)   
  [How to: Set Up PAC Web Services](how-to-set-up-pac-web-services.md)   
  [How to: Generate Electronic Invoices](how-to-generate-electronic-invoices.md)

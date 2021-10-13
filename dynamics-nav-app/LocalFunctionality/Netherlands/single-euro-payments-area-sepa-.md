@@ -35,7 +35,8 @@ Vendor payments made using SEPA ISO 20022 must comply with the following rules.
 - Make payments within the European Economic Area (EEA).  
 - Use the vendor bank’s International Bank Account Number (IBAN) and Bank Identifier Code (BIC) information.  
 
-## See Also  
- [How to: Activate SEPA Payments](how-to-activate-sepa-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Activate SEPA Payments](how-to-activate-sepa-payments.md)   
  [How to: Submit Vendor Payments Electronically in SEPA ISO 20022 Payment Format](how-to-submit-vendor-payments-electronically-in-sepa-iso-20022-payment-format.md)   
  [Netherlands Local Functionality](netherlands-local-functionality.md)

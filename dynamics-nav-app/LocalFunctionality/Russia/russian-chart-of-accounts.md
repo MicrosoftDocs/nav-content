@@ -29,4 +29,5 @@ In the **Chart of Accounts** window, the following fields are available:
 |**Currency Code**|**Consolidation**|Selects a default currency code for the general ledger account.||
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

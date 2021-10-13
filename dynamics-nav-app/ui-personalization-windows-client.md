@@ -363,5 +363,6 @@ Basic UI changes include things like:
 
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Personalizing Your Workspace in the Dynamics Web Client](ui-personalization-user.md)  
 [Personalization Overview](ui-personalization-overview.md)  

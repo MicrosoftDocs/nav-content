@@ -49,8 +49,9 @@ You must create depreciation tables to set up these depreciation methods.
 5.  In the **Total Depreciation %** field, enter the total depreciation percentage.  
 6.  Choose the **OK** button.  
 
-## See Also  
- [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)   
  [Italian Fixed Assets](italian-fixed-assets.md)   
  [How to: Create Multiple Fixed Asset Cards](how-to-create-multiple-fixed-asset-cards.md)   
  [How to: Set Up Compressed Depreciation of Fixed Assets](how-to-set-up-compressed-depreciation-of-fixed-assets.md)   

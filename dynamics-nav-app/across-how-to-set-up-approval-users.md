@@ -53,7 +53,8 @@ Before you can create workflows that involve approval steps, you must set up the
 3. To test the approval user setup, choose the **Approval User Setup Test** action.  
 4. Repeat steps 2 and 3 for every user who you want to set up as an approval user.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Set Up Workflow Users](across-how-to-set-up-workflow-users.md)   
 [Setting Up Workflow Notifications](across-setting-up-workflow-notifications.md)   
 [How to: Create Workflows](across-how-to-create-workflows.md)   

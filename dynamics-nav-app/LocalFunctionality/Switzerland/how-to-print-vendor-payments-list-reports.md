@@ -30,5 +30,6 @@ The **Vendor Payments List** report provides a list of payments for each vendor.
 
    At the end of the report, the number of processed payments is displayed.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Making Payments](../../payables-make-payments.md)

@@ -36,6 +36,7 @@ The following procedure describes how to restrict purchase orders from being pos
 5. On the **Workflow Steps** FastTab, choose the **Event Conditions** field, and then, for the **Document Type** filter, select **Order**.  
 6. Proceed to edit, delete, or add other workflow steps to fit a business process that begins by restricting unapproved purchase orders from being posted.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create Workflows](across-how-to-create-workflows.md)   
 [Workflow](across-workflow.md)   

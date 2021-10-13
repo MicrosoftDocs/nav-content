@@ -41,7 +41,8 @@ After you set up the discrete LIFO cost calculation, you can post sales and purc
 
  For year-end operations, such as calculating the profit and loss during a fiscal year, there is a definitive period and a non-definitive period. If the **Competence Year** field in the **Item Cost History List** window is equal to the fiscal year end date, it is a definitive period, and you cannot recalculate data for a definitive period. If the definitive data differs from the fiscal year end date, then it is a non-definitive period. There should be data for at least one non-definitive period to perform calculations or partial calculations.
 
-## See Also  
- [Italy Local Functionality](italy-local-functionality.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Italy Local Functionality](italy-local-functionality.md)   
  [How to: Set Up Fiscal Inventory Valuation](how-to-set-up-fiscal-inventory-valuation.md)   
  [How to: Set Up Initial Item Costs](how-to-set-up-initial-item-costs.md)

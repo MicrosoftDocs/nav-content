@@ -38,7 +38,8 @@ If there are no intra-community deliveries in the declaration period, then an el
 
 The XML elements and the accompanying data of the electronic declaration are displayed on the **Lines** FastTab in the **Elec. Tax Declaration Card** window.  
 
-## See Also  
- [Electronic Tax Declarations](electronic-tax-declarations.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Tax Declarations](electronic-tax-declarations.md)   
  [Electronic VAT and ICP Declarations](electronic-vat-and-icp-declarations.md)   
  [How to: Set Up VAT Categories](how-to-set-up-vat-categories.md)

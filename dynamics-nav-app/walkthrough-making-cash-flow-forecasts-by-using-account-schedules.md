@@ -85,7 +85,8 @@ Ken is now ready to assign the column layout to the account schedule name.
 2.  In the **Acc. Schedule Overview** window, you can select an amount and then view the cash flow forecast entries that make up the amount. In addition, you can view the formula that is used to calculate the amount. You can also filter the amounts by date and dimension.  
 3.  Choose the **Print** action to print the cash flow forecast.  
 
-## See Also  
- [How to: Work with Account Schedules](bi-how-work-account-schedule.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Work with Account Schedules](bi-how-work-account-schedule.md)   
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

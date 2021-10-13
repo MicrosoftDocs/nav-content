@@ -53,7 +53,8 @@ The generic version of [!INCLUDE[d365fin](includes/d365fin_md.md)] supports rece
 
      Any validation errors, typically related to wrong or missing master data in [!INCLUDE[d365fin](includes/d365fin_md.md)] will be shown on the **Error Messages** FastTab.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manage Payables](payables-manage-payables.md)  
 [Incoming Documents](across-income-documents.md)  
 [How to: Set Up Electronic Document Sending and Receiving](across-how-to-set-up-electronic-document-sending-and-receiving.md)  

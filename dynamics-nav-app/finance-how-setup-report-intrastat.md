@@ -110,6 +110,7 @@ Because you must submit an Intrastat report every month, and you create a new jo
 3. Choose the journal batches to deleted, and then choose **Delete**.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Financial Management](finance.md)
 
 ## 

@@ -47,6 +47,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Perform selected planning activities, such as changing or adding planning worksheet lines, in a graphical view of the supply plan.|[How to: Modify Planning Suggestions in a Graphical View](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Inventory](inventory-manage-inventory.md)  

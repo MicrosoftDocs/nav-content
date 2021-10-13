@@ -22,7 +22,8 @@ The format of files for exchange of data in bank files, electronic documents, cu
 
  ![Data Exchange Framework &#45; Export](media/across-data-exchange/dataexchangeframework_export.png)  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Exchanging Data Electronically](across-data-exchange.md)  
 [How to: Use XML Schemas to Prepare Data Exchange Definitions](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)  
 [Setting Up Data Exchange](across-set-up-data-exchange.md)  

@@ -37,7 +37,8 @@ Before you can send electronic documents, you must set up [!INCLUDE[navnow](../.
 
 Optionally, you can ask your Microsoft Certified Partner to modify the text that is included in the email that is sent when you send electronic invoices. The text is stored as text variables in codeunit 10145.  
 
-## See Also  
- [Electronic Invoicing](electronic-invoicing.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Invoicing](electronic-invoicing.md)   
  [How to: Generate Electronic Invoices](how-to-generate-electronic-invoices.md)   
  [Mexico Local Functionality](mexico-local-functionality.md)

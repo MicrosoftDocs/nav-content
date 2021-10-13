@@ -47,6 +47,7 @@ If you incur extraordinary or one-time job expenses, you can use the **Job G/L J
 3. When the journal is complete, choose the **Post** action.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Project Management](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Purchasing](purchasing-manage-purchasing.md)         

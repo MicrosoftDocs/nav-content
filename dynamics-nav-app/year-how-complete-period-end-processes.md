@@ -56,6 +56,7 @@ ms.author: jswymer
 * Complete Tax Statements.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Closing Years and Periods](year-close-years-periods.md)  
 [Closing Books](year-close-books.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

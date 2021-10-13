@@ -109,6 +109,7 @@ The **Lines** FastTab shows detailed availability information for the assembly c
 If one or more assembly components are not available, then this is reflected in the **Able to Assemble** field on the line in question as a quantity less than the quantity in the **Remaining Quantity** field on the **Details** FastTab.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [Assembly Management](assembly-assemble-items.md)  
 [How to: Work with Bills of Materials](inventory-how-work-BOMs.md)    

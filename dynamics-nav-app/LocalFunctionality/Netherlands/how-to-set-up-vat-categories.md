@@ -41,6 +41,7 @@ You must set up all of the possible category and subcategory combinations that r
 
 You can now map the VAT statement data directly to an XML element.  
 
-## See Also  
- [Electronic VAT and ICP Declarations](electronic-vat-and-icp-declarations.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic VAT and ICP Declarations](electronic-vat-and-icp-declarations.md)   
  [How to: Create Electronic VAT and ICP Declarations](how-to-create-electronic-vat-and-icp-declarations.md)

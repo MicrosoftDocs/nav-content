@@ -29,6 +29,7 @@ To get started, see the following topics:
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Setting Up Relationship Management](marketing-setup-marketing.md)  
 [Managing Customers and Sales Created in Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)  

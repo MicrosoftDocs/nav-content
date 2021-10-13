@@ -59,8 +59,9 @@ You must set up a Business Activity Statement (BAS) to generate a BAS report. BA
 6.  In the **BAS Setup** window, enter the BAS setup information.  
 7.  Choose the **OK** button.  
 
-## See Also  
- [Business Activity Statements](business-activity-statements.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Business Activity Statements](business-activity-statements.md)   
  [How to: Export Business Activity Statements](how-to-export-business-activity-statements.md)   
  [How to: Calculate Goods and Services Tax on Prepayments](how-to-calculate-goods-and-services-tax-on-prepayments.md)   
  [How to: Print Goods and Services Tax Sales and Purchase Reports](how-to-print-goods-and-services-tax-sales-and-purchase-reports.md)

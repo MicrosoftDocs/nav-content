@@ -32,6 +32,7 @@ You can print balance sheet reports and income statement reports to submit to ba
 3.  On the **Options** FastTab, select the **Show all Accounts** check box to include accounts without balances.  
 4.  Choose the **Print** action to print the report or choose the **Preview** action to view it on the screen.  
 
-## See Also  
- [Working with Reports](../../ui-work-report.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Working with Reports](../../ui-work-report.md)   
  [Sweden Local Functionality](sweden-local-functionality.md)

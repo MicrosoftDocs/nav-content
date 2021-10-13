@@ -68,8 +68,9 @@ Depending on setup of the **SEPA Direct Debit Exp. Format** field in the **Bank 
     > [!NOTE]  
     >  After you have posted domiciliations in the general journal, delete the posted domiciliations in the **Domiciliation Journal** window. To do this, select all lines with status **Posted**, and then choose the **Delete** button.  
 
-## See Also  
- [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
  [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md)   
  [How to: Generate Domiciliation Suggestions](how-to-generate-domiciliation-suggestions.md)   
  [How to: Test Domiciliations](how-to-test-domiciliations.md)   

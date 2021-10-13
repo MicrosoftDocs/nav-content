@@ -44,7 +44,8 @@ For more information about VAT and foreign currencies, see the [ESTV](https://go
 
 7.  Choose the **Print** button to start the batch job. This batch job controls whether VAT entries have to be adjusted and prepares an adjusting entry for each of these entries for the Unrealized/Realized Exchange Rate Adjustment accounts. The existing VAT entries are also corrected.  
 
-## See Also  
- [Swiss Value Added Tax](swiss-value-added-tax.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Value Added Tax](swiss-value-added-tax.md)   
  [VAT Rates for Switzerland](vat-rates-for-switzerland.md)   
 [How to: Update Currency Exchange Rates](../../finance-how-update-currencies.md)

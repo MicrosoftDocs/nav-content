@@ -44,7 +44,8 @@ You must submit a periodic report of goods and services tax (GST) settlement. Yo
 
 5.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [How to: Print Goods and Services Tax Sales and Purchase Reports](how-to-print-goods-and-services-tax-sales-and-purchase-reports.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Print Goods and Services Tax Sales and Purchase Reports](how-to-print-goods-and-services-tax-sales-and-purchase-reports.md)   
  [How to: Set Up Goods and Service Tax Posting](how-to-set-up-goods-and-service-tax-posting.md)   
  [Business Activity Statements](business-activity-statements.md)

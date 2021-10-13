@@ -52,6 +52,7 @@ You can use bill groups for the following:
 - Factoring without risk - The factoring company takes on the risks associated with non-payment.  
 - Factoring with risk - You take on the risks associated with non-payment.  
 
-## See Also  
- [Cartera Module](cartera-module.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Cartera Module](cartera-module.md)   
  [Payments Cartera Module](payments-cartera-module.md)

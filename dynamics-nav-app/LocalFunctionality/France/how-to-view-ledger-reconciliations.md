@@ -33,5 +33,6 @@ The following procedure applies to viewing reconciliation between the general le
 
 You can now view the debit and credit amounts for each customer, and you can see the document numbers that resulted in each general ledger transaction.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [France Local Functionality](france-local-functionality.md)

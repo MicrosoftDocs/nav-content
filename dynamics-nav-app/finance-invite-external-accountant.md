@@ -34,6 +34,7 @@ If you have activated your subscription of [!INCLUDE[d365fin](includes/d365fin_m
 One of the license types for [!INCLUDE[d365fin](includes/d365fin_md.md)] is the *External Accountant* license. This license type is intended for use by users such as external accountants. This means that you do not have to buy an extra seat in your current Active Directory or use one of your existing [!INCLUDE[d365fin](includes/d365fin_md.md)] user accounts on your external accountant. For example, if your current Microsoft 365 subscription includes 10 users for [!INCLUDE[d365fin](includes/d365fin_md.md)], and you are currently using 10 *Full User* licenses, your administrator can simply add your external accountant as a guest user in the Azure portal and assign this user the *External Accountant* license at no additional cost. However, you can only have one user with the *External Accountant* license. If you want to add more users, you must update your Microsoft 365 subscription accordingly.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [How to: Set Up Email Manually or Using the Assisted Setup](madeira-how-setup-email.md)  
 [Accountant Experiences in Dynamics NAV](finance-accounting.md)  

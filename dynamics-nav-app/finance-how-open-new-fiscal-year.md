@@ -30,6 +30,7 @@ The accounting periods are added to the page with the **Starting Date** and **Na
 
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Specify Posting Periods](finance-how-specify-posting-periods.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
 [Finance](finance.md)  

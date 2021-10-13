@@ -26,8 +26,9 @@ The following procedure shows how to calculate future period expenses depreciati
 4.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **FA G/L Journals**, and then choose the related link.  
 5.  Post the created lines with the calculated depreciation amounts.  
 
-## See Also  
- [How to: Set Up a Future Expense Card](how-to-set-up-a-future-expense-card.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up a Future Expense Card](how-to-set-up-a-future-expense-card.md)   
  [Future Expenses (Deferrals)](future-expenses-deferrals-.md)   
  [How to: Create Future Expense Journals](how-to-create-future-expense-journals.md)   
  [How to: Set Up Future Expenses in a Depreciation Book](how-to-set-up-future-expenses-in-a-depreciation-book.md)   

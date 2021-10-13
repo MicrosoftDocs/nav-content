@@ -33,7 +33,8 @@ You can set up and use workflows that connect business-process tasks performed b
 |View workflow step instances of status Completed.|[How to: View Archived Workflow Step Instances](across-how-to-view-archived-workflow-step-instances.md)|  
 |Delete a workflow that you are sure will no longer be used.|[How to: Delete Workflows](across-how-to-delete-workflows.md)|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Workflows](across-set-up-workflows.md)   
 [Workflow](across-workflow.md)   
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

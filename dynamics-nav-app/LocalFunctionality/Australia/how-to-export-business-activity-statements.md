@@ -38,8 +38,9 @@ You can review the calculated GST amounts, export the BAS setup details to Excel
 4.  Select the appropriate filters.  
 5.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen  
 
-## See Also  
- [Business Activity Statements](business-activity-statements.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Business Activity Statements](business-activity-statements.md)   
  [How to: Set Up Business Activity Statements](how-to-set-up-business-activity-statements.md)   
  [How to: Calculate Goods and Services Tax on Prepayments](how-to-calculate-goods-and-services-tax-on-prepayments.md)   
  [How to: Print Goods and Services Tax Sales and Purchase Reports](how-to-print-goods-and-services-tax-sales-and-purchase-reports.md)

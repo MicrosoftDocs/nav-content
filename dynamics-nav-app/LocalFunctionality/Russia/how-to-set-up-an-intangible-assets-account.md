@@ -28,4 +28,5 @@ The procedure for posting an intangible asset account is similar to the procedur
 4.  Purchase and release the intangible asset. For more information, see [How to: Purchase and Release Undepreciable Fixed Assets](how-to-purchase-and-release-undepreciable-fixed-assets.md).  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md)

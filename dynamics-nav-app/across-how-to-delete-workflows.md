@@ -30,8 +30,9 @@ If you are certain that a workflow is no longer being used, you can delete it. A
 4.  Alternatively, open the workflow that you want to delete.  
 5.  In the **Workflow** window, choose the **Delete** action.  
 
-## See Also  
- [How to: Create Workflows](across-how-to-create-workflows.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Create Workflows](across-how-to-create-workflows.md)   
  [How to: Enable Workflows](across-how-to-enable-workflows.md)   
  [How to: View Archived Workflow Step Instances](across-how-to-view-archived-workflow-step-instances.md)   
  [Walkthrough: Setting Up and Using a Purchase Approval Workflow](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)   

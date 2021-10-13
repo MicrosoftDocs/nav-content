@@ -51,5 +51,6 @@ In addition, there must be a posted purchased invoice against which you can send
 
 You can review the .xml file before sending it. To review and fix errors, you can refer to the **File Export Errors** FactBox.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](../../finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)

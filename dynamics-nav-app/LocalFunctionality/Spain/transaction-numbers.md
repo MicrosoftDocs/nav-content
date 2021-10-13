@@ -22,6 +22,7 @@ When you enter a transaction number in the first line of a journal, the same tra
 
 Having a unique sequential transaction number, ordered by date, allows you to identify every transaction posted in a fiscal year.  
 
-## See Also  
- [How to: Post and Print All Transactions for a Period](how-to-post-and-print-all-transactions-for-a-period.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Post and Print All Transactions for a Period](how-to-post-and-print-all-transactions-for-a-period.md)   
  [Spain Local Functionality](spain-local-functionality.md)

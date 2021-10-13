@@ -30,4 +30,5 @@ You can also assign alternative addresses from the contact list window by follow
 Repeat these steps to assign as many date ranges as you want.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Create Contact Companies](marketing-create-contact-companies.md)

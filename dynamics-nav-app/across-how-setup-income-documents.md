@@ -51,6 +51,7 @@ It is recommended that you protect the logon information that you enter in the *
 2. In the **Data Encryption Management** window, enable encryption of your data.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Purchasing](purchasing-manage-purchasing.md)  

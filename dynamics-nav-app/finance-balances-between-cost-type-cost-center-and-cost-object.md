@@ -24,7 +24,8 @@ When you set up cost accounting, you must make sure that all entries are assigne
 
  When you print the chart of cost type, the chart of cost centers, and the chart of cost objects reports, you can analyze this relationship.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
  [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)   

@@ -107,7 +107,8 @@ You can use the **Service Credit Memo Statistics** window to get a statistical o
 * The total amounts on the posted credit memo, displayed as quantity, amount, VAT, cost and profit. There is also information about the items on the service lines of the posted credit memo, such as quantity, weight, and volume.  
 * General information about the customer, such as the customer's credit limit and balance on the account.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Create Service Orders](service-how-to-create-service-orders.md)   
 [How to: Create Service Items](service-how-to-create-service-items.md)   
 [Planning Service](service-plan-service.md)  

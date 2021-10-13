@@ -39,6 +39,7 @@ Before you can create opportunities, you must set up opportunity sales cycles. F
 4. Fill in the relevant fields.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Creating and Managing Contacts](marketing-contacts.md)  
 [Working with Dynamics NAV](ui-work-product.md)

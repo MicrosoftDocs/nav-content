@@ -80,7 +80,8 @@ Sales tax includes taxes that companies pay for using items:
     >  This check box must be selected if the tax paid is not recoverable.  
 4.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Reporting Sales Tax in Canada](ca-sales-tax.md)  
 [Finance](../../finance.md)  

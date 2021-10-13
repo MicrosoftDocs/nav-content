@@ -102,6 +102,7 @@ The following procedure is based on the **General Journal** window, but applies 
 Values in the **Document No.** field are changed, where required, so that the document number on individual or grouped journal lines are in sequential order. After documents are renumbered, you can proceed to post the journal.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md)  
 [How to: Reverse Postings](finance-how-reverse-journal-posting.md)  
 [How to: Allocate Costs and Income](year-allocate-costs-income.md)  

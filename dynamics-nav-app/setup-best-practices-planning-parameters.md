@@ -37,8 +37,9 @@ The **Planning** FastTab on the item card is the center of a company’s supply 
 >   
 >  If companies plan for demand at different locations, then it is strongly advised to define SKUs for each location and that all demand is created by using a value in the **Location Code** field. For more information, see [Design Details: Demand at Blank Location](design-details-demand-at-blank-location.md).  
 
-## See Also  
- [Setup Best Practices: Supply Planning](setup-best-practices-supply-planning.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Setup Best Practices: Supply Planning](setup-best-practices-supply-planning.md)   
  [Design Details: Supply Planning](design-details-supply-planning.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

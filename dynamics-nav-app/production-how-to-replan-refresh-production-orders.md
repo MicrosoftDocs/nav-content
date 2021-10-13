@@ -84,7 +84,8 @@ If you have amended production order lines, components, or routing lines, you mu
 > [!NOTE]  
 >  Calculating production order components deletes previous changes in the components.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Planning](production-planning.md)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Manufacturing](production-manage-manufacturing.md)    

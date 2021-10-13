@@ -137,5 +137,6 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create additional sh
   
 5.  In the additional sheet, the **Date of Facture** field reflects the corrected document date.  
   
-## See Also  
- [VAT Ledgers](vat-ledgers.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[VAT Ledgers](vat-ledgers.md)

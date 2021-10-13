@@ -93,8 +93,9 @@ To sort out the many sources of demand and supply, the planning system organizes
 
  The planning calculation considers open sales orders linked to the specific blanket order line, but it does not consider any valid time period. Nor does it consider posted orders, since the posting procedure has already reduced the outstanding blanket order quantity.  
 
-## See Also  
- [Design Details: Balancing Demand and Supply](design-details-balancing-demand-and-supply.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Balancing Demand and Supply](design-details-balancing-demand-and-supply.md)   
  [Design Details: Central Concepts of the Planning System](design-details-central-concepts-of-the-planning-system.md)   
  [Design Details: Supply Planning](design-details-supply-planning.md)   
  [Design Details: Planning Parameters](design-details-planning-parameters.md)

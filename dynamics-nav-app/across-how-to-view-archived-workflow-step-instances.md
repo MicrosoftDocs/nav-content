@@ -30,8 +30,9 @@ All completed workflow step instances are saved in the **Archived Workflow Step 
 
 The **Archived Workflow Step Instances** window opens showing all archived workflow step instances. In the **Workflow Code** field, you can see which workflow the archived workflow step instance belonged to.  
 
-## See Also  
- [How to: Delete Workflows](across-how-to-delete-workflows.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Delete Workflows](across-how-to-delete-workflows.md)   
  [How to: Create Workflows](across-how-to-create-workflows.md)   
  [How to: Enable Workflows](across-how-to-enable-workflows.md)   
  [Walkthrough: Setting Up and Using a Purchase Approval Workflow](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)   

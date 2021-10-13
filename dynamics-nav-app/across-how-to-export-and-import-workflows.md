@@ -36,8 +36,9 @@ To transfer workflows to other [!INCLUDE[d365fin](includes/d365fin_md.md)] datab
 > [!CAUTION]  
 >  If the workflow code already exists in the database, the workflow steps will be overwritten with the steps in the imported workflow.  
 
-## See Also  
- [How to: Create Workflows](across-how-to-create-workflows.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Create Workflows](across-how-to-create-workflows.md)   
  [How to: Create Workflows from Workflow Templates](across-how-to-create-workflows-from-workflow-templates.md)   
  [How to: View Archived Workflow Step Instances](across-how-to-view-archived-workflow-step-instances.md)   
  [How to: Delete Workflows](across-how-to-delete-workflows.md)   

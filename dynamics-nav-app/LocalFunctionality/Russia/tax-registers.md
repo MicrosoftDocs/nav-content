@@ -26,8 +26,9 @@ There are two types of tax registers that are used for tracking taxable profits 
 |Tax Register Setup|Specifies tax register details where you can set up and manage taxable profits and losses.|  
 |Create Tax Registers|Creates the tax registers that you define using the **Tax Register Setup** window.|  
 
-## See Also  
- [How to: Set Up Tax Accounting](how-to-set-up-tax-accounting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Set Up Tax Accounting](how-to-set-up-tax-accounting.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   
  [How to: Set Up Tax Register Sections](how-to-set-up-tax-register-sections.md)   
  [Tax Differences](tax-differences.md)

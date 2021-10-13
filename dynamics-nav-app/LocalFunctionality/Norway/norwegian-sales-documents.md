@@ -42,6 +42,7 @@ Document set 2 contains the following reports:
 - **Reminder 2**  
 - **Finance Charge Memo 2**  
 
-## See Also  
- [Norwegian Giro and OCR-B Font](norwegian-giro-and-ocr-b-font.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norwegian Giro and OCR-B Font](norwegian-giro-and-ocr-b-font.md)   
  [Paper Sources and Tray Numbers](paper-sources-and-tray-numbers.md)

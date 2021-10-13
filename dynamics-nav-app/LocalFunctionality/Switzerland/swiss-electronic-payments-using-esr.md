@@ -37,8 +37,9 @@ When you set up number series for invoices, you must follow these guidelines:
 - Use only numeric characters.  
 - Do not precede numbers with zeros.  
 
-## See Also  
- [Swiss Electronic Payments](swiss-electronic-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments](swiss-electronic-payments.md)   
  [How to: Print ESR Invoices](how-to-print-esr-invoices.md)   
  [How to: Import ESR Payments](how-to-import-esr-payments.md)   
  [Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   

@@ -55,8 +55,9 @@ Tax registers are used to track and manage taxable profits and losses in accorda
 
 5.  Choose the **Close** button to close the window and save your entries.  
 
-## See Also  
- [Tax Accounting](tax-accounting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Tax Accounting](tax-accounting.md)   
   [Tax Registers](tax-registers.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   
  [Tax Differences](tax-differences.md)

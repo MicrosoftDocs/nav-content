@@ -27,7 +27,8 @@
 
 Based on your selections, the account schedule information is filtered from the entry tables, and then new amounts are calculated for the specified account schedule line.  
 
-## See Also  
- [How to: Work with Account Schedules](../../bi-how-work-account-schedule.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Work with Account Schedules](../../bi-how-work-account-schedule.md)   
  [Account Schedules Overview](account-schedules-overview.md)   
  [How to: Define an Account Schedule Constant](how-to-define-an-account-schedule-constant.md)

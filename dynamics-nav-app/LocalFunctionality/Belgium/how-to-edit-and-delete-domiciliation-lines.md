@@ -35,8 +35,9 @@ The **Suggest Domiciliations** batch job creates domiciliation suggestions for a
 3.  Select the journal line, and then choose the **Delete** action.  
 4.  Choose the **Yes** button.  
 
-## See Also  
- [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
  [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md)   
  [How to: Generate Domiciliation Suggestions](how-to-generate-domiciliation-suggestions.md)   
  [How to: Test Domiciliations](how-to-test-domiciliations.md)   

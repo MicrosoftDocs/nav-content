@@ -28,4 +28,5 @@ You can set up troubleshooting guidelines that help technicians solve problems w
 2. Choose the relevant entity, and then choose the **Troubleshooting** action.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Service Management](service-service.md)

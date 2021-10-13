@@ -40,8 +40,9 @@ You can create a remittance suggestion so that payment proposals are sent to ven
 
 4.  Choose the **OK** button.  
 
-## See Also  
- [Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)   
  [How to: Set Up Remittance Agreements](how-to-set-up-remittance-agreements.md)   
  [How to: Create Remittance Accounts](how-to-create-remittance-accounts.md)   
  [How to: Set Up Vendors for Remittance](how-to-set-up-vendors-for-remittance.md)   

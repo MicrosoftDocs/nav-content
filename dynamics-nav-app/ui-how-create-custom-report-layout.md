@@ -89,6 +89,7 @@ Adding data fields from a report dataset is a more advanced and requires some kn
 
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Report Layouts](ui-manage-report-layouts.md)  
 [How to: Change Which Layout is Currently Used on a Report](ui-how-change-layout-currently-used-report.md)  
 [How to: Import and Export a Custom Report or Document Layout](ui-how-import-and-export-report-layout.md)  

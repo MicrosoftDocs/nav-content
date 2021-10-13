@@ -44,7 +44,8 @@ Even though inventory costs are automatically posted to the general ledger, it i
 |Find where any serial or lot number was used in its supply chain, for example in recall situations.|[How to: Trace Item-Tracked Items](inventory-how-to-trace-item-tracked-items.md)|
 |Manage business operations in sales offices, a purchasing departments, or plant planning offices across multiple locations.|[How to: Work with Responsibility Centers](inventory-responsibility-centers.md)|
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Sales](sales-manage-sales.md)    

@@ -28,6 +28,7 @@ If several purchasers work at your company, you can set them up in a window and 
 3. In the **Purchaser Code** field, select the applicable purchaser code and then close the window.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Purchasing](purchasing-setup-purchasing.md)  
 [Managing Payables](payables-manage-payables.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -38,8 +38,9 @@
 > [!NOTE]  
 >  The KID cannot be used for credit memos. If a credit memo is part of the payment, invoices in the same payment must be treated as payments without a KID.  
 
-## See Also  
- [Norway Local Functionality](norway-local-functionality.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Norway Local Functionality](norway-local-functionality.md)   
  [Norwegian Giro and OCR-B Font](norwegian-giro-and-ocr-b-font.md)   
  [How to: Set Up KID Numbers on Sales Documents](how-to-set-up-kid-numbers-on-sales-documents.md)   
  [How to: Set Up OCR Payments](how-to-set-up-ocr-payments.md)   

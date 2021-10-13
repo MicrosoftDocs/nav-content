@@ -31,5 +31,6 @@ In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] fe
 |[How to: Set Up Customer and Vendor Agreements](how-to-set-up-customer-and-vendor-agreements.md)|Enables you to set up agreements with customers and vendors.|  
 |[How to: Combine Customer or Vendor Cards](how-to-combine-customer-or-vendor-cards.md)|Enables you to combine two customer or vendor cards that belong to one customer or vendor.|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

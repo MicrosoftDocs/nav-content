@@ -41,6 +41,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |           Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.           |               [How to: Work with Payment Tolerances and Payment Discount Tolerances](finance-payment-tolerance-and-payment-discount-tolerance.md)                |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Managing Payables](payables-manage-payables.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

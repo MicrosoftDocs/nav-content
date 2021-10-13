@@ -33,6 +33,7 @@ The PayPal Payments Standard service provides the following benefits:
 For more information, see [How to: Enable Customer Payment Through PayPal](sales-how-enable-payment-service-extensions.md).
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Setting Up Sales](sales-setup-sales.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -101,6 +101,7 @@ You use analysis reports to analyze the dynamics of your sales according to key 
 >   Building combinations of line and column templates to create reports and assigning them unique names is optional. If you do this, selecting a report name means that you will not need to select line and column templates in the **Sales Analysis Report** window. After you have chosen a report name, you can change line and column templates independently and then later select the report name again to restore the original combination.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

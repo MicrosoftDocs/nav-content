@@ -193,7 +193,8 @@ A campaign is any kind of activity that involves several contacts. An important 
 
      After the segment is logged, an entry for the campaign is automatically created to record this action in the **Campaign Entries** window.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Relationship Management](marketing-relationship-management.md)  
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

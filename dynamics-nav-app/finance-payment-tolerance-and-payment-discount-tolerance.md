@@ -253,7 +253,8 @@ Normal Application Rules
 
 (2) If payment falls in these ranges, all application entries cannot be closed even with tolerance.
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Managing Receivables](receivables-manage-receivables.md)  

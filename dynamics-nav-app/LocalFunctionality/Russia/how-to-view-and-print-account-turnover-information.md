@@ -45,5 +45,6 @@
     |**Without Levels of Enclosure**|Specifies if you want to print the report without including levels of enclosure.|  
     |**Interim Total**|Specifies if you want to print the report including interim totals.|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

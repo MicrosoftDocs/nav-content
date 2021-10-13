@@ -62,7 +62,8 @@ After you have closed the inventory period, you cannot delete the inventory peri
 3. Choose the **Reopen Period** period action. Confirm that you want to reopen the period.  
 4. All inventory periods with ending dates later than the period you selected are reopened.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Design Details: Inventory Periods](design-details-inventory-periods.md)  
 [Finance](finance.md)  
 [Inventory](inventory-manage-inventory.md)  

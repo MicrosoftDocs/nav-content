@@ -27,6 +27,7 @@ Create a depreciation book to keep record of the fixed assets quantities that wi
 5.  In the **Quantitative Depr. Book** field, enter the code of the depreciation book that you created.  
 6.  Choose the **OK** button.  
 
-## See Also  
- [Undepreciable Fixed Assets](undepreciable-fixed-assets.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Undepreciable Fixed Assets](undepreciable-fixed-assets.md)   
 [Fixed Assets](../../fa-manage.md)

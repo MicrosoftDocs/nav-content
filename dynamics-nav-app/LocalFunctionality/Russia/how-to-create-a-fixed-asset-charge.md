@@ -35,5 +35,6 @@ The following procedure shows how to create a new fixed asset charge.
     |**G/L Acc. For Released FA**|Specify the general ledger account to post the fixed asset charge amount to when the fixed asset is released.|  
     |**Tax Difference Code FA**|Specify the tax difference code that is associated with the fixed asset charge.|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Fixed Assets](../../fa-setup.md)

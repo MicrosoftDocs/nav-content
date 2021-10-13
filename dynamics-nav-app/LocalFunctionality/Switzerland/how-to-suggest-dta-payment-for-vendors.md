@@ -44,8 +44,9 @@ During the batch processing of DTA payment suggestions, the foreign currency (FC
 
 During processing, each vendor is checked for open credit memos or open payments, and a message displays at the end of the process. All of the related lines are transferred to the payment journal. The related vendor ledger entries are marked with **DTA** to prevent transfer of duplicate entries to the payment journal. You can view, check, and modify the suggested payments, and you can decide whether to reduce the payments by the credit memo amounts, or to apply the open credit memos and open invoices.  
 
-## See Also  
- [Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   
  [How to: Verify a List of Vendors for DTA Payments](how-to-verify-a-list-of-vendors-for-dta-payments.md)   
  [How to: Submit DTA Payments](how-to-submit-dta-payments.md)   
  [How to: Export Payments Using EZAG](how-to-export-payments-using-ezag.md)   

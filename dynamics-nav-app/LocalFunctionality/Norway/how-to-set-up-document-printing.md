@@ -52,7 +52,8 @@ The Norwegian version of [!INCLUDE[navnow](../../includes/navnow_md.md)] contain
 
 6.  Choose the **OK** button.  
 
-## See Also  
- [Paper Sources and Tray Numbers](paper-sources-and-tray-numbers.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Paper Sources and Tray Numbers](paper-sources-and-tray-numbers.md)   
  [Norwegian Giro and OCR-B Font](norwegian-giro-and-ocr-b-font.md)   
  [How to: Set Up KID Numbers on Sales Documents](how-to-set-up-kid-numbers-on-sales-documents.md)

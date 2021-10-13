@@ -51,7 +51,8 @@ If you assign a bank account to the payment journal template, the bank account w
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [Belgian Electronic Payments](belgian-electronic-payments.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Belgian Electronic Payments](belgian-electronic-payments.md)   
  [How to: Set Up Electronic Banking](how-to-set-up-electronic-banking.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)

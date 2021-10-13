@@ -32,5 +32,6 @@ The TORG-1 report is used for the registration of incoming goods. This report li
 
 3.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Setting Up Inventory](../../inventory-setup-inventory.md)

@@ -38,5 +38,6 @@ You can print the **Sales Invoice Book** report and **Purchases Invoice Book** r
 
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
-## See Also  
- [Spain Local Functionality](spain-local-functionality.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Spain Local Functionality](spain-local-functionality.md)

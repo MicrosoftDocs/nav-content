@@ -126,6 +126,7 @@ If any of the intercompany dimensions have the same code as the corresponding di
 10. In the **Dimension Values** window, fill in the **Map-to IC Dimension Value Code** field.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Managing Intercompany Transactions](intercompany-manage.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

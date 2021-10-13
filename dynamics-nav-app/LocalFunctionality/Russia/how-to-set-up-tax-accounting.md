@@ -43,8 +43,9 @@ Tax accounting lets you apply rules for recognizing income and expenses that fol
 
 For more information about how to set up and customize tax registers, see [How to: Create Tax Registers](how-to-create-tax-registers.md).  
 
-## See Also  
- [Tax Accounting](tax-accounting.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Tax Accounting](tax-accounting.md)   
  [Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3)   
  [Tax Registers](tax-registers.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   

@@ -31,5 +31,6 @@
 5.  In the **User Setup** window, select the **Application always Allowed** check box for each user who can apply entries to a closed period.  
 6.  Choose the **OK** button.  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Norway Local Functionality](norway-local-functionality.md)

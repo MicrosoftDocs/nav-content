@@ -25,5 +25,6 @@ When posting the journal lines, the system will check if all the **Description**
 > [!NOTE]  
 >  Leaving the description field blank and check if all the description fields are filled in before posting, will only be done on the general journal windows in several application areas and on the local Cash Bank Giro windows.  
 
-## See Also  
- [General Ledger](general-ledger.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[General Ledger](general-ledger.md)

@@ -40,7 +40,8 @@ To account for future period expenses you have to set up a future expense card.
 3.  In the **Depreciation Method** field, select **Straight-Line**.  
 4.  Choose the **OK** button.  
 
-## See Also  
- [Future Expenses (Deferrals)](future-expenses-deferrals-.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Future Expenses (Deferrals)](future-expenses-deferrals-.md)   
  [How to: Create Future Expense Journals](how-to-create-future-expense-journals.md)   
  [How to: Set Up Future Expenses in a Depreciation Book](how-to-set-up-future-expenses-in-a-depreciation-book.md)

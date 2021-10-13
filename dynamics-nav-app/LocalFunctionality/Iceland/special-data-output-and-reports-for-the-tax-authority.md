@@ -23,4 +23,5 @@ To generate the data file for the tax authorities, every account in the chart of
 General ledger accounts are mapped to predefined government account codes and these codes are divided into groups and types. You need to add the relevant IRS numbers and then manually map general ledger accounts to these codes. You must also report the data to the tax authorities.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

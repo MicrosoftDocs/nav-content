@@ -55,7 +55,8 @@ In this procedure, you process the sale of an item that will be assembled accord
 10. On the sales order, choose the **Release** action to notify the assembly department that the assembly process can start.  
 11. In the assembly department, perform the steps of assembling the items that are sold in this procedure. For more information, see [How to: Assemble Items](assembly-how-to-assemble-items.md).  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Assembly Management](assembly-assemble-items.md)  
 [How to: Work with Bills of Material](inventory-how-work-BOMs.md)  
 [Inventory](inventory-manage-inventory.md)  

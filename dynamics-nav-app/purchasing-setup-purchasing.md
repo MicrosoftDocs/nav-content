@@ -32,5 +32,6 @@ Finance-related purchase setup, such as payment methods and currencies, are cove
 | Set up purchasers |[How to: Set Up Purchasers](purchasing-how-setup-purchasers.md) |
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

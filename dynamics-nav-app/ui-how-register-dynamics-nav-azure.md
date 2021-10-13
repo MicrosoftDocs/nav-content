@@ -51,5 +51,6 @@ You have now registered your Dynamics NAV in the Azure Management Portal, you ha
 Your Dynamics NAV is registered and ready to connect to services such as Cortana Intelligence and Power BI.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Sales and Inventory Forecast](ui-extensions-sales-forecast.md)  
 [Set Up Your Dynamics NAV](setup.md)  

@@ -36,5 +36,6 @@ German companies must use the **BilMoG (Germany)** option when they run the **Ad
 |**Valuation Reference Date**|Specifies the base date that is used to calculate which entries are short-term entries.|  
 |**Short term liabilities until**|Specifies the date that separates short-term entries from long-term entries. Short-term entries have a due date that is before or on this date. The default value is the value of the **Valuation Reference Date** field plus one year.|  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [How to: Update Currency Exchange Rates](../../finance-how-update-currencies.md)

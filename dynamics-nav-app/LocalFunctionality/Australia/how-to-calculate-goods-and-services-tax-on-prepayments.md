@@ -24,8 +24,9 @@ When a partial payment or prepayment is made, you must calculate Goods and Servi
 2. On the **Local Functionalities** FastTab, select the **Full GST on Prepayment** check box to calculate GST for the total invoice amount when a prepayment invoice is posted.  
 3. Choose the **OK** button.  
 
-## See Also  
- [Business Activity Statements](business-activity-statements.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Business Activity Statements](business-activity-statements.md)   
  [How to: Set Up Business Activity Statements](how-to-set-up-business-activity-statements.md)   
  [How to: Export Business Activity Statements](how-to-export-business-activity-statements.md)   
  [How to: Print Goods and Services Tax Sales and Purchase Reports](how-to-print-goods-and-services-tax-sales-and-purchase-reports.md)   

@@ -31,5 +31,6 @@ The TORG-2 report is used to document inconsistencies for deviations of received
 
 3.  Choose the **OK** button.  
 
-## See Also  
- [Setting Up Inventory](../../inventory-setup-inventory.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Setting Up Inventory](../../inventory-setup-inventory.md)

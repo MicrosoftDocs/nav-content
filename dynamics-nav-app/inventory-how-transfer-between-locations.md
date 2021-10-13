@@ -55,6 +55,7 @@ To transfer items, locations and transfer routes must be set up. For more inform
 5. Choose the **Post** action.
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [How to: Set Up Locations](inventory-how-setup-locations.md)  
 

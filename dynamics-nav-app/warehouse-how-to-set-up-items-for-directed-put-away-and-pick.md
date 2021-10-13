@@ -60,7 +60,8 @@ The next step in setting up the warehouse is to define bins. For more informatio
 
 In addition, you must create put-away templates and counting periods. For more information, see [How to: Set Up Put-away Templates](warehouse-how-to-set-up-put-away-templates.md).  
 
-## See Also  
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

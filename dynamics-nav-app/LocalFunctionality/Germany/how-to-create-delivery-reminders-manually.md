@@ -45,8 +45,9 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery remi
 
     The delivery reminder is created. You can now issue and print the delivery reminder.  
 
-## See Also  
- [Delivery Reminders](delivery-reminders.md)   
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   
  [How to: Set Up Delivery Reminder Terms, Levels, and Text](how-to-set-up-delivery-reminder-terms-levels-and-text.md)   

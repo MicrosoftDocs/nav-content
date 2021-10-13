@@ -50,5 +50,6 @@ When you create the report, [!INCLUDE[navnow](../../includes/navnow_md.md)] sort
 
 The report will have the following name: <taxpayername>FEC<YYYYMMDD>  
 
-## See Also  
- [How to: Close Years](how-to-close-years.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[How to: Close Years](how-to-close-years.md)

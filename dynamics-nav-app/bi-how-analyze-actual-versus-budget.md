@@ -61,6 +61,7 @@ Instead of viewing the actual and budgeted amounts for all accounts within a sin
 4. To see a specification of an amount shown, choose the field.  
 
 ## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Business Intelligence](bi.md)
 [How to: Work with Account Schedules](bi-how-work-account-schedule.md)  
 [Finance](finance.md)  

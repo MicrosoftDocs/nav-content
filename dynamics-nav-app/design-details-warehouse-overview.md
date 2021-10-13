@@ -75,5 +75,6 @@ To align with the financial concepts of purchases and sales, [!INCLUDE[d365fin](
 |Internal flow|Items moving inside the warehouse location, such as production components and output.|  
 |Outbound flow|Items moving out of the warehouse location, such as sales and outbound transfers.|  
 
-## See Also  
- [Design Details: Warehouse Management](design-details-warehouse-management.md)
+## See Also
+[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Design Details: Warehouse Management](design-details-warehouse-management.md)
