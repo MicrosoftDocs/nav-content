@@ -34,8 +34,8 @@ There are a few requirements for the images:
 * Maximum file size: Less than 4 MB  
 * Image dimensions: Greater than 50 x 50 pixels  
 
-## Blacklisting suggested attributes
-If the analysis suggests an attribute that you do not want to see you can blacklist the attribute. Use caution, however. Blacklisted attributes are not suggested for other items or contact persons either. If you regret blacklisting an attribute, you can choose **Blacklisted Attributes**, and then delete the attribute from the list.
+## Blocking suggested attributes
+If the analysis suggests an attribute that you do not want to see you can block the attribute. Use caution, however. Blocked attributes are not suggested for other items or contact persons either. If you regret blocking an attribute, you can choose **Blocked Attributes**, and then delete the attribute from the list.
 
 ## To enable Image Analyzer
 The Image Analyzer extension is built-in to [!INCLUDE[d365fin](includes/d365fin_md.md)]. You just need to turn it on.

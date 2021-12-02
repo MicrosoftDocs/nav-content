@@ -44,7 +44,7 @@ Companies must pay VAT to the state for most purchased goods and services. VAT c
  In Italy, the EU sales list (Intrastat) and annual listing reports are updated to include services. This involves a change in the reporting format. A new table for service tariffs is added so that companies can classify services that must be included in the Intrastat report. Users must add the relevant service tariff to all documents that are for cross-border transactions. The service tariff specified on the **Foreign Trade** FastTab for the document can be modified in each line in the document.  
 
 ## VAT Transaction Reports  
- You must submit periodic reports to the tax authorities, which list transactions that include VAT with amounts over a specified threshold. The VAT transaction reports are created based on transactions with customers or vendors from a country/region that is outside the EU and is not blacklisted. Transactions with customers or vendors from EU countries/regions are reported through **Intrastat** reports. Transactions with customers or vendors from countries/regions that are blacklisted are reported through the **Blacklist Communication Report** report. [!INCLUDE[navnow](../../includes/navnow_md.md)] provides support for the following transaction types:  
+ You must submit periodic reports to the tax authorities, which list transactions that include VAT with amounts over a specified threshold. The VAT transaction reports are created based on transactions with customers or vendors from a country/region that is outside the EU and is not blocked. Transactions with customers or vendors from EU countries/regions are reported through **Intrastat** reports. [!INCLUDE[navnow](../../includes/navnow_md.md)] provides support for the following transaction types:  
 
 |**Transaction Type**|**Supported**|
 |--------------------|-------------|  
@@ -69,7 +69,7 @@ The VAT transactions reports include lines where the amount is over the threshol
 Document lines contain a field to indicate if the line must be included in the VAT transaction reports. The **Include in VAT Transac. Rep.** fields are selected automatically based on the day of the transaction and a comparison with the threshold amount for the calendar year. If sales lines are related to a blanket order, the threshold is compared to the amount for the blanket order. This only applies to sales line of type **Item**. For service lines, the comparison is made with the service contract amount.  
 
 > [!NOTE]  
->  Credit memos are included in the VAT transaction report if the customer or vendor is from a country/region that is outside the EU and is not blacklisted.  
+>  Credit memos are included in the VAT transaction report if the customer or vendor is from a country/region that is outside the EU and is not blocked.  
 
 When you post credit memos, you must update the **Refers to Period** field to specify the relevant period. The VAT transaction reports will include credit memos where the **Refers to Period** field is set to **Current Calendar Year** or **Previous Calendar Year**.  
 
@@ -93,9 +93,8 @@ When you post credit memos, you must update the **Refers to Period** field to sp
 [Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [Set Up VAT](../../finance-setup-vat.md)   
 [How to: Record VAT](../../finance-how-report-vat.md)  
- [How to: Prepare for VAT Transactions Reports](how-to-prepare-for-vat-transactions-reports.md)   
- [How to: Create Electronic VAT Transactions Reports](how-to-create-electronic-vat-transactions-reports.md)   
- [How to: Submit VAT Statements](how-to-submit-vat-statements.md)   
- [How to: Update VAT Transactions Data](how-to-update-vat-transactions-data.md)   
- [How to: Report Trade with Customers and Vendors in Blacklist Countries-Regions](how-to-report-trade-with-customers-and-vendors-in-blacklist-countries-regions.md)   
- [Italy Local Functionality](italy-local-functionality.md)
+[How to: Prepare for VAT Transactions Reports](how-to-prepare-for-vat-transactions-reports.md)   
+[How to: Create Electronic VAT Transactions Reports](how-to-create-electronic-vat-transactions-reports.md)   
+[How to: Submit VAT Statements](how-to-submit-vat-statements.md)   
+[How to: Update VAT Transactions Data](how-to-update-vat-transactions-data.md)   
+[Italy Local Functionality](italy-local-functionality.md)

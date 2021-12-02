@@ -39,7 +39,7 @@ You can run the **Update VAT Transaction Data** report as a test before you chan
 
 When you run the report, [!INCLUDE[navnow](../../includes/navnow_md.md)] processes VAT entries based on the filters that you set. The following rules are also applied:  
 
-- The **Blacklisted** field for the VAT entry must be blank.  
+- The **Blocked** field for the VAT entry must be blank.  
 - The **Type** field for the VAT entry must not be **Settlement**.  
 
 ## See Also
