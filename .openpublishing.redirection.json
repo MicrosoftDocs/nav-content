@@ -4,6 +4,11 @@
             "source_path": "dynamics-nav-app/madeira-outlook.md",
             "redirect_url": "across-outlook",
             "redirect_document_id": false
+        },
+        {
+            "source_path": "dynamics-nav-app/LocalFunctionality/Italy/how-to-report-trade-with-customers-and-vendors-in-blacklist-countries-regions.md",
+            "redirect_url": "dynamics-nav-app/LocalFunctionality/Italy/italian-vat",
+            "redirect_document_id": false
         }
     ]
 }
