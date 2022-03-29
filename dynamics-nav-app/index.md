@@ -36,7 +36,7 @@ Direct links:
 * [[!INCLUDE[navcorfu](includes/navcorfu_md.md)]](/previous-versions/dynamicsnav-2016/hh173988(v=nav.90))    
 * [[!INCLUDE[navcrete](includes/navcrete_md.md)]](/previous-versions/dynamicsnav-2015/hh173988(v=nav.80))  
 * [Microsoft Dynamics NAV 2013 R2](/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.71))  
-* [Microsoft Dynamics NAV 2013](/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.70))  
+* [Microsoft Dynamics NAV 2013](/previous-versions/dynamicsnav-2013/hh173988(v=nav.70))  
 * [Microsoft Dynamics NAV 2009 R2](/previous-versions/dynamicsnav-2009r2/gg502505(v=nav.60))  
 * [Microsoft Dynamics NAV 2009](/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))  
 
@@ -45,12 +45,12 @@ Direct links:
 If you are looking for online content for [!INCLUDE [d365bc](includes/d365bc.md)], which is the continuation of [!INCLUDE [navnow_md](includes/navnow_md.md)], see [[!INCLUDE [d365bc](includes/d365bc.md)]](/dynamics365/business-central/).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Finance](finance.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as my Business Inbox in Outlook](across-outlook.md)  
 [Getting [!INCLUDE[d365fin](includes/d365fin_md.md)] on Your Mobile Device](install-mobile-app.md)  
-[Dynamics 365 documentation](https://docs.microsoft.com/dynamics365/#pivot=solutions&panel=solutions_financials)  
+[Dynamics 365 documentation](/dynamics365/#pivot=solutions&panel=solutions_financials)  
 [Dynamics 365 Roadmap](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
