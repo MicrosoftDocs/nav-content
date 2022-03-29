@@ -36,7 +36,7 @@ Direct links:
 * [[!INCLUDE[navcorfu](includes/navcorfu_md.md)]](/previous-versions/dynamicsnav-2016/hh173988(v=nav.90))    
 * [[!INCLUDE[navcrete](includes/navcrete_md.md)]](/previous-versions/dynamicsnav-2015/hh173988(v=nav.80))  
 * [Microsoft Dynamics NAV 2013 R2](/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.71))  
-* [Microsoft Dynamics NAV 2013](/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.70))  
+* [Microsoft Dynamics NAV 2013](/previous-versions/dynamicsnav-2013/hh173988(v=nav.70))  
 * [Microsoft Dynamics NAV 2009 R2](/previous-versions/dynamicsnav-2009r2/gg502505(v=nav.60))  
 * [Microsoft Dynamics NAV 2009](/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))  
 
