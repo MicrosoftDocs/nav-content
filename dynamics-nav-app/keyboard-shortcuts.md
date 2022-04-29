@@ -2,7 +2,7 @@
 title: "Keyboard Shortcuts"
 description: "List of keyboard shortcuts for navigating in lists."
 author: jswymer
-ms.service: dynamics365-financials
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

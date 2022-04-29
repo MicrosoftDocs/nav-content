@@ -3,7 +3,7 @@
     description: Overview of tasks for defining a reorder policy in supply planning.
     author: SorenGP
 
-    ms.service: dynamics-nav-2018
+    ms.prod: dynamics-nav-2018
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
