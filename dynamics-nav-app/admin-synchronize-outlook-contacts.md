@@ -3,7 +3,7 @@ title: Share contacts between Dynamics NAV and Outlook| Microsoft Docs
 description: You can share contacts between Outlook and Business Central.
 author: edupont04
 
-ms.service: dynamics-nav-2018
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
