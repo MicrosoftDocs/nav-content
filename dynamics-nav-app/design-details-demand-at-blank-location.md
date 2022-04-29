@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Demand and Supply 
+    title: Details of Design for Demand and Supply 
     description: This topic introduces the concept of demand, which is the common term used for any kind of gross demand, such as a sales order and component need from a production order.
     
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Design Details: Demand and Supply
+# Details of Design for Demand and Supply
 Demand is the common term used for any kind of gross demand, such as a sales order and component need from a production order. In addition, the program allows more technical types of demand, such as negative inventory and purchase returns.  
   
 Supply is the common term used for any kind of positive or inbound quantity, such as inventory, purchases, assembly, production, or inbound transfers. In addition, a sales return may also represent supply.  

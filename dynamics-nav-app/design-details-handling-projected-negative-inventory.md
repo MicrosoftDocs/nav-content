@@ -24,7 +24,7 @@ The reorder point expresses the anticipated demand during the lead time of the i
 
  In the following illustration, supply D represents an emergency order to adjust for negative inventory.  
 
- ![](media/nav_app_supply_planning_2_negative_inventory.png "NAV_APP_supply_planning_2_negative_inventory")  
+ ![NAV_APP_supply_planning_2_negative_inventory](media/nav_app_supply_planning_2_negative_inventory.png)  
 
 1.  Supply **A**, initial projected inventory, is below reorder point.  
 

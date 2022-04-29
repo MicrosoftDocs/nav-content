@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Closing Demand and Supply 
+    title: Closing Demand and Supply in Design Details 
     description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
     
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Design Details: Closing Demand and Supply
+# Closing Demand and Supply in Design Details 
 When the supply balancing procedures have been performed, there are three possible end situations:  
   
 * The required quantity and date of the demand events have been met and the planning for them can be closed. The supply event is still open and may be able to cover the next demand, so the balancing procedure can start over with the current supply event and the next demand.  

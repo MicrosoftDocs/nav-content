@@ -43,7 +43,7 @@ This means that you must get two pieces of information from Dynamics NAV: The OD
 **Getting the URL**  
 When you add Dynamics NAV to Power BI, you must specify a URL so Power BI can access data from your company. In the connection window, the URL is referred to as the **OData Feed URL**, and it must have the following format:
 
-         https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
 In this example, *mybusiness* is the name of your Dynamics NAV service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
 To get the URL, in Dynamics NAV, search for and open the **Web Services** window. This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
 **Getting the web service access key**  

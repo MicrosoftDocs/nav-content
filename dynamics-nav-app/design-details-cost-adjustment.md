@@ -133,12 +133,12 @@ Later, you post a related purchase item charge for 2.00 LCY invoiced on 02-10-20
 
 **General Ledger Entries**  
 
-|Posting Date|G/L Account|Account No. (En-US Demo)||Amount|Entry No.|  
-|------------------|------------------|---------------------------------|-|------------|---------------|  
-|02-10-20|[Inventory Account]|2130||2.00|5|  
-|02-10-20|[Direct Cost Applied Account]|7291||-2.00|6|  
-|01-15-20|[Inventory Account]|2130||-2.00|7|  
-|01-15-20|[COGS Account]|7290||2.00|8|  
+|Posting Date|G/L Account|Account No. (En-US Demo)|Amount|Entry No.|  
+|------------------|------------------|---------------------------------|-------------|---------------|  
+|02-10-20|[Inventory Account]|2130|2.00|5|  
+|02-10-20|[Direct Cost Applied Account]|7291|-2.00|6|  
+|01-15-20|[Inventory Account]|2130|-2.00|7|  
+|01-15-20|[COGS Account]|7290|2.00|8|  
 
 ## Automatic Cost Adjustment  
 To set up cost adjustment to run automatically when you post an inventory transaction, use the **Automatic Cost Adjustment** field in the **Inventory Setup** window. This field enables you to select how far back in time from the current work date that you want automatic cost adjustment to be performed. The following options exist.  

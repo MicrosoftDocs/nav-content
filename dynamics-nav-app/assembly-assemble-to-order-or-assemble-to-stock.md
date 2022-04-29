@@ -71,7 +71,7 @@ When you enter an assemble-to-order item on a sales line, an assembly order is a
  The following explains the rules that define the minimum and maximum values that you can enter manually in the **Quantity to Assemble** to deviate from the default value in a combination scenario. The table shows a combination scenario where the **Qty. to Ship** field on the linked sales order line is changed from 7 to 4, and the **Quantity to Assemble** is therefore defaulted to 4.  
 
 
-|         | Sales Order Line | Assembly Order Hheader |
+| Status  | Sales Order Line | Assembly Order Header  |
 |---------|------------------|------------------------|
 |         |   **Quantity**   |    **Qty. to Ship**    |
 | Initial |        10        |           7            |

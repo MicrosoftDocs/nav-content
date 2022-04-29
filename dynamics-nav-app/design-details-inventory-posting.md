@@ -59,9 +59,9 @@ Each inventory transaction, such as a purchase receipt or a sales shipment, post
 
  **Item Ledger Entries**  
 
-|Posting Date|Entry Type|Cost Amount (Actual)||Quantity|Entry No.|  
-|------------------|----------------|----------------------------|-|--------------|---------------|  
-|01-15-20|Sale|-80.00||-10|2|  
+|Posting Date|Entry Type|Cost Amount (Actual)|Quantity|Entry No.|  
+|------------------|----------------|----------------------------|--------------|---------------|  
+|01-15-20|Sale|-80.00|-10|2|  
 
  **Value Entries**  
 
@@ -91,14 +91,14 @@ Each inventory transaction, such as a purchase receipt or a sales shipment, post
 
  **General Ledger Entries**  
 
-|Posting Date|G/L Account|Account No. (En-US Demo)||Amount|Entry No.|  
-|------------------|------------------|---------------------------------|-|------------|---------------|  
-|01-01-20|[Inventory Account]|2130||70.00|1|  
-|01-01-20|[Direct Cost Applied Account]|7291||-70.00|2|  
-|01-01-20|[Inventory Account]|2130||10.00|3|  
-|01-01-07|[Overhead Applied Account]|7292||-10.00|4|  
-|01-15-20|[Inventory Account]|2130||-80.00|5|  
-|01-15-20|[COGS Account]|7290||80.00|6|  
+|Posting Date|G/L Account|Account No. (En-US Demo)|Amount|Entry No.|  
+|------------------|------------------|---------------------------------|------------|---------------|  
+|01-01-20|[Inventory Account]|2130|70.00|1|  
+|01-01-20|[Direct Cost Applied Account]|7291|-70.00|2|  
+|01-01-20|[Inventory Account]|2130|10.00|3|  
+|01-01-07|[Overhead Applied Account]|7292|-10.00|4|  
+|01-15-20|[Inventory Account]|2130|-80.00|5|  
+|01-15-20|[COGS Account]|7290|80.00|6|  
 
 > [!NOTE]  
 >  The posting date of the general ledger entries is the same as for the related value entries.  
