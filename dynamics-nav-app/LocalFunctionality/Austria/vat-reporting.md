@@ -1,5 +1,5 @@
 ---
-    title: VAT Reporting
+    title: VAT Reporting Method
     description: You can report VAT electronically to the tax authorities. You can generate, electronically sign, encrypt, and send an XML file directly to the German ELSTER portal. Response messages are received and processed in the same transaction.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# VAT Reporting
+# VAT Reporting Method
 You can report VAT electronically to the tax authorities. You can generate, electronically sign, encrypt, and send an XML file directly to the German ELSTER portal. Response messages are received and processed in the same transaction.  
 
 You can print the following local VAT reports.  
@@ -28,6 +28,6 @@ You can print the following local VAT reports.
 |**VAT Statement Schedule**|This report can be retrieved from the **VAT Statement** window.<br /><br /> Prints the settings in the VAT statement. Using this report, you can print the characteristics of the **Sales VAT Adv. Not. Acc. Proof**.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How To: Report VAT to the Tax Authorities](../../finance-how-report-vat.md)  
 [How to: Work with VAT on Sales and Purchases](../../finance-work-with-vat.md)

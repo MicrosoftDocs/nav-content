@@ -1,5 +1,5 @@
 ---
-    title: How to Apply and Unapply General Ledger Entries
+    title: How to Apply and Unapply The General Ledger Entries
     description: Applying temporary general ledger entries allows companies to work with temporary and transfer accounts in the general ledger. Temporary and transfer accounts are used to store temporary ledger entries that are waiting for further processing into the general ledger.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Apply and Unapply General Ledger Entries
+# How to: Apply and Unapply The General Ledger Entries
 Applying temporary general ledger entries allows companies to work with temporary and transfer accounts in the general ledger. Temporary and transfer accounts are used to store temporary ledger entries that are waiting for further processing into the general ledger.  
 
  You can use temporary accounts for:  
@@ -82,5 +82,5 @@ Applying temporary general ledger entries allows companies to work with temporar
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgium Local Functionality](belgium-local-functionality.md)

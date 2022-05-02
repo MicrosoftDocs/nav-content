@@ -1,5 +1,5 @@
 ---
-    title: How to Manage Customer Credit Information
+    title: How to Manage The Customer Credit Information
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
 
 
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Manage Customer Credit Information
+# How to: Manage The Customer Credit Information
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.  
 
 ## To add comments to customer credit information  
@@ -52,7 +52,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 4. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)
