@@ -24,7 +24,7 @@ The reorder point expresses the anticipated demand during the lead time of the i
 
  In the following illustration, supply D represents an emergency order to adjust for negative inventory.  
 
- ![NAV_APP_supply_planning_2_negative_inventory](media/nav_app_supply_planning_2_negative_inventory.png)  
+ ![Supply Planning Negatie Inventory Illustration](media/nav_app_supply_planning_2_negative_inventory.png "NAV_APP_supply_planning_2_negative_inventory")  
 
 1.  Supply **A**, initial projected inventory, is below reorder point.  
 
@@ -54,7 +54,7 @@ The reorder point expresses the anticipated demand during the lead time of the i
  This concludes the description of central principles relating to inventory planning based on reordering policies. The following section describes the characteristics of the four supported reordering policies.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](dynamics365/business-central/)  
 [Design Details: Reordering Policies](design-details-reordering-policies.md)   
  [Design Details: Planning Parameters](design-details-planning-parameters.md)   
  [Design Details: Handling Reordering Policies](design-details-handling-reordering-policies.md)   

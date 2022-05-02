@@ -124,7 +124,7 @@ Capacity and resource ledger entries represent the time that is posted as consum
 For more information, see [Design Details: Assembly Order Posting](design-details-assembly-order-posting.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Accounts in the General Ledger](design-details-accounts-in-the-general-ledger.md)   
  [Design Details: Cost Components](design-details-cost-components.md)

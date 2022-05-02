@@ -1,5 +1,6 @@
 ---
 title: "Using the Dynamics NAV Content Pack for Power BI"
+description: Understanding and Working with Dynamics NAV content with Power BI. 
 author: edupont04
 ms.custom: na
 ms.date: 08/10/2018
@@ -104,5 +105,5 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](dynamics365/business-central/)  
 [Welcome to Dynamics NAV](across-get-started.md)  
