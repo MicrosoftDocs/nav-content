@@ -17,7 +17,7 @@ You can schedule a report to run at a specific date and time. Scheduled reports 
 You can schedule a report when you open a report. You choose **Schedule** and then you enter information such as printer, and time and date. The report is then added to the job queue and will be run at the specified time. When the report is processed, the item will be removed from the job queue. If you saved the processed report to a file, it will be available in the **Report Inbox**.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Specify Printer Selection for Reports](ui-specify-printer-selection-reports.md) 
 
  

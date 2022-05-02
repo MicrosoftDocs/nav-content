@@ -48,7 +48,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Inform your customers of order delivery dates by calculating either the capable-to-promise date or the available-to-promise date.|[How to: Calculate Order Promising Dates](sales-how-to-calculate-order-promising-dates.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Sales](sales-setup-sales.md)  
 [How to: Register New Customers](sales-how-register-new-customers.md)  
 [Managing Receivables](receivables-manage-receivables.md)  

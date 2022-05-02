@@ -73,7 +73,7 @@ To help you better understand personalization, here are some pointers.
 -   You can only add fields and columns from a predefined list, which is based on the page. You cannot create new ones.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Personalization Overview](ui-personalization-overview.md)  
 [Managing Personalization](ui-personalization-manage.md)  
 [Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  
