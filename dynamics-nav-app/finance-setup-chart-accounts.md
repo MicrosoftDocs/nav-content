@@ -38,5 +38,4 @@ From the chart of accounts, you can open each G/L account and add or change sett
 [Working with Dimensions](finance-dimensions.md)  
 [Importing from Other Finance Systems](upload-data.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-
-## 
+ 

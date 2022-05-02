@@ -58,4 +58,3 @@ The following table describes a sequence of tasks, with links to the topics that
 [Working with General Journals](ui-work-general-journals.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## 

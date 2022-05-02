@@ -1,6 +1,7 @@
 ---
 title: "How to: Post Inventory Costs to the General Ledger"
 author: SorenGP
+ms.author: edupont
 ms.custom: na
 ms.date: 09/22/2016
 ms.reviewer: na

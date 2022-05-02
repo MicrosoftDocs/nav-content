@@ -1,5 +1,5 @@
 ---
-title: Depreciation Methods
+title: Dynamics Nav - Depreciation Methods
 description: Learn about the different methods to depreciate or write-down fixed assets.
 
 documentationcenter: ''
@@ -15,7 +15,7 @@ ms.date: 06/02/2017
 ms.author: edupont
 
 ---
-# Depreciation Methods
+# Dynamics Nav - Depreciation Methods
 There are eight methods of depreciation available:  
 
 * Straight-Line  

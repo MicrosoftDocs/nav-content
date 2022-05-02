@@ -1,5 +1,5 @@
 ---
-    title: How to Print Remittance Advice
+    title: Dynamics Nav How to Print Remittance Advice
     description: You can help your vendors perform reconciliations by printing remittance advice before you post a payment journal, and after you post a payment.
     documentationcenter: ''
     author: bholtorf
@@ -15,7 +15,7 @@
 
 ---
 
-# How to: Print Remittance Advice
+# How to Print Remittance Advice
 You can print remittance advice before posting a payment journal and after posting a payment. This advice displays vendor invoice numbers, which helps vendors to perform reconciliations.
 
 ## To print remittance advice

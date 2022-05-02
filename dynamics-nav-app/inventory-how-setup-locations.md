@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, distribution center
 ms.date: 06/02/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
 # How to: Set Up Locations

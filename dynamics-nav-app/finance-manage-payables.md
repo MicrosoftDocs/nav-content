@@ -17,7 +17,7 @@ ms.date: 06/02/2017
 ms.author: bholtorf
 
 ---
-# Managing Payables
+# Managing Accounts Payable
 [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] has what you need to effectively manage accounts payable.  
 
 ## Payments

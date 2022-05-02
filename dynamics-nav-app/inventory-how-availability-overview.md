@@ -11,7 +11,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: stock
 ms.date: 08/15/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
 # How to: View the Availability of Items

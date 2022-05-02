@@ -17,7 +17,7 @@ ms.date: 06/02/2017
 ms.author: jswymer
 
 ---
-# How to: Specify Posting Periods
+# How to Specify Posting Periods
 Use posting periods to specify when users can post to the general ledger.  
 
 ## To specify posting periods

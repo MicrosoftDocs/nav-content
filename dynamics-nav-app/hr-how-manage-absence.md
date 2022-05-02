@@ -11,7 +11,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 09/08/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
 # How to: Manage Employee Absence

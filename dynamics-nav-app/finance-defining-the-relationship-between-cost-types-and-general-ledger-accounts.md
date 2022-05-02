@@ -31,8 +31,8 @@ There is an n:1 relationship between general ledger accounts and cost types. Sev
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 |         One general ledger account for each cost type         |                              One general ledger account                               |                               One cost type                               |
 |       Several general ledger accounts for one cost type       | General ledger account range, for example, 7110..7193 for each general ledger account | For each general ledger account in the range, there is only one cost type |
-|   Cost types without corresponding general ledger accounts    |                                        <Empty>                                        |                                                                           |
-| General ledger accounts whose entries will not be transferred |                                                                                       |                                  <Empty>                                  |
+|   Cost types without corresponding general ledger accounts    |                                        \<Empty\>                                        |                                                                           |
+| General ledger accounts whose entries will not be transferred |                                                                                       |                                  \<Empty\>                                  |
 
 ## Cost Types Without a Relationship to the General Ledger  
 A cost type may not have a relationship to general ledger accounts if one of the following conditions is true:  

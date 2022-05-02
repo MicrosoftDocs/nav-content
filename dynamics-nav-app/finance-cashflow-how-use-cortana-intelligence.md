@@ -1,6 +1,7 @@
 ---
 title: "How to: Make predictive cash flow forecasts"
 author: bholtorf
+ms.author: bholtorf
 ms.custom: na
 ms.date: 09/16/2016
 ms.reviewer: na
