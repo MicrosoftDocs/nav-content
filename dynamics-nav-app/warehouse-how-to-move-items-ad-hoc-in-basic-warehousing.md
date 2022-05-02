@@ -20,8 +20,10 @@ You may occasionally need to move items between internal bins, not receiving or 
 
 In basic warehouse configurations, that is locations that use the **Bin Mandatory** setup field and possibly the **Require Pick** and the **Require Put-away** setup fields, you can register ad hoc movements without source documents in the following ways:  
 
+```code
     - With the **Internal Movement** window.  
     - With the **Item Reclassification Journal** window.  
+```
 
 > [!NOTE]  
 >  In advanced warehouse configurations, that is locations that use the **Directed Put-away and Pick** setup field, you use the **Movement Worksheet** window or the **Internal Whse. Pick** or the **Internal Whse. Put-away** windows to move items ad hoc between bins.  

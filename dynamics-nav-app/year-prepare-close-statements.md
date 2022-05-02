@@ -1,6 +1,7 @@
 ---
 title: "Prepare Closing Statements"
 author: jswymer
+ms.author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
 ms.reviewer: na
