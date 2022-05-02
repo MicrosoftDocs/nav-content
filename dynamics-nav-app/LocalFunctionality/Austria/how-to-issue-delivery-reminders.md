@@ -1,6 +1,6 @@
 ---
     title: How to Issue Delivery Reminders in Austria
-    description: After you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report.
+    description: In Austria, after you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report.
 
     documentationcenter: ''
     author: SorenGP
@@ -51,7 +51,7 @@ You can view the issued reminders in the **Issued Delivery Reminder** window. Op
 In the Deliv. Reminder Ledger Entries window, you can view the delivery reminder ledger entries for the selected purchase order.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Create Delivery Reminders Manually](how-to-create-delivery-reminders-manually.md)

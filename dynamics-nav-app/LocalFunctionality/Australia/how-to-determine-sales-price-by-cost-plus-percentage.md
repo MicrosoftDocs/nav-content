@@ -1,6 +1,6 @@
 ---
     title: How to Determine Sales Price by Cost Plus Percentage in Australia
-    description: Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation.
+    description: In Australia, use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation.
 
     documentationcenter: ''
     author: SorenGP
@@ -52,5 +52,5 @@ Use the cost plus percentage function to set a sales price based on the cost of 
 9. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Australia Local Functionality](australia-local-functionality.md)

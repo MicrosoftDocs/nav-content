@@ -1,6 +1,6 @@
 ---
     title: How to Create Delivery Reminders Manually in Austria
-    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery reminders when a purchase has not been delivered as expected.
+    description: In Austria [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery reminders when a purchase has not been delivered as expected.
 
     documentationcenter: ''
     author: SorenGP
@@ -46,7 +46,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery remi
     The delivery reminder is created. You can now issue and print the delivery reminder.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   

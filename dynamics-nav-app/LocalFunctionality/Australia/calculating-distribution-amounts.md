@@ -1,6 +1,6 @@
 ---
     title: Calculating Distribution Amounts in Australia
-    description: You can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another.
+    description: In Australia, you can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another.
     
     documentationcenter: ''
     author: SorenGP
@@ -23,5 +23,5 @@ You can reallocate the amount in one general ledger account to other general led
  The net changes or balances of the accounts in the **Allocation** window determine the allocation percentage calculated.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Australia Local Functionality](australia-local-functionality.md)
