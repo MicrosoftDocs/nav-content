@@ -1,5 +1,5 @@
 ---
-    title: Depreciation Methods
+    title: Depreciation Methods Unique to Russia
     description: There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Depreciation Methods
+# Depreciation Methods Unique to Russia
 There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 - Straight-line method **(SL-RU)**  

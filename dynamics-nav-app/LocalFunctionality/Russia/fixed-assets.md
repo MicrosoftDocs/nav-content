@@ -1,5 +1,5 @@
 ---
-    title: Fixed Assets
+    title: Fixed Assets in Russia
     description: In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your fixed assets.
 
     documentationcenter: ''

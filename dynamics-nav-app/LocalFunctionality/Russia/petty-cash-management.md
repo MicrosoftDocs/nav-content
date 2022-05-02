@@ -53,7 +53,9 @@ The following procedure shows how to access the **Ingoing Cash Order** window.
 |Field|Description|  
 |-----------|-----------------|  
 |**Posting Date**|Enter the **Posting Date** field in general journals.|  
-|**Document Type**|Enter the **Document Type** field in general journals. The options are:<br /><br /> -   <blank><br />-   Payment<br />-   Refund<br /><br /> If the value of the **Account Type** field is Client or Vendor, then the **Document Type** field is not editable, and is automatically filled in depending on the value in the **Account Type** field and the sign of the amount in the **Income** field.|  
+|**Document Type**|Enter the **Document Type** field in general journals. The options are: <ul><li>Payment</li><li>Refund</li></ul>
+
+If the value of the **Account Type** field is Client or Vendor, then the **Document Type** field is not editable, and is automatically filled in depending on the value in the **Account Type** field and the sign of the amount in the **Income** field.|  
 |**Prepayment**|In some cases, the financial posting of payments is different in relation to the date of payment, depending on whether if it is before or after the appropriate invoice financial posting. This field should be selected in case of prepayment.|  
 |**Document No.**|Enter the **Document Number** field in general journals.<br /><br /> If the value of the **Bank Payment Type** field is Computer Check, then the value of the **Document Number** field is automatically filled in after printing the ingoing cash order. The field is filled in with the next number from the number series that is specified in the **Debit Cash Order Number Series** field in the appropriate cash card. In this case, if you use the Void Check Print function on the card, clear the field.<br /><br /> The document number of the posted ingoing cash order is equal to the document number of the unposted ingoing cash order.|  
 |**Account Type**|Enter the **Account Type** field in general journals. This is the type of the object that is the posting source of a cash payment.|  

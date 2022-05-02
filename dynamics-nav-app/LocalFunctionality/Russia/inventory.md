@@ -1,5 +1,5 @@
 ---
-    title: Inventory
+    title: Russian Inventory Functionality
     description: Russian inventory functionality is described in several topics.
 
     documentationcenter: ''
