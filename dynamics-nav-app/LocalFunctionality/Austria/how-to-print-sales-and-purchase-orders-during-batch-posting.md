@@ -1,5 +1,5 @@
 ---
-    title: How to Print Sales and Purchase Orders During Batch Posting
+    title: How to Print Sales and Purchase Orders During Batch Posting in Austria
     description: After sales orders and purchase orders are batch posted, you can print the corresponding posted documents.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Sales and Purchase Orders During Batch Posting
+# How to: Print Sales and Purchase Orders During Batch Posting in Austria
 After sales orders and purchase orders are batch posted, you can print the corresponding posted documents.  
 
 The following procedure describes how to print sales orders, but the same steps also apply to purchase orders.  

@@ -1,5 +1,5 @@
 ---
-    title: How to Copy Existing Items to New Items
+    title: How to Copy Existing Items to New Items in Austria
     description: You can group items with similar settings in an item catalog. When you add a new item, to save time, you can use **Copy Item** to copy an existing item to use as a template for a new item.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Copy Existing Items to New Items
+# How to: Copy Existing Items to New Items in Austria
 You can group items with similar settings in an item catalog. When you add a new item, to save time, you can use the **Copy Item** function to copy an existing item to use as a template for a new item.  
 
 ## To copy existing items to new items  

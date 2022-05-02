@@ -1,5 +1,5 @@
 ---
-    title: How to Print General Ledger Setup Information
+    title: How to Print General Ledger Setup Information in Austria
     description: Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily business, you can run the **G/L Setup Information** report to display the master data that you have set up.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print General Ledger Setup Information
+# How to: Print General Ledger Setup Information in Austria
 Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily business, you can run the **G/L Setup Information** report to display the master data that you have set up. You can look over this master data so that you have a baseline to compare to, and then verify that you have set up posting groups correctly, for example.  
 
 ## To print general ledger setup information  

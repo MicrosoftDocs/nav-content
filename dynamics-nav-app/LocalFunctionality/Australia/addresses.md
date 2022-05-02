@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Addresses
+# Addresses in Australia
 A single postal code can include multiple cities in the same region.  
 
 At the same time, cities with the same name are sometimes located in different states.  

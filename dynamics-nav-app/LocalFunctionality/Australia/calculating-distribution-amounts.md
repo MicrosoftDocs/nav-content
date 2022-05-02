@@ -1,5 +1,5 @@
 ---
-    title: Calculating Distribution Amounts 
+    title: Calculating Distribution Amounts in Australia
     description: You can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another.
     
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Calculating Distribution Amounts
+# Calculating Distribution Amounts in Australia
 You can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another.  
   
  Use the **Calculate Distribution Amount** function to calculate the allocation percentage based on the balances of the accounts, or the net changes between the accounts. Run the **Calculate Distribution Amount** function from the **Allocation** window for the Standard Balance and Reverse Balance recurring methods in the **Recurring Journal**.  

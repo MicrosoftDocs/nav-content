@@ -1,5 +1,5 @@
 ---
-    title: How to Print Deposit Slip Reports
+    title: How to Print Deposit Slip Reports in Australia
     description: The **Deposit Slip** report displays cash and check details in a format required by the bank.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Deposit Slip Reports
+# How to: Print Deposit Slip Reports in Australia
 The **Deposit Slip** report displays cash and check details in a format required by the bank.  
 
 ## To a print deposit slip report  

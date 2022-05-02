@@ -1,5 +1,5 @@
 ---
-    title: How to Determine Sales Price by Cost Plus Percentage
+    title: How to Determine Sales Price by Cost Plus Percentage in Australia
     description: Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Determine Sales Price by Cost Plus Percentage
+# How to: Determine Sales Price by Cost Plus Percentage in Australia
 Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation. This functionality eliminates the need for the use of spreadsheets in determining percentage discounts as they correspond to cost plus percentage.  
 
 ## To determine sales tax by cost plus percentage  
