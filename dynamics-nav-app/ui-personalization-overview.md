@@ -22,23 +22,23 @@ You can personalize your workspace by using the [[!INCLUDE[nav_windows_md](inclu
 ## Comparing Personalization in the Dynamics NAV Windows and Web Clients
 Depending on the page, you can personalize many parts of the user interface, such as what fields or columns are shown and where they are placed, what actions are included on the ribbon, and more. Many of these things you can do in both the Windows client and Web client. The following table provides an overview of the personalization capabilities in each client.
 
-|  Personalize  ||  Windows client  |  Web client  |
+|  Personalize  | |  Windows client  |  Web client  |
 |---------------|-|------------------|--------------|
-|Fields in FastTabs||||
+|**Fields in FastTabs**| | | |
 ||Add, move, remove |x|x|
 ||Show in collapsed header|x||
 ||Hide under **Show more fields** action|x||
-|Lists or document lines ||||
+|**Lists or document lines** | | | |
 ||Add, move, remove columns  |x|x|
 ||Add, move, remove freeze pane  |x|x|
-|FactBoxes|||
+|**FactBoxes**| | | |
 ||Move, remove|x|x|
 ||Add|x||
 ||Add, move, remove fields|x|x|
-|Cues||||
+|**Cues**| | | |
 ||Move, remove|x|x|
 ||Add |x||
-|Charts||||
+|**Charts**| | | |
 ||Move, remove|x|x|
 ||Add|x| |
 |Ribbon and actions||x||

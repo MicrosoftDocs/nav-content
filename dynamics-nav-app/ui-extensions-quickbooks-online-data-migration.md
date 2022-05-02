@@ -1,5 +1,5 @@
 ---
-title: Using the QuickBooks Migration Extension 
+title: Using the QuickBooks Online Data Migration Extension 
 description: Describes how to use the extension to migrate customers, vendors, items, and accounts from QuickBooks Online to Dynamics NAV. 
 
 documentationcenter: ''
