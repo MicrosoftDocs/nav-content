@@ -1,6 +1,7 @@
 ---
 title: "How to: Change the Role Center"
 author: SusanneWindfeldPedersen
+ms.author: solsen
 ms.custom: na
 ms.date: 09/22/2016
 ms.reviewer: na
@@ -10,7 +11,7 @@ ms.topic: article
 ms.prod: "dynamics-nav-2018"
 ---
 
-# How to: Change the Role Center
+# How to: Change the Role Center for Dynamics NAV
 The Home page is your main point of entry into Dynamics NAV. Here you can get an overview of the daily work tasks and their status. Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.
 
 The content on the Home page is based on the selected Role Center. The standard Role Center for Dynamics NAV is **Business Manager**, but you can change this and choose between a number of Role Centers.

@@ -28,7 +28,7 @@ To track changes and get a graphical view of your service business, use [!INCLUD
 3. If you want a list of service tasks with a certain response date or response dates within a certain time period, fill in the **Response Date Filter** field and press Enter.  
 4. If you want a list of service tasks with a certain allocation status or repair status, fill in the **Allocation Status Filter** or **Repair Status Code Filter** field and press Enter.  
 5. Select the service task you want to work on. On the **Navigate** tab, in the **Service Tasks** group, choose **Item Worksheet**. The **Service Item Worksheet** window opens.  
-6. Register standard texts, spare parts, resource hours, and costs as appropriate using the corresponding options in the **Type** field:  <Blank>, **Item**, **Resource**, and **Cost**.  
+6. Register standard texts, spare parts, resource hours, and costs as appropriate using the corresponding options in the **Type** field:  \<Blank\>, **Item**, **Resource**, and **Cost**.  
 7. In the **Repair Status** field, select the appropriate status.  
   
    > [!NOTE]  
