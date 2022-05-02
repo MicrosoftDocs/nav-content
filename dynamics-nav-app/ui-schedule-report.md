@@ -1,5 +1,6 @@
 ---
 title: "Schedule a Report to Run"
+description: Learn how to run a report on a set schedule.
 author: SusanneWindfeldPedersen
 ms.author: solsen
 ms.custom: na

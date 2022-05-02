@@ -1,6 +1,6 @@
 ---
 title: Working with the General Functionality in Dynamics NAV 
-description: Describes the general functionality you use to interact with data in Dynamics NAV, such as entering values, sorting data, and changing views.
+description: Learn about the general functionality you use to interact with data in Dynamics NAV, such as entering values, sorting data, and changing views.
 services: ''
 documentationcenter: ''
 author: SusanneWindfeldPedersen

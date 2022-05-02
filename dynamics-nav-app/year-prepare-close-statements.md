@@ -1,5 +1,6 @@
 ---
 title: "Prepare Closing Statements"
+description: Learn about some of the different closing statements and their corresponding reports.
 author: jswymer
 ms.author: jswymer
 ms.custom: na
@@ -28,5 +29,5 @@ The following table describes a number of reports that may be useful in this pro
 
 To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Close Years and Periods](year-close-years-periods.md)

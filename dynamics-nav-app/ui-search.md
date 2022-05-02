@@ -1,5 +1,6 @@
 ---
 title: "Using Search for Page or Report"
+description: Learn how to search for pages or reports using the address batr in your browser.
 author: SusanneWindfeldPedersen
 ms.author: solsen
 ms.custom: na

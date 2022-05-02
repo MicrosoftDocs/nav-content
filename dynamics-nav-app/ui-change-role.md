@@ -1,5 +1,6 @@
 ---
 title: "How to: Change the Role Center"
+description: Learn how to change roles using the Role Center for Dynamics NAV.
 author: SusanneWindfeldPedersen
 ms.author: solsen
 ms.custom: na

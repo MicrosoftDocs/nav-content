@@ -1,6 +1,6 @@
 ---
 title: Personalizing Pages in the Dynamics Windows Client
-description: Learn how to customize the user interface to suit your way of working.
+description: Learn how to customize the user interface to suit your way of working for the Dynamics Windows Client.
 author: jswymer
 ms.topic: article
 ms.devlang: na
