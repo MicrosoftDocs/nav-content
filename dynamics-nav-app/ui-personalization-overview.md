@@ -1,6 +1,6 @@
 ---
 title: "Personalizing Your Workspace - Overview"
-description: Learn how to customize the user interface to suit your way of working.
+description: Learn how to customize your workspace using different Dynamics NAV features for the Windows client and Web client.
 
 documentationcenter: ''
 author: jswymer
@@ -22,27 +22,44 @@ You can personalize your workspace by using the [[!INCLUDE[nav_windows_md](inclu
 ## Comparing Personalization in the Dynamics NAV Windows and Web Clients
 Depending on the page, you can personalize many parts of the user interface, such as what fields or columns are shown and where they are placed, what actions are included on the ribbon, and more. Many of these things you can do in both the Windows client and Web client. The following table provides an overview of the personalization capabilities in each client.
 
-|  Personalize  | |  Windows client  |  Web client  |
-|---------------|-|------------------|--------------|
-|**Fields in FastTabs**| | | |
-||Add, move, remove |x|x|
-||Show in collapsed header|x||
-||Hide under **Show more fields** action|x||
-|**Lists or document lines** | | | |
-||Add, move, remove columns  |x|x|
-||Add, move, remove freeze pane  |x|x|
-|**FactBoxes**| | | |
-||Move, remove|x|x|
-||Add|x||
-||Add, move, remove fields|x|x|
-|**Cues**| | | |
-||Move, remove|x|x|
-||Add |x||
-|**Charts**| | | |
-||Move, remove|x|x|
-||Add|x| |
-|Ribbon and actions||x||
-|Navigation Pane||x||
+### Fields in FastTabs
+
+|  Personalize |  Windows client  |  Web client  |
+|---------------|------------------|--------------|
+|Add, move, remove |x|x|
+|Show in collapsed header|x||
+|Hide under **Show more fields** action|x||
+
+### Lists or document lines
+
+|  Personalize |  Windows client  |  Web client  |
+|---------------|------------------|--------------|
+|Add, move, remove columns  |x|x|
+|Add, move, remove freeze pane  |x|x|
+
+### FactBoxes
+
+|  Personalize |  Windows client  |  Web client  |
+|---------------|------------------|--------------|
+|Move, remove|x|x|
+|Add|x||
+|Add, move, remove fields|x|x|
+
+### Cues
+
+|  Personalize |  Windows client  |  Web client  |
+|---------------|------------------|--------------|
+|Move, remove|x|x|
+|Add |x||
+
+### Charts
+
+|  Personalize |  Windows client  |  Web client  |
+|---------------|------------------|--------------|
+|Move, remove|x|x|
+|Add|x| |
+|Ribbon and actions||x|
+|Navigation Pane||x|
 
 Another difference is that when personalizing by using the Windows client, you can have various personalized versions of the same page, based on different access points to the page. For example, the **Sales Orders** page personalized to look different when it is opened from the **Customer Card** page than when it is opened from the **Sales Order Processor Role Center** page. When you personalize a page by using the Web client, there is only one personalized version per page, so the changes will be seen in the page no matter where you open it from.
 
