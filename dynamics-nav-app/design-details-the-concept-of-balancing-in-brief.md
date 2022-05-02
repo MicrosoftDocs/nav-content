@@ -22,7 +22,7 @@ Demand is given by a company’s customers. Supply is what the company can creat
   
  The objective of the planning mechanism is to counterbalance the demand and supply of an item to ensure that supply will match demand in a feasible way as defined by the planning parameters and rules.  
   
- ![](media/nav_app_supply_planning_2_balancing.png "NAV_APP_supply_planning_2_balancing")  
+ ![Illustration Tree for Supply and Demand Planning Mechanism](media/nav_app_supply_planning_2_balancing.png "NAV_APP_supply_planning_2_balancing")  
   
 ## See Also
 [Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  

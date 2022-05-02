@@ -36,7 +36,7 @@ The main difference between specific and nonspecific reservation is defined by t
   
 ||||  
 |-|-|-|  
-||**Supply**|**Demand**|  
+|**Reservation Type**|**Supply**|**Demand**|  
 |**Specific**|Serial or lot number.|Serial or lot number.|  
 |**Nonspecific**|Serial or lot number.|No serial or lot number.|  
   
