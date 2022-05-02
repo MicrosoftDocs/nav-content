@@ -1,5 +1,6 @@
 ---
 title: "How to: Enable Customer Payments Through PayPal"
+description: Describes how to enable customer payments through PayPal.
 author: SorenGP
 ms.author: edupont
 ms.custom: na
@@ -42,7 +43,7 @@ The PayPal Payments Standard service is installed as an extension to Dynamics NA
 **Note**: The **Payment Service** field is only visible if the PayPal Payments Standard service is enabled.   
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Customizing Dynamics NAV Using Extensions](ui-extensions.md)

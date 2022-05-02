@@ -82,7 +82,7 @@ You can re-export payment files from the **Credit Transfer Registers** window. B
 2. Select a payment export that you want to re-export, and then choose the **Reexport Payment to File** action.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Payables](payables-manage-payables.md)  
 [Setting Up Purchasing](purchasing-setup-purchasing.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

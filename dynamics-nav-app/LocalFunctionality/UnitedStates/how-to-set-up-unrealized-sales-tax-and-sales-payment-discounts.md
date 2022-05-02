@@ -66,7 +66,7 @@ You can use the **General Ledger Setup** window to set up unrealized sales tax. 
 9. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [United States Local Functionality](united-states-local-functionality.md)  
 [Reporting Sales Tax in the US](us-sales-tax.md)  
 [Finance](../../finance.md)  

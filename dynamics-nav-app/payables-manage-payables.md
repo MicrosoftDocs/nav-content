@@ -32,7 +32,7 @@ The following table describes a sequence of tasks within accounts payable, with 
 |Ensure correct inventory valuation by assigning added item costs, such as freight, physical handling, insurance, and transportation that you incur when purchasing.|[How to: Use Item Charges to Account for Additional Trade Costs](payables-how-assign-item-charges.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Managing Receivables](receivables-manage-receivables.md)  
 [How to: Use Item Charges to Account for Additional Trade Costs](payables-how-assign-item-charges.md)  

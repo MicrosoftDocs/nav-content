@@ -34,7 +34,7 @@ You can create a contact card for each contact who works for the companies you i
 >   The contents of the fields that you have selected in the **Inheritance** section of the **Marketing Setup** window are copied from the company to the persons within that company.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Relationship Management](marketing-setup-marketing.md)  
 [Assigning Mailing Groups to a Contact](marketing-mailing-groups.md#AssignMailGroupContact)  
 [How to: Set Up Job Responsibilities on Contacts](marketing-job-responsibilities.md)  
