@@ -1,5 +1,5 @@
 ---
-title: Description on How To Change the Role Center
+title: Description of How To Change the Role Center
 description: You can select a different profile in Dynamics NAV to change what you see on your Home page.
 
 documentationcenter: ''

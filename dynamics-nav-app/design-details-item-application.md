@@ -1,5 +1,5 @@
 ---
-    title: Item Application for Design Details 
+    title: Design Details and Its Item Application 
     description: This topic describes where inventory quantity and value are recorded when you post an inventory transaction.
     
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Item Application for Design Details
+# Design Details and Its Item Application
 When you post an inventory transaction, the quantity posting is recorded in the item ledger entries, the value posting in the value entries. For more information, see [Design Details: Inventory Posting](design-details-inventory-posting.md).  
 
 In addition, an item application is made to link the cost recipient to its cost source to provide cost forwarding according to the costing method. For more information, see [Design Details: Costing Methods](design-details-costing-methods.md).  
