@@ -1,6 +1,6 @@
 ---
     title: How to Copy Existing Items to New Items - Switzerland
-    description: You can group items with similar settings in an item catalog. When you add a new item, to save time, you can use **Copy Item** to copy an existing item to use as a template for a new item.
+    description: Learn how to group items with similar settings in an item catalog. When you add a new item, to save time, you can use **Copy Item** to copy an existing item to use as a template for a new item.
 
     documentationcenter: ''
     author: SorenGP
@@ -37,5 +37,5 @@ You can group items with similar settings in an item catalog. When you add a new
 5.  To copy your selections to the new item, choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Inventory](../../inventory-setup-inventory.md)

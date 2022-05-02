@@ -1,6 +1,6 @@
 ---
     title: How to Print ESR Invoices
-    description: You can print an Einzahlungsschein mit Referenznummer (ESR) payment slip in several ways.
+    description: Learn how to print an Einzahlungsschein mit Referenznummer (ESR) payment slip in several ways.
 
     documentationcenter: ''
     author: SorenGP
@@ -45,6 +45,6 @@ The following procedure describes how to print ESR sales invoices, but the same 
 You can also reprint the sales invoice ESR report or sales ESR coupon report.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Electronic Payments Using ESR](swiss-electronic-payments-using-esr.md)   
  [How to: Import ESR Payments](how-to-import-esr-payments.md)
