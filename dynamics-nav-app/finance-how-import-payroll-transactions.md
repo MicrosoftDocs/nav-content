@@ -15,7 +15,7 @@ ms.date: 06/16/2017
 ms.author: edupont
 
 ---
-# How to: Import Payroll Transactions
+# Dynamics Nav - How to Import Payroll Transactions
 To account for salary payments and related transactions, you must import and post financial transactions made by your payroll provider to the general ledger. To do this, you first import a file that you receive from the payroll provider into the **General Journal** window. Then you map the external accounts in the payroll file to the relevant G/L accounts. Lastly, you post the payroll transactions according to the account mapping.
 
 > [!NOTE]  
@@ -33,7 +33,7 @@ To account for salary payments and related transactions, you must import and pos
 4. Edit or post the journal lines as for any other general ledger transactions. For more information, see [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md).   
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Working with General Journals](ui-work-general-journals.md)  

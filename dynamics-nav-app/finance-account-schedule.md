@@ -1,5 +1,6 @@
 ---
 title: "Account Schedules"
+description: "Account schedules"
 author: edupont04
 ms.author: edupont
 ms.custom: na
@@ -25,7 +26,7 @@ This means that you can create as many customized financial statements as you wa
 ## Account Categories and Account Schedules
 You can use account categories to change the layout of your financial statements. When you have set up your account categories in the **G/L Account Categories** window, and you choose the **Generate Account Schedules** action, the underlying account schedules for the core financial reports are updated. the next time you run one of these reports, such as the balance statement, new totals and subentries are added, based on your changes. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).    
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  

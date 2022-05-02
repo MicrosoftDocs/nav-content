@@ -1,5 +1,6 @@
 ---
 title: "How to: Make predictive cash flow forecasts"
+description: "How to: Make predictive cash flow forecasts"
 author: bholtorf
 ms.author: bholtorf
 ms.custom: na
@@ -69,5 +70,5 @@ For example, you can see how the forecast:
 * Skips duplicate sales orders and purchase orders
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Work With Dynamics NAV](ui-work-product.md)

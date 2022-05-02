@@ -1,5 +1,6 @@
 ---
 title: "Currencies"
+description: Currencies
 author: edupont04
 ms.author: edupont
 ms.custom: na
@@ -19,5 +20,5 @@ You can use an external service to get the latest currency exchange rates into t
 The service that provides updated currency exchange rates is enabled by a data exchange definition in the **Currency Exchange Rate Service** window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Close Years and Periods](year-close-years-periods.md)
