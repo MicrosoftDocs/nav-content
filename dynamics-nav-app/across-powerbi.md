@@ -105,5 +105,5 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 
 ## See Also
-[Dynamics 365 Business Central](dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Welcome to Dynamics NAV](across-get-started.md)  

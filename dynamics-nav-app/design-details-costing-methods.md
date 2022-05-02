@@ -149,7 +149,7 @@ The costing method determines if an actual or a budgeted value is capitalized an
 |04-01-20|-1|-30.00|**3**|6|  
 
 ## See Also
-[Dynamics 365 Business Central](dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Variance](design-details-variance.md)   
  [Design Details: Average Cost](design-details-average-cost.md)   

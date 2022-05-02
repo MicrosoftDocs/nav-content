@@ -280,7 +280,7 @@ Dampener time can be added to resources to minimize operation splitting. This en
 This completes the outline of central concepts relating to supply planning in [!INCLUDE[d365fin](includes/d365fin_md.md)]. The following sections investigate these concepts deeper and place them in the context of the core planning procedures, balancing demand and supply as well as the use of reordering policies.  
 
 ## See Also
-[Dynamics 365 Business Central](dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Transfers in Planning](design-details-transfers-in-planning.md)   
 [Design Details: Planning Parameters](design-details-planning-parameters.md)   
 [Design Details: Planning Assignment Table](design-details-planning-assignment-table.md)   
