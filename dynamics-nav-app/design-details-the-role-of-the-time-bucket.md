@@ -27,7 +27,7 @@ The purpose of the time bucket is to collect demand events within the time windo
  The time bucket is generally used to avoid a cascade effect. For example, a balanced row of demand and supply where an early demand is canceled, or a new one is created. The result would be that every supply order (except the last one) is rescheduled.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Reordering Policies](design-details-reordering-policies.md)   
  [Design Details: Planning Parameters](design-details-planning-parameters.md)   
  [Design Details: Handling Reordering Policies](design-details-handling-reordering-policies.md)   

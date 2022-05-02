@@ -41,5 +41,5 @@ The **Item Tracking Lines** and **Item Tracking Summary** windows provide dynami
 >  This formula implies that the serial or lot number availability calculation considers only inventory and ignores projected receipts. Accordingly, supply that is not yet posted to inventory does not affect item tracking availability, as opposed to regular item availability where projected receipts are included.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Item Tracking](design-details-item-tracking.md)

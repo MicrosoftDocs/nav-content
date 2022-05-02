@@ -1,5 +1,5 @@
 ---
-    title: Design Details About Item Application 
+    title: Design Details for Item Application 
     description: This topic describes how item application happens when you post an inventory transaction.
     
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Design Details About Item Application
+# Design Details for Item Application
 When you post an inventory transaction, the quantity posting is recorded in the item ledger entries, the value posting in the value entries. For more information, see [Design Details: Inventory Posting](design-details-inventory-posting.md).  
   
 In addition, an item application is made to link the cost recipient to its cost source to provide cost forwarding according to the costing method. For more information, see [Design Details: Costing Methods](design-details-costing-methods.md).  
@@ -238,7 +238,7 @@ Because of the way an item’s unit cost is calculated, an incorrect item applic
 [!INCLUDE[d365fin](includes/d365fin_md.md)] offers a feature for analyzing and correcting item applications. This work is performed in the **Application Worksheet** window.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)  
 [Design Details: Costing Methods](design-details-costing-methods.md)  
 [Design Details: Average Cost](design-details-average-cost.md)  

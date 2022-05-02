@@ -34,9 +34,8 @@ Reservation of item tracking numbers falls into two categories, as shown in the 
   
 The main difference between specific and nonspecific reservation is defined by the existence of serial or lot numbers on the demand side, as shown in the following table.  
   
-||||  
+|Reservation Type|Supply|Demand|  
 |-|-|-|  
-|**Reservation Type**|**Supply**|**Demand**|  
 |**Specific**|Serial or lot number.|Serial or lot number.|  
 |**Nonspecific**|Serial or lot number.|No serial or lot number.|  
   
@@ -89,5 +88,5 @@ This business scenario is supported with Late Binding functionality that enables
 **Item XX cannot be fully applied.**  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Item Tracking](design-details-item-tracking.md)
