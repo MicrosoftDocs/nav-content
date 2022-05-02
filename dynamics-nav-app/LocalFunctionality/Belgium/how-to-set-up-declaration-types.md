@@ -30,7 +30,7 @@ When using the extended declaration, you will also need to set up an Incoterm in
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
 2.  On the **General** FastTab, select the **Simplified Intrastat Decl.** check box to set up a simplified declaration type. Clear this field to use extended declaration.  
 3.  Choose the **OK** button.  
-microsoft.com
+
 ## See Also
 [Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
