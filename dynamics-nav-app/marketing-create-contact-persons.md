@@ -1,5 +1,5 @@
 ---
-title: Create Contact Persons
+title: Dynamics Nav - Create Contact Persons
 description: Outlines the tasks to create a contact card for a person, for example, a prospect or supplier, helping to define the relationship and tailor communication.
 
 documentationcenter: ''

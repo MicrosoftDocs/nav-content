@@ -1,4 +1,8 @@
 ---
+title: Maderia Get Started
+description: Maderia Get Started
+author: edupont04 
+ms.author: edupont
 ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ---

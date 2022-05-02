@@ -1,5 +1,5 @@
 ---
-title: Create Contact Companies
+title: Dynamics Nav - Create Contact Companies
 ddescription: Outlines the tasks to create contact companies, including assigning relevant data about prospects and defining the business relationships you have with companies.
 
 documentationcenter: ''

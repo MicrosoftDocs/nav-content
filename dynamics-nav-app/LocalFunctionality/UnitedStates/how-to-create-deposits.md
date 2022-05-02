@@ -1,5 +1,5 @@
 ---
-    title: How to Create Deposits
+    title: Dynamics Nav - How to Create Deposits
     description: You can make deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.
     
      
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Create Deposits
+# Dynamics Nav - How to Create Deposits
 You can make deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.  
 
 ## To create a deposit  

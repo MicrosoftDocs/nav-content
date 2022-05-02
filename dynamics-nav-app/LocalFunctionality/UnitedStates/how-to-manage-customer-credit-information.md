@@ -1,5 +1,5 @@
 ---
-    title: How to Manage Customer Credit Information
+    title: Dynamics Nav - How to Manage Customer Credit Information
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
 
 
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Manage Customer Credit Information
+# Dynamics Nav - How to Manage Customer Credit Information
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.  
 
 ## To add comments to customer credit information  
@@ -44,7 +44,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 2. Select a customer, and then choose the **Edit** action.  
 3. On the **General** FastTab, in the **Blocked** field, select one of the following options:  
 
-   - **<Blank>** – Transaction is allowed for this customer.  
+   - **\<Blank>** – Transaction is allowed for this customer.  
    - **Ship** – New orders and new shipments cannot be created for this customer. Existing shipments not yet invoiced can be invoiced.  
    - **Invoice** – New orders, new shipments, and new invoices cannot be created for this customer. Existing shipments not yet invoiced cannot be invoiced.  
    - **All** – No transaction is allowed for this customer, including payments.  

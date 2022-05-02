@@ -1,5 +1,5 @@
 ---
-    title: How to Print Troubleshooting Reports
+    title: Dynamics Nav - How to Print Troubleshooting Reports
     description: Several troubleshooting reports are available to assist Microsoft Certified Partners with troubleshooting issues.
 
 
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Troubleshooting Reports
+# Dynamics Nav - How to Print Troubleshooting Reports
 The following troubleshooting reports are available to assist Microsoft Certified Partners with troubleshooting issues:  
 
 -   **License Information** report – This report contains the license number, the name of the licensed user, which application granules they have purchased, and when the license expires, if applicable.  

@@ -1,6 +1,7 @@
 ---
 title: "How to: Set Up Alternative Addresses for Contacts"
 author: jswymer
+ms.author: jswymer 
 ms.custom: na
 ms.date: 09/16/2016
 ms.reviewer: na
@@ -9,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: "dynamics-nav-2018"
 ---
-# How to: Set Up Alternative Addresses for Contacts
+# Dynamics Nav - How to Set Up Alternative Addresses for Contacts
 You can assign an alternative address where your contacts are sometimes sent mail and information, for example, their summer cottage. You can also assign one or several date ranges to each alternative address you have entered for your contacts to specify when each address is valid.
 
 ## To assign an alternative address

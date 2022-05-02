@@ -161,13 +161,13 @@ You must set up a code representing each finance charge calculation. Then you ca
 Finance charges can be calculated using either the average daily balance method or the balance due method.
 
 With the balance due method, the finance charge is simply a percentage of the overdue amount:  
-
-    Balance Due method - Finance Charge = Overdue Amount x (Interest Rate / 100)
-
+```markdown
+Balance Due method - Finance Charge = Overdue Amount x (Interest Rate / 100)
+```
 With the average daily balance method, the number of days the payment is overdue is taken into account:  
-
-    Average Daily Balance method - Finance Charge = Overdue Amount x (Days Overdue / Interest Period) x (Interest Rate/100)
-
+```markdown
+Average Daily Balance method - Finance Charge = Overdue Amount x (Days Overdue / Interest Period) x (Interest Rate/100)
+```
 In addition, each code in the Finance Charge Terms table is linked to a subtable, the Finance Charge Text table. For each set of finance charge terms, you can define a beginning and/or an ending text to be included on the finance charge memo.
 
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Finance Charge Terms**, and then choose the related link.  

@@ -1,5 +1,5 @@
 ---
-title: Create Contact Companies
+title: Dynamics Nav - Create Contact Companies
 description: Describes how to create a contact for each new company or prospective company you interact with or have a relationship with.
 
 documentationcenter: ''
@@ -15,7 +15,7 @@ ms.date: 06/06/2017
 ms.author: jswymer
 
 ---
-# How to: Create Contact Companies
+# Dynamics Nav - How to Create Contact Companies
 You can create a contact for each new company you interact with, for example, a customer, vendor, prospective customer, bank, law firm, consultant, and so on.
 
 There are two ways to create a contact:

@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Use Tax and Purchase Tax
+    title: Dynamics Nav - How to Set Up Use Tax and Purchase Tax
     description: Sales tax includes taxes that companies pay for using items
     
      
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Use Tax and Purchase Tax
+# Dynamics Nav - How to Set Up Use Tax and Purchase Tax
 Sales tax includes taxes that companies pay for using items:  
 
 - Use tax (United States) – Use tax is a United States sales tax that is paid on items that are purchased by a company and are used by that company instead of being sold to a customer. The company must pay sales tax for those items to the government, in the form of use tax.  
