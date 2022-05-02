@@ -1,6 +1,6 @@
 ---
     title: How to Print The Vendor Payments List Reports
-    description: The **Vendor Payments List** report provides a list of payments for each vendor. The report can sort payments chronologically or grouped by vendor.
+    description: The **Vendor Payments List** report provides a list of payments for each vendor. Report can sort payments chronologically or grouped by vendor.
 
     documentationcenter: ''
     author: SorenGP

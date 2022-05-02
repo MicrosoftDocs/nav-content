@@ -1,6 +1,6 @@
 ---
     title: How to Apply and Unapply The General Ledger Entries
-    description: Applying temporary general ledger entries allows companies to work with temporary and transfer accounts in the general ledger. Temporary and transfer accounts are used to store temporary ledger entries that are waiting for further processing into the general ledger.
+    description: Applying temporary general ledger entries allows companies to work with temporary and transfer accounts in the general ledger.
 
     documentationcenter: ''
     author: SorenGP

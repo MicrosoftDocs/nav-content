@@ -1,6 +1,6 @@
 ---
     title: How to Set Up The Delivery Reminder Terms, Levels, and Text
-    description: To create delivery reminders, you must perform certain setup.
+    description: To create delivery reminders, you are required to perform certain setup.
 
     documentationcenter: ''
     author: SorenGP

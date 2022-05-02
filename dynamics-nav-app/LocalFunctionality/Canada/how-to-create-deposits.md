@@ -1,6 +1,6 @@
 ---
     title: How to Create The Deposits
-    description: You can make deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.
+    description: You can make The deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.
     
      
     author: SorenGP

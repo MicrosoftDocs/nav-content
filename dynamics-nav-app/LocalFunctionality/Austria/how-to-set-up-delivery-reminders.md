@@ -1,6 +1,6 @@
 ---
     title: How to Set Up The Delivery Reminders
-    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase delivery reminders to remind vendors about overdue deliveries. 
+    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase delivery reminders for reminding vendors about overdue deliveries. 
 
     documentationcenter: ''
     author: SorenGP
