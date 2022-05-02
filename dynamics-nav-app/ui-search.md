@@ -1,6 +1,7 @@
 ---
 title: "Using Search for Page or Report"
 author: SusanneWindfeldPedersen
+ms.author: solsen
 ms.custom: na
 ms.date: 09/22/2016
 ms.reviewer: na

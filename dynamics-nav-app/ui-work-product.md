@@ -38,5 +38,3 @@ The following table lists some of the general functionality with links to topics
 [Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
 [General Business Functionality](ui-across-business-areas.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
-
-## 

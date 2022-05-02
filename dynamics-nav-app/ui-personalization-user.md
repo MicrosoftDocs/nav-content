@@ -9,6 +9,7 @@ ms.workload: na
 ms.search.keywords: customize, personalize, personalize page, personalization, hide columns, remove fields, move fields
 ms.date: 07/26/2017
 author: jswymer
+ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
 # Personalizing Your Workspace Using the Dynamics NAV Web Client
