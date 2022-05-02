@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Automatic Account Posting Groups
+    title: How to Set Up Automatic Account Posting Groups - Sweden
     description: To use automatic account codes, you must create an automatic account posting group.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Automatic Account Posting Groups
+# How to: Set Up Automatic Account Posting Groups - Sweden
 To use automatic account codes, you must create an automatic account posting group.  
 
 ## To set up automatic account posting groups  

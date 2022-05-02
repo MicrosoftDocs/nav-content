@@ -1,5 +1,5 @@
 ---
-    title: Delivery Reminders
+    title: Delivery Reminders - Switzerland
     description: Delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries. 
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Delivery Reminders
+# Delivery Reminders - Switzerland
 Delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries. To create delivery reminders, you must set up the following:  
 
 - Delivery reminder terms  

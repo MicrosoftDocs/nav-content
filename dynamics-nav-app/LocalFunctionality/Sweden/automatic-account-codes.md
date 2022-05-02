@@ -1,5 +1,5 @@
 ---
-    title: Automatic Account Codes
+    title: Automatic Account Codes - Sweden
     description: You can use customized posting groups to automate recurring transactions in journals, sales documents, or purchase documents.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Automatic Account Codes
+# Automatic Account Codes - Sweden
 You can use customized posting groups to automate recurring transactions in journals, sales documents, or purchase documents. These posting groups can be used throughout [!INCLUDE[navnow](../../includes/navnow_md.md)] to trigger automatic postings and allocations across different accounts or dimensions.  
 
 Automatic account codes can be used to automate postings related to payroll overhead. For example, when posting total salary expenses at the end of the month, you can use automatic account codes to assign a percentage of the total salary to automatically post as overhead expenses.  

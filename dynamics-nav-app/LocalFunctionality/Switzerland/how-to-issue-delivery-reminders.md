@@ -1,5 +1,5 @@
 ---
-    title: How to Issue Delivery Reminders
+    title: How to Issue Delivery Reminders - Switzerland
     description: After you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Issue Delivery Reminders
+# How to: Issue Delivery Reminders - Switzerland
 After you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report. For more information, see [How to: Print Test Reports for Delivery Reminders](how-to-print-test-reports-for-delivery-reminders.md).  
 
 When you issue the delivery reminders, delivery reminder ledger entries are created. You can view the created ledger entries in the **Deliv. Reminder Ledger Entries** window.  

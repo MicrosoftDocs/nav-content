@@ -1,5 +1,5 @@
 ---
-    title: How to Print Vendor Payments List Reports
+    title: How to Print Vendor Payments List Reports - Switzerland
     description: The **Vendor Payments List** report provides a list of payments for each vendor. The report can sort payments chronologically or grouped by vendor.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Vendor Payments List Reports
+# How to: Print Vendor Payments List Reports - Switzerland
 The **Vendor Payments List** report provides a list of payments for each vendor. The report can sort payments chronologically or grouped by vendor.  
 
 ## To print the vendor payments list report  

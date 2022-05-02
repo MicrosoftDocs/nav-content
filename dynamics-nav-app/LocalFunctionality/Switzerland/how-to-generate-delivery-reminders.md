@@ -1,5 +1,5 @@
 ---
-    title: How to Generate Delivery Reminders
+    title: How to Generate Delivery Reminders - Switzerland
     description: In ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/how-to-create-delivery-reminders-manually.md).
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Generate Delivery Reminders
+# How to: Generate Delivery Reminders - Switzerland
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery reminders when a purchase has not been delivered as expected. You can generate delivery reminders for all overdue deliveries, or you can create a single delivery reminder manually. For more information, see [How to: Create Delivery Reminders Manually](how-to-create-delivery-reminders-manually.md).  
 
 > [!NOTE]  
