@@ -1,5 +1,6 @@
 ---
 title: "How to: Set Up Alternative Addresses for Contacts"
+description: Describes how to assign an alternate address for your contacts where they are sometimes sent information.
 author: jswymer
 ms.author: jswymer 
 ms.custom: na

@@ -1,5 +1,5 @@
 ---
-title: Dynamics Nav - Create Contact Persons
+title: Dynamics Nav - Create Contact Card for a Person
 description: Outlines the tasks to create a contact card for a person, for example, a prospect or supplier, helping to define the relationship and tailor communication.
 
 documentationcenter: ''
@@ -35,7 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Assign mailing groups your contacts |[Assigning Mailing Groups to a Contact](marketing-mailing-groups.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Creating Contact Companies](marketing-create-contact-companies.md)  
 [Creating and Managing Contacts]()  
 [Working with Dynamics NAV](ui-work-product.md)

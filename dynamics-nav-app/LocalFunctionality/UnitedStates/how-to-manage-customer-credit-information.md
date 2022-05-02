@@ -1,6 +1,6 @@
 ---
     title: Dynamics Nav - How to Manage Customer Credit Information
-    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
+    description: In Dynamics NAV, you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
 
 
     author: SorenGP
@@ -52,7 +52,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 4. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [United States Local Functionality](united-states-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)

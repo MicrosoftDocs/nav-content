@@ -1,5 +1,5 @@
 ---
-title: Dynamics Nav - Create Contact Companies
+title: Dynamics Nav - Create Contacts for New or Prospective Companies
 description: Describes how to create a contact for each new company or prospective company you interact with or have a relationship with.
 
 documentationcenter: ''
@@ -51,7 +51,7 @@ If you have already set up a number of customers, vendors, and bank accounts, yo
 >   You can also create a customer, vendor, or bank account from a contact. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Assign Business Relations to a Contact](marketing-business-relations.md#AssignBusRelContact)  
 [Assign Industry Groups to a Contact](marketing-industry-groups.md#AssignIndustryGroupContact)  
