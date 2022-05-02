@@ -1,6 +1,6 @@
 ---
     title: How to Print Test Reports for Delivery Reminders - Switzerland
-    description: After you have created delivery reminders and made any needed modifications, you can either print the test reports or issue the delivery reminders.
+    description: Learn how to print test reports or issue delivery reminders after creating delivery reminders and making any modifications.
 
     documentationcenter: ''
     author: SorenGP

@@ -65,7 +65,7 @@ The following procedure describes how to set up beginning text messages, but the
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   
  [How to: Assign Delivery Reminder Codes to Vendors](how-to-assign-delivery-reminder-codes-to-vendors.md)   
