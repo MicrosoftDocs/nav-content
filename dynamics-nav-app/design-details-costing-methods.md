@@ -32,7 +32,7 @@ The costing method determines if an actual or a budgeted value is capitalized an
 
  Costing methods differ in the way that they value inventory decreases and if they use actual cost or standard cost as the valuation base. The following table explains the different characteristics. (The LIFO method is excluded, as it is very similar to the FIFO method.)  
 
-||FIFO|Average|Standard|Specific|  
+|Characteristics |FIFO|Average|Standard|Specific|  
 |-|----------|-------------|--------------|--------------|  
 |General characteristic|Easy to understand|Based on period options: **Day**/**Week**/**Month**/**Quarter**/**Accounting Period**.<br /><br /> Can be calculated per item or per item/location/variant.|Easy to use, but requires qualified maintenance.|Requires item tracking on both inbound and outbound transaction.<br /><br /> Typically used for serialized items.|  
 |Application/Adjustment|Application keeps track of **the remaining quantity**.<br /><br /> Adjustment forwards costs according to quantity application.|Application keeps track of the **remaining quantity**.<br /><br /> Costs are calculated and forwarded per the **valuation date**.|Application keeps track of the **remaining quantity**.<br /><br /> Application is based on FIFO.|All applications are fixed.|  
@@ -149,7 +149,7 @@ The costing method determines if an actual or a budgeted value is capitalized an
 |04-01-20|-1|-30.00|**3**|6|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Variance](design-details-variance.md)   
  [Design Details: Average Cost](design-details-average-cost.md)   

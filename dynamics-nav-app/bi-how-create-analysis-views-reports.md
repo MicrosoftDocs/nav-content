@@ -43,13 +43,12 @@ Then you can set up columns like these:
 
 Based on the lines and columns you have set up, the program will aggregate the result of your report in the **Analysis Report** matrix window, such as in this example:  
 
-|||||  
-|-|-|-|-|  
-||Sales Current Month|Sales Last Month|Sales Last Month %|  
-|Computers||||  
-|Displays||||  
-|Spare parts||||  
-|Total||||  
+|    Object Name    |Sales Current Month|Sales Last Month|Sales Last Month %|   
+|-------------------|-------------------|----------------|------------------| 
+|Computers          |                   |                |                  |  
+|Displays           |                   |                |                  |  
+|Spare parts        |                   |                |                  |  
+|Total              |                   |                |                  |  
 
  You can, for example, set up one set of lines and several sets of column layouts to show monthly and annual reports respectively.
 
@@ -101,7 +100,7 @@ You use analysis reports to analyze the dynamics of your sales according to key 
 >   Building combinations of line and column templates to create reports and assigning them unique names is optional. If you do this, selecting a report name means that you will not need to select line and column templates in the **Sales Analysis Report** window. After you have chosen a report name, you can change line and column templates independently and then later select the report name again to restore the original combination.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

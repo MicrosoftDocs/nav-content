@@ -1,5 +1,5 @@
 ---
-    title: Design Details - Closing Demand and Supply 
+    title: Design Details - How to Close Demand and Supply 
     description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
     
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Design Details: Closing Demand and Supply
+# Design Details: How to Close Demand and Supply  
 When the supply balancing procedures have been performed, there are three possible end situations:  
   
 * The required quantity and date of the demand events have been met and the planning for them can be closed. The supply event is still open and may be able to cover the next demand, so the balancing procedure can start over with the current supply event and the next demand.  
@@ -36,7 +36,7 @@ To minimize database access when handling production orders, the planning line c
 This concludes the descriptions of how demand and supply is loaded, prioritized, and balanced by the planning system. In integration with this supply planning activity, the system must ensure that the required inventory level of each planned item is maintained according to its reordering policies.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Balancing Demand and Supply](design-details-balancing-demand-and-supply.md)   
 [Design Details: Central Concepts of the Planning System](design-details-central-concepts-of-the-planning-system.md)   
 [Design Details: Supply Planning](design-details-supply-planning.md)
