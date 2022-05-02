@@ -45,7 +45,7 @@ Even though inventory costs are automatically posted to the general ledger, it i
 |Manage business operations in sales offices, a purchasing departments, or plant planning offices across multiple locations.|[How to: Work with Responsibility Centers](inventory-responsibility-centers.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Sales](sales-manage-sales.md)    

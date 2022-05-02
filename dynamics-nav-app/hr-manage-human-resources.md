@@ -30,7 +30,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Record employees' absence and view absence statistics by various filters. |[How to: Manage Employee Absence](hr-how-manage-absence.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)        

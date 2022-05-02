@@ -1,5 +1,6 @@
 ---
 title: "How to: Post Inventory Costs to the General Ledger"
+description: "How to: Post Inventory Costs to the General Ledger"
 author: SorenGP
 ms.author: edupont
 ms.custom: na
@@ -41,7 +42,7 @@ To see a list of errors before running the posting batch job, you can run the **
 If you would like to simply get an overview of what values could be posted to the general ledger without actually performing the posting, you can run the Post Inventory Cost to G/L batch job without actually posting the values to the general ledger. You do this by clearing the check mark from the Post field on the request page. This way, when you run the batch job, the report is produced showing the values that are ready to be posted to the general ledger, but they are not posted.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Manage Inventory](inventory-manage-inventory.md)    
 [How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)  
 [Manage Sales](sales-manage-sales.md)  
