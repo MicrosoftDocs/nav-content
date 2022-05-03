@@ -1,6 +1,6 @@
 ---
 title: Using the Payments and Reconciliations (DK) Extension
-description: This extension makes it easy to export files that are pre-formatted to meet bank requirements for electronic submissions. 
+description: This extension provides the ability to export files that are pre-formatted to meet bank requirements for electronic submissions. 
 
  
 author: bholtorf
@@ -58,7 +58,7 @@ Additionally, you must assign vendors to a domestic **Gen. Bus. Posting Group** 
 ### To specify a payment method for a vendor
 The following table shows the combinations of FIK and GIRO payment methods that [!INCLUDE[navnow](../../includes/navnow_md.md)] supports.
 
-|| GIRO Account Type 01 | GIRO Account Type 04 | FIK Creditor Type 71 | FIK Creditor Type 73 |
+|| GIRO Account | GIRO Account | FIK Creditor | FIK Creditor |
 |----|---|---|---|---|
 |Giro Account No. or FIK Creditor No.? | Giro Account No. | Giro Account No. | FIK Creditor No. | FIK Creditor No.|
 |Allows Message to Recipient? | Yes |No |No | Yes |
