@@ -1,6 +1,6 @@
 ---
 title: Personalizing Pages in the Dynamics Windows Client
-description: Learn how to customize the user interface to suit your way of working.
+description: Learn how to customize the user interface to suit your way of working for the Dynamics Windows Client.
 author: jswymer
 ms.topic: article
 ms.devlang: na
@@ -86,7 +86,7 @@ FastTabs help organize information about pages into simple, manageable groups. Y
 
 1.  Open the page that you want to change.
 2.  Choose the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon") icon, select **Customize**, and then choose **Customize This Page**.  
-3.  In the **Customize <Page Name>** dialog box, choose **FastTabs**.  
+3.  In the **Customize \<Page Name\>** dialog box, choose **FastTabs**.  
 
 ### To add, move, or remove FastTabs
 The **Show FastTabs in this order** box contains the FastTabs that are currently on the page, and the order in which they are displayed. Use the **Add**, **Remove**, and **Move Up** and **Move Down** buttons to make changes.
@@ -300,7 +300,7 @@ If you only want to cancel UI customization that you have made to a specific UI 
 
 #### To cancel UI customization that you have made to a UI area on a page  
 
-1.  From the page where you have customized a UI area, such as the ribbon, choose the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon") icon, choose **Customize**, and then choose **Customize <UI area>**.  
+1.  From the page where you have customized a UI area, such as the ribbon, choose the **Application** menu ![Application Menu button in menu bar](media/applicationmenuicon.png "ApplicationMenuIcon") icon, choose **Customize**, and then choose **Customize \<UI area\>**.  
 
 2.  At the bottom of the **Customize** window, choose the **Restore Defaults** button.  
 
@@ -363,6 +363,6 @@ Basic UI changes include things like:
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Personalizing Your Workspace in the Dynamics Web Client](ui-personalization-user.md)  
 [Personalization Overview](ui-personalization-overview.md)  

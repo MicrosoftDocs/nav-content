@@ -1,6 +1,6 @@
 ---
-    title: How to Issue Delivery Reminders
-    description: After you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report.
+    title: How to Issue Delivery Reminders - Switzerland
+    description: Learn how to issue and print delivery reminders to send them to vendors. Before you issue the delivery reminders, you can print a test report.
 
     documentationcenter: ''
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Issue Delivery Reminders
+# How to: Issue Delivery Reminders - Switzerland
 After you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report. For more information, see [How to: Print Test Reports for Delivery Reminders](how-to-print-test-reports-for-delivery-reminders.md).  
 
 When you issue the delivery reminders, delivery reminder ledger entries are created. You can view the created ledger entries in the **Deliv. Reminder Ledger Entries** window.  
@@ -51,7 +51,7 @@ You can view the issued reminders in the **Issued Delivery Reminder** window. Op
 In the Deliv. Reminder Ledger Entries window, you can view the delivery reminder ledger entries for the selected purchase order.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Create Delivery Reminders Manually](how-to-create-delivery-reminders-manually.md)

@@ -1,6 +1,6 @@
 ---
 title: Personalizing Your Workspace Using the Dynamics NAV Web Client
-description: Learn how to customize the user interface to suit your way of working.
+description: Learn about the different options to customize the user interface to suit your way of working.
 documentationcenter: ''
 ms.topic: article
 ms.devlang: na
@@ -9,6 +9,7 @@ ms.workload: na
 ms.search.keywords: customize, personalize, personalize page, personalization, hide columns, remove fields, move fields
 ms.date: 07/26/2017
 author: jswymer
+ms.author: jswymer
 ms.prod: "dynamics-nav-2018"
 ---
 # Personalizing Your Workspace Using the Dynamics NAV Web Client
@@ -17,11 +18,11 @@ You can customize, or *personalize*, your workspace to suit your work and prefer
 
 Depending on the type of page and what it includes, you can:
 
--   Add, move, and remove fields.
--   Add, move, and remove columns in a list.
--   Change the freeze pane of columns in a list. The freeze pane locks one or more columns to the left side of a list so that are always present, even when you scroll horizontally.
--   Move and remove Cues (tiles).
--   Move and remove parts. Parts are subdivisions or areas on a page that contain things like multiple fields, another page, a chart, or tiles.  
+- Add, move, and remove fields.
+- Add, move, and remove columns in a list.
+- Change the freeze pane of columns in a list. The freeze pane locks one or more columns to the left side of a list so that are always present, even when you scroll horizontally.
+- Move and remove Cues (tiles).
+- Move and remove parts. Parts are subdivisions or areas on a page that contain things like multiple fields, another page, a chart, or tiles.  
 
 ## To personalize a page
 
@@ -72,7 +73,7 @@ To help you better understand personalization, here are some pointers.
 -   You can only add fields and columns from a predefined list, which is based on the page. You cannot create new ones.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Personalization Overview](ui-personalization-overview.md)  
 [Managing Personalization](ui-personalization-manage.md)  
 [Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  

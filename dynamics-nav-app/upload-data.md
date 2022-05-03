@@ -35,7 +35,7 @@ For more information, see [QuickBooks Desktop Data Migration](ui-extensions-quic
 >   Working with configuration packages is advanced functionality, and we recommend that you contact your administrator. For more information, see [Importing Data from Legacy Accounting Software using a Configuration Package](across-import-data-configuration-packages.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Importing Data from Legacy Accounting Software using a Configuration Package](across-import-data-configuration-packages.md)  
 [QuickBooks Desktop Data Migration](ui-extensions-quickbooks-data-migration.md)  
@@ -43,5 +43,3 @@ For more information, see [QuickBooks Desktop Data Migration](ui-extensions-quic
 [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)   
 [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)
-
-## 

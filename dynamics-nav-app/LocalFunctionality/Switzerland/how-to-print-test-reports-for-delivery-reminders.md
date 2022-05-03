@@ -1,6 +1,6 @@
 ---
-    title: How to Print Test Reports for Delivery Reminders
-    description: After you have created delivery reminders and made any needed modifications, you can either print the test reports or issue the delivery reminders.
+    title: How to Print Test Reports for Delivery Reminders - Switzerland
+    description: Learn how to print test reports or issue delivery reminders after creating delivery reminders and making any modifications.
 
     documentationcenter: ''
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Test Reports for Delivery Reminders
+# How to: Print Test Reports for Delivery Reminders - Switzerland
 After you have created delivery reminders and made any needed modifications, you can either print the test reports or issue the delivery reminders.  
 
 A test report is a document that lets you review and modify a delivery reminder before you issue it.  
@@ -28,7 +28,7 @@ A test report is a document that lets you review and modify a delivery reminder 
 4.  Choose the **Print** to print the report or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Issue Delivery Reminders](how-to-issue-delivery-reminders.md)

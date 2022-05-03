@@ -28,7 +28,7 @@ To track changes and get a graphical view of your service business, use [!INCLUD
 3. If you want a list of service tasks with a certain response date or response dates within a certain time period, fill in the **Response Date Filter** field and press Enter.  
 4. If you want a list of service tasks with a certain allocation status or repair status, fill in the **Allocation Status Filter** or **Repair Status Code Filter** field and press Enter.  
 5. Select the service task you want to work on. On the **Navigate** tab, in the **Service Tasks** group, choose **Item Worksheet**. The **Service Item Worksheet** window opens.  
-6. Register standard texts, spare parts, resource hours, and costs as appropriate using the corresponding options in the **Type** field:  <Blank>, **Item**, **Resource**, and **Cost**.  
+6. Register standard texts, spare parts, resource hours, and costs as appropriate using the corresponding options in the **Type** field:  \<Blank\>, **Item**, **Resource**, and **Cost**.  
 7. In the **Repair Status** field, select the appropriate status.  
   
    > [!NOTE]  
@@ -102,7 +102,7 @@ After repairing a service item, you can register both the fault code and the res
 4. Fill out the line. Choose the combination of fault and resolution codes, and then choose **OK** to copy it to the service item. If an appropriate combination cannot be found, you can create a new combination in the window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Fault Reporting](service-how-setup-fault-reporting.md)
 [Allocation Status and Repair Status](service-allocation-status-and-repair-status.md)  
 [Service Posting](service-service-posting.md)  

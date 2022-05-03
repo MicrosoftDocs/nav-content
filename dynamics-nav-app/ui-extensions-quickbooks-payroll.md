@@ -3,7 +3,7 @@ title: Using the Quickbooks Payroll File Import Extension
 description: Describes how to use the extension to import salary and wage transactions from the Quickbooks Payroll service.
 
 documentationcenter: ''
-author: SorenGP
+author: edupont04
 
 ms.prod: "dynamics-nav-2018"
 ms.topic: article
@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, salary, wage
 ms.date: 03/29/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
 # The Quickbooks Payroll File Import Extension to Dynamics NAV
@@ -23,7 +23,7 @@ To do this, you first import a file that you receive from the payroll provider i
 The Quickbooks Payroll File Import extension allows you to import payroll transaction from the Quickbooks Payroll service.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions ](ui-extensions.md)    
 [Finance](finance.md)    
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

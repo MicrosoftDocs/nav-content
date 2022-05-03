@@ -13,18 +13,23 @@
     ms.author: jswymer
 
 ---
-# Entering Data
+# How to Enter Data in Fields
+
+## Entering Data
+
 There are many general functions that help you enter data  in a quick and easy way. The general functions for entering data are described in this article.  
 
 The examples in this article use the demonstration data.
 
-## Mandatory Fields
+### Mandatory Fields
+
 When you enter data on pages, certain fields are marked with a red asterisk. The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.  
 
 Even though the field contains a red asterisk, you are not forced to fill the field before you continue to other fields or close the page. The red asterisk only serves as a reminder that you will be blocked from completing a certain process.  
 
 
-## Finding Data As You Type  
+### Finding Data As You Type  
+
  When you start to type characters in a field, a drop-down list is displayed and shows possible field values. The list changes as you type more characters, and you can select the correct value when it is displayed.  
 
  Many fields have a down arrow button that you can choose. You choose the arrow to get a list of data that is available to enter in the field. The button has two functions depending on the type of field:  
@@ -33,7 +38,8 @@ Even though the field contains a red asterisk, you are not forced to fill the fi
 
 -   Drop-down - Displays the set of options that exist for the field. You can select only one of the options.  
 
-## Copy Fields or Lines  
+### Copy Fields or Lines  
+
  Depending on the type of writable document, you can copy individual line fields or whole lines to other lines in the document. Read-only data, such as posted entries, cannot be copied.  
 
  Several database dependencies are used to determine if fields or lines can be copied. One way to determine these dependencies is to view the shortcut menu. The content of the shortcut menu indicates which copy functions are supported by displaying either of these functions:  
@@ -51,14 +57,15 @@ Even though the field contains a red asterisk, you are not forced to fill the fi
 > [!NOTE]  
 > If you copy a journal line or document line, the fields that are not in your view are not copied to the new line.
 
-### To copy previous field
+#### To copy previous field
 
 - To enter the value of the field immediately above the active field, select **Copy Previous** from the shortcut menu.
 
-## Entering Quantities by Calculation  
+### Entering Quantities by Calculation  
+
  When entering numbers into quantity fields, such as the **Quantity** field on an item journal line, you can enter the formula instead of the sum quantity.  
 
-## Examples  
+### Examples  
 
 -   If you enter 19+19, the field is calculated to 38.  
 
@@ -68,7 +75,8 @@ Even though the field contains a red asterisk, you are not forced to fill the fi
 
 -   If you enter 12/4, the field is calculated to 3.  
 
-# Entering Negative Numbers
+## Entering Negative Numbers
+
 You can enter negative numbers in two ways. The number -20.5 can be entered as:  
 
 - -20.5  
@@ -80,13 +88,15 @@ You can enter negative numbers in two ways. The number -20.5 can be entered as:
 
   If the last character of the expression is a **+** or a **-**, the entire expression will be recorded with that sign. An example, **10-20+** will result in 10 and not -10.  
 
-## Entering Dates and Times
+### Entering Dates and Times
+
 You can enter dates and times in all the fields that are specifically assigned to dates (date fields). You can enter dates with or without separators.
 
 > [!NOTE]  
 > How you enter dates and times depends on your **Region** settings. For more information, see [Changing Basic Settings](ui-change-basic-settings.md).  
 
-### Entering Dates  
+#### Entering Dates
+
  In a date field you can enter two, four, six, or eight digits:  
 
 - If you enter only two digits, this is interpreted as the day, and it will add the month and the year of the work date.  
@@ -109,7 +119,8 @@ You can enter dates and times in all the fields that are specifically assigned t
 
  To specify that a date is a closing date, put C just before the date: C123101.
 
-## Entering Times  
+### Entering Times
+
  When you enter times, you can insert any separator sign that you want between the units, but it is not required. You do not have to write minutes, seconds, or AM/PM.  
 
  The following table lists the various ways in which times can be entered and how they are interpreted.  
@@ -126,7 +137,8 @@ You can enter dates and times in all the fields that are specifically assigned t
 
  You must enter two digits for each unit of time if you do not enter a separator.  
 
-## Entering Datetimes  
+### Entering Datetimes
+
  When you enter datetimes you must enter a space between the date and the time.  
 
  The following table lists the various ways in which you can enter datetimes and how they are interpreted.  
@@ -154,7 +166,8 @@ You can enter dates and times in all the fields that are specifically assigned t
 |tu 10:30|Tuesday of the current week 10:30:00|  
 |tu 3:3:3|Tuesday of the current week 03:03:03|  
 
-## Entering Duration  
+### Entering Duration
+
  You enter a duration as a number followed by its unit of measure.  
 
  Here are some examples.  
@@ -174,7 +187,8 @@ You can enter dates and times in all the fields that are specifically assigned t
 
  The number 5 is converted to 5 hrs, if the unit of measure is hours.  
 
-##  <a name="BKMK_SettingDateRanges"></a> Setting Date Ranges  
+###  <a name="BKMK_SettingDateRanges"></a> Setting Date Ranges
+
  You can set filters containing a start date and an end date to display only the data contained in that date range or time interval. Special rules apply to the way you set date ranges.  
 
 |**Meaning**|**Sample expression**|**Entries included**|  
@@ -190,7 +204,8 @@ You can enter dates and times in all the fields that are specifically assigned t
 |12 15 00&#124;12 01 00..12 10 00|Entries posted either on 12 15 00 or on dates between and including 12 01 00 and 12 10 00.|  
 |..12 14 00&#124;12 30 00..|Entries posted on 12 14 00 or earlier, or entries posted on 12 30 00 or later - that is, all entries except those posted on dates between and including 12 15 00 and 12 29 00.| 
 
-## Using Date Formulas  
+### Using Date Formulas
+
  A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates. You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.  
 
 > [!NOTE]  
@@ -206,7 +221,7 @@ You can enter dates and times in all the fields that are specifically assigned t
 
   The date calculation formula can contain a maximum of 20 characters, both numbers and letters. You can use the following letters, which are abbreviations for time specifications.  
 
-|||  
+| Character | Description |  
 |-|-|  
 |C|Current|  
 |D|Day(s)|  
@@ -219,34 +234,34 @@ You can enter dates and times in all the fields that are specifically assigned t
 
  The following example shows how current plus a time unit.  
 
-|||  
+| Character | Description |  
 |-|-|  
 |CW|Current week|  
 |CM|Current month|  
 
  The following example shows how a number and a time unit. A number cannot be larger than 9999.  
 
-|||  
+| Character | Description |
 |-|-|  
 |10D|10 days from today|  
 |2W|2 weeks from today|  
 
  The following example shows how a time unit and a number.  
 
-|||  
+| Character | Description |
 |-|-|  
 |D10|The next 10th day of a month|  
 |WD4|The next 4th day of a week (Thursday)|  
 
  The following example shows how you can combine these three forms as needed.  
 
-|||  
+| Character | Description |
 |-|-|  
 |CM+10D|Current month + 10 days|  
 
  The following example shows how you can use a minus sign to indicate a date in the past.  
 
-|||  
+| Character | Description |
 |-|-|  
 |-1Y|1 year ago from today|  
 

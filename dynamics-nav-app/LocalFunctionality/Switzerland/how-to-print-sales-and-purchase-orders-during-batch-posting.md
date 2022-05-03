@@ -1,6 +1,6 @@
 ---
-    title: How to Print Sales and Purchase Orders During Batch Posting
-    description: After sales orders and purchase orders are batch posted, you can print the corresponding posted documents.
+    title: How to Print Sales and Purchase Orders During Batch Posting - Switzerland
+    description: Learn how to print the corresponding posted documents after the sales orders and purchase orders have been batch posted.
 
     documentationcenter: ''
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Sales and Purchase Orders During Batch Posting
+# How to: Print Sales and Purchase Orders During Batch Posting - Switzerland
 After sales orders and purchase orders are batch posted, you can print the corresponding posted documents.  
 
 The following procedure describes how to print sales orders, but the same steps also apply to purchase orders.  
@@ -29,5 +29,5 @@ The following procedure describes how to print sales orders, but the same steps 
 5.  To batch post and print the sales orders, choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Invoice Sales](../../sales-how-invoice-sales.md)
