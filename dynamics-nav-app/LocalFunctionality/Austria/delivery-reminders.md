@@ -1,6 +1,6 @@
 ---
-    title: Delivery Reminders
-    description: Delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries. 
+    title: Delivery Reminders in Austria
+    description: In Austria, delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries. 
 
     documentationcenter: ''
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Delivery Reminders
+# Delivery Reminders in Austria
 Delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries. To create delivery reminders, you must set up the following:  
 
 - Delivery reminder terms  
@@ -46,7 +46,7 @@ You can also track documents in relation to purchase order lines and sales order
 For more information, see [How to: Print Test Reports for Delivery Reminders](how-to-print-test-reports-for-delivery-reminders.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   
  [How to: Set Up Delivery Reminder Terms, Levels, and Text](how-to-set-up-delivery-reminder-terms-levels-and-text.md)   
  [How to: Assign Delivery Reminder Codes to Vendors](how-to-assign-delivery-reminder-codes-to-vendors.md)   
