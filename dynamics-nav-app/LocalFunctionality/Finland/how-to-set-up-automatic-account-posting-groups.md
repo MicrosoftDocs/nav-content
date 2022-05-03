@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Automatic Account Posting Groups in Finland
+    title: How to Set Up Automatic Account Posting Groups (Finland)
     description: To use automatic account codes, you must create an automatic account posting group.
 
     documentationcenter: ''

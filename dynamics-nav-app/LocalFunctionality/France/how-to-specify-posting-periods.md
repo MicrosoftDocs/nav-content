@@ -18,7 +18,7 @@
 # How to: Specify Posting Periods (France)
 When you specify posting periods, you limit the period in which posting is allowed.  
 
-## To specify posting periods  
+## To specify posting periods (France)  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
 2.  In the **General Ledger Setup** window, on the **General** tab, in the **Allow Posting From** field, specify the start date of the posting period.  

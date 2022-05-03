@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Unrealized Sales Tax and Sales Payment Discounts Canada
+    title: How to Set Up Unrealized Sales Tax and Sales Payment Discounts (Canada)
     description: You can use the **General Ledger Setup** window to set up unrealized sales tax. You can also set up maximum correction tax amounts so that you can limit the tax correction amounts that are entered for sales and purchases.
     
      

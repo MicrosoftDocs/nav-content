@@ -1,5 +1,5 @@
 ---
-    title: Delivery Reminders In Germany
+    title: Delivery Reminders (Germany)
     description: Delivery reminders are used to track overdue vendor shipments, and to remind vendors about overdue deliveries.
 
     documentationcenter: ''

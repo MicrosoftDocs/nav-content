@@ -21,7 +21,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery remi
 > [!NOTE]
 > To create delivery reminders, you must set up the delivery reminder properties. For more information, see [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md).
 
-## To create a delivery reminder manually  
+## To create a delivery reminder manually (Germany)  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delivery Reminder**, and then choose the related link.  
 2.  Choose the **New** action.  

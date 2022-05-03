@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Block Shipment for Negative Inventory In Germany
+# How to: Block Shipment for Negative Inventory (Germany)
 You can block outbound shipment for an item when a transaction results in a negative inventory for that item.  
 
 ## To block shipment for negative inventory  

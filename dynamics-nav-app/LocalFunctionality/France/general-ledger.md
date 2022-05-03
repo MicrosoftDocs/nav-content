@@ -1,5 +1,5 @@
 ---
-    title: General Ledger in France
+    title: General Ledger (France)
     description: Special general ledger functionality exists for the French version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
 

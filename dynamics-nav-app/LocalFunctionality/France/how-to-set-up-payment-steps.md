@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Payment Statuses In France
+    title: How to Set Up Payment Statuses (France)
     description: To use payment management, you must set up payment statuses to define payment document progress levels. You must define a set of statuses for each payment class.
 
     documentationcenter: ''

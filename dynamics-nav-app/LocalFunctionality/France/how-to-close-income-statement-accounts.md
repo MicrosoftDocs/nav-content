@@ -1,5 +1,5 @@
 ---
-    title: How to Close Income Statement Accounts
+    title: How to Close Income Statement Accounts (France)
     description: Before you can run the **Close Income Statement** batch job, you must close the fiscal year.
 
     documentationcenter: ''

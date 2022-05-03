@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Assign Delivery Reminder Codes to Vendors In Germany
+# How to: Assign Delivery Reminder Codes to Vendors (Germany)
 In order to enable delivery reminders for overdue purchases, you must assign delivery reminder terms to vendors. For more information, see [Delivery Reminders](delivery-reminders.md).  
 
 ## To assign delivery reminders codes to vendors  

@@ -1,5 +1,5 @@
 ---
-    title: How to Post the Year-End Closing Entry
+    title: How to Post the Year-End Closing Entry (France)
     description: After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must review and post the entries.
 
     documentationcenter: ''

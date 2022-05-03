@@ -1,5 +1,5 @@
 ---
-    title: Automatic Account Codes in Finland
+    title: Automatic Account Codes (Finland)
     description: You can use customized posting groups to automate recurring transactions in journals, sales documents, or purchase documents.
 
     documentationcenter: ''
