@@ -23,7 +23,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], there are two types of decla
 
 The type of declaration depends on the amount of shipped or received goods. To determine the type of declaration that you should use, see the [National Bank of Belgium](https://go.microsoft.com/fwlink/?LinkId=163064) web site.  
 
-When using the extended declaration, you will also need to set up an Incoterm in Intrastat Declaration for each shipping method. For more information, see [Incoterm in Intrastat Decl. Field](ms-its:be_lf_a.chm::/T_10_11300.htm).  
+When using the extended declaration, you will also need to set up an Incoterm in Intrastat Declaration for each shipping method.
 
 ## To set up declaration types  
 
@@ -32,7 +32,7 @@ When using the extended declaration, you will also need to set up an Incoterm in
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
  [How to: Set Up Belgian Tariff Numbers](how-to-set-up-belgian-tariff-numbers.md)   
  [How to: Set Up Intrastat Establishment Numbers](how-to-set-up-intrastat-establishment-numbers.md)   

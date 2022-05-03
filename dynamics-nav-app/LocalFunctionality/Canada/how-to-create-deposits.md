@@ -1,6 +1,6 @@
 ---
-    title: How to Create Deposits
-    description: You can make deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.
+    title: How to Create The Deposits
+    description: You can make The deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.
     
      
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Create Deposits
+# How to: Create The Deposits
 You can make deposits to maintain a transaction record that contains information that can be applied to outstanding invoices and credit memos.  
 
 ## To create a deposit  
@@ -55,7 +55,7 @@ After you have created a deposit, you must post it.
 Next, you can use the Deposit Test Report and Deposit reports to reconcile your posted deposits with outstanding invoices and credit memos.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)  
