@@ -133,12 +133,12 @@ Later, you post a related purchase item charge for 2.00 LCY invoiced on 02-10-20
 
 **General Ledger Entries**  
 
-|Posting Date|G/L Account|Account No. (En-US Demo)||Amount|Entry No.|  
-|------------------|------------------|---------------------------------|-|------------|---------------|  
-|02-10-20|[Inventory Account]|2130||2.00|5|  
-|02-10-20|[Direct Cost Applied Account]|7291||-2.00|6|  
-|01-15-20|[Inventory Account]|2130||-2.00|7|  
-|01-15-20|[COGS Account]|7290||2.00|8|  
+|Posting Date|G/L Account|Account No. (En-US Demo)|Amount|Entry No.|  
+|------------------|------------------|---------------------------------|-------------|---------------|  
+|02-10-20|[Inventory Account]|2130|2.00|5|  
+|02-10-20|[Direct Cost Applied Account]|7291|-2.00|6|  
+|01-15-20|[Inventory Account]|2130|-2.00|7|  
+|01-15-20|[COGS Account]|7290|2.00|8|  
 
 ## Automatic Cost Adjustment  
 To set up cost adjustment to run automatically when you post an inventory transaction, use the **Automatic Cost Adjustment** field in the **Inventory Setup** window. This field enables you to select how far back in time from the current work date that you want automatic cost adjustment to be performed. The following options exist.  
@@ -167,7 +167,7 @@ If you have set up the automatic cost adjustment to apply to postings that occur
 If you have set up the automatic cost adjustment to apply to postings that occur within a day or a week from the current work date, then the automatic cost adjustment does not run, and the cost of the purchase is not forwarded to the sale until you run the **Adjust Cost - Item Entries** batch job.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)   
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
 [Design Details: Reconciliation with the General Ledger](design-details-reconciliation-with-the-general-ledger.md)   

@@ -1,6 +1,6 @@
 ---
-    title: How to Set Up Automatic Account Posting Groups
-    description: To use automatic account codes, you must create an automatic account posting group.
+    title: How to Set Up Automatic Account Posting Groups - Sweden
+    description: Learn how to use automatic account codes by creating an automatic account posting group.
 
     documentationcenter: ''
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Automatic Account Posting Groups
+# How to: Set Up Automatic Account Posting Groups - Sweden
 To use automatic account codes, you must create an automatic account posting group.  
 
 ## To set up automatic account posting groups  
@@ -42,7 +42,7 @@ To use automatic account codes, you must create an automatic account posting gro
 5.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Automatic Account Codes](automatic-account-codes.md)   
  [Setting Up Posting Groups](../../finance-posting-groups.md)  
  [Working with General Journals](../../ui-work-general-journals.md)

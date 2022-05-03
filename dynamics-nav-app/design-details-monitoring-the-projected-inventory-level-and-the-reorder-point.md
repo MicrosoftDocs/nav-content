@@ -46,7 +46,7 @@ The following sequence describes how the projected inventory level is determined
 
 The following shows a graphical illustration of this principle:  
 
-![](media/nav_app_supply_planning_2_projected_inventory.png "NAV_APP_supply_planning_2_projected_inventory")  
+![Projected Inventory Graph Illustration](media/nav_app_supply_planning_2_projected_inventory.png "NAV_APP_supply_planning_2_projected_inventory")  
 
 1. Supply **Sa** of 4 (fixed) closes Demand **Da** of -3.  
 2. CloseDemand: Create a decrease reminder of -3 (not shown).  
@@ -67,7 +67,7 @@ The following shows a graphical illustration of this principle:
      In case of B, the reorder point is reached and a new order is created.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Reordering Policies](design-details-reordering-policies.md)   
 [Design Details: Planning Parameters](design-details-planning-parameters.md)   
 [Design Details: Handling Reordering Policies](design-details-handling-reordering-policies.md)   

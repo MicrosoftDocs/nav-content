@@ -71,7 +71,7 @@ When you enter an assemble-to-order item on a sales line, an assembly order is a
  The following explains the rules that define the minimum and maximum values that you can enter manually in the **Quantity to Assemble** to deviate from the default value in a combination scenario. The table shows a combination scenario where the **Qty. to Ship** field on the linked sales order line is changed from 7 to 4, and the **Quantity to Assemble** is therefore defaulted to 4.  
 
 
-|         | Sales Order Line | Assembly Order Hheader |
+| Status  | Sales Order Line | Assembly Order Header  |
 |---------|------------------|------------------------|
 |         |   **Quantity**   |    **Qty. to Ship**    |
 | Initial |        10        |           7            |
@@ -83,7 +83,7 @@ When you enter an assemble-to-order item on a sales line, an assembly order is a
 -   The maximum quantity that you can enter is 4. This is to ensure that you do not assemble more of this assemble-to-order item than what is needed on the sale.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Assembly Management](assembly-assemble-items.md)  
 [How to: Work with Bills of Material](inventory-how-work-BOMs.md)  
 [Inventory](inventory-manage-inventory.md)  

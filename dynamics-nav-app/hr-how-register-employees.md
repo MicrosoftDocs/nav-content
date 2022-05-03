@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
 ms.date: 08/11/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
 # How to: Register Employees
@@ -53,7 +53,7 @@ You can use alternate addresses to keep track of your employees’ location, for
 5. Repeat step 4 for each alternate address.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Record and Reimburse Employees' Expenses](finance-how-record-reimburse-employee-expenses.md)  
 [Finance](finance.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

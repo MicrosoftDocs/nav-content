@@ -3,7 +3,7 @@
     description: Overview of tasks for defining a reorder policy in supply planning.
     author: SorenGP
 
-    ms.service: dynamics-nav-2018
+    ms.prod: dynamics-nav-2018
     ms.topic: article
     ms.devlang: na
     ms.tgt_pltfrm: na
@@ -271,7 +271,7 @@ Apart from using the Order policy, the order-to-order link can be applied during
 Even if a manufacturing company considers itself as a make-to-order environment, it might be best to use a Lot-for-Lot reordering policy if the items are pure standard without variation in attributes. As a result, the system will use unplanned inventory and only accumulates sales orders with the same shipment date or within a defined time bucket.  
 
 #### Order-to-Order Links and Past Due Dates  
-Unlike most supply-demand sets, linked orders with due dates before the planning starting date are fully planned for by the system. The business reason for this exception is that specific demand-supply sets must be synchronized through to execution. For more information about the frozen zone that applies to most demand-supply types, see [Dealing with Orders Before the Planning Starting Date](design-details-balancing-demand-and-supply.md#dealing-with-orders-before-the-planning-starting-date).
+Unlike most supply-demand sets, linked orders with due dates before the planning starting date are fully planned for by the system. The business reason for this exception is that specific demand-supply sets must be synchronized through to execution. For more information about the frozen zone that applies to most demand-supply types, see [Dealing with Orders Before the Planning Starting Date](design-details-balancing-demand-and-supply.md).
 
 ### Lot-for-Lot
 The lot-for-lot policy is the most flexible because the system only reacts on actual demand, plus it acts on anticipated demand from forecast and blanket orders and then settles the order quantity based on the demand. The lot-for-lot policy is aimed at A- and B-items where inventory can be accepted but should be avoided.  
@@ -287,7 +287,7 @@ With this policy, it is also possible to define a safety stock in order to compe
 Because the supply order quantity is based on the actual demand it can make sense to use the order modifiers: round the order quantity up to meet a specified order multiple (or purchase unit of measure), increase the order to a specified minimum order quantity, or decrease the quantity to the specified maximum quantity (and thus create two or more supplies to reach the total needed quantity).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Planning Parameters](design-details-planning-parameters.md)   
 [Design Details: Planning Assignment Table](design-details-planning-assignment-table.md)   
 [Design Details: Central Concepts of the Planning System](design-details-central-concepts-of-the-planning-system.md)   

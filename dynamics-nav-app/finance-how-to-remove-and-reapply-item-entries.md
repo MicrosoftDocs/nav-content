@@ -52,7 +52,7 @@ If you cannot use a document to reapply, such as when you have to correct a fixe
 > [!IMPORTANT]  
 >  You should not leave application entries unapplied for longer periods of time because other users cannot process the affected items until you reapply the application entries or close the **Application Worksheet** window. The following error message is displayed if you try to perform actions that involve a manually unapplied application entry:  
 >   
->  **You cannot perform this action because entries for item <item> are unapplied in the Application Worksheet by user <user>.**  
+>  **You cannot perform this action because entries for item \<item\> are unapplied in the Application Worksheet by user \<user\>.**  
 
 ## To reapply an item application by using the Application Worksheet  
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Application Worksheet**, and then choose the related link.  
@@ -71,7 +71,7 @@ If you cannot use a document to reapply, such as when you have to correct a fixe
 6.  If the **Automatic Cost Adjustment** field in the **Inventory Setup** is set to **Always**, then the cost adjustment batch job is automatically run after you make a reapplication. Otherwise, run the **Adjust Cost - Item Entries** batch job to make sure that all costs are up to date.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Close Open Item Ledger Entries Resulting from Fixed Application in the Item Journal](finance-how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal.md)  
  [How to: Process Purchase Returns or Cancellations](purchasing-how-process-purchase-returns-cancellations.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)   

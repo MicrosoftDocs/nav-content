@@ -137,9 +137,8 @@ Then you must create various purchase, production, and sales transactions with t
 2.  Choose the **New** group.  
 3.  Create a new released production order by filling in the following fields.  
 
-    ||||  
-    |-|-|-|  
-    |Source No.|Quantity|Serial No.|  
+    |Source No.|Quantity|Serial No.|
+    |-|-|-|
     |1002|2|SN1|  
     |1002|2|SN2|  
 
@@ -289,7 +288,7 @@ Then you must create various purchase, production, and sales transactions with t
    This completes the walkthrough of how to use the **Navigate** window for defects management in integration with the **Item Tracing** window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Work with Serial and Lot Numbers](inventory-how-work-item-tracking.md)  
 [How to: Trace Item-Tracked Items](inventory-how-to-trace-item-tracked-items.md)  
 [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)  

@@ -1,6 +1,6 @@
 ---
-    title: How to Manage Customer Credit Information
-    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
+    title: How to Manage The Customer Credit Information
+    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to the customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
 
 
     author: SorenGP
@@ -15,8 +15,8 @@
     ms.author: edupont
 
 ---
-# How to: Manage Customer Credit Information
-In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.  
+# How to: Manage The Customer Credit Information
+In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You may also hold and block customers with bad credit before shipping or invoicing occurs.  
 
 ## To add comments to customer credit information  
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Credit Management**, and then choose the related link.  
@@ -44,7 +44,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 2. Select a customer, and then choose the **Edit** action.  
 3. On the **General** FastTab, in the **Blocked** field, select one of the following options:  
 
-   - **<Blank>** – Transaction is allowed for this customer.  
+   - **&lt;Blank&gt;** – Transaction is allowed for this customer.  
    - **Ship** – New orders and new shipments cannot be created for this customer. Existing shipments not yet invoiced can be invoiced.  
    - **Invoice** – New orders, new shipments, and new invoices cannot be created for this customer. Existing shipments not yet invoiced cannot be invoiced.  
    - **All** – No transaction is allowed for this customer, including payments.  
@@ -52,7 +52,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 4. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)

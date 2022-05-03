@@ -1,6 +1,6 @@
 ---
-    title: How to Activate SEPA Payments
-    description: To submit vendor payments electronically in Single Euro Payments Area (SEPA) ISO 20022 payment format, you must set up prerequisites for enabling SEPA payments.
+    title: How to Activate The SEPA Payments
+    description: To submit vendor payments electronically in Single Euro Payments Area (SEPA) ISO 20022 payment format, you must set up prerequisites to enable SEPA payments.
 
     documentationcenter: ''
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Activate SEPA Payments
+# How to: Activate The SEPA Payments
 To submit vendor payments electronically in Single Euro Payments Area (SEPA) ISO 20022 payment format, you must set up prerequisites for enabling SEPA payments.  
 
 In the following procedures describe how to enable SEPA payment and set up vendor bank accounts.  
@@ -49,7 +49,7 @@ In the following procedures describe how to enable SEPA payment and set up vendo
 5.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [SEPA Payments](sepa-payments.md)   
  [How to: File SEPA Payments](how-to-file-sepa-payments.md)   
  [How to: File Non-Euro SEPA Payments](how-to-file-non-euro-sepa-payments.md)   
