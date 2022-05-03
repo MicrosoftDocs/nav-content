@@ -12,7 +12,7 @@
     ms.workload: na
     ms.search.keywords:
     ms.date: 08/11/2017
-    ms.author: edupont04
+    ms.author: edupont
 
 ---
 # How to: Set Up Unrealized Sales Tax and Sales Payment Discounts (Canada)

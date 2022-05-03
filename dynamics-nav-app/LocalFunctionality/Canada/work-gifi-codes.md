@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: local
 ms.date: 08/11/2017
-ms.author: edupont04
+ms.author: edupont
 
 ---
 # How to: Work With GIFI Codes
