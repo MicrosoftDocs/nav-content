@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Inventory
+# Russian Inventory Functionality
 Russian inventory functionality is described in several topics.
 
 ## In This Section

@@ -30,7 +30,7 @@ With the electronic payments functionality, you can pay vendors using electronic
  Before you can transfer payments electronically to a vendor, you will need to set up a bank account for the vendor. You will also need to set up the electronic payment links with your bank and set up the bank account card in [!INCLUDE[navnow](../../includes/navnow_md.md)] for your own bank to handle the electronic payments. The bank should provide the transmission program.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Bank Accounts for Electronic Payments](how-to-set-up-bank-accounts-for-electronic-payments.md)   
  [How to: Pay Vendors by Using Electronic Payments](how-to-pay-vendors-by-using-electronic-payments.md)   
  Export Electronic Payments   
