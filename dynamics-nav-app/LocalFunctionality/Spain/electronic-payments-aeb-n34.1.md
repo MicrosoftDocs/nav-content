@@ -1,18 +1,18 @@
 ---
-    title: Electronic Payments – AEB N34.1 File Format 
-    description: Electronic payments export in standard AEB N34.1 file format and let you avoid printing paper checks to pay vendors.
+title: Electronic Payments – AEB N34.1 File Format 
+description: Electronic payments export in standard AEB N34.1 file format and let you avoid printing paper checks to pay vendors.
     
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
 # Electronic Payments – AEB N34.1 File Format

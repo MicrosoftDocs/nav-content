@@ -1,18 +1,18 @@
 ---
-    title: Electronic Payments Functionality – AEB N34.1
-    description: With the electronic payments functionality, you can pay vendors using electronic payments rather than printing paper checks. Electronic payments are exported into a standard AEB N34.1 file format used by most banks in Spain.
+title: Electronic Payments Functionality – AEB N34.1
+description: With the electronic payments functionality, you can pay vendors using electronic payments rather than printing paper checks. Electronic payments are exported into a standard AEB N34.1 file format used by most banks in Spain.
 
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
 # Electronic Payments Functionality – AEB N34.1

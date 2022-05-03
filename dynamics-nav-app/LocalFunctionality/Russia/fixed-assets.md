@@ -1,18 +1,18 @@
 ---
-    title: Fixed Assets in Russia
-    description: In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your fixed assets.
+title: Fixed Assets in Russia
+description: In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] features that you can use to track and manage your fixed assets.
 
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
 # Fixed Assets in Russia

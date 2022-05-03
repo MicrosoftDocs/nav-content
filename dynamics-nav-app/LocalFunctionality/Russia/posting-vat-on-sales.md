@@ -1,18 +1,18 @@
 ---
-    title: Posting VAT on Sales
-    description: Certain fields have been added to the VAT Posting Setup window.
+title: Posting VAT on Sales
+description: Certain fields have been added to the VAT Posting Setup window.
 
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
 # Posting VAT on Sales

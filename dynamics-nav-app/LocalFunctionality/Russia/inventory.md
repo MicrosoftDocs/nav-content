@@ -1,18 +1,18 @@
 ---
-    title: Russian Inventory Functionality
-    description: Russian inventory functionality is described in several topics.
+title: Russian Inventory Functionality
+description: Russian inventory functionality is described in several topics.
 
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
 # Russian Inventory Functionality

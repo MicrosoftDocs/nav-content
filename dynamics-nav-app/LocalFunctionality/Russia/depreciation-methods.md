@@ -1,18 +1,18 @@
 ---
-    title: Depreciation Methods Unique to Russia
-    description: There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].
+title: Depreciation Methods Unique to Russia
+description: There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
 # Depreciation Methods Unique to Russia
