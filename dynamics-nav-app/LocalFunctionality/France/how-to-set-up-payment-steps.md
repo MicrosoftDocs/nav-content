@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Payment Statuses
+    title: How to Set Up Payment Statuses In France
     description: To use payment management, you must set up payment statuses to define payment document progress levels. You must define a set of statuses for each payment class.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Payment Statuses
+# How to: Set Up Payment Statuses (France)
 To use payment management, you must set up payment statuses to define payment document progress levels. You must define a set of statuses for each payment class. For more information, see [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md).  
 
 ## To set up payment statuses  
@@ -38,7 +38,7 @@ To use payment management, you must set up payment statuses to define payment do
 5.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Addresses](how-to-set-up-payment-addresses.md)   
