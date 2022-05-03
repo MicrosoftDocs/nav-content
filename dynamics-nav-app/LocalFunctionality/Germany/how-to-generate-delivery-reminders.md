@@ -1,5 +1,5 @@
 ---
-    title: How to Generate Delivery Reminders (Germany)
+    title: How to Generate Delivery Reminders In Germany
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery reminders when a purchase has not been delivered as expected.
 
     documentationcenter: ''

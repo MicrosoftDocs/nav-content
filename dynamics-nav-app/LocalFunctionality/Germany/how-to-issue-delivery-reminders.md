@@ -1,5 +1,5 @@
 ---
-    title: How to Issue Delivery Reminders (Germany)
+    title: How to Issue Delivery Reminders In Germany
     description: After you have created delivery reminders, you must issue and print them so that you can send reminders to vendors. Before you issue the delivery reminders, you can print a test report.
 
     documentationcenter: ''
