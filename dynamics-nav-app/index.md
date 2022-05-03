@@ -22,7 +22,7 @@ ms.author: edupont
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] is fast to implement, easy to configure, and simplicity guides innovations in product design, development, implementation, and usability. In this section, you can find information about using [!INCLUDE[d365fin](includes/d365fin_md.md)] in your company. And if you are a partner or customer looking at extending the functionality, you will find relevant links under Development and Administration.  
 
-|||  
+|Section|Links|  
 |-|-|  
 |**Business Processes**|-   [Getting Started](across-get-started.md)<br />-   [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Setting up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Business Functionality](madeira-business-functionality.md)<br />-   [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)|  
 |**Development and Administration**|-   [Getting Started](/dynamics-nav/index)<br />-   [Deployment](/dynamics-nav/deployment)<br />-   [Development in C/AL](/dynamics-nav/development)<br />-   [Development in AL](/dynamics-nav/developer/devenv-dev-overview)<br />-   [Administration](/dynamics-nav/administration)<br />-   [Upgrade](/dynamics-nav/upgrading-to-microsoft-dynamics-nav)<br />-  [Windows PowerShell Cmdlets](/dynamics-nav/microsoft-dynamics-nav-windows-powershell-cmdlets)|  

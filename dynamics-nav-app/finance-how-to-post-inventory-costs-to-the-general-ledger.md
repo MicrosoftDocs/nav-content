@@ -1,6 +1,6 @@
 ---
 title: How to Post Inventory Costs to the General Ledger
-description: Describes how to manage the physical products that you trade in, for example, handling the stock in your warehouse.
+description: How to manage the physical products that you trade in, for example, handling the stock in your warehouse.
 documentationcenter: ''
 author: SorenGP
 
@@ -66,11 +66,10 @@ The next columns show the totals for the same account types calculated from the 
 Choose the  amount in any of the total fields to see the inventory report entries that were used to calculate the totals. For inventory totals, the inventory report entries are the sums of the value entries for the items. For the G/L totals, the inventory report entries are the sums from the general ledger entries.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Sales](sales-manage-sales.md)    
 [Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)
 
-## 

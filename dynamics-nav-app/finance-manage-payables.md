@@ -17,7 +17,7 @@ ms.date: 06/02/2017
 ms.author: bholtorf
 
 ---
-# Managing Payables
+# Managing Accounts Payable
 [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] has what you need to effectively manage accounts payable.  
 
 ## Payments
@@ -46,7 +46,7 @@ If you wait to post payments until after your bank confirms that it has processe
 * Alternatively, on the **Suggest Vendor Payments** batch job, where you specify the payments to include in the payment journal, you can specify not to insert journal lines for payments that have already been exported by choosing the **Skip Exported Payments** check box.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Payment Methods](finance-payment-methods.md)  
 [Finance](finance.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

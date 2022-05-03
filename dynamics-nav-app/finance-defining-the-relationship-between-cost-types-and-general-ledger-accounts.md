@@ -31,8 +31,8 @@ There is an n:1 relationship between general ledger accounts and cost types. Sev
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 |         One general ledger account for each cost type         |                              One general ledger account                               |                               One cost type                               |
 |       Several general ledger accounts for one cost type       | General ledger account range, for example, 7110..7193 for each general ledger account | For each general ledger account in the range, there is only one cost type |
-|   Cost types without corresponding general ledger accounts    |                                        <Empty>                                        |                                                                           |
-| General ledger accounts whose entries will not be transferred |                                                                                       |                                  <Empty>                                  |
+|   Cost types without corresponding general ledger accounts    |                                        \<Empty\>                                        |                                                                           |
+| General ledger accounts whose entries will not be transferred |                                                                                       |                                  \<Empty\>                                  |
 
 ## Cost Types Without a Relationship to the General Ledger  
 A cost type may not have a relationship to general ledger accounts if one of the following conditions is true:  
@@ -42,7 +42,7 @@ A cost type may not have a relationship to general ledger accounts if one of the
 * The helping account, 9920 in the [!INCLUDE[d365fin](includes/d365fin_md.md)] database, contains actual accruals that show the difference between costs and the expense from the general ledger.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
 [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
 [About Cost Accounting](finance-about-cost-accounting.md)  

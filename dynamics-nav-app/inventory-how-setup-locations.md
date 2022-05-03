@@ -12,7 +12,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, distribution center
 ms.date: 06/02/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
 # How to: Set Up Locations
@@ -38,7 +38,7 @@ You can then create document lines for a specific location, view availability by
 You can now transfer inventory items between two locations. For more information, see [How to: Transfer Inventory Between Locations](inventory-how-transfer-between-locations.md).    
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [How to: Transfer Inventory Between Locations](inventory-how-transfer-between-locations.md)    
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
