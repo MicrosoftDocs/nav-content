@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Close Income Statement Accounts
+# How to: Close Income Statement Accounts (France)
 Before you can run the **Close Income Statement** batch job, you must close the fiscal year. For more information, see [How to: Fiscally Close Years](how-to-fiscally-close-years.md).  
 
 ## To close the income statement accounts  
@@ -32,5 +32,5 @@ Before you can run the **Close Income Statement** batch job, you must close the 
 7.  Choose the **Post** action to post the journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Fiscally Close Years](how-to-fiscally-close-years.md)

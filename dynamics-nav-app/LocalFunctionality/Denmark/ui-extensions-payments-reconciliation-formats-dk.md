@@ -58,7 +58,7 @@ Additionally, you must assign vendors to a domestic **Gen. Bus. Posting Group** 
 ### To specify a payment method for a vendor
 The following table shows the combinations of FIK and GIRO payment methods that [!INCLUDE[navnow](../../includes/navnow_md.md)] supports.
 
-||Type 01 | Type 04 | Type 71 | Type 73 |
+|| GIRO Account Type 01 | GIRO Account Type 04 | FIK Creditor Type 71 | FIK Creditor Type 73 |
 |----|---|---|---|---|
 |Giro Account No. or FIK Creditor No.? | Giro Account No. | Giro Account No. | FIK Creditor No. | FIK Creditor No.|
 |Allows Message to Recipient? | Yes |No |No | Yes |
@@ -95,7 +95,7 @@ The following table shows the combinations of FIK and GIRO payment methods that 
 5. Choose the **Export** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [FIK Details in the Payment Reconciliation Journal](fik-details-in-the-payment-reconciliation-journal.md)  
 [Customizing Dynamics NAV Using Extensions](../../ui-extensions.md)  
 [How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](../../finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)  

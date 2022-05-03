@@ -3,7 +3,7 @@ title: GIFI Codes in Canada
 Description: In Canada, you can set up General Index of Financial Information (GIFI) codes and assign them to posting accounts
 
  
-author: SorenGP
+author: edupont04
 
 ms.prod: "dynamics-nav-2018"
 ms.topic: article
@@ -59,7 +59,7 @@ You can export balance information using GIFI codes and save the exported file i
 * Negative numbers are represented as positive number in brackets. Accordingly, -123 is represented as (123).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Finance](../../finance.md)   
 [Setting Up Finance](../../finance.md)
