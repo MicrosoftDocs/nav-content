@@ -1,5 +1,5 @@
 ---
-    title: How to Assign Delivery Reminder Codes to Vendors
+    title: How to Assign Delivery Reminder Codes to Vendors (Germany)
     description: In order to enable delivery reminders for overdue purchases, you must assign delivery reminder terms to vendors.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Assign Delivery Reminder Codes to Vendors
+# How to: Assign Delivery Reminder Codes to Vendors In Germany
 In order to enable delivery reminders for overdue purchases, you must assign delivery reminder terms to vendors. For more information, see [Delivery Reminders](delivery-reminders.md).  
 
 ## To assign delivery reminders codes to vendors  
@@ -26,7 +26,7 @@ In order to enable delivery reminders for overdue purchases, you must assign del
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Register New Vendors](../../purchasing-how-register-new-vendors.md)   
  [Delivery Reminders](delivery-reminders.md)   
  [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   
