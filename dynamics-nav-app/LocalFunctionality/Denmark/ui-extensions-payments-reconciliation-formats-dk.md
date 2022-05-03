@@ -58,7 +58,7 @@ Additionally, you must assign vendors to a domestic **Gen. Bus. Posting Group** 
 ### To specify a payment method for a vendor
 The following table shows the combinations of FIK and GIRO payment methods that [!INCLUDE[navnow](../../includes/navnow_md.md)] supports.
 
-|| GIRO Account | GIRO Account | FIK Creditor | FIK Creditor |
+| Element | GIRO Account | GIRO Account | FIK Creditor | FIK Creditor |
 |----|---|---|---|---|
 |Giro Account No. or FIK Creditor No.? | Giro Account No. | Giro Account No. | FIK Creditor No. | FIK Creditor No.|
 |Allows Message to Recipient? | Yes |No |No | Yes |
