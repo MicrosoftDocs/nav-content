@@ -1,5 +1,5 @@
 ---
-    title: How to Manage Customer Credit Information
+    title: How to Manage Customer Credit Information (Mexico)
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
 
 
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Manage Customer Credit Information
+# How to: Manage Customer Credit Information (Mexico)
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.  
 
 ## To add comments to customer credit information  
@@ -44,7 +44,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 2. Select a customer, and then choose the **Edit** action.  
 3. On the **General** FastTab, in the **Blocked** field, select one of the following options:  
 
-   - **<Blank>** – Transaction is allowed for this customer.  
+   - **&lt;<Blank&gt;>** – Transaction is allowed for this customer.  
    - **Ship** – New orders and new shipments cannot be created for this customer. Existing shipments not yet invoiced can be invoiced.  
    - **Invoice** – New orders, new shipments, and new invoices cannot be created for this customer. Existing shipments not yet invoiced cannot be invoiced.  
    - **All** – No transaction is allowed for this customer, including payments.  
@@ -52,7 +52,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to cust
 4. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Mexico Local Functionality](mexico-local-functionality.md)  
 [Finance](../../finance.md)  
 [Setting Up Finance](../../finance.md)

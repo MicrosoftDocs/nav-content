@@ -32,10 +32,10 @@ You must create a list of transactions that include VAT with amounts over the cu
     > [!TIP]  
     >  In [!INCLUDE[navnow](../../includes/navnow_md.md)], the contract that the tax authorities are looking for can be blanket orders or service contracts. To identify if the VAT report line belongs to a blanket order or service contract, you can drill down to see the underlying VAT entries from the **Amount** field.  
 
-Credit memos are included in the VAT transaction report if the customer or vendor is from a country/region that is outside the EU and not black-listed. For more information, see [Italian VAT](italian-vat.md).  
+Credit memos are included in the VAT transaction report if the customer or vendor is from a country/region that is outside the EU. For more information, see [Italian VAT](italian-vat.md).  
 
 Now that you have created the VAT report, you must submit it to the tax authorities. For more information, see [How to: Export VAT Transactions Reports](how-to-export-vat-transactions-reports.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Italian VAT](italian-vat.md)
