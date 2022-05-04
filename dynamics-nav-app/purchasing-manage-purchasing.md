@@ -39,12 +39,10 @@ The following table describes a sequence of tasks, with links to the topics that
 | Learn how [!INCLUDE[d365fin](includes/d365fin_md.md)] calculates when you must order an item to receive it on a certain date.|[Date Calculation for Purchases](purchasing-date-calculation-for-purchases.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Purchasing](purchasing-setup-purchasing.md)  
 [How to: Register New Vendors](purchasing-how-register-new-vendors.md)  
 [Managing Payables](payables-manage-payables.md)  
 [Managing Projects](projects-manage-projects.md)    
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [General Business Functionality](ui-across-business-areas.md)
-
-## 

@@ -40,8 +40,8 @@ Examples of goods subject to reverse charge:
 -   Mobile telephones.  
 -   Computer chips  
 
-Consult the [HMRC website](http:/www.hmrc.gov.uk) for the list of goods subject to reverse charge.  
+Consult the [HMRC website](https://www.hmrc.gov.uk) for the list of goods subject to reverse charge.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [United Kingdom Local Functionality](united-kingdom-local-functionality.md)  
