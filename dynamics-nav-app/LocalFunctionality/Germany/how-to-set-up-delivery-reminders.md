@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Delivery Reminders 
+# How to: Set Up Delivery Reminders (Germany)
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase delivery reminders to remind vendors about overdue deliveries. To create delivery reminders for vendors, you must set up base data for delivery reminder creation and number series for the delivery reminders in the **Purchases & Payables Setup** window.  
 
 ## To set up delivery reminders  

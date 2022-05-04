@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Test Reports for Delivery Reminders Germany
+# How to: Print Test Reports for Delivery Reminders (Germany)
 After you have created delivery reminders and made any needed modifications, you can either print the test reports or issue the delivery reminders.  
 
 A test report is a document that lets you review and modify a delivery reminder before you issue it.  
