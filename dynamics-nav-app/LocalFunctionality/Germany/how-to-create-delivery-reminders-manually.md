@@ -1,5 +1,5 @@
 ---
-    title: How to Create Delivery Reminders Manually
+    title: How to Create Delivery Reminders Manually In Germany
     description: Remind customers of late delivery.
 
     documentationcenter: ''
@@ -15,13 +15,13 @@
     ms.author: edupont
 
 ---
-# How to: Create Delivery Reminders Manually
+# How to: Create Delivery Reminders Manually (Germany)
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery reminders when a purchase has not been delivered as expected. You can create a single delivery reminder manually, or you can generate delivery reminders for all overdue deliveries. For more information, see [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md).
 
 > [!NOTE]
 > To create delivery reminders, you must set up the delivery reminder properties. For more information, see [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md).
 
-## To create a delivery reminder manually  
+## To create a delivery reminder manually (Germany)  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delivery Reminder**, and then choose the related link.  
 2.  Choose the **New** action.  
@@ -46,7 +46,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can create delivery remi
     The delivery reminder is created. You can now issue and print the delivery reminder.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Generate Delivery Reminders](how-to-generate-delivery-reminders.md)   
  [How to: Set Up Delivery Reminders](how-to-set-up-delivery-reminders.md)   

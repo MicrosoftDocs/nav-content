@@ -1,5 +1,5 @@
 ---
-    title: How to Block Shipment for Negative Inventory
+    title: How to Block Shipment for Negative Inventory (Germany)
     description: You can block outbound shipment for an item when a transaction results in a negative inventory for that item.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Block Shipment for Negative Inventory
+# How to: Block Shipment for Negative Inventory (Germany)
 You can block outbound shipment for an item when a transaction results in a negative inventory for that item.  
 
 ## To block shipment for negative inventory  
@@ -28,5 +28,5 @@ You can block outbound shipment for an item when a transaction results in a nega
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Sales](../../sales-setup-sales.md)

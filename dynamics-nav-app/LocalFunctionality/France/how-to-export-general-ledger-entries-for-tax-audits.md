@@ -1,6 +1,6 @@
 ---
     title: How to Export General Ledger Entries for Tax Audits
-    description: The standard audit file for tax purposes records key business information (transactions and ledger postings) into a file in a specified common format for audit purposes. In France, you are required to provide the government with this information in a standard audit file beginning in January 2014. This applies to companies for both corporate tax and VAT audit purposes.
+    description: The standard audit file for tax purposes records key business information (transactions and ledger postings) into a file in a specified common format for audit purposes.
 
     documentationcenter: ''
     author: SorenGP
@@ -48,8 +48,8 @@ If you do not close your fiscal year or do not run the **Close Year** action bef
 
 When you create the report, [!INCLUDE[navnow](../../includes/navnow_md.md)] sorts the information in the report by the **No.** and **Creation Date** fields in the general ledger register.  
 
-The report will have the following name: <taxpayername>FEC<YYYYMMDD>  
+The report will have the following name: &lt;<taxpayername&gt;>FEC&lt;<YYYYMMDD&gt;>  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Close Years](how-to-close-years.md)
