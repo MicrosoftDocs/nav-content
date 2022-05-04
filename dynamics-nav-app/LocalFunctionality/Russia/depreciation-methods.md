@@ -1,21 +1,21 @@
 ---
-    title: Depreciation Methods
-    description: There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].
+title: Depreciation Methods Unique to Russia
+description: There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
-    documentationcenter: ''
-    author: SorenGP
+documentationcenter: ''
+author: SorenGP
 
-    ms.prod: "dynamics-nav-2018"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 07/01/2017
-    ms.author: edupont
+ms.prod: "dynamics-nav-2018"
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords:
+ms.date: 07/01/2017
+ms.author: edupont
 
 ---
-# Depreciation Methods
+# Depreciation Methods Unique to Russia
 There are three depreciation methods that are unique to Russia that can be used in [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 - Straight-line method **(SL-RU)**  
@@ -60,6 +60,6 @@ There are three depreciation methods that are unique to Russia that can be used 
 |**Write-off in Charges**|Select if you want to write off fixed asset charges if the book value of the fixed assets is written off in the period when the book value is less than or equal to the **Min. Group Balance** amount. Otherwise, the book value will be written off in the next period.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Depreciation Bonus](depreciation-bonus.md)   
  [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)

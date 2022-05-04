@@ -1,6 +1,6 @@
 ---
-title: GIFI Codes in Canada
-Description: In Canada, you can set up General Index of Financial Information (GIFI) codes and assign them to posting accounts
+title: GIFI Codes (Canada)
+description: In Canada, you can set up General Index of Financial Information (GIFI) codes and assign them to posting accounts
 
  
 author: SorenGP
@@ -12,10 +12,10 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: local
 ms.date: 08/11/2017
-ms.author: SorenGP
+ms.author: edupont
 
 ---
-# How to: Work With GIFI Codes
+# How to: Work With GIFI Codes (Canada)
 Fiscal information can include general ledger accounts, reports, income statements, balance sheets, and statements of retained earnings. Fiscal information is classified using codes. The use of codes helps the government to process information, prepare for electronic filing, and validate tax information electronically. The use of codes also helps statistical organizations to work more efficiently, as financial information is more readily available. For more information, see the [Canada Revenue Agency website](http://www.cra-arc.gc.ca/).
 
 The Canada Revenue Agency uses General Index of Financial Information (GIFI) codes to collect, validate, and process financial and tax information electronically. It is a best practice to assign GIFI codes only to posting accounts, so that all totaling is done by your tax preparation software.
@@ -59,7 +59,7 @@ You can export balance information using GIFI codes and save the exported file i
 * Negative numbers are represented as positive number in brackets. Accordingly, -123 is represented as (123).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Canada Local Functionality](canada-local-functionality.md)  
 [Finance](../../finance.md)   
 [Setting Up Finance](../../finance.md)

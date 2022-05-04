@@ -1,6 +1,6 @@
 ---
-    title: How to Set Up Use Tax and Purchase Tax
-    description: Sales tax includes taxes that companies pay for using items
+    title: Dynamics Nav - How to Set Up Use Tax and Purchase Tax
+    description: Describes how to set up Use tax and Purchase Tax that companies pay for using items.
     
      
     author: SorenGP
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Use Tax and Purchase Tax
+# Dynamics Nav - How to Set Up Use Tax and Purchase Tax
 Sales tax includes taxes that companies pay for using items:  
 
 - Use tax (United States) – Use tax is a United States sales tax that is paid on items that are purchased by a company and are used by that company instead of being sold to a customer. The company must pay sales tax for those items to the government, in the form of use tax.  
@@ -81,7 +81,7 @@ Sales tax includes taxes that companies pay for using items:
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [United States Local Functionality](united-states-local-functionality.md)  
 [Reporting Sales Tax in the US](us-sales-tax.md)  
 [Finance](../../finance.md)  
