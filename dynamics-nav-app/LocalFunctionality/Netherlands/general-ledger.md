@@ -1,5 +1,5 @@
 ---
-    title: General Ledger
+    title: General Ledger (Netherlands)
     description: Special general ledger functionality exists for the Dutch version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# General Ledger
+# General Ledger (Netherlands)
 General ledger functionality for the Netherlands is described in the below topics.
 
 ## In This Section

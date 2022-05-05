@@ -61,7 +61,7 @@ Next, you must specify the source for the data that will be exported.
     |**Period Field No.**|Specify a filter for which date field will be used in setting the start date and end date of the report.<br /><br /> For example, if you select the **G/L Entry** table as your data export source, you can select one of the date fields that are available in that table.|  
     |**Table Filter**|Specify a field on which you want to set a filter.<br /><br /> In the **Table Filter** window, enter filter settings in the **Field Filter** column.<br /><br /> For example, you can specify a field that conveys information about the amount. You can also specify a date field and set a filter for it if you want to filter on a time period other than Start Date .. End Date. However, you cannot specify a date field and set a filter for it if the same field is already used in the Period Field No.|  
     |**Date Filter Field No.**|Specify a date filter field if the table has one.<br /><br /> If the table has more than one date filter, do not specify one in this field.|  
-    |**Date Filter Handing**|Specify how the date filter is to be handled:<br /><br /> * <blank>: No filter is set.<br /><br /> * Period: Use the specified Start Date and End Date.<br /><br /> * End Date Only: Use the batch job's End Date.<br /><br /> * Start Date Only: Use the batch job's Start Date - 1.|  
+    |**Date Filter Handing**|Specify how the date filter is to be handled:<br /><br /> * &lt;<blank&gt;>: No filter is set.<br /><br /> * Period: Use the specified Start Date and End Date.<br /><br /> * End Date Only: Use the batch job's End Date.<br /><br /> * Start Date Only: Use the batch job's Start Date - 1.|  
     |**Export File Name**|Specify the name of the file that data from this table will be exported to.<br /><br /> For example, if the table is the **G/L Account** table, the value of the **Export Table Name** can be **GLAccount**, and the value of the **Export File Name** field can be **GLAccount.txt**.|  
     |**Key No.**|Optional. Specify the key field.|
 
@@ -165,6 +165,6 @@ In this example, you set multiple filter definitions for the same table.
 - Customers that have Net Change (LCY) <> 0 on the day before the start date.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central]/dynamics365/business-central/)  
 [Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)   
  [How to: Export GDPdU Data](how-to-export-gdpdu-data.md)

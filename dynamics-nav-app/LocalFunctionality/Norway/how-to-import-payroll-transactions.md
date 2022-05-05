@@ -1,5 +1,5 @@
 ---
-    title: How to Import Payroll Transactions
+    title: How to Import Payroll Transactions (Norway)
     description: You can import payroll transactions into a general journal from two external payroll solutions.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Import Payroll Transactions
+# How to: Import Payroll Transactions (Norway)
 You can import payroll transactions into a general journal from two external payroll solutions: Huldt & Lillevik and Hogia. You can then use the general journal to post the imported payroll transactions to general ledger accounts or bank accounts. To import payroll transactions, you must first set up payroll integration.  
 
 ## To set up payroll integration  
@@ -50,5 +50,5 @@ You can import payroll transactions into a general journal from two external pay
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Norway Local Functionality](norway-local-functionality.md)
