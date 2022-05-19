@@ -51,7 +51,6 @@ The new development tools, which enable to you to build extensions v2.0, are cur
 If you would like some coaching, you can contact an app subject matter expert from the following list:
 
 * Cloud Ready Software, [http://cloud-ready-software.com](http://cloud-ready-software.com/)  
-* Dynamics App Alliance, [http://dynamicsappalliance.com​](http://dynamicsappalliance.com/​)
 
 Partners in​ this list:
 
