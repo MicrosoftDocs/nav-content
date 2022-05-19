@@ -61,5 +61,5 @@ https://localhost:7048/server/OData/Customer?company='CRONUS International Ltd.'
 ```  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
