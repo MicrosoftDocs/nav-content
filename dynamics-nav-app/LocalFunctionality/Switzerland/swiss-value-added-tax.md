@@ -38,7 +38,7 @@ Additional information, such as VAT rate and original currency amount, is transf
 When you enter a new line in a journal, the VAT percentages and VAT amounts for the account and balance account for the selected journal line are populated in the journal status area. For more information, see the General Journal window, Sales Journal window, and the Purchase Journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT Rates for Switzerland](vat-rates-for-switzerland.md)   
  [How to: Create and Print a Swiss VAT Statement](how-to-create-and-print-a-swiss-vat-statement.md)   
  [Switzerland Local Functionality](switzerland-local-functionality.md)   
