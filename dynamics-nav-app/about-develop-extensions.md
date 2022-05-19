@@ -65,8 +65,7 @@ This [FAQ](https://go.microsoft.com/fwlink/?linkid=841520) responds to the most 
 
 ## Further Resources
 Please find further resources for app development on our [DLP topic page](/microsoft-365/compliance/dlp-learn-about-dlp) DLP topic page. Some selected ones are available below:
--	[User Registration and Subsequent Billing](https://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/)
-
+-	[User Registration and Subsequent Billing](/dynamics-nav-app/ui-how-register-dynamics-nav-azure) on apps for Dynamics NAV.
 
 
 ## See Also
