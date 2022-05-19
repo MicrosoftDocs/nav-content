@@ -55,7 +55,7 @@ This report is generated in a format approved by the tax authorities. You should
 If you print the posted document, for example, a posted sales invoice, it will include the following label: **Régimen especial del criterio de caja**.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Report 340](report-340.md)   
  [Payments in Cash](payments-in-cash.md)   
  [Spanish Tax Agency](https://sede.agenciatributaria.gob.es/)
