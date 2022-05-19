@@ -50,7 +50,7 @@ To access your [!INCLUDE[d365fin](includes/d365fin_md.md)] data in Power BI, on 
 
 |           Field           |                                                                        Description                                                                         |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    **OData Feed URL**     | The OData URL so Power BI can access data from your company, such as <https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('My%2Business>'). |
+|    **OData Feed URL**     | The OData URL so Power BI can access data from your company, such as `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('My%2Business>')`. |
 | **Authentication method** |                                                                     Choose **Basic**.                                                                      |
 |       **User name**       |                      Your name as it displays for your account in [!INCLUDE[d365fin](includes/d365fin_md.md)], such as *John Smith*.                       |
 |       **Password**        |                          This is the web service access key for your user account in [!INCLUDE[d365fin](includes/d365fin_md.md)].                          |
