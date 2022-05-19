@@ -85,7 +85,7 @@ If you see this error after you enter your [!INCLUDE[d365fin](includes/d365fin_m
 
 * The URL follows exactly this pattern:
 
-    <https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US>')  
+    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')`  
 * Delete any text after the company name in parenthesis  
 * Make sure there are no trailing forward slash at the end of the URL.  
 * Make sure that it is a secure connection as indicated by the URL starting with *https*.  
