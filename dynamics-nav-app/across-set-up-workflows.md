@@ -41,7 +41,7 @@ You can set up and use workflows that connect business-process tasks performed b
 |Add support for a business scenario that requires new workflow events or responses by customizing the application code.|[Walkthrough: Implementing New Workflow Events and Responses](/dynamics_nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Using Workflows](across-use-workflows.md)   
  [Workflow](across-workflow.md)   
  [Walkthrough: Setting Up and Using a Purchase Approval Workflow](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)  
