@@ -51,9 +51,8 @@ The new development tools, which enable to you to build extensions v2.0, are cur
 If you would like some coaching, you can contact an app subject matter expert from the following list:
 
 * Cloud Ready Software, [http://cloud-ready-software.com](http://cloud-ready-software.com/)  
-* Dynamics App Alliance, [http://dynamicsappalliance.com​](http://dynamicsappalliance.com/​)
 
-Partners in​ this list:
+Partners in this list:
 
 * Are listed alphabetically  
 * Are assisting or have assisted a minimum of three partners with bringing apps into Microsoft AppSource  
@@ -65,13 +64,12 @@ If you believe you should be listed as an app service partner, don't hesitate to
 This [FAQ](https://go.microsoft.com/fwlink/?linkid=841520) responds to the most common questions you might have about apps for [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]. If you have further questions, don't hesitate to contact your local Microsoft representative or email [d365-smb@microsoft.com](mailto:d365-smb@microsoft.com).
 
 ## Further Resources
-Please find further resources for app development on our [DLP topic page](https://mbspartner.microsoft.com/BFI/Topic/76) DLP topic page. Some selected ones are available below:
--	[User Registration and Subsequent Billing ](https://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics NAV.pdf)
-
+Please find further resources for app development on our [DLP topic page](/microsoft-365/compliance/dlp-learn-about-dlp) DLP topic page. Some selected ones are available below:
+-	[User Registration and Subsequent Billing](/dynamics-nav-app/ui-how-register-dynamics-nav-azure) on apps for Dynamics NAV.
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365-for-financials&page=1)
