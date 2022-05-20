@@ -1,5 +1,5 @@
 ---
-    title: How to Set Up Delivery Reminders
+    title: How to Set Up Delivery Reminders (Germany)
     description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase delivery reminders to remind vendors about overdue deliveries.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Set Up Delivery Reminders
+# How to: Set Up Delivery Reminders (Germany)
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase delivery reminders to remind vendors about overdue deliveries. To create delivery reminders for vendors, you must set up base data for delivery reminder creation and number series for the delivery reminders in the **Purchases & Payables Setup** window.  
 
 ## To set up delivery reminders  
@@ -39,7 +39,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use purchase deliver
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Delivery Reminders](delivery-reminders.md)   
  [How to: Set Up Delivery Reminder Terms, Levels, and Text](how-to-set-up-delivery-reminder-terms-levels-and-text.md)   
  [How to: Assign Delivery Reminder Codes to Vendors](how-to-assign-delivery-reminder-codes-to-vendors.md)   

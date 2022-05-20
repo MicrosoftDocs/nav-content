@@ -1,5 +1,5 @@
 ---
-    title: How to Print Bank Account Reconciliation Reports
+    title: How to Print Bank Account Reconciliation Reports (New Zealand)
     description: The **Bank Account Reconciliation** report displays open bank ledger entries as unpresented checks or unrecorded deposits.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Bank Account Reconciliation Reports
+# How to: Print Bank Account Reconciliation Reports (New Zealand)
 The **Bank Account Reconciliation** report displays open bank ledger entries as unpresented checks or unrecorded deposits.  
 
 ## To print a bank account reconciliation report  
@@ -26,5 +26,5 @@ The **Bank Account Reconciliation** report displays open bank ledger entries as 
 4.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Reconcile Bank Accounts Separately](../../bank-how-reconcile-bank-accounts-separately.md)

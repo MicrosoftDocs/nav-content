@@ -1,5 +1,5 @@
 ---
-    title: How to Print Deposit Slip Reports
+    title: How to Print Deposit Slip Reports (New Zealand)
     description: The **Deposit Slip** report displays cash and check details in a format required by the bank.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print Deposit Slip Reports
+# How to: Print Deposit Slip Reports (New Zealand)
 The **Deposit Slip** report displays cash and check details in a format required by the bank.  
 
 ## To a print deposit slip report  
@@ -28,5 +28,5 @@ The **Deposit Slip** report displays cash and check details in a format required
 6.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [New Zealand Local Functionality](new-zealand-local-functionality.md)

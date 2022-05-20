@@ -1,5 +1,5 @@
 ---
-    title: How to Print General Ledger Setup Information
+    title: How to Print General Ledger Setup Information (Germany)
     description: Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily business, you can run the **G/L Setup Information** report to display the master data that you have set up.
 
     documentationcenter: ''
@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# How to: Print General Ledger Setup Information
+# How to: Print General Ledger Setup Information (Germany)
 Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily business, you can run the **G/L Setup Information** report to display the master data that you have set up. You can look over this master data so that you have a baseline to compare to, and then verify that you have set up posting groups correctly, for example.  
 
 ## To print general ledger setup information  
@@ -35,5 +35,5 @@ Before you use [!INCLUDE[navnow](../../includes/navnow_md.md)] in the daily busi
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Finance](../../finance-setup-finance.md)

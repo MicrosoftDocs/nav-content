@@ -35,7 +35,7 @@ To access the Dynamics NAV content pack in Power BI, in the connection window, y
 
 |           Field           |                                                             Description                                                             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|    **OData Feed URL**     | The OData URL so Power BI can access data from your company, such as <https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US>'). |
+|    **OData Feed URL**     | The OData URL so Power BI can access data from your company, such as `https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US')`. |
 | **Authentication method** |                                                          Choose **Basic**.                                                          |
 |       **User name**       |                  The email account that you used to sign up for Dynamics NAV, such as <em>me@mybusiness.com</em>.                   |
 |       **Password**        |                              This is the web service access key for your user account in Dynamics NAV.                              |
@@ -44,7 +44,7 @@ This means that you must get two pieces of information from Dynamics NAV: The OD
 **Getting the URL**  
 When you add Dynamics NAV to Power BI, you must specify a URL so Power BI can access data from your company. In the connection window, the URL is referred to as the **OData Feed URL**, and it must have the following format:
 
-https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+`https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')`  
 In this example, *mybusiness* is the name of your Dynamics NAV service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
 To get the URL, in Dynamics NAV, search for and open the **Web Services** window. This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
 **Getting the web service access key**  
@@ -73,7 +73,7 @@ If you see this error after you enter your Dynamics NAV URL, make sure the follo
 
 - The URL follows exactly this pattern:
 
-    <https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US>')  
+    `https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')`  
 - Delete any text after the company name in parenthesis  
 - Make sure there are no trailing forward slash at the end of the URL.  
 - Make sure that it is a secure connection as indicated by the URL starting with *https*.  
@@ -95,13 +95,13 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 * Verify that the URL follows the pattern that was specified earlier:
 
-    <https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US>')  
+    `https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')`  
 * A common mistake is to specify the full URL for a specific web service:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance-setup  
+    `https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance-setup`  
 * Or you might have forgotten to specify the company name:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/  
+    `https://mybusiness.projectmadeira.com:7048/MS/OData/`  
 
 
 ## See Also

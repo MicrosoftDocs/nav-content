@@ -1,6 +1,6 @@
 ---
     title: Payment Scenario 1 - Domestic Payments (LCY to LCY)
-    description: You can use telebanking for trade with domestic and foreign customers and vendors.
+    description: You can use telebanking for trade with domestic and foreign customers and vendors. Here is a scenario where the trade is with domestic customers and vendors.
     documentationcenter: ''
     author: SorenGP
 
@@ -65,7 +65,7 @@ By default these three fields will be populated with values taken from the vendo
 When the invoice is finished it can be posted.  
 
 ### Example  
-When creating a purchase invoice for Olek Johansson we enter **OLEK** in the **Buy-from Vendor No.** field. By default the **Currency Code**, **Transaction Mode** and **Bank Account** fields will be populated with values taken from the Olek Johansson's vendor card. Therefore, the **Currency Code**, **Transaction Mode** and **Bank Account** fields will be **<empty>**, **ABN** and **OJBA** respectively. Nevertheless, these values can be changed.  
+When creating a purchase invoice for Olek Johansson we enter **OLEK** in the **Buy-from Vendor No.** field. By default the **Currency Code**, **Transaction Mode** and **Bank Account** fields will be populated with values taken from the Olek Johansson's vendor card. Therefore, the **Currency Code**, **Transaction Mode** and **Bank Account** fields will be **&lt;<empty&gt;>**, **ABN** and **OJBA** respectively. Nevertheless, these values can be changed.  
 
 ## Create Proposal  
 Open the **Telebank - Bank Overview** window and browse to the bank through which we want to perform our payment. Open the **Proposal** window and generate payment proposals using the **Get Proposal Entries** batch job.  
@@ -89,6 +89,6 @@ After receiving electronic bank statements from our bank we can import them by r
 The bank statement containing our payment to Olek Johansson will be sent to us by our bank, ABN. Therefore, we should chose **OFFICE NET EXTRA** as the appropriate import protocol.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Proposals](how-to-create-proposals.md)   
  [How to: Create and Export Payment History](how-to-create-and-export-payment-history.md)

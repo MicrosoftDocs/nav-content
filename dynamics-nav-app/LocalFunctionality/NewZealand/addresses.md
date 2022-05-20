@@ -15,7 +15,7 @@
     ms.author: edupont
 
 ---
-# Addresses
+# Addresses in New Zealand
 A single postal code can include multiple cities in the same region.  
 
 At the same time, cities with the same name are sometimes located in different regions.  
@@ -31,5 +31,5 @@ When you print an address that has a DPID, a bar code will be printed together w
 Contact your Microsoft partner for information on how to obtain AMAS software.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [New Zealand Local Functionality](new-zealand-local-functionality.md)
