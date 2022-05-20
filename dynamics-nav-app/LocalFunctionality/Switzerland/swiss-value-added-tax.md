@@ -22,7 +22,7 @@
 - Additional VAT exchange rates for invoices in foreign currencies.  
 - VAT percentages and amounts included in journals.  
 
-For more information about Swiss VAT reporting and coding requirements, see [Swiss VAT Information](http://www.estv.admin.ch/mwst/dokumentation/00130/00947/00948/index.html?lang=fr), in particular, document 605.525.01. The information is available in French, German, and Italian.  
+For more information about Swiss VAT reporting and coding requirements, see [Swiss VAT Information](https://www.estv.admin.ch/estv/home/value-added-tax/vat-rates-switzerland.html), in particular, document 605.525.01. The information is available in French, German, and Italian.  
 
 ## VAT Amounts and VAT Exchange Rates  
 According to local VAT laws, the VAT base amount for an invoice can be reduced by the payment discount if a discount is granted. To allow automatic VAT adjustment for a payment discount on an invoice, the **Adjust for Payment Discount** field is activated by default in the **General Ledger Setup** window. You can also activate this function in the VAT posting setup. For more information, see the General Ledger Setup table and the VAT Posting Setup table.  
@@ -38,7 +38,7 @@ Additional information, such as VAT rate and original currency amount, is transf
 When you enter a new line in a journal, the VAT percentages and VAT amounts for the account and balance account for the selected journal line are populated in the journal status area. For more information, see the General Journal window, Sales Journal window, and the Purchase Journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT Rates for Switzerland](vat-rates-for-switzerland.md)   
  [How to: Create and Print a Swiss VAT Statement](how-to-create-and-print-a-swiss-vat-statement.md)   
  [Switzerland Local Functionality](switzerland-local-functionality.md)   
