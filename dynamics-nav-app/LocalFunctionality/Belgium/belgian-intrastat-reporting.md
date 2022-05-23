@@ -27,7 +27,7 @@ To determine the type of declaration that you should use, visit the [National Ba
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can export the Intrastat declarations to a file that you can then submit to the OneGate portal. For more information, see [How to: Export Intrastat Third-Party Declararations](how-to-export-intrastat-third-party-declararations.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgium Local Functionality](belgium-local-functionality.md)   
  [How to: Set Up Declaration Types](how-to-set-up-declaration-types.md)   
  [How to: Set Up Belgian Tariff Numbers](how-to-set-up-belgian-tariff-numbers.md)   
