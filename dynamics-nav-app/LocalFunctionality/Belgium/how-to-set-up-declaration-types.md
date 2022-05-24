@@ -21,7 +21,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], there are two types of decla
 - Simplified declaration  
 - Extended declaration  
 
-The type of declaration depends on the amount of shipped or received goods. To determine the type of declaration that you should use, see the [National Bank of Belgium](https://go.microsoft.com/fwlink/?LinkId=163064) web site.  
+The type of declaration depends on the amount of shipped or received goods. To determine the type of declaration that you should use, see the [National Bank of Belgium](https://www.nbb.be/) web site.  
 
 When using the extended declaration, you will also need to set up an Incoterm in Intrastat Declaration for each shipping method.
 
