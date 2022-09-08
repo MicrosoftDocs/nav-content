@@ -55,8 +55,7 @@ We recommend that you also consider exporting data from the following pages:
 >   If you have set up more than one company in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], you must export the relevant data from each company.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Importing Business Data from Other Finance Systems](upload-data.md)  
 [Finance](finance.md)  
 [General Business Functionality](ui-across-business-areas.md)  
