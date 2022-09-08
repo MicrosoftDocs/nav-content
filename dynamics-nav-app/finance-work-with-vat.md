@@ -168,6 +168,6 @@ To view a group of certificates, you start from the **Certificates of Supply** w
     > * To print a certificate of supply.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up to Calculations and Posting Methods for Value-Added Tax](finance-setup-vat.md)   
 [How To: Report VAT to a Tax Authority](finance-how-report-vat.md)   

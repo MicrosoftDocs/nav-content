@@ -31,7 +31,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you must define setup names 
      [!INCLUDE[navnow](../../includes/navnow_md.md)] automatically fills in the **Field Label No.** and **Field Description** fields by using the Business Activity Statement (BAS) labels.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [BAS Fuel Tax Credits](bas-fuel-tax-credits.md)   
  [How to: Set Up BAS XML Fields]()   
  [Business Activity Statements](business-activity-statements.md)

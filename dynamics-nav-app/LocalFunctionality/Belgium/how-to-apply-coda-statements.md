@@ -55,7 +55,7 @@ Statement amounts can be applied to outstanding ledger entries by:
     When you start the batch job, statement amounts will be applied to existing ledger entries based on the transaction codes. For more information, see [How to: Set Up Bank Accounts for CODA](how-to-set-up-bank-accounts-for-coda.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [CODA Bank Statements](coda-bank-statements.md)   
  [How to: Set Up Bank Accounts for CODA](how-to-set-up-bank-accounts-for-coda.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)   

@@ -94,7 +94,7 @@ When the purchase is posted as received, then an output journal entry is automat
 When the purchase order is posted as invoiced, then the direct cost of the purchase order is posted to the production.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

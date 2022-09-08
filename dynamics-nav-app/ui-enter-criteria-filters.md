@@ -186,5 +186,5 @@ When you enter criteria, you can use all the numbers and letters that you can no
 |>50&<100|Include records with numbers that are greater than 50 and less than 100 (numbers 51 through 99).|  
  
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

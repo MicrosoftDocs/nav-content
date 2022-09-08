@@ -38,5 +38,5 @@ This report shows the opening balance of all the posted ingoing and outgoing cas
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen. Choose the **Cancel** button to save the information without printing the report.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Inventory](../../inventory-setup-inventory.md)

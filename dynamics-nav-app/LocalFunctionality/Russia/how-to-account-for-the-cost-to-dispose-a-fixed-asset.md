@@ -54,5 +54,5 @@ The expenses on a fixed asset disposal can be printed in the FA Write-off Act FA
 After the fixed asset write-off report is posted, it becomes the posted fixed asset write-off report.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md)

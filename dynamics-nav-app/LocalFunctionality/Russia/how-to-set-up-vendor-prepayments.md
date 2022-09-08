@@ -42,6 +42,6 @@ Prepayments are advance payments on purchase orders that are paid before the fin
 You can now track and record advance payments on purchase invoices.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Invoicing Prepayments](../../finance-invoice-prepayments.md)    
 [Walkthrough: Setting Up and Invoicing Sales Prepayments](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md)   

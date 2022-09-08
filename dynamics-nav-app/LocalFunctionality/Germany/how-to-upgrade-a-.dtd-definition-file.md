@@ -26,5 +26,5 @@ You can explicitly validate a .dtd file after you import one in order to address
 4.  Select a file to import, and then choose the **Validate** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Data Exports for GDPdU](how-to-set-up-data-exports-for-gdpdu.md)

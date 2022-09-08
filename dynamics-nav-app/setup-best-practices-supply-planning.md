@@ -29,7 +29,7 @@ Supply planning is a critical business area. When set up and used correctly, sup
 |Learn the best practices for applying a general supply strategy to all item cards, such as always receiving items one day before they are needed or dampening the system’s reaction to small demand fluctuations.|[Setup Best Practices: Global Planning Setup](setup-best-practices-global-planning-setup.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Supply Planning](design-details-supply-planning.md)   
  [Design Details: Planning Parameters](design-details-planning-parameters.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  

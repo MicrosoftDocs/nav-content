@@ -37,7 +37,7 @@ When you want to pay a vendor by using DTA, you generate a DTA file, which conta
 >  If you combine payments to the vendor, the posting text must include the document numbers of the invoices. Also, if the length of the document number is longer than 50 characters, the word "etc." will be added to the field.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Electronic Payments](swiss-electronic-payments.md)   
  [How to: Suggest DTA Payment for Vendors](how-to-suggest-dta-payment-for-vendors.md)   
  [How to: Verify a List of Vendors for DTA Payments](how-to-verify-a-list-of-vendors-for-dta-payments.md)   

@@ -34,7 +34,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Learn about all mechanisms in the costing system.|[Design Details: Inventory Costing](design-details-inventory-costing.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
  [Inventory](inventory-manage-inventory.md)   
  [Sales](sales-manage-sales.md)   

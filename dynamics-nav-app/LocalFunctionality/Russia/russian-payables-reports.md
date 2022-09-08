@@ -229,6 +229,6 @@ On the **Options** FastTab, you can specify the format options listed in the fol
 |**Print Contractor Data**|Select this option to fill in the right side of the report with the vendor's data.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russian Receivables Reports](russian-receivables-reports.md)   
  [How to: Set Up Customer and Vendor Agreements](how-to-set-up-customer-and-vendor-agreements.md)

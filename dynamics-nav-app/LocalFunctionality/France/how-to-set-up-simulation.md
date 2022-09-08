@@ -37,7 +37,7 @@ Before you can start to use the simulation functionality, you must set up a sour
 Now you can create simulation entries using the general journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Simulation Entries](how-to-create-simulation-entries.md)   
  [How to: Delete Simulation Entries](how-to-delete-simulation-entries.md)   
  [How to: Transfer Simulation Entries](how-to-transfer-simulation-entries.md)

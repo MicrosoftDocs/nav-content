@@ -32,5 +32,5 @@ In Russia, there are specific [!INCLUDE[navnow](../../includes/navnow_md.md)] fe
 |[How to: Combine Customer or Vendor Cards](how-to-combine-customer-or-vendor-cards.md)|Enables you to combine two customer or vendor cards that belong to one customer or vendor.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

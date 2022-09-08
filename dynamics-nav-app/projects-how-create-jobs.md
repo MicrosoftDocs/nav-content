@@ -67,7 +67,7 @@ A job planning line can have one of the following types.
 5. Repeat steps 3 and 4 for all planning lines that you need for the job task.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Project Management](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Purchasing](purchasing-manage-purchasing.md)         

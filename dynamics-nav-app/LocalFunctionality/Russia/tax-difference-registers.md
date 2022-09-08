@@ -23,7 +23,7 @@ You can view posted tax difference transactions with all the income or expense c
 3. In the opened form, select a transaction, and then choose the **Navigate** action to get details about the creation of the transaction.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Differences](tax-differences.md)   
  [Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md)   
  [Tax Accounting](tax-accounting.md)   

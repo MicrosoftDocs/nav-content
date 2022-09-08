@@ -27,7 +27,7 @@ Before you can start using electronic banking for domiciliations, you must enter
 - Preferred bank account - The preferred bank account will be suggested as a default bank account on all domiciliation suggestions for that customer. If necessary, you can change the bank account before posting the domiciliation suggestions. For more information, see [How to: Generate Domiciliation Suggestions](how-to-generate-domiciliation-suggestions.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md)   
  [How to: Generate Domiciliation Suggestions](how-to-generate-domiciliation-suggestions.md)   

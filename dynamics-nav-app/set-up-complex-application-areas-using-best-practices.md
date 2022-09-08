@@ -27,7 +27,7 @@ Entering the correct setup values from the start is important to the success of 
 -   [Setup Best Practices: Costing Method](setup-best-practices-costing-method.md)  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Supply Planning](design-details-supply-planning.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

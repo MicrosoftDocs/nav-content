@@ -58,7 +58,7 @@ For example, the default balance statement has a subcategory for Cash under Curr
 The next time you generate account schedules your balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Setting Up or Changing the Chart of Accounts](finance-setup-chart-accounts.md)  
 [Business Intelligence](bi.md)  

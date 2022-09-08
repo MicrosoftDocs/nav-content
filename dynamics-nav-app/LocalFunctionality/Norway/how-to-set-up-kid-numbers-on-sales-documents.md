@@ -35,6 +35,6 @@ Kunde ID (KID) is a customer identification number that provides a payment refer
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Banking in Norway](electronic-banking-in-norway.md)   
  [Norwegian Sales Documents](norwegian-sales-documents.md)

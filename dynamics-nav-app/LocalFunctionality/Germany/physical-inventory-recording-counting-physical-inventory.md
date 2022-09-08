@@ -36,7 +36,7 @@ By setting the Status to finished, you tell the program, that the current physic
 >  If there are more than one such physical inventory order lines, an error message appears. You can have the program to show you the duplicate lines.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create a Physical Inventory Recording](how-to-create-a-physical-inventory-recording.md)   
  [How to: Finish a Physical Inventory Recording](how-to-finish-a-physical-inventory-recording.md)   
  [How to: View Duplicate Physical Inventory Order Lines](how-to-view-duplicate-physical-inventory-order-lines.md)   

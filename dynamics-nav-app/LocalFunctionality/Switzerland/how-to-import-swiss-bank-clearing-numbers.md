@@ -41,6 +41,6 @@ The following procedure describes how to define bank branch numbers for customer
 5.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Electronic Payments](swiss-electronic-payments.md)   
  [How to: Set Up Bank Accounts](../../bank-how-setup-bank-accounts.md)

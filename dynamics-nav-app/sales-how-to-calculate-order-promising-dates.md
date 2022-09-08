@@ -138,7 +138,7 @@ Before an item can be included in the order promising calculation, it must be ma
 5.  Choose the **Accept** button to accept the earliest shipment date available.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Date Calculation for Purchases](purchasing-date-calculation-for-purchases.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

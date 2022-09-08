@@ -42,7 +42,7 @@ You can make corrections to posted VAT entries without posting the correction in
     |**Declaration Summary Report**|Opens the **VAT Statement Summary** report. For more information, see VAT Statement Summary.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian VAT](belgian-vat.md)   
  [How to: Print Periodic VAT Reports](how-to-print-periodic-vat-reports.md)   
  [How to: Set Up Non-Deductible VAT](how-to-set-up-non-deductible-vat.md)

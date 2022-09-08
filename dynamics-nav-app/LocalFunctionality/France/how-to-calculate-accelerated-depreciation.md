@@ -46,7 +46,7 @@ Entries are transferred to the fixed asset general journal when you select an ac
 The accelerated depreciation for the fixed asset is calculated.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Accelerated Depreciation](accelerated-depreciation.md)   
  [How to: Set Up Accelerated Depreciation](how-to-set-up-accelerated-depreciation.md)   
  [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)  

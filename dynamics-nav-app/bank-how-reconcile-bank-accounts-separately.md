@@ -87,7 +87,7 @@ Sometimes a bank statement contain amounts for interest or fees charged. Such ba
 6. Match the bank statement line with the bank account ledger entry, either manually or automatically.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)  
 [Setting Up Banking](bank-setup-banking.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

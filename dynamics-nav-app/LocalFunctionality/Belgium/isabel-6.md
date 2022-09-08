@@ -29,7 +29,7 @@ To set up your system to work with Isabel, complete the following:
 - Register the COM wrapper on your computer. At the command prompt, locate the CIS.dll and then execute the **regsvr32 CISComWrapper.dll** command.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Isabel website](https://go.microsoft.com/fwlink/?LinkId=210323)   
  [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [How to: Set Up Electronic Banking](how-to-set-up-electronic-banking.md)

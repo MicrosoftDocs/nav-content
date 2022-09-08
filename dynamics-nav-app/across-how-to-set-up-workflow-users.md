@@ -42,7 +42,7 @@ Workflow users that function as approval users, both approval requesters and app
 7. Repeat steps 2 through 6 to add more workflow user groups.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md)   
 [Setting Up Workflows](across-set-up-workflows.md)   
 [Using Workflows](across-use-workflows.md)   

@@ -35,7 +35,7 @@ Before you can send and receive electronic documents or import and export bank f
 |Set up the Data Exchange Framework to enable users to receive a new purchase document format, send a new sales document format, import a new bank file, or other data exchange.|[How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Exchanging Data Electronically](across-data-exchange.md)  
 [Exchanging Data](across-exchange-data.md)   
 [Incoming Documents](across-income-documents.md)  

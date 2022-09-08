@@ -25,7 +25,7 @@ The Intrastat establishment number is a company identification number that is pr
 3.  Choose the **OK** button.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
  [How to: Set Up Declaration Types](how-to-set-up-declaration-types.md)   
  [How to: Set Up Belgian Tariff Numbers](how-to-set-up-belgian-tariff-numbers.md)   

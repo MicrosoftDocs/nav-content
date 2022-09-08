@@ -40,7 +40,7 @@ The following table describes a sequence of tasks, with links to the topics that
  |Organize and process incoming and outgoing transactions that you exchange with your intercompany partners.|[How to: Manage the Intercompany Inbox and Outbox](intercompany-how-manage-intercompany-inbox.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [Working with General Journals](ui-work-general-journals.md)  

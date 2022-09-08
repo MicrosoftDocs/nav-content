@@ -25,7 +25,7 @@ In the **Work Center Card** and **Machine Center Card** windows, you can view th
 Use the **View by** and **View as** fields on the **Options** FastTab to select the required period.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

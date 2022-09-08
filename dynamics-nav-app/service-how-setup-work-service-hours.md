@@ -53,7 +53,7 @@ If you do not set up specific service hours for the service contract, the defaul
 7. If you want the service hours to be valid on holidays, select the check box in the **Valid on Holidays** field.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Understanding Allocation Status and Repair Status](service-allocation-status-and-repair-status.md)  
 [Setting Up Service Management](service-setup-service.md)  
 [Understanding Service Order and Repair Status](service-order-repair-status.md)  

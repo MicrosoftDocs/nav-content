@@ -30,5 +30,5 @@ If you use foreign currency in general ledger accounts, then the balance in the 
 3.  Choose the **Close** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss General Ledger Accounts](swiss-general-ledger-accounts.md)

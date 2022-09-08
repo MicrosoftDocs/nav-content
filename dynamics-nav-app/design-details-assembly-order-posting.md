@@ -108,7 +108,7 @@ Item ledger entries of type Sale that result from posting assemble-to-order quan
 Posting sales order lines where a part is inventory quantity and another part is assemble-to-order quantity results in separate item ledger entries, one for the inventory quantity and one for the assemble-to-order quantity.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Production Order Posting](design-details-production-order-posting.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)  

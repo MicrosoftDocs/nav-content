@@ -36,7 +36,7 @@ Before you can perform warehouse activities, you must set the system up for the 
 |Record the shipment of items from warehouse locations, either with a sales order only, in simple location setups, or with a warehouse shipment, in case of semi or fully automated warehouse processes at the location.|[How to: Ship Items](warehouse-how-ship-items.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Inventory](inventory-manage-inventory.md)  
  [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
  [Assembly Management](assembly-assemble-items.md)    

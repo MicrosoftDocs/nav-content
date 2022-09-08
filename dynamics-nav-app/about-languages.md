@@ -22,6 +22,6 @@ It's simple - scroll to the bottom of the browser window and choose the globe sy
 > The list shows all languages that are supported by the Microsoft Docs site. [!INCLUDE[d365fin](includes/d365fin_md.md)] is available in a limited number of countries/regions, but the Help content is made available in more languages. However, the Help content is not available in all languages that the Microsoft Docs site supports.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Language and Locale](about-locale-language.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

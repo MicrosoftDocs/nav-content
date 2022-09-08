@@ -35,7 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Enable global financial reporting by to international accounting organizations with the eXtensible Business Reporting Language standard.|[How to: Create Reports with XBRL](bi-create-reports-with-xbrl.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)    
 [Using Dynamics NAV as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)  
 [Closing Fiscal Periods](year-close-years-periods.md)  

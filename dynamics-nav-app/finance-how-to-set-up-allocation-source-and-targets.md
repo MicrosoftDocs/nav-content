@@ -36,7 +36,7 @@ Each allocation consists of an allocation source and one or more allocation targ
 >  Select the **Blocked** check box to deactivate the allocation setup.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
  [Setting Filters for Dynamic Allocation Bases](finance-setting-filters-for-dynamic-allocation-bases.md)   
  [Scenario Example: Defining Static Allocations Based on Allocation Ratio](finance-scenario-example-defining-static-allocations-based-on-allocation-ratio.md)   

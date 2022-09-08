@@ -104,7 +104,7 @@ The calculated work center calendar will now define when and how much capacity i
 The capacity of the selected day has now decreased by the recorded absence time.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Base Calendars](across-how-to-assign-base-calendars.md)  
 [How to: Set Up Work Centers and Machine Centers](production-how-to-set-up-work-and-machine-centers.md)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  

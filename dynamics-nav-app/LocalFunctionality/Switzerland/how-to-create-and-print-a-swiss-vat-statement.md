@@ -48,5 +48,5 @@ Based on the information that you have specified in the **VAT Posting Setup** wi
     |**Show Amounts in Add. Reporting Currency**|Select to show amounts in an additional reporting currency.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Value Added Tax](swiss-value-added-tax.md)

@@ -25,7 +25,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use electronic banki
 - Process direct debits with domiciliations  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Payments](belgian-electronic-payments.md)   
  [CODA Bank Statements](coda-bank-statements.md)   
  [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)

@@ -44,5 +44,5 @@ You can add as many operation codes as you want to the table. However, the opera
 When you add an operation code to the general product posting group, that association is in turn applied to the items that have that general product posting group.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Report 340](how-to-create-report-340.md)

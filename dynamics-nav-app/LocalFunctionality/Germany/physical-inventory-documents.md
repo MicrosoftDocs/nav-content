@@ -41,7 +41,7 @@ It is possible to use the posted physical inventory order to create new physical
 You can use Navigate to view the inventory ledger entries and other related ledger entries for a posted physical inventory order.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Warehouse Management](../../warehouse-manage-warehouse.md)   
  [Physical Inventory Order Lines With Item Tracking Lines](physical-inventory-order-lines-with-item-tracking-lines.md)   
  [Physical Inventory Recording - Counting Physical Inventory](physical-inventory-recording-counting-physical-inventory.md)   

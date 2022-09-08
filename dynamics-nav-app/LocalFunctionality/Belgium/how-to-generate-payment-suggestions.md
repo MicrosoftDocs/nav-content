@@ -39,7 +39,7 @@ After you have set up electronic banking, you can start generating payment sugge
 When the batch job is finished, the payment journal contains all vendor ledger entries that match the filters.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Payments](belgian-electronic-payments.md)   
  [How to: Set Up Vendors for Automatic Payment Suggestions](how-to-set-up-vendors-for-automatic-payment-suggestions.md)   
  [How to: Create Payment Journal Templates and Batches](how-to-create-payment-journal-templates-and-batches.md)   

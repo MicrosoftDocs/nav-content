@@ -64,5 +64,5 @@ Entries related to credit memos display in the **Customer/Vendor Warnings 349** 
 For corrections to amounts that were included in an earlier 349 declaration, the window can show more than one warning for a customer or vendor with the same values in the **Original Declaration FY** and **Original Declaration Period** fields. In that case, you should combine the corrections in a single line so that the appropriate amounts for the **Previous Declared Amount** field and the **Original Declared Amount** field are included in the 349 declaration.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Report 349](report-349.md)   

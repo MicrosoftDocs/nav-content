@@ -29,7 +29,7 @@ Sometimes you must provide a customer a loaner item for use when your customer s
 5. In the **Unit of Measure Code** field, choose the relevant unit of measure.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Lend and Receive Loaners](service-how-to-lend-receive-loaners.md)  
 [Setting Up Service Management](service-setup-service.md)  
 [Delivering Service](service-deliver-service.md)  

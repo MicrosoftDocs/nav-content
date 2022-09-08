@@ -25,5 +25,5 @@ Create or select a card for the fixed asset that should be repaid. For more info
 Create a purchase order and a release order for undepreciable fixed assets. For more information, see [How to: Purchase and Release Undepreciable Fixed Assets](how-to-purchase-and-release-undepreciable-fixed-assets.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md)

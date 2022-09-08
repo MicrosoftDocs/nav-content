@@ -40,7 +40,7 @@ A purchase order created as a special order for a sales order is respected by th
 >  You cannot use the special order functionality if the item is already reserved. Therefore, for items that are sold on special orders, make sure the **Reserve** field on the item card is not set to **Always**.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Work with Nonstock Items](inventory-how-work-nonstock-items.md)  
 [Sales](sales-manage-sales.md)  
 [How to: Make Drop Shipments](sales-how-drop-shipment.md)   

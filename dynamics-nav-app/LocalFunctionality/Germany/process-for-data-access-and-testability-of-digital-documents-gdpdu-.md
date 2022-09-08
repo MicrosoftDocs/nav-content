@@ -60,7 +60,7 @@ For more informa.tion, see the "GDPdU Filter Examples" section in [How to: Set U
  If you want to export large sets of data, it can take a very long time. We recommend that you set up data exports based on advice from your tax advisor to establish your business needs, and the requirements of the tax auditor. The number of records in a table is also something that you should consider.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Data Exports for GDPdU](how-to-set-up-data-exports-for-gdpdu.md)   
  [How to: Export GDPdU Data](how-to-export-gdpdu-data.md)   
  [Walkthrough: Exporting GDPdU Data](walkthrough-exporting-gdpdu-data.md)   

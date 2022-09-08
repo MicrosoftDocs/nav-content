@@ -33,6 +33,6 @@ An algorithm provided by the local tax office ensures that the number is in a va
 6.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Australian Business Numbers and Adjustment Notes](australian-business-numbers-and-adjustment-notes.md)   
  [Australia Local Functionality](australia-local-functionality.md)

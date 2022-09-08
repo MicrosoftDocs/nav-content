@@ -116,7 +116,7 @@ The following table shows how the work center is set up on the work center card.
 For more information about the relationship between the account types and the different types of value entries, see [Design Details: Accounts in the General Ledger](design-details-accounts-in-the-general-ledger.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
 [Design Details: Expected Cost Posting](design-details-expected-cost-posting.md)   
 [Design Details: Cost Adjustment](design-details-cost-adjustment.md)

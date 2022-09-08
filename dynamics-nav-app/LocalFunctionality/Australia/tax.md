@@ -32,5 +32,5 @@ For information about tax in Australia, see the following topics:
 [How to: View Posted Tax Credit Memos](how-to-view-posted-tax-credit-memos.md)
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Australia Local Functionality](australia-local-functionality.md)  

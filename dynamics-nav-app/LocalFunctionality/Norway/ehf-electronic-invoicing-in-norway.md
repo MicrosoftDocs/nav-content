@@ -51,5 +51,5 @@ The electronic documents are stored in the locations that are defined in the Sal
 |K|Emission allowances for private or public businesses – buyer calculates VAT|None, reported as 0|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Customers for EHF](how-to-set-up-customers-for-ehf.md)

@@ -87,7 +87,7 @@ Before creating the **Report 340** report, you should consider the following fil
 - If the field has no value, it will be empty for alphanumeric fields and populated with zeros for numeric fields.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Report 340](how-to-create-report-340.md)   
  [Payments in Cash](payments-in-cash.md)   
  [Spain Local Functionality](spain-local-functionality.md)

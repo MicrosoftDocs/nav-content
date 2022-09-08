@@ -49,6 +49,6 @@ When you use tray numbers and paper sources for Norwegian sales documents, you m
 If the printer supports other tray numbers, you can enter these numbers in the **First Page - Tray Number**, **Other Pages - Tray Number**, and **Giro Page - Tray Number** fields in the **Printer Selection** table.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Norwegian Sales Documents](norwegian-sales-documents.md)   
  [Norwegian Giro and OCR-B Font](norwegian-giro-and-ocr-b-font.md)

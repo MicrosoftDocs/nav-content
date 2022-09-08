@@ -22,5 +22,5 @@ If you engage in trade with companies, or internal branches or subsidiaries, in 
 The extension is free, you just need to install it. 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Customizing Dynamics NAV Using Extensions](ui-extensions.md)

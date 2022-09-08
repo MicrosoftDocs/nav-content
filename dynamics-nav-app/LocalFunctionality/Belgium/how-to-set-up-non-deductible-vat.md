@@ -29,6 +29,6 @@ You can calculate VAT amounts for specific types of expenses which can be partia
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian VAT](belgian-vat.md)   
  [How to: Print Periodic VAT Reports](how-to-print-periodic-vat-reports.md)

@@ -39,7 +39,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Provide service to customers, and invoice service orders.|[Delivering Service](service-deliver-service.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Receivables](receivables-manage-receivables.md)   
 [Jobs](projects-how-create-jobs.md)   
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

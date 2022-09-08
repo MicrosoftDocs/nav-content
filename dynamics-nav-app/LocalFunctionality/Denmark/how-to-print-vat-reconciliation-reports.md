@@ -32,5 +32,5 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can use the **VAT Reconc
 4.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Denmark Local Functionality](denmark-local-functionality.md)  

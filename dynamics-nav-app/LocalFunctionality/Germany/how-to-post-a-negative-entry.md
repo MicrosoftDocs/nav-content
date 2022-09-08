@@ -27,6 +27,6 @@ You can use the **Correction** field to post a negative debit instead of a credi
 5.  To post the journal, choose the **Post** action, and then choose the **Yes** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Reverse Postings](../../finance-how-reverse-journal-posting.md)  
 [Germany Local Functionality](germany-local-functionality.md)

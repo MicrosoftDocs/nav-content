@@ -186,7 +186,7 @@ To understand how the dimension entry storing and posting is redesigned, it is i
 |7136|**Item Budget Buffer**|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Dimension Set Entries](design-details-dimension-set-entries.md)   
  [Dimension Set Entries Overview](design-details-dimension-set-entries-overview.md)   
  [Design Details: Searching for Dimension Combinations](design-details-searching-for-dimension-combinations.md)   

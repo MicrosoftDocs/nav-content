@@ -31,5 +31,5 @@ Next, you must make sure that you specify the appropriate payment terms for your
 >  You cannot post a document that creates a bill where one or more installments have a due date that is later than the limit that is specified in the **Max. No. of Days till Due Date** field.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Calculating Due Dates](calculating-due-dates.md)

@@ -44,7 +44,7 @@ As a campaign runs, all interactions with your contacts, or segment, are recorde
 Campaigns are conducted by salespeople, and you must create activities to represent each task and assign them to the relevant salespeople. For more information, see [How to: Set Up Opportunity Sales Cycles and Cycle Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Contacts](marketing-contacts.md)  
 [Managing Segments](marketing-segments.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  

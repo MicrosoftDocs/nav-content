@@ -26,7 +26,7 @@ A number of shipping agents provide services on the Internet that allow you to t
 Your default browser opens the shipping agent's tracking page.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md)  
 [Sales](sales-manage-sales.md)  
 [Setting Up Sales](sales-setup-sales.md)  

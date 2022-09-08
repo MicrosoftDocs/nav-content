@@ -26,7 +26,7 @@ To use electronic banking services to import bank statements and  export payment
 | Set up an external service that enables you to export your payments to the bank for processing  and import bank statements as bank files for payment application and bank reconciliation. |[How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)  
 [Managing Receivables](receivables-manage-receivables.md)  
 [Managing Payables](payables-manage-payables.md)  

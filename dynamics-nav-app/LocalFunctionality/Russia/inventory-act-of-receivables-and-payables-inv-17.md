@@ -98,6 +98,6 @@ The debts and liabilities amount for the selected vendor or customer is recalcul
 6.  Choose the **Print** action, and then choose the **Supplement to Invent. Act INV-17** action to print the supplement to the inventory act.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russian Payables Reports](russian-payables-reports.md)   
  [Russian Receivables Reports](russian-receivables-reports.md)

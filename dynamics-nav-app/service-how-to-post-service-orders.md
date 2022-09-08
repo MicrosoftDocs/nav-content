@@ -128,6 +128,6 @@ The following procedure describes shipment posting directly from a service order
 5. Choose the **Post** action.
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Posting in Service Management](service-service-posting.md)  
 [How to: Create a Service Order](service-how-to-create-service-orders.md)  

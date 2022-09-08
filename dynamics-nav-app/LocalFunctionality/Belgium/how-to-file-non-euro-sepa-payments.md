@@ -42,7 +42,7 @@ Before you can file a non-euro SEPA payment you must complete the following admi
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: File SEPA Payments](how-to-file-sepa-payments.md)   
  [How to: Activate SEPA Payments](how-to-activate-sepa-payments.md)   
  [SEPA Payments](sepa-payments.md)

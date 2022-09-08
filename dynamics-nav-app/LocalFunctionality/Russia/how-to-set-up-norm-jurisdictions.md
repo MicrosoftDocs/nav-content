@@ -46,7 +46,7 @@ Norm jurisdictions are based on Russian tax laws that define a variety of tax ra
 The norm jurisdiction that you set up is now available for use in calculating tax differences.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Differences](tax-differences.md)   
  [Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md)   
  [Tax Accounting](tax-accounting.md)   

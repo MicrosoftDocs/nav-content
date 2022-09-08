@@ -23,5 +23,5 @@ The local tax regulation of conditional discounts feature enables you to issue a
 On the Sales and Receivables Setup form, a field has been added for number series for credit invoices. A new field has also been added in the Customer Ledger Entry table to link the appropriate entries to a credit invoice.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Sales](../../sales-setup-sales.md)

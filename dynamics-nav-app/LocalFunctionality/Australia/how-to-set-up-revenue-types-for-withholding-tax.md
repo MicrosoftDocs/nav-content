@@ -34,7 +34,7 @@ You can use the **WHT Revenue Types** window to set up the revenue types for wit
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Withholding Tax](withholding-tax.md)   
  [How to: Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
  [How to: View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   

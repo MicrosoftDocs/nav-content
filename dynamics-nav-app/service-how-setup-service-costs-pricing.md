@@ -62,6 +62,6 @@ When you work with service items and service orders, you may need to register ad
 2. In the **Service Order Starting Fee** field, choose the appropriate service cost.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Service Management](service-setup-service.md)  
 [Service Management](service-service.md)  

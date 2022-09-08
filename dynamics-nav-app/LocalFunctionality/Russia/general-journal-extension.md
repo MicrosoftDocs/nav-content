@@ -49,5 +49,5 @@ The following procedure shows how to view the posted journal lines.
 2.  Choose the relevant journal batch and review the posted lines.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

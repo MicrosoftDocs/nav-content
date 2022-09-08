@@ -69,7 +69,7 @@ In the **Sales VAT Adv. Notification List** window, you can create and submit sa
 After you have submitted a document to ELSTER, an entry is made in the **VAT Transmission Log Entries** window. When the ELSTER online portal processed the submitted document, errors can occur, and [!INCLUDE[navnow](../../includes/navnow_md.md)] displays an error message that is based on the error code from ELSTER. In most cases, the error is caused by problems with the user-specific certificate or with network connectivity. For more information, see [Error Messages of the ElsterTransferHandler and ELSTER Transmission Overview](error-messages-of-the-elstertransferhandler.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Sales VAT Advance Notifications for ELSTER](how-to-set-up-sales-vat-advance-notifications-for-elster.md)   
  [How to: Create and Submit Sales VAT Advance Notifications](how-to-create-and-submit-sales-vat-advance-notifications.md)   
  [ELSTER online portal](https://go.microsoft.com/fwlink/?LinkId=155998)

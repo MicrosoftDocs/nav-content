@@ -30,6 +30,6 @@ In the **Before Start Item Cost** window, you can enter information about invent
 The entries in this window will be used to calculate the average year cost. For more information, see Item Cost History List and Calculate End Year Costs.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fiscal Inventory Valuation](fiscal-inventory-valuation.md)   
  [How to: Set Up Fiscal Inventory Valuation](how-to-set-up-fiscal-inventory-valuation.md)   

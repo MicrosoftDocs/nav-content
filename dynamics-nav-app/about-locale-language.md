@@ -34,7 +34,7 @@ You can change the locale in the browser tab that you are using to work in [!INC
 To change the locale, go to the **My Settings** window. For more information, see [Changing Basic Settings](ui-change-basic-settings.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Languages of the Docs](about-languages.md)  
 [Changing Basic Settings](ui-change-basic-settings.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

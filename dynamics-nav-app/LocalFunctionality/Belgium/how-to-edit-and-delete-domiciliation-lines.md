@@ -36,7 +36,7 @@ The **Suggest Domiciliations** batch job creates domiciliation suggestions for a
 4.  Choose the **Yes** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Direct Debit Using Domiciliation](direct-debit-using-domiciliation.md)   
  [How to: Set Up Domiciliations](how-to-set-up-domiciliations.md)   
  [How to: Generate Domiciliation Suggestions](how-to-generate-domiciliation-suggestions.md)   

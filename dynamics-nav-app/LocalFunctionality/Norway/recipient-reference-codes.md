@@ -37,5 +37,5 @@ The recipient reference codes are described in the following table.
 |**%11**|The Kunde ID number from the vendor ledger entry.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Vendors for Remittance](how-to-set-up-vendors-for-remittance.md)

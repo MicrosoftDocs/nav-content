@@ -74,7 +74,7 @@ You can also assign item attributes to item categories, which then apply to the 
 The items in the **Items** window are filtered by the specified item attribute values.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Categorize Items](inventory-how-categorize-items.md)    
 [How to: Register New Items](inventory-how-register-new-items.md)  
 [Inventory](inventory-manage-inventory.md)  

@@ -30,7 +30,7 @@ When you have created and posted simulation entries to the general ledger, you c
 5.  Open the relevant general journal and post the newly created journal entries.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Simulation](how-to-set-up-simulation.md)   
  [How to: Create Simulation Entries](how-to-create-simulation-entries.md)   
  [How to: Delete Simulation Entries](how-to-delete-simulation-entries.md)

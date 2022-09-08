@@ -33,5 +33,5 @@ Using telebanking you can deal with three scenarios:
     For more information, see [Payment Scenario 3 - Foreign Payment (LCY  to FCY)](payment-scenario-3-foreign-payment-lcy-to-fcy-.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Telebanking](telebanking.md)

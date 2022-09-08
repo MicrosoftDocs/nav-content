@@ -45,7 +45,7 @@ The payment slips are archived.
 >  This batch job will only archive payment slips that have the **Archiving Authorized** check box selected in the **Payment Status** window. For more information, see [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   

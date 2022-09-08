@@ -60,7 +60,7 @@ Before you can process payment electronically by exporting payment files in the 
     The direct-debit mandate is automatically inserted in the **Direct Debit Mandate ID** field when you create a sales invoice for the customer that you selected in step 2. For more information, see [How to: Create Recurring Sales and Purchase Lines](sales-how-work-standard-lines.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Collecting Payments with SEPA Direct Debit](finance-collect-payments-with-sepa-direct-debit.md)  
 [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md)  
 [How to: Create Recurring Sales and Purchase Lines](sales-how-work-standard-lines.md)  

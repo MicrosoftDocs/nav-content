@@ -37,7 +37,7 @@ If [!INCLUDE[navnow](../../includes/navnow_md.md)] has already calculated the ex
 You must calculate the expected quantities for all physical inventory order lines of a physical inventory order before you can set the Status field to **Finished**. This is because [!INCLUDE[navnow](../../includes/navnow_md.md)] compares the expected and the recorded quantities and calculates the differences for posting.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
  [Physical Inventory Recording - Counting Physical Inventory](physical-inventory-recording-counting-physical-inventory.md)   
  [How to: Finish a Physical Inventory Order](how-to-finish-a-physical-inventory-order.md)   

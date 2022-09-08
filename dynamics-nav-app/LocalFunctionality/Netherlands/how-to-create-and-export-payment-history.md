@@ -43,5 +43,5 @@ The **Payment History List** window displays the payment history that you just c
     >  A text file will be created. This file contains the path and file name as defined in the **Default File Names Field** field of the export protocol.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Proposals](how-to-create-proposals.md)

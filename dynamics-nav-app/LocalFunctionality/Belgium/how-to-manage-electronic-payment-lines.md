@@ -31,7 +31,7 @@ You can have [!INCLUDE[navnow](../../includes/navnow_md.md)] suggest payments au
 4.  Choose the **OK** button.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Payments](belgian-electronic-payments.md)   
  [How to: Generate Payment Suggestions](how-to-generate-payment-suggestions.md)   
  [How to: Test Electronic Payments](how-to-test-electronic-payments.md)

@@ -49,7 +49,7 @@ In this window, you can:
 You can delete interaction log entries that have been canceled. To delete interaction log entries, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Delete Canceled Interaction Log Entries**, and then choose the related link, and then fill in the information.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Contacts](marketing-contacts.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
 [Working with Dynamics NAV](ui-work-product.md)  

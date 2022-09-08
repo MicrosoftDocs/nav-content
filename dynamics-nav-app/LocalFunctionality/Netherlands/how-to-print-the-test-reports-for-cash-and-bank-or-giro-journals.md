@@ -47,6 +47,6 @@ This report displays the statement lines of a cash journal and bank journal or g
 7.  Choose the **Print** button to print the report or choose the **Preview** button to view it in on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Apply and Unapply General Ledger Entries](how-to-apply-and-unapply-general-ledger-entries.md)   
  [Cash-Bank-Giro](cash-bank-giro.md)

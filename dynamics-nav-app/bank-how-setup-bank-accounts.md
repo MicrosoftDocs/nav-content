@@ -45,7 +45,7 @@ Fields on the **Transfer** FastTab in the **Vendor Bank Account Card** window ar
 3. In the **Vendor Bank Account Card** window, on the **Transfer** FastTab, fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Banking](bank-setup-banking.md)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

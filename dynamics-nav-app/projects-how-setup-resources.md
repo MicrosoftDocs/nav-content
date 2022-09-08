@@ -67,7 +67,7 @@ In addition to price specified on the resource card, you can set up alternate pr
 4. Repeat step 3 for each alternate resource price that you want to set up.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Project Management](projects-setup-projects.md)  
 [Project Management](projects-manage-projects.md)  
 [Finance](finance.md)  

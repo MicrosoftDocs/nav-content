@@ -64,7 +64,7 @@ To use the accelerated depreciation calculation, you must set up the following d
 The **Used with Derogatory Book** field in the accounting depreciation book is updated with the tax depreciation book code.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Accelerated Depreciation](accelerated-depreciation.md)   
  [How to: Calculate Accelerated Depreciation](how-to-calculate-accelerated-depreciation.md)   
 [How to: Set Up Fixed Asset Depreciation](../../fa-how-setup-depreciation.md)

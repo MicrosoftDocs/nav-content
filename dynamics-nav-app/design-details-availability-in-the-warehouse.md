@@ -68,5 +68,5 @@ The system must keep a constant control of item availability in the warehouse, s
  ![Avaliable to reserve, per warehouse allocations](media/design_details_warehouse_management_availability_3.png "design_details_warehouse_management_availability_3")  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Warehouse Management](design-details-warehouse-management.md)

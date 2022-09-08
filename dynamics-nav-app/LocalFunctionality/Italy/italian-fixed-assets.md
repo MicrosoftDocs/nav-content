@@ -31,7 +31,7 @@ Accelerated depreciation allows companies that can prove that an asset’s use i
 Reduced depreciation allows companies that can prove that an asset’s use is less intensive than that of a standard asset to use a lower depreciation rate for this asset, and recover the difference during the following fiscal years. Reduced depreciation allows companies to lengthen the period of an asset’s depreciation.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md)     
  [Italy Local Functionality](italy-local-functionality.md)   
  [How to: Set Up Alternate Depreciation Methods](how-to-set-up-alternate-depreciation-methods.md)   

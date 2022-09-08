@@ -44,5 +44,5 @@ You can export financial data and tax data according to the process for data acc
    You will be notified when the export completes. If you cancel the export, or if you close the window, you will also be notified that the export has completed, but the log folder will be empty. However, depending on your configuration, some files may have been exported, but the export might not be complete.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)

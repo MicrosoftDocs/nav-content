@@ -35,7 +35,7 @@ The batch job will now transfer the CODA statement lines to the financial journa
 After transferring the statement lines to the journal, you can post the statement lines in the corresponding financial journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [CODA Bank Statements](coda-bank-statements.md)   
  [How to: Import CODA Statements](how-to-import-coda-statements.md)   
  [How to: Apply CODA Statements](how-to-apply-coda-statements.md)   

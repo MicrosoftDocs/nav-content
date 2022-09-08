@@ -28,7 +28,7 @@ In the **WHT Entry** window, you can view details about the withholding tax, suc
 You can view the posted WHT entries in the **WHT Entry** window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Withholding Tax](withholding-tax.md)   
  [How to: Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)   
  [How to: Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   

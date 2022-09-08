@@ -37,7 +37,7 @@ Tax differences are variations in tax amounts caused by the different rules for 
 The tax differences for the period are calculated. You can view the tax difference calculation entries by opening the **Tax Differences** window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Accounting](tax-accounting.md)   
  [Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3)   
  [Tax Registers](tax-registers.md)   

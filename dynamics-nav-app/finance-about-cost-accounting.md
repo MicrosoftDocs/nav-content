@@ -67,7 +67,7 @@ You can create as many cost budgets as you want. You can copy the cost budget to
 Most reports and statistics are based on the posted cost entries. You can set the sorting of the results and use filters to define which data must be displayed. You can create reports for cost distribution analysis. In addition, you can use the standard account schedules to define how your reports for the chart of cost types are displayed.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
  [Finance](finance.md)   
  [Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md)  

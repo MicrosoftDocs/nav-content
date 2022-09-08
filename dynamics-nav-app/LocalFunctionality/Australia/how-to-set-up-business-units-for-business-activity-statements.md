@@ -54,6 +54,6 @@ You must set up information in the **General Ledger Setup** window before you ca
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Business Activity Statements](business-activity-statements.md)   
  [How to: Set Up Business Activity Statements](how-to-set-up-business-activity-statements.md)

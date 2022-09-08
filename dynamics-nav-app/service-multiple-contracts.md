@@ -42,6 +42,6 @@ You can automatically create a service contract or contract quote for service it
 You can manually create a service order for a service item that is registered in multiple active contracts. A service contract is active when it is signed and not expired.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fulfilling Service Contracts](service-fulfill-service-contracts.md)  
 [How to: Create Service Orders](service-how-to-create-service-orders.md)  

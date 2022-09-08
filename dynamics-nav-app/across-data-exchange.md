@@ -52,7 +52,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Based on data exchange definitions, send PEPPOL invoices, receive PEPPOL invoices, import bank statements, and export bank payment files.|[Exchanging Data](across-exchange-data.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [About the Data Exchange Framework](across-about-the-data-exchange-framework.md)  
 [How to: Use XML Schemas to Prepare Data Exchange Definitions](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)  
 [Setting Up Data Exchange](across-set-up-data-exchange.md)  

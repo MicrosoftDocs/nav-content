@@ -26,7 +26,7 @@
 4.  In the **Totaling Type** field, select **Constant**, and then enter a constant value in the **Totaling** field.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Work with Account Schedules](../../bi-how-work-account-schedule.md)   
  [Account Schedules Overview](account-schedules-overview.md)   
  [How to: Define an Account Schedule Extension](how-to-define-an-account-schedule-extension.md)

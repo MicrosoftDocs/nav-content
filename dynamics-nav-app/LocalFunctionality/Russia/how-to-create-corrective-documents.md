@@ -90,5 +90,5 @@ The following procedure describes how to create a revision for a posted sales in
 The posted document is included in the list of posted invoices. This means that you can select it in the **Corrected Doc. No.** field if you must create a correction for this corrected document.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Corrective Documents](corrective-documents.md)

@@ -45,6 +45,6 @@ You must define a location for storing Elektronisk Handelsformat (EHF) files whe
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Customers for EHF](how-to-set-up-customers-for-ehf.md)   
  [EHF Electronic Invoicing in Norway](ehf-electronic-invoicing-in-norway.md)

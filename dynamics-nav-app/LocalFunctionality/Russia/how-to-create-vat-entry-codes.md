@@ -33,5 +33,5 @@ Invoices must specify a VAT entry type code. The VAT entry type codes are based 
     |**Comment**|Specify a comment, such as a description of when the code must be used.<br /><br /> The maximum length of the comment is 250 characters.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT](vat.md)

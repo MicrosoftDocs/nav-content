@@ -35,7 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Record job costs for resource usage, materials, and job-related purchases on an on-going basis and invoice the customer, either when the job is finished or according to an invoicing schedule. |[How to: Invoice Jobs](projects-how-invoice-jobs.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Project Management](projects-setup-projects.md)  
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)      
 [Purchasing](purchasing-manage-purchasing.md)         

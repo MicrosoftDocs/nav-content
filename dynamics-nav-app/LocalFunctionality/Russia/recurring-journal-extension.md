@@ -27,5 +27,5 @@ The **Recurring General Journal** window enables you to fill in the recurring jo
 4.  Post the journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with General Journals](../../ui-work-general-journals.md)

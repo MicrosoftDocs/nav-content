@@ -81,5 +81,5 @@
     |**New Page for GL Acc**|Select if you want to print a new page for each general ledger account.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

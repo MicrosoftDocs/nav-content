@@ -28,6 +28,6 @@ Create a depreciation book to keep record of the fixed assets quantities that wi
 6.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Undepreciable Fixed Assets](undepreciable-fixed-assets.md)   
 [Fixed Assets](../../fa-manage.md)

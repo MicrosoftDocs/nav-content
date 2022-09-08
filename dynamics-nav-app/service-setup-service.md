@@ -41,6 +41,6 @@ The following table describes a sequence of tasks, with links to the topics that
 | Lay the groundwork for creating service contracts and contract quotes. |[How to: Set Up Service Contracts](service-how-setup-service-contracts.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Service Management](service-service.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
