@@ -37,6 +37,6 @@ The following procedure describes how to restrict purchase orders from being pos
 6. Proceed to edit, delete, or add other workflow steps to fit a business process that begins by restricting unapproved purchase orders from being posted.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Workflows](across-how-to-create-workflows.md)   
 [Workflow](across-workflow.md)   
