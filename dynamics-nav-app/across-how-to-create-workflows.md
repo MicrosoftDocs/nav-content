@@ -90,7 +90,7 @@ If your business scenario requires workflow events or responses that are not sup
 >  To see relations between tables that are used in workflows, Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, and then enter **Workflow – Table Relations**.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Workflows from Workflow Templates](across-how-to-create-workflows-from-workflow-templates.md)   
 [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md)   
 [Setting Up Workflow Notifications](across-setting-up-workflow-notifications.md)   
@@ -100,4 +100,3 @@ If your business scenario requires workflow events or responses that are not sup
 [Setting Up Workflows](across-set-up-workflows.md)   
 [Using Workflows](across-use-workflows.md)   
 [Workflow](across-workflow.md)      
-

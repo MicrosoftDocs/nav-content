@@ -33,7 +33,7 @@ In the **Workflow** window, you create a workflow by listing the involved steps 
 4.  Proceed to create the workflow by editing the workflow steps or add new steps. For more information, see [How to: Create Workflows](across-how-to-create-workflows.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Workflows](across-how-to-create-workflows.md)   
  [How to: Export and Import Workflows](across-how-to-export-and-import-workflows.md)   
  [How to: View Archived Workflow Step Instances](across-how-to-view-archived-workflow-step-instances.md)   
