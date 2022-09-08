@@ -25,5 +25,5 @@ When generating payment proposals using the **Get Proposal Entries** batch job t
 - The payment is not based upon an invoice.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Telebanking](telebanking.md)

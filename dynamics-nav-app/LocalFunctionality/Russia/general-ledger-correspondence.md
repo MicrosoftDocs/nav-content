@@ -79,5 +79,5 @@ On the **Options** tab of the request form, you can set parameters by filling in
 |**Other parameters**<br /><br /> **Without Zero Net Changes**<br /><br /> **Without Zero Lines**<br /><br /> **Debit Credit Separately**<br /><br /> **New Page for GL Acc**|Specify the view of the report, such as whether the information for each account should be written without zero lines or net changes.|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russia Local Functionality](russia-local-functionality.md)

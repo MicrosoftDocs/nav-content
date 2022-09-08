@@ -82,7 +82,7 @@ After you have posted job journal lines, you can see the planning lines that are
 3. In the **Job Ledger Entries** window, choose **Show Linked Job Planning Lines** action.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Project Management](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Purchasing](purchasing-manage-purchasing.md)         

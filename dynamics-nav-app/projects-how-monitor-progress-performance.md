@@ -90,7 +90,7 @@ All job-related entries are recorded in job registers and are numbered sequentia
 In the **Job Ledger Entries** window you can review the entries that are associated with any job.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Projects](projects-manage-projects.md)
 [Managing Inventory Costs](finance-manage-inventory-costs.md)   
 [Finance](finance.md)  

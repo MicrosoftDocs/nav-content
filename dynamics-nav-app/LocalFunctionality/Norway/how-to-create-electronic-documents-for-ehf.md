@@ -65,5 +65,5 @@ Electronic documents can only be created after a document has been posted or iss
 An XML file is created and stored at the location that was defined in the **Sales & Receivables Setup** window. You can now submit the document to the customer.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [EHF Electronic Invoicing in Norway](ehf-electronic-invoicing-in-norway.md)

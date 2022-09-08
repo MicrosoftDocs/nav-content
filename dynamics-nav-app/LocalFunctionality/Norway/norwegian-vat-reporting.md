@@ -38,5 +38,5 @@ When using this report, you can decide not to post if you want to check the resu
 When posting VAT, the corresponding VAT period is created and marked as closed in the **Settled VAT Period** table. If you specify a period that does not correspond to one of the typical six Norwegian VAT periods, all periods that are affected by the specified date interval are closed.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Norway Local Functionality](norway-local-functionality.md)

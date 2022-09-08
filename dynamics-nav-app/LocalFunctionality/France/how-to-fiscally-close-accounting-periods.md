@@ -33,7 +33,7 @@ When a fiscal period is complete, you can fiscally close the period to make sure
 When the period is fiscally closed, the Fiscally Closed field is selected, and the Fiscal Closing Date field is updated for the period.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Close Years](how-to-close-years.md)   
  [How to: Fiscally Close Years](how-to-fiscally-close-years.md)   
  [How to: Reopen Accounting Periods](how-to-reopen-accounting-periods.md)   

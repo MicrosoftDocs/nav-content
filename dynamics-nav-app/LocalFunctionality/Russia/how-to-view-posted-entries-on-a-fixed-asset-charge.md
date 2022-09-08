@@ -23,5 +23,5 @@ You can view all posted fixed asset entries for each fixed asset charge code. Th
 - Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **FA Ledger Entries**, and then choose the related link.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create a Fixed Asset Charge](how-to-create-a-fixed-asset-charge.md)   

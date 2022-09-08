@@ -39,7 +39,7 @@ For more information, see [About Calculating Standard Cost](finance-about-calcul
 4.  Review and post the **Revaluation Journal** window, which has been populated with entries from the previous steps in this process.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [About Calculating Standard Cost](finance-about-calculating-standard-cost.md)   
  [Managing Inventory Costs](finance-manage-inventory-costs.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)

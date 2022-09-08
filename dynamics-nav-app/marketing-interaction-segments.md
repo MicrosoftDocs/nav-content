@@ -41,7 +41,7 @@ In the **Segment** window, when you choose **Log**, the application records the 
 In the **Logged Segments** window, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Segments](marketing-how-create-segment.md)  
 [How to: Create Interactions for Segments](marketing-how-create-interactions.md)  
 [Managing Segments](marketing-segments.md)  

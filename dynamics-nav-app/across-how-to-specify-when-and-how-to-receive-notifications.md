@@ -54,7 +54,7 @@ When you set up users in approval workflows, you must specify in the **Notificat
 2.  In the **Notification Setup** window, change your notification preferences as described in the previous procedure.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Approval Users](across-how-to-set-up-approval-users.md)   
  [How to: Manage Notification Templates](across-how-to-manage-notification-templates.md)   
  [Setting Up Workflow Notifications](across-setting-up-workflow-notifications.md)   

@@ -47,6 +47,6 @@ You can activate this option only if the purchase invoice or purchase credit mem
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Netherlands Local Functionality](netherlands-local-functionality.md)  
 [Setting Up Purchases](../../sales-how-work-standard-lines.md)

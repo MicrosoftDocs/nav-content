@@ -33,7 +33,7 @@ The Belgian customs and tax authorities have established an 8-digit item code fo
 4.  Choose the **OK** button.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
  [How to: Set Up Declaration Types](how-to-set-up-declaration-types.md)   
  [How to: Set Up Intrastat Establishment Numbers](how-to-set-up-intrastat-establishment-numbers.md)   

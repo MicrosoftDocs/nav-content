@@ -77,6 +77,6 @@ Now, you can generate the statutory report.
 Now, you can submit the report. For more information, see [Statutory Reporting Directives](https://go.microsoft.com/fwlink/?LinkId=216142) on the Federal Tax Services website.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Statutory Reports](statutory-reports.md)   
  [How to: Set Up Statutory Reports](how-to-set-up-statutory-reports.md)

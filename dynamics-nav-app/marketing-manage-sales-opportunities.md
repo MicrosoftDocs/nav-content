@@ -29,7 +29,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Move a sales opportunity through the sales cycle to completion. |[Processing Sales Opportunities](marketing-processing-sales-opportunities.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Sales](sales-manage-sales.md)  
 [Creating and Managing Contacts](marketing-contacts.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

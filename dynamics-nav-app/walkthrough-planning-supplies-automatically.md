@@ -267,7 +267,7 @@ Phrases like “run planning” and “run MRP” refer to the calculation of th
    This completes the walkthrough of how the planning system is used to automatically detect demand, calculate the appropriate supply orders according to demand and planning parameters, and then automatically create different types of supply orders with the appropriate dates and quantities.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)   
  [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md)   
  [Design Details: Supply Planning](design-details-supply-planning.md)

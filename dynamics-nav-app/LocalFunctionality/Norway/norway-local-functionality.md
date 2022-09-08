@@ -29,5 +29,5 @@ The following topics describe local functionality that is unique to the Norwegia
   [Recurring Orders](recurring-orders.md)  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)    

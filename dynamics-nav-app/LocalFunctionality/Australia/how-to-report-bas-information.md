@@ -32,7 +32,7 @@ You need to report the Business Activity Statement (BAS) calculation information
 10. In the **Calculate GST Settlement** window, make sure that the **Post** field is selected. When you run the report, the resulting GST settlement postings include the fuel tax values.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [BAS Fuel Tax Credits](bas-fuel-tax-credits.md)   
  [How to: Set Up BAS XML Fields](how-to-set-up-bas-xml-fields.md)   
  [Business Activity Statements](business-activity-statements.md)

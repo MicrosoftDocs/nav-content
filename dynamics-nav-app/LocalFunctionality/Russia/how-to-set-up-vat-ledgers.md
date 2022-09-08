@@ -51,7 +51,7 @@ To use VAT ledgers, you must specify the relevant number series.
 Now, you can create VAT ledgers for purchases and sales.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)  
  [How to: Register VAT on Purchase Orders](how-to-register-vat-on-purchase-orders.md)   
  [How to: Prepare VAT Entries for Posting](how-to-prepare-vat-entries-for-posting.md)   

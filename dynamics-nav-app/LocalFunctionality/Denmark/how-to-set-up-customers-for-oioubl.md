@@ -34,7 +34,7 @@ To create Offentlig Information Online UBL (OIOUBL) documents for customers in t
    These fields are specific to OIOUBL. The values are used in all OIOUBL documents that you create for this customer. For more information, see [OIOUBL Electronic Invoicing Overview](oioubl-electronic-invoicing-overview.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Denmark Local Functionality](denmark-local-functionality.md)  
  [How to: Register New Customers](../../sales-how-register-new-customers.md)   
  [How to: Set Up OIOUBL](how-to-set-up-oioubl.md)   

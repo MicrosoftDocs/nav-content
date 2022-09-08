@@ -46,7 +46,7 @@ You can process electronic payments from customers according to a predefined pay
 >  OCR payments can only be posted to cash receipt journals when the **Force Doc. Balance** field has been cleared in the **Gen. Journal Template** table. For more information, see Gen. Journal Template.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Banking in Norway](electronic-banking-in-norway.md)   
  [How to: Set Up KID Numbers on Sales Documents](how-to-set-up-kid-numbers-on-sales-documents.md)   
  [How to: Import and Post OCR Payments](how-to-import-and-post-ocr-payments.md)   

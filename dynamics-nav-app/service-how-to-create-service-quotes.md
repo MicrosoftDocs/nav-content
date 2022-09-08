@@ -34,7 +34,7 @@ You can use a service quote as a preliminary draft for a service order, and then
 7. Register estimated costs on the service lines.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Service Orders](service-how-to-create-service-orders.md)  
 [How to: Work on Service tasks](service-how-to-work-on-service-tasks.md)  
 

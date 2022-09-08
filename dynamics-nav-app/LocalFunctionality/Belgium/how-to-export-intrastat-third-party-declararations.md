@@ -35,7 +35,7 @@ In Belgium, you must have a third-party declarant fill out the Intrastat declara
 The file will be created in the directory that you indicated. Next, the declaration must be submitted to the OneGate portal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Intrastat Reporting](belgian-intrastat-reporting.md)   
  [How to: Set Up Declaration Types](how-to-set-up-declaration-types.md)   
  [How to: Set Up Belgian Tariff Numbers](how-to-set-up-belgian-tariff-numbers.md)   

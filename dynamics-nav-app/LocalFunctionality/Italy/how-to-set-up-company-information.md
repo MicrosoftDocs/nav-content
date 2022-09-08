@@ -33,5 +33,5 @@ Fiscal documents must contain all company information. You can enter all relevan
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Italy Local Functionality](italy-local-functionality.md)   

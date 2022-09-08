@@ -41,7 +41,7 @@ When finishing the physical inventory order, the expected quantity and the recor
 You have to finish the physical inventory order header first before you can evaluate differences and before you can post the physical inventory order.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
  [How to: Post Physical Inventory Orders](how-to-post-physical-inventory-orders.md)   
  [How to: Calculate Quantity On Hand for a Physical Inventory Order](how-to-calculate-quantity-on-hand-for-a-physical-inventory-order.md)   

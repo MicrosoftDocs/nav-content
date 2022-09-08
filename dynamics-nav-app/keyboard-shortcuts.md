@@ -28,9 +28,9 @@ The following table describes keyboard shortcuts for navigating and accessing di
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Assistive Features](ui-accessibility.md)  
 [Keyboard Shortcuts in the [!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]](keyboard-shortcuts-windows-client.md)  
-[Keyboard Shortcuts in the AL](https://docs.microsoft.com/dynamics-nav/developer/devenv-keyboard-shortcuts)  
-[Keyboard Shortcuts in the Development Environment](https://docs.microsoft.com/dynamics-nav/Keyboard-Shortcuts-in-the-Development-Environment)    
+[Keyboard Shortcuts in the AL](/dynamics-nav/developer/devenv-keyboard-shortcuts)  
+[Keyboard Shortcuts in the Development Environment](/dynamics-nav/Keyboard-Shortcuts-in-the-Development-Environment)    
 [Working with Product](ui-work-product.md)  

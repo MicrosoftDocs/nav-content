@@ -47,6 +47,6 @@ The following table lists the error messages that the ELSTER portal sends to [!I
 |9000|An error occurred when the ELSTER portal was trying to read the configuration of the certificate. You must verify the content of the generated XML document.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [ELSTER Transmission Overview](elster-transmission-overview.md)   
  [How to: Set Up Sales VAT Advance Notifications for ELSTER](how-to-set-up-sales-vat-advance-notifications-for-elster.md)

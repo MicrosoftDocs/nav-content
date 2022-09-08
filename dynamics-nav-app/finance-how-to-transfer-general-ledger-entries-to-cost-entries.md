@@ -37,7 +37,7 @@ Before you run the process for transferring general ledger entries to cost entri
     During the transfer, the process creates connections in the entries in the **Cost Entry** table and the **Cost Register** table. This makes it possible to trace the source of cost entries.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Criteria for Transferring General Ledger Entries to Cost Entries](finance-criteria-for-transferring-general-ledger-entries-to-cost-entries.md)   
  [Automatic Transfer and Combined Entries](finance-automatic-transfer-combined-entries.md)   
  [Results of the Transfer](finance-results-of-the-transfer.md)   

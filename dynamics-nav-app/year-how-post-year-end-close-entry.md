@@ -28,7 +28,7 @@ After you use the **Close Income Statement** batch job to generate the year-end 
 >   If an error is detected, an error message is displayed. If the posting is successful, the posted entries are removed from the journal. After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Close Accounting Periods](year-close-account-periods.md)  
 [Closing Books](year-close-books.md)  
 [Close Income Statement](year-close-income-statement.md)  

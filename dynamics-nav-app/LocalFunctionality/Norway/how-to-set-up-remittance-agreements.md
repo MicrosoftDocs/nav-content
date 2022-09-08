@@ -79,7 +79,7 @@ You must sign an agreement of remittance with the bank when you set up electroni
 12. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)   
  [How to: Create Remittance Accounts](how-to-create-remittance-accounts.md)   
  [How to: Set Up Vendors for Remittance](how-to-set-up-vendors-for-remittance.md)   

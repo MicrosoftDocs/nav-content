@@ -110,7 +110,7 @@ One aspect of planning jobs is deciding which posting accounts to use for job co
 | **Recognized Sales Account** |The income account that contains the recognized income for the job. It is a credit income account ordinarily. |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Set Up Project Management](projects-setup-projects.md)  
 [Managing Projects](projects-manage-projects.md)  
 [Finance](finance.md)  

@@ -40,7 +40,7 @@ The following procedures show how to create a purchase order and a release order
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up a Quantity Book](how-to-set-up-a-quantity-book.md)   
  [Undepreciable Fixed Assets](undepreciable-fixed-assets.md)   
  [How to: Set Up Undepreciable Fixed Assets](how-to-set-up-undepreciable-fixed-assets.md)   

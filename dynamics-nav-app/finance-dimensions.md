@@ -102,7 +102,7 @@ If you work in a journal instead, you can add dimension information to an entry 
 You can set up default dimensions for accounts or account types, so that dimensions and dimension values are filled in automatically.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Finance](finance.md)  
 [How to: Analyze Data by Dimensions](bi-how-analyze-data-dimension.md)  

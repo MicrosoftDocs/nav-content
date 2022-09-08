@@ -58,7 +58,7 @@ Variance is defined as the difference between the actual cost and the standard c
 |**Rolled-up Mfg. Ovhd. Cost**|Not applicable|![Equation 9](media/design_details_inventory_costing_11_equation_9.png "design_details_inventory_costing_11_equation_9")|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  

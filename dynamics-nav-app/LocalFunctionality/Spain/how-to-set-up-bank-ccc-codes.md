@@ -53,5 +53,5 @@ The following procedure describes how to set up bank CCC codes for existing cust
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Bank Accounts](../../bank-how-setup-bank-accounts.md) 

@@ -45,7 +45,7 @@ The following procedure shows how to process a normalization function.
 5.  Post the future expenses journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Registers](tax-registers.md)   
  [Tax Differences](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3)   
  [Tax Difference Registers](tax-difference-registers.md)   

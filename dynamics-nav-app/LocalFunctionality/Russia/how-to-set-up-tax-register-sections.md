@@ -79,7 +79,7 @@ The following procedure shows how to remove a tax register from the register lis
 3.  Choose the **Delete** action to remove the register from the register list.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Accounting](tax-accounting.md)   
  [Tax Registers](tax-registers.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   

@@ -32,6 +32,6 @@ When you create finance charge terms and reminder terms, for delayed payment pen
 When you issue a finance charge memo, the memo shows the finance charges with multiple interest rates for a specific time period. The memo also contains the contact details of the customer, the company issuing the memo, the additional amount, and the total amount. The opening entry on the memo is displayed in bold. The finance charges are calculated with multiple interest rates for a specific time period and are printed after the opening entry of the memo.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Collect Outstanding Balances](receivables-collect-outstanding-balances.md)  
 [Setting Up Finance](finance-setup-finance.md)

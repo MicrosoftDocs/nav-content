@@ -36,7 +36,7 @@ General ledger entries are not transferred if:
 -   The entries have been posted with a closing date. These are typically entries that set back the balance of the income statement at the end of the year.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Accounting for Costs](finance-manage-cost-accounting.md)  
  [How to: Transfer General Ledger Entries to Cost Entries](finance-how-to-transfer-general-ledger-entries-to-cost-entries.md)   
  [Transferring and Posting Cost Entries](finance-transfer-and-post-cost-entries.md)   

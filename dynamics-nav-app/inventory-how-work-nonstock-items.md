@@ -61,7 +61,7 @@ You can then fill or edit fields on the new item card as necessary. For more inf
 >   An Item cross reference record is automatically created for the vendor of the item between the vendor's item number and your new item number.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Register New Items](inventory-how-register-new-items.md)  
 [How to: Create Special Orders](sales-how-to-create-special-orders.md)|  
 [Inventory](inventory-manage-inventory.md)  

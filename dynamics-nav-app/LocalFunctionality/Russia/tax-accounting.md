@@ -46,7 +46,7 @@ Transactions are processed using specific tax accounting principles that are app
 |Accumulation|A synthetic register based on calculated algorithms defined during tax register set up.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Tax Accounting](how-to-set-up-tax-accounting.md)   
  [Tax Registers](tax-registers.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   

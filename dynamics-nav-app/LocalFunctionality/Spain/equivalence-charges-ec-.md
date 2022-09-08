@@ -21,5 +21,5 @@ An Equivalence Charge (EC) is a tax that is used in retail sales and in activiti
 The **EC %** field is a separate field in the **Purchase Line**, **Sales Line**, **Sales Line Archive** and **Purchase Line Archive** tables. However, in sales and purchase lines, both taxes are combined and the value is displayed in the **VAT %** field. The **VAT + EC %** field is used when these values are combined. At the time of posting, the VAT percentage and the EC percentage are inserted in the **VAT Entry** table. This makes it possible to print the **Sales Invoice Book** report and the **Purchases Invoice Book** report.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)

@@ -39,7 +39,7 @@ After a fiscal year is closed, you must close the income statement accounts and 
 After a fiscal year is fiscally closed, it cannot be opened again. 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Fiscally Close Years](how-to-fiscally-close-years.md)   
  [Year End Processes Overview](year-end-processes-overview.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   

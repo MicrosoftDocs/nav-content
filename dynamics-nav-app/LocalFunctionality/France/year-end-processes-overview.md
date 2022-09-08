@@ -33,6 +33,6 @@ The system then generates a closing entry, but it does not post the entry automa
 Once a year has been fiscally closed you will not be able to post in this fiscal year.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fiscal Periods and Fiscal Years](fiscal-periods-and-fiscal-years.md)   
  [Closing Years and Periods](../../year-close-years-periods.md)

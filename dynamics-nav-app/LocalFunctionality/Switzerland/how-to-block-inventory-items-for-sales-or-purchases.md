@@ -47,7 +47,7 @@ You will receive an error message if you try to do the following:
 - Post item transactions for blocked items.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Inventory Management](swiss-inventory-management.md)   
  [How to: Block Shipment for Negative Inventory](how-to-block-shipment-for-negative-inventory.md)   
  [How to: Copy Existing Items to New Items](how-to-copy-existing-items-to-new-items.md)   

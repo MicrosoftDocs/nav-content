@@ -87,6 +87,6 @@ Next, you must define each statutory report.
 You can now use the defined statutory reports to generate and submit reports to the authorities. For more information, see [How to: Create Statutory Report Data](how-to-create-statutory-report-data.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Statutory Reports](statutory-reports.md)   
  [How to: Create Statutory Report Data](how-to-create-statutory-report-data.md)

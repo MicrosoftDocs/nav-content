@@ -210,7 +210,7 @@ You have also posted a prepayment invoice, created a second prepayment invoice w
 The prepayments functionality in [!INCLUDE[d365fin](includes/d365fin_md.md)] makes it easy to set up and enforce prepayment rules for customers and items, and it enables you to post every payment against an invoice.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Invoicing Prepayments](finance-invoice-prepayments.md)  
 [Finance](finance.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

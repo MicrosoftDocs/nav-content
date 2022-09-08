@@ -17,7 +17,7 @@ ms.author: edupont
 The following topics describe local functionality that is unique to the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].  
 
 ## In This Section  
-[Making Tax Digital in the United Kingdom](https://docs.microsoft.com/dynamics365/business-central/localfunctionality/unitedkingdom/united-kingdom-local-functionality)  
+[Making Tax Digital in the United Kingdom](/dynamics365/business-central/localfunctionality/unitedkingdom/united-kingdom-local-functionality)  
 [How to: Enter Statutory Information](how-to-enter-statutory-information.md)  
 [How to: Set Up the GetAddress.io UK Postcodes Extension](uk-setup-postal-code-service.md)  
 [How to: Set Up a Posting Date Warning](how-to-set-up-a-posting-date-warning.md)  
@@ -33,5 +33,5 @@ The following topics describe local functionality that is unique to the United K
 [How to: Set Up Reverse Charges on VAT](how-to-set-up-reverse-charges-on-vat.md)  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  

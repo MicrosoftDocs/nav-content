@@ -29,7 +29,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Adjust the annual amount of a service contract or contract quote, so make sure that you invoice the right amount.|[How to: Change the Annual Amount on Service Contracts or Contract Quotes](service-how-to-change-the-annual-amount-on-service-contracts-or-contract-quotes.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Planning Service](service-plan-service.md)  
 [Delivering Service](service-deliver-service.md)  
 [Setting Up Service Management](service-setup-service.md)  

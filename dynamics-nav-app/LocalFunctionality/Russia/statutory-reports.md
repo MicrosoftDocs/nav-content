@@ -44,7 +44,7 @@ The statutory reports are based on account schedules and tax registers. For each
 |**Payroll Analysis Report**|The data is based on payroll analysis.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Accounting](tax-accounting.md)   
  [Tax Differences](tax-differences.md)   
  [Selecting the Report Data Source](assetId:///79db2621-6067-4421-8fe6-3ef2baba1ecc)

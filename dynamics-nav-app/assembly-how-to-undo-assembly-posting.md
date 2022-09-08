@@ -52,7 +52,7 @@ The **Reversed** field on the assembly order header changes to **Yes**. The asse
 >  To restore quantities from multiple partial postings in an assembly order, you must undo all the posted assembly orders in question by following steps 1 through 3 above for each posted assembly order.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Assembly Management](assembly-assemble-items.md)  
 [How to: Reverse Postings](finance-how-reverse-journal-posting.md)  
 [How to: Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md)    

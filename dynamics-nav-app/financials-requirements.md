@@ -36,5 +36,5 @@ Before you access [!INCLUDE[d365fin](includes/d365fin_md.md)], we recommend that
 **Platforms:** When using the [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook Add-In in OWA for iPhone, OWA for iPad, and OWA for Android, the add-in requires that your mobile device is running one of the listed supported mobile devices for [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

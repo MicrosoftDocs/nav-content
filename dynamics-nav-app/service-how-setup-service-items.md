@@ -59,6 +59,6 @@ You can set up service shelves that identify where you store your service items.
 2. Fill in the fields as necessary.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Codes for Standard Services](service-how-setup-service-coding.md)   
 [How to: Set Up Troubleshooting](service-how-setup-troubleshooting.md)

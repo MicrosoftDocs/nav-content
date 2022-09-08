@@ -55,7 +55,7 @@ The following procedure shows how to create service items when you ship items on
     A service line of type **Cost** is inserted with the starting fee. The starting fee applies to the selected service item.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Service Items and Service Item Components](service-how-setup-service-items.md)  
 [Setting Up Service Management](service-setup-service.md)  
 [Service Management](service-service.md)  

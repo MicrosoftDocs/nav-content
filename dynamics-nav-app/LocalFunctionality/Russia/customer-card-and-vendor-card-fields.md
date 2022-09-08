@@ -35,7 +35,7 @@ Each customer can specify several bank accounts in the **Customer Bank Account**
 The **Default Bank Code** field is added to the **Payments** FastTab of the customer card and the vendor card.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Sales](../../sales-setup-sales.md)     
 [Setting Up Purchasing](../../purchasing-setup-purchasing.md)  
  [Bank Management](bank-management.md)

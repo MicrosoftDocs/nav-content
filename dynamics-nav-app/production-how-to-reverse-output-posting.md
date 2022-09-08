@@ -27,7 +27,7 @@ There are times when output posting must be reversed. An example of this would b
 The output journal entries are posted to the item ledger as a positive adjustment.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
  [Setting Up Manufacturing](production-configure-production-processes.md)  
  [Planning](production-planning.md)      

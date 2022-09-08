@@ -133,5 +133,5 @@ An asset is recognized as a fixed asset after it is released into service for th
 4.  Choose the **OK** button  to post your entries and record the write-off of the fixed asset.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md)

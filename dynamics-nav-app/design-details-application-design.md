@@ -30,7 +30,7 @@ This content contains detailed technical information about complex application f
 |Learn about the General Journal Posting Line feature, including recent simplifications to the design of codeunit 12.|[Design Details: General Journal Post Line](design-details-general-journal-post-line.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Planning](production-planning.md)   
  [Managing Inventory Costs](finance-manage-inventory-costs.md)   
  [Warehouse Management](warehouse-manage-warehouse.md)   

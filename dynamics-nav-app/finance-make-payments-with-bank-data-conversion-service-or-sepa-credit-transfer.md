@@ -33,7 +33,7 @@ In the **Payment Journal** window, you can process payments to your vendors by e
 |When the electronic payment is successfully processed by the bank, post the payments.|[Working with General Journals](ui-work-general-journals.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md)  
 [How to: Set Up SEPA Credit Transfer](finance-how-to-set-up-sepa-credit-transfer.md)  
 [Manage Payables](payables-manage-payables.md)   

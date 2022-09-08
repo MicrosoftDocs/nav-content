@@ -71,7 +71,7 @@ You must create one remittance account for each bank account where payment is ma
 7.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)   
  [How to: Set Up Remittance Agreements](how-to-set-up-remittance-agreements.md)   
  [How to: Set Up Vendors for Remittance](how-to-set-up-vendors-for-remittance.md)   

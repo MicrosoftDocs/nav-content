@@ -22,5 +22,5 @@ There are different ways to customize the application to give you and your colle
 |Personalizing the Workspace|Any user|Change the layout and content of your pages.|User only.|[Personalizing Workspaces](ui-personalization-overview.md)|
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[navnow_md](includes/navnow_md.md)]](ui-work-product.md)  

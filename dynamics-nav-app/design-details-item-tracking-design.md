@@ -42,5 +42,5 @@ Codeunit 22, **Item Jnl. – Post Line**, now splits the posting according to th
 For more information, see [Design Details: Item Tracking Posting Structure](design-details-item-tracking-posting-structure.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Item Tracking](design-details-item-tracking.md)

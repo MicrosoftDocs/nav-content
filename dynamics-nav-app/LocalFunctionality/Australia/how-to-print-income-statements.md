@@ -33,7 +33,7 @@ This is a legal report that is required for auditing accounts. This report displ
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Business Activity Statements](how-to-set-up-business-activity-statements.md)   
  [How to: Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)   
  [How to: View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   

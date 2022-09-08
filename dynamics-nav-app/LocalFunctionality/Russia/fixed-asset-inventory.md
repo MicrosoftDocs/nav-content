@@ -91,5 +91,5 @@ The **Fixed Asset Comparative Sheet INV-18** report shows the list of fixed asse
 The procedure to print the Fixed Asset Comparative Sheet INV-18 report is similar to the Fixed Asset Comparative Sheet INV-1 report.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Asset Locations and Employees](fixed-asset-locations-and-employees.md)

@@ -58,5 +58,5 @@ The **Suggest Lines** action recalculates the values to report. The **Correct Li
 6.  Continue with the VAT report creation process, and release the report.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up VAT Reports](how-to-set-up-vat-reports.md)

@@ -29,7 +29,7 @@ You can create segments to select a group of contacts, for example, if you want 
 You can now add contacts to the segment. For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Segments](marketing-segments.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

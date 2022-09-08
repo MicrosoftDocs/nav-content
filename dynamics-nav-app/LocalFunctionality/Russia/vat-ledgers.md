@@ -46,7 +46,7 @@ The following procedure shows how to mark a VAT purchase ledger.
 These marked documents will be reflected in the purchase book or in the sales book. Sales return orders are marked by default.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up VAT Ledgers](how-to-set-up-vat-ledgers.md)   
  [How to: Create VAT Ledgers](how-to-create-vat-ledgers.md)   
  [How to: Create Additional Sheets](how-to-create-additional-sheets.md)   

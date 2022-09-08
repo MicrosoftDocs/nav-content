@@ -34,6 +34,6 @@ You can post the payment receipt directly from the **Direct Debit Collections** 
 5. Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Collecting Payments with SEPA Direct Debit](finance-collect-payments-with-sepa-direct-debit.md)   
  [Sales](sales-manage-sales.md)

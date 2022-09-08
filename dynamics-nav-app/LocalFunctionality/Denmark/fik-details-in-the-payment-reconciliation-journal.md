@@ -30,7 +30,7 @@ The **Transaction Text** field in the **Payment Reconciliation Journal** window 
 |**Invoice Already Paid**|The system has discovered that a FIK number on a payment matches a sales invoice that is fully applied and closed.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Payments and Reconciliations (DK) Extension](ui-extensions-payments-reconciliation-formats-dk.md)  
 [Denmark Local Functionality](denmark-local-functionality.md)  
 [How to: Reconcile Payments Using Automatic Application](../../receivables-how-reconcile-payments-auto-application.md)

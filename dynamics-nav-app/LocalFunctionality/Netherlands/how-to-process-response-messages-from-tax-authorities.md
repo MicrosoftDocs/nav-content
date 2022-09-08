@@ -45,7 +45,7 @@ You can import the response into [!INCLUDE[navnow](../../includes/navnow_md.md)]
 5.  To export a message or attachment, choose the **Export Response Message** action or the **Export Response Attachment** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic VAT and ICP Declarations](electronic-vat-and-icp-declarations.md)   
  [How to: Set Up VAT Categories](how-to-set-up-vat-categories.md)   
  [How to: Create Electronic VAT and ICP Declarations](how-to-create-electronic-vat-and-icp-declarations.md)   

@@ -33,5 +33,5 @@ Financial journals are used to register bank account transactions. The financial
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgium Local Functionality](belgium-local-functionality.md)

@@ -195,7 +195,7 @@ You may need to cancel a service contract when the contract has expired or has b
 You can file service contracts and contract quotes at any time to record and archive a copy of the contract or contract quote. [!INCLUDE[d365fin](includes/d365fin_md.md)] files service contracts automatically when you convert contract quotes to service contracts or cancel service contracts. You can file a contract or quote yourself by choosing the **File Contract** action on the **Service Contracts** or **Service Contract Quotes** pages. If you want to view your archived contracts of quotes by searching for **Filed Contracts**.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Service Contracts](service-how-setup-service-contracts.md)  
 [Service Management](service-service.md)  
 [How to: Convert Service Contracts that Include VAT Amounts](service-how-to-convert-service-contracts.md)  

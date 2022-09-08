@@ -46,7 +46,7 @@ Before you can receive optical character recognition (OCR) payments, you must ma
 The OCR payment files are posted to the cash receipt journal.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Banking in Norway](electronic-banking-in-norway.md)   
  [How to: Set Up KID Numbers on Sales Documents](how-to-set-up-kid-numbers-on-sales-documents.md)   
  [How to: Set Up OCR Payments](how-to-set-up-ocr-payments.md)   

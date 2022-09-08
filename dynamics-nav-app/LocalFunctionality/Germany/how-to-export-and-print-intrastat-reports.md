@@ -58,6 +58,6 @@ The Intrastat information is exported, and you can either save the data to a fil
  When the file is exported, the **Reported** check box in the **Intrastat Jnl. Batches** window will be selected, and the **Internal Ref. No.** field on every entry in the journal will be filled in. You can manually change the contents of the field. For example, you can make changes when you need to run the report again. For more information, see Intrastat Jnl. Batch.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT Reporting](vat-reporting.md)  
  [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

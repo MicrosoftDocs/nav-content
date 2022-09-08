@@ -43,5 +43,5 @@
 7.  Choose the **Mark as Submitted** action to finalize the report. The **Status** field is updated to Submitted.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Export VAT Transactions Reports](how-to-export-vat-transactions-reports.md)

@@ -214,7 +214,7 @@ At appropriate intervals as defined by company policy, you must post the warehou
 Special steps apply when you want to reclassify serial or lot numbers. For more information, see [How to: Work with Serial and Lot Numbers](inventory-how-work-item-tracking.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Inventory](inventory-manage-inventory.md)
 [Warehouse Management](warehouse-manage-warehouse.md)    
 [Sales](sales-manage-sales.md)  

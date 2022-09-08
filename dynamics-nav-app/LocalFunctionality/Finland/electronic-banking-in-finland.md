@@ -40,7 +40,7 @@ To send electronic bank payments to vendors, you can export domestic or foreign 
 - Send the payment transfer file to the bank.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finland Local Functionality](finland-local-functionality.md)   
  [How to: Set Up Bank Reference Files](how-to-set-up-bank-reference-files.md)   
  [How to: Generate Payment Files](how-to-generate-payment-files.md)   

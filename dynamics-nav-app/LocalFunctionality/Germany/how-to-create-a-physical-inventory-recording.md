@@ -68,7 +68,7 @@ To show that you have finished the physical inventory recording, you have to set
    You can now finish the physical inventory recording. For more information, see [How to: Finish a Physical Inventory Recording](how-to-finish-a-physical-inventory-recording.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Physical Inventory Recording - Counting Physical Inventory](physical-inventory-recording-counting-physical-inventory.md)   
  [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
  [How to: Calculate Quantity On Hand for a Physical Inventory Order](how-to-calculate-quantity-on-hand-for-a-physical-inventory-order.md)   

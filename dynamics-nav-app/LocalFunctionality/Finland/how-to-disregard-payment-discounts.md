@@ -31,7 +31,7 @@ Use the disregard payment discount at full payment feature to accept payments wh
 >  When you apply one payment to multiple invoices, the feature to ignore payment discount at full payment is not supported.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Banking in Finland](electronic-banking-in-finland.md)   
 [How to: Generate Payment Files](how-to-generate-payment-files.md)   
 [Defining Payment Methods](../../finance-payment-methods.md)  

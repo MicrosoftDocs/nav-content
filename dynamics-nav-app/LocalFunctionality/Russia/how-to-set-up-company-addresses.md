@@ -31,5 +31,5 @@ If your company has different types of addresses, such as a legal address or an 
 5.  Choose the **OK** button to close the window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Company Addresses](company-addresses.md)

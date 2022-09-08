@@ -27,7 +27,7 @@ When you receive a CODA statement from your bank, you must import it into [!INCL
 This imports the CODA statement. Next, you must process the CODA statement lines. For more information, see [How to: Apply CODA Statements](how-to-apply-coda-statements.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [CODA Bank Statements](coda-bank-statements.md)   
  [How to: Set Up Bank Accounts for CODA](how-to-set-up-bank-accounts-for-coda.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)   

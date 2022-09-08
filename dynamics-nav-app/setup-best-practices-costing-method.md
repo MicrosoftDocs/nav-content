@@ -31,7 +31,7 @@ The **Costing Method** on the item card defines item’s cost flow is recorded a
 |Standard|Use where cost control is critical.<br /><br /> Use in repetitive manufacturing, to value the costs of direct material, direct labor, and manufacturing overhead.<br /><br /> Use where there is discipline and staff to maintain standards.|An item’s unit cost is preset based on estimated.<br /><br /> When the actual cost is realized later, the standard cost must be adjusted to the actual cost through variance values.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Costing Methods](design-details-costing-methods.md)   
  [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  

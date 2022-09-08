@@ -101,7 +101,7 @@ Service orders are not deleted automatically, however, if the total quantity on 
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Service Posting](service-service-posting.md)  
 [How to: Post a Service Order](service-how-to-post-service-orders.md)  
 [Setting Up Service Management](service-setup-service.md)  

@@ -65,7 +65,7 @@ When you reallocate a service item in an allocation entry that has the status **
 A new allocation entry that contains the new resource is created that has the status **Active**.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Resource Allocations](service-how-setup-resource-allocation.md)  
 [How to: Allocate Resources](service-how-to-allocate-resources.md)  
 

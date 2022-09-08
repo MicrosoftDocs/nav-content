@@ -44,5 +44,5 @@ The report is based on the VAT Entry table.
 You can print the declaration on paper or create an XML file that you can submit electronically to the tax authorities. For more information, see the [BZSt website](https://go.microsoft.com/fwlink/?LinkId=204368).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT Reporting](vat-reporting.md)

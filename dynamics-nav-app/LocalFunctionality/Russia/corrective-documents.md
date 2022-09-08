@@ -53,6 +53,6 @@ The reports for VAT sales books and additional VAT ledgers include changes in VA
 >  To include a corrective invoice in an additional VAT ledger, you must select the **Additional VAT Ledger Sheet** field in the sales invoice window. The same applies to corrective sales credit memos, purchase invoices, and purchase credit memos. For more information, see [How to: Create Corrective Documents](how-to-create-corrective-documents.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Corrective Invoicing](how-to-set-up-corrective-invoicing.md)   
  [How to: Create Corrective Documents](how-to-create-corrective-documents.md)

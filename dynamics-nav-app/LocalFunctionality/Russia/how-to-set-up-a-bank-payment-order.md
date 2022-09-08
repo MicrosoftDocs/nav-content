@@ -30,6 +30,6 @@ Bank payment orders must be used if a bank payment is for the official state bud
 8.  On the **General** FastTab, in the **Bank Payments** field, select the source code that you entered in the **Source Codes** window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Bank Interface Files](assetId:///e960b140-df19-4ff4-bcfa-5a034ceb4b53)   
  [Bank Management](bank-management.md)

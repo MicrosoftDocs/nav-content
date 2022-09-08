@@ -46,7 +46,7 @@ The generic version of [!INCLUDE[d365fin](includes/d365fin_md.md)] supports send
     >  You can also send a posted sales invoice as an electronic document. The procedure is the same as described in this topic for non-posted sales documents. In the **Posted Sales Invoice** window, on the **Actions** tab, in the **General** group, choose **Activity Log** to view the status of the electronic document. For more information, see **Activity Log**.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Invoice Sales](sales-how-invoice-sales.md)  
 [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md)  
 [How to: Set Up Electronic Document Sending and Receiving](across-how-to-set-up-electronic-document-sending-and-receiving.md)  

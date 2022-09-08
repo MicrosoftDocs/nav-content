@@ -70,7 +70,7 @@ You can export and import profiles as XML files to and from the a [!INCLUDE[d365
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Manage Users and Permissions](ui-how-users-permissions.md)  
 [Customizing the User Interface](ui-customizing-overview.md)   
 <!--[Security Overview](../Security%20Overview.md)-->

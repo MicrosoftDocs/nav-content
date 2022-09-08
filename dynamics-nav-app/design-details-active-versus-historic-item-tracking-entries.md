@@ -58,6 +58,6 @@ When parts of a document line quantity are posted, only that particular quantity
 |**T336**|7|0|0|7|7|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Item Tracking](design-details-item-tracking.md)   
  [Design Details: Item Tracking Lines Window](design-details-item-tracking-lines-window.md)

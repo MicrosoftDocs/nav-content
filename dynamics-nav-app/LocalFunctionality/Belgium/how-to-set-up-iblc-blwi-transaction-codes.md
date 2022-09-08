@@ -26,7 +26,7 @@ In order to process electronic payments, you must set up transaction codes accor
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [How to: Set Up Electronic Banking](how-to-set-up-electronic-banking.md)   
  [How to: Set Up Bank Accounts for CODA](how-to-set-up-bank-accounts-for-coda.md)

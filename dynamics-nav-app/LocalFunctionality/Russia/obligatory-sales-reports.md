@@ -58,5 +58,5 @@ The **Act Performed Work** reports can be of the following types:
 The **Order Shipment** report is printed from sales documents that are not yet posted.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russian Receivables Reports](russian-receivables-reports.md)

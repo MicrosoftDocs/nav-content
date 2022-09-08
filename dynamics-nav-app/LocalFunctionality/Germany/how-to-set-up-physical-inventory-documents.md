@@ -24,6 +24,6 @@ Before you can use physical inventory order and physical inventory recording doc
 2.  On the **Numbering** FastTab, fill in the fields for physical inventory.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
  [Physical Inventory Documents](physical-inventory-documents.md)

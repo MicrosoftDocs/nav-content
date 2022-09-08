@@ -59,6 +59,6 @@ To ensure that sales and purchase invoices are rounded automatically, you must a
 2. On the **General** FastTab, choose the **Invoice Rounding** check box.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Invoice Sales](sales-how-invoice-sales.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)

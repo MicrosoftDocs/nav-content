@@ -274,7 +274,7 @@ When the tax auditors import Cassie’s files into their software, they can read
 The next time the tax auditors request new data, Cassie and Sean can collaborate to create a new data export.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Process for Data Access and Testability of Digital Documents (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)   
  [How to: Set Up Data Exports for GDPdU](how-to-set-up-data-exports-for-gdpdu.md)   
  [How to: Export GDPdU Data](how-to-export-gdpdu-data.md)

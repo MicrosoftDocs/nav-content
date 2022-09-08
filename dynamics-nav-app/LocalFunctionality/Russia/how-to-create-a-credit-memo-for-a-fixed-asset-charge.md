@@ -28,6 +28,6 @@ If you need to fix an error on a fixed asset charge of an invoice, you can post 
 >  You can also create a credit memo for the fixed asset charge by copying the original invoice.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md)    
 [Russia Local Functionality](russia-local-functionality.md)

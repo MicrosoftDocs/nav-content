@@ -63,7 +63,7 @@ The following procedure shows how to create tax registers.
 12. Choose **Show** to view all the transactions of any entry ledger that is created.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Accounting](tax-accounting.md)   
  [Tax Registers](tax-registers.md)   
  [How to: Set Up Tax Register Sections](how-to-set-up-tax-register-sections.md)   

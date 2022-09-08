@@ -52,6 +52,6 @@ You can import and export general ledger data according to the standard import e
 5. Choose the **Open** or **Save** button to decide where to place the exported file.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Standard Import Export Group](https://go.microsoft.com/fwlink/?LinkID=164870&clcid=0x41d)   
  [Sweden Local Functionality](sweden-local-functionality.md)

@@ -49,7 +49,7 @@ Microsoft provides the following extensions:
 * [Sales and Inventory Forecast](ui-extensions-sales-forecast.md)  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-payment-service-extensions.md)  
 [Migrating Business Data from Other Finance Systems](upload-data.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] Extensions by Other Providers](ui-extensions-other.md)  

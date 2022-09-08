@@ -76,5 +76,5 @@ To align with the financial concepts of purchases and sales, [!INCLUDE[d365fin](
 |Outbound flow|Items moving out of the warehouse location, such as sales and outbound transfers.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Warehouse Management](design-details-warehouse-management.md)

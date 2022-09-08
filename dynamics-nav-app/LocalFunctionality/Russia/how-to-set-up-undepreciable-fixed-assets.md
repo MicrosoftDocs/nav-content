@@ -25,7 +25,7 @@ You need to create or select a card for the fixed asset that should be repaid. T
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up a Quantity Book](how-to-set-up-a-quantity-book.md)   
  [Undepreciable Fixed Assets](undepreciable-fixed-assets.md)   
  [Fixed Assets](../../fa-manage.md)

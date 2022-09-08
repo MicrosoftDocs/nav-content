@@ -45,7 +45,7 @@ In both cases, contacts are only synchronized from Outlook if they have the requ
 In Outlook, the contacts from [!INCLUDE[d365fin](includes/d365fin_md.md)] are shown in a folder under **Other contacts** in the **People**  view. If you are not familiar with the People view in Outlook, then you can get to it from the navigation options in the bottom left corner of Outlook.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Getting Started](across-get-started.md)  
 [Finance](finance.md)  
 [Sales](sales-manage-sales.md)  

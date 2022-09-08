@@ -38,7 +38,7 @@ Your [!INCLUDE[d365fin](includes/d365fin_md.md)] experience includes an add-in f
 With the add-in, you can get fresh data from [!INCLUDE[d365fin](includes/d365fin_md.md)], and you can push changes back into [!INCLUDE[d365fin](includes/d365fin_md.md)]. However, the ability to push data back to the database is disabled for the financial Excel reports in the list above.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  

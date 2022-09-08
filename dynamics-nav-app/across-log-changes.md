@@ -27,7 +27,7 @@ In the **Change Log Setup** window, if you choose the **Tables** action, you can
 After you have set up the change log, activated it, and made a change to data, you can view and filter the changes in the **Change Log Entries** window. If you want to delete entries, you can do that in the **Delete Change Log Entries** window, where you can set filters based on dates and time.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Changing Basic Settings](ui-change-basic-settings.md)  
 [Sorting](ui-sorting.md)  
 [Using Search for Page or Report](ui-search.md)  

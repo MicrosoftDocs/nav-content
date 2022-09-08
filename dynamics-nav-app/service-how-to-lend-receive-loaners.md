@@ -43,5 +43,5 @@ You can use the **General Service Comment Sheet** window to register comments on
 5. In the **Comment** field, enter a comment. You can enter a maximum of 80 characters. If you need to enter additional text, go to the next line. You can fill in as many lines as necessary.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up a Loaner Program](service-how-setup-loaner-program.md)   

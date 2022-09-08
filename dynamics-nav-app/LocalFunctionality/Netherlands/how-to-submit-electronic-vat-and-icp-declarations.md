@@ -43,5 +43,5 @@ To submit electronic VAT and ICP declarations to the tax authorities, you can us
 The electronic declaration is submitted to the tax authorities.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Reports with XBRL](../../bi-create-reports-with-xbrl.md)
