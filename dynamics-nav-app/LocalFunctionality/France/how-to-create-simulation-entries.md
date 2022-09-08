@@ -29,7 +29,7 @@ When you have set up simulation of general ledger entries, you can create simula
 7.  Select the most recent register, and then choose the **General Ledger** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Simulation](how-to-set-up-simulation.md)   
  [How to: Transfer Simulation Entries](how-to-transfer-simulation-entries.md)   
  [How to: Delete Simulation Entries](how-to-delete-simulation-entries.md)

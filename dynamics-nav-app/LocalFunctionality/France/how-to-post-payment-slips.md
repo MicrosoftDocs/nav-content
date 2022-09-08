@@ -30,7 +30,7 @@ Before you post a payment slip, you must create the payment slip. For more infor
 The payment slip is posted.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Payment Management](payment-management.md)   
  [How to: Set Up Payment Classes](how-to-set-up-payment-classes.md)   
  [How to: Set Up Payment Statuses](how-to-set-up-payment-statuses.md)   

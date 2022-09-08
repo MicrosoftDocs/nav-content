@@ -116,5 +116,5 @@ The following table provides a simplified overview of the XML of a custom XML pa
 -   The language of the label that is displayed when you run the report depends on the language setting of the report object. <!--OnPrem For more information, see [Multiple Document Languages](../FullExperience/Viewing%20the%20Application%20in%20Different%20Languages.md).-->  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create and Modify a Custom Report Layout](ui-how-create-custom-report-layout.md)   

@@ -51,7 +51,7 @@ When you post an intercompany general journal line in your company, a correspond
 The involved entries are posted in your company and a journal with the corresponding entries are created in your intercompany outbox that you can send to your partner company. For more information, see [How to: Manage the Intercompany Inbox and Outbox](intercompany-how-manage-intercompany-inbox.md). 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Intercompany Transactions](intercompany-manage.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

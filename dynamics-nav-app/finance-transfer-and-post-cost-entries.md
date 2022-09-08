@@ -30,7 +30,7 @@ Before you define cost allocations, you must understand how cost entries come fr
 |See the results of the transfer.|[Results of the Transfer](finance-results-of-the-transfer.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [About Cost Accounting](finance-about-cost-accounting.md)   
  [Setting Up Cost Accounting](finance-set-up-cost-accounting.md)   
  [Defining and Allocating Costs](finance-define-and-allocate-costs.md)   

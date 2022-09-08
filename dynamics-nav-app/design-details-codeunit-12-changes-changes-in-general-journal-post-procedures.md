@@ -187,5 +187,5 @@ The following changes have been implemented in this release of [!INCLUDE[d365fin
 ||CreateGLEntriesForTotalAmounts|Added|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Codeunit 12 Changes: Mapping Global Variables for General Journal Post Line](design-details-codeunit-12-changes-mapping-global-variables-for-general-journal-post-line.md)

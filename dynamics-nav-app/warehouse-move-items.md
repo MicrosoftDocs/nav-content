@@ -36,7 +36,7 @@ Additional movement tasks are to periodically replenish picking bins or shop flo
 |Restructure your warehouse with new bin codes and new bin characteristics and potentially move them around.|[How to: Restructure Warehouses](warehouse-how-to-restructure-warehouses.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

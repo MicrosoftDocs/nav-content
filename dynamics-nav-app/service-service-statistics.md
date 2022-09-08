@@ -108,7 +108,7 @@ You can use the **Service Credit Memo Statistics** window to get a statistical o
 * General information about the customer, such as the customer's credit limit and balance on the account.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Service Orders](service-how-to-create-service-orders.md)   
 [How to: Create Service Items](service-how-to-create-service-items.md)   
 [Planning Service](service-plan-service.md)  

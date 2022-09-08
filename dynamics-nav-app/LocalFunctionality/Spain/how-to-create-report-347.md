@@ -42,6 +42,6 @@ When you send the Report 347 declaration, you must include 347 declaration label
 2.  On the **Options** FastTab, fill in the fields. For more information, see Declaration Labels.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)   
  [Report 347](report-347.md)

@@ -27,5 +27,5 @@ The following table describes a sequence of tasks, with links to the topics that
 |Establish a workflow for service when the service items consists of several components. The component list is always connected to a service item, but these components can also be based on bill of materials (BOMs).|[How to: Set Up Service Items and Service Item Components](service-how-setup-service-items.md)|  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Service Management](service-setup-service.md)   

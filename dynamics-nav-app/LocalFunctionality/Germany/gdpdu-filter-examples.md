@@ -79,5 +79,5 @@ In this example, you set multiple filter definitions for the same table.
 - Customers that have Net Change (LCY) <> 0 on the day before the start date.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Data Exports for GDPdU](how-to-set-up-data-exports-for-gdpdu.md)

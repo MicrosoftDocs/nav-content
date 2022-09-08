@@ -36,5 +36,5 @@ The following procedure shows how to create a new fixed asset charge.
     |**Tax Difference Code FA**|Specify the tax difference code that is associated with the fixed asset charge.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Fixed Assets](../../fa-setup.md)

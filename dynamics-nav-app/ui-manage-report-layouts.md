@@ -55,7 +55,7 @@ The process for setting up Word report layouts and RDLC report layouts on report
 For information on how to change which layout to use, see [How to: Change Which Layout is Currently Used on a Report](ui-how-change-layout-currently-used-report.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Updating Report or Document Layouts](ui-update-report-layouts.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [How to: Create and Modify a Custom Report or Document Layout](ui-how-create-custom-report-layout.md)  

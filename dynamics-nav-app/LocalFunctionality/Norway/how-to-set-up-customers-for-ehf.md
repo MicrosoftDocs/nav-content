@@ -36,6 +36,6 @@ This topic only describes fields that apply to EHF. For more information on sett
 These fields are specific to EHF. The values are used in all EHF documents that you create for this customer. For more information, see [EHF Electronic Invoicing in Norway](ehf-electronic-invoicing-in-norway.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Electronic Documents for EHF](how-to-create-electronic-documents-for-ehf.md)   
  [How to: Set Up EHF](how-to-set-up-ehf.md)

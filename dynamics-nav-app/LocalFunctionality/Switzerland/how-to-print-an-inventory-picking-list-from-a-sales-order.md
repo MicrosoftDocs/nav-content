@@ -34,7 +34,7 @@ The picking list includes only those items with a shipping quantity greater than
 5.  Choose the **Print** button to print the picking list or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Purchase Documents and Sales Documents](swiss-purchase-documents-and-sales-documents.md)   
  [How to: Set Up Automatic Archiving of Documents in Switzerland](how-to-set-up-automatic-archiving-of-documents-in-switzerland.md)   
  [How to: Import Swiss Post Codes](how-to-import-swiss-post-codes.md)   

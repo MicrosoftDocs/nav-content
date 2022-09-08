@@ -229,7 +229,7 @@ You use the VAT rate change tool to manage changes in the standard rate of VAT. 
 >  After the conversion, the **Converted** field in the **VAT Rate Change Log Entry** table is chosen and the **Converted Date** field in the **VAT Rate Change Log Entry** table displays the conversion date.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Unrealized Value Added Tax](finance-setup-unrealized-vat.md)  
 [How To: Report VAT to a Tax Authority](finance-how-report-vat.md)  
 [How to: Work with VAT on Sales and Purchases](finance-work-with-vat.md)  

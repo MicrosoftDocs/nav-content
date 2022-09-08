@@ -77,7 +77,7 @@ As a rule, the value in the **Unit Cost** field on the item card is based on the
  When you post, the unit cost is copied to the sales invoice item entry, and it can be seen on the entry list for the item. [!INCLUDE[d365fin](includes/d365fin_md.md)] uses the unit cost from the source document line to calculate the contents of the **Cost Amount (Actual)** field, or if applicable, the **Cost Amount (Expected)** field in the value entry related to this item entry.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Sales](sales-manage-sales.md)  

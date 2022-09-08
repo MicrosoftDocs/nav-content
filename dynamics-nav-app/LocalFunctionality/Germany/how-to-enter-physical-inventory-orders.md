@@ -76,7 +76,7 @@ For each physical inventory order, you can create one or more physical inventory
 You can compare and document the expected quantities from the physical inventory order lines with the (counted) quantities from the physical inventory recording lines. You can post the physical inventory differences.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Physical Inventory Documents](physical-inventory-documents.md)   
  [How to: Enter Dimensions for Physical Inventory Orders](how-to-enter-dimensions-for-physical-inventory-orders.md)   
  [How to: View Duplicate Physical Inventory Order Lines](how-to-view-duplicate-physical-inventory-order-lines.md)   

@@ -32,7 +32,7 @@ When you finish the current physical inventory recording, every physical invento
 If no such physical inventory order line exists, and if the **Recording without order permit** field is selected on the physical inventory recording header, a new line is inserted automatically and the **Recorded without Order** field on the physical inventory order line is selected. Otherwise, an error message is displayed and the process is canceled. If there are more than one such physical inventory order lines, an error message is displayed and the process is canceled.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create a Physical Inventory Recording](how-to-create-a-physical-inventory-recording.md)   
  [How to: Create a Physical Inventory Recording](how-to-create-a-physical-inventory-recording.md)   
  [How to: View Duplicate Physical Inventory Order Lines](how-to-view-duplicate-physical-inventory-order-lines.md)   

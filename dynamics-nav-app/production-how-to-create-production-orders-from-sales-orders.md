@@ -30,7 +30,7 @@ You can create production orders for produced items directly from sales orders.
 You can also choose to make a project production order. For more information, see [How to: Plan Project Orders](production-how-to-plan-project-orders.md).   
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Inventory](inventory-manage-inventory.md)  

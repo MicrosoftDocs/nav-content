@@ -12,6 +12,6 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Hello, thanks for your feedback. As of October 201, Microsoft no longer regularly monitors this feedback. If you want to collaborate on content with us, we refer to [Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/).'
-        pr-message: 'Hello, thanks for your contribution. However, as of October 201, Microsoft no longer regularly monitors contributions for this content. If you want to collaborate on content with us, we refer to the [Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/).'
+        issue-message: 'Hello, thanks for your feedback. As of October 201, Microsoft no longer regularly monitors this feedback. If you want to collaborate on content with us, we refer to [Microsoft Dynamics 365 Business Central](/dynamics365/business-central/).'
+        pr-message: 'Hello, thanks for your contribution. However, as of October 201, Microsoft no longer regularly monitors contributions for this content. If you want to collaborate on content with us, we refer to the [Microsoft Dynamics 365 Business Central](/dynamics365/business-central/).'
 

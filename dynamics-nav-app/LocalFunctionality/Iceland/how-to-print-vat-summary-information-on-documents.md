@@ -27,5 +27,5 @@ The following procedure describes how to display VAT summary information on a sa
 3.  To display VAT information in the report, select the **Always Show VAT Summary** check box.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

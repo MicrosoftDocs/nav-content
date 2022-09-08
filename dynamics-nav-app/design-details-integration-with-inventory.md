@@ -44,6 +44,6 @@ The Warehouse Management application area and the Inventory application area int
  If you enter a positive quantity and post the line, then the inventory stored in the bin increases, and the quantity of the default adjustment bin decreases correspondingly.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Warehouse Management](design-details-warehouse-management.md)   
  [Design Details: Availability in the Warehouse](design-details-availability-in-the-warehouse.md)

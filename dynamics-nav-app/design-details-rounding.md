@@ -58,7 +58,7 @@ Rounding residuals can occur when you value the cost of an inventory decrease th
 |01-01-20|0|-0.01|1|5|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Cost Adjustment](design-details-cost-adjustment.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)

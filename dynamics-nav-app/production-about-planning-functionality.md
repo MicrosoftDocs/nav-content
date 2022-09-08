@@ -127,7 +127,7 @@ The attention warning is displayed in two situations:
 > In planning lines with warnings, the **Accept Action Message** field is not selected, because the planner is expected to further investigate these lines before carrying out the plan.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Supply Planning](design-details-supply-planning.md)  
 [Planning](production-planning.md)   
 [Setting Up Manufacturing](production-configure-production-processes.md)  

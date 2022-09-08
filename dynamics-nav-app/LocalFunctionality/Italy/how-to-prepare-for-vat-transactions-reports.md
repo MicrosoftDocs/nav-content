@@ -52,7 +52,7 @@ You must submit periodic reports to the tax authorities to list all transactions
     You have set up information so that [!INCLUDE[navnow](../../includes/navnow_md.md)] will track new transactions with VAT that meet the thresholds that are specified by the tax authorities. Before you create the first VAT transaction report, you should prepare the existing data. For more information, see [How to: Update VAT Transactions Data](how-to-update-vat-transactions-data.md). You can then create VAT transactions reports. For more information, see [How to: Create Electronic VAT Transactions Reports](how-to-create-electronic-vat-transactions-reports.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Update VAT Transactions Data](how-to-update-vat-transactions-data.md)   
  [How to: Create Electronic VAT Transactions Reports](how-to-create-electronic-vat-transactions-reports.md)   
  [Italian VAT](italian-vat.md)

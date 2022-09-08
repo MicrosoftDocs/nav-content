@@ -114,7 +114,7 @@ If you have other opening balances you can also enter them now, such as write-do
 If the fixed assets are not integrated with the general ledger, skip steps 4 through 7.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  

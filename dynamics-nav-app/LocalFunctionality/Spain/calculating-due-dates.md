@@ -62,7 +62,7 @@ Each section has a summary section with the following information.
  At the end of these reports, there is a section that summarizes this information for all payments. These reports will show information based on applied detailed customer ledger entries or applied detailed vendor ledger entries. The information is based on the date filters that you specify. For more information, see Customer - Overdue Payments and Vendor - Overdue Payments.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Limits for Due Dates](how-to-set-limits-for-due-dates.md)   
 [Managing Payables](../../payables-manage-payables.md)  
 [Managing Receivables](../../receivables-manage-receivables.md)  

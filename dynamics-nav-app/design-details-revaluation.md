@@ -175,7 +175,7 @@ WIP inventory can be revalued as long as the revaluation date is not later than 
 >  The **Inventory Valuation - WIP** report shows the value of posted production order entries and may therefore be a little confusing for WIP items that have been revalued.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md)   
  [Design Details: Inventory Valuation](design-details-inventory-valuation.md)

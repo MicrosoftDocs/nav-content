@@ -27,6 +27,6 @@ In order to increase security, all types of taxes and tax reports must be submit
 >  The ability to submit a VAT report in an XML format is not supported. However, you can make a submission of fewer than 1000 records in a .csv file. For this, you can use the Elster Online portal, and use the VAT – VIES Declaration Disk batch job, report 88.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [BZSt Online Portal](http://www.bzst.de)   
 [How to: Create VAT Reports](how-to-create-vat-reports.md)

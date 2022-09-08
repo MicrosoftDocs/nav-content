@@ -36,6 +36,6 @@ Information from various invoice types is used to feed data into the EU Sales Li
 6.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT Reporting](vat-reporting.md)   
  [How to: Create VAT Reports](how-to-create-vat-reports.md)

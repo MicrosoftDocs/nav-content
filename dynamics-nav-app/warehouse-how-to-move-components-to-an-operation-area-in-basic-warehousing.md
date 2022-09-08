@@ -69,7 +69,7 @@ This procedure shows how to create an inventory movement from the **Inventory Mo
     >  Unlike when you move components with an inventory pick, consumption is not posted when you register an inventory movement. That step must be performed separately by posting the assembly order output and consumption. For more information, see Assembly Order.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

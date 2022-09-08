@@ -50,7 +50,7 @@ After you have selected the contacts within a segment, you may want to remove so
 You can reduce a segment as many times as you want. If you have refined the segment by mistake and want to go one step back, then choose the **Go Back** action.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create a Segment](marketing-how-create-segment.md)   
 [Managing Segments](marketing-segments.md)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  

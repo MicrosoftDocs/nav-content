@@ -71,7 +71,7 @@ The bin ranking is taken into consideration when more than one bin matches put-a
 5.  Fill in the batch job request window to create the put-away, and then choose the **OK** button.   
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

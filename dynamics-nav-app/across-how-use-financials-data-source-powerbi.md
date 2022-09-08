@@ -48,7 +48,7 @@ You can make your [!INCLUDE[d365fin](includes/d365fin_md.md)] data available as 
 Once the data is loaded it will appear in the right navigation on the page. At this point, you have successfully connected to your Dynamics NAV data and are ready to begin building your Power BI report. For more information, see the [Power BI documentation](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Business Intelligence](bi.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Importing Business Data from Other Finance Systems](upload-data.md)  

@@ -38,7 +38,7 @@ When the fiscal year is fiscally closed, the **Fiscally Closed** field for all t
 General journal entries can still be posted as long as the **Allow posting from** and **Allow posting to** fields in the posting setup for the relevant users are within the posting date of the entry. Once posted, this will be tagged as prior-year entry on the general ledger entries.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Close Years](how-to-close-years.md)   
  [Year End Processes Overview](year-end-processes-overview.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   

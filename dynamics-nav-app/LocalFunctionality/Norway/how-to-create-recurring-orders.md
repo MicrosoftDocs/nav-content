@@ -31,7 +31,7 @@ The create recurring orders process will find all of the recurring orders based 
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Recurring Orders](recurring-orders.md)   
  [How to: Set Up Recurring Groups](how-to-set-up-recurring-groups.md)   
  [How to: Set Up Recurring Orders](how-to-set-up-recurring-orders.md)   

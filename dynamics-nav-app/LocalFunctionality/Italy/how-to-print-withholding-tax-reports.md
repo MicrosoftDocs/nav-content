@@ -33,5 +33,5 @@ The **Withholding Taxes** report displays a list of withholding taxes that are p
 3.  Chose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

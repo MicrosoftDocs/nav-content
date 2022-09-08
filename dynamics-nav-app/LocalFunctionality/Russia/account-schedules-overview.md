@@ -35,7 +35,7 @@ Account schedules are set up in the **Account Schedule Names** window and the **
 > - **G/L Account Entries Analysis** report  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Import and Export Account Schedules](how-to-import-and-export-account-schedules.md)   
  [How to: Define an Account Schedule Extension](how-to-define-an-account-schedule-extension.md)   
  [How to: Define an Account Schedule Constant](how-to-define-an-account-schedule-constant.md)  

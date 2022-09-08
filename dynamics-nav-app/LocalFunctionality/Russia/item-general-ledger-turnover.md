@@ -145,5 +145,5 @@ On the **Parameters** FastTab, you can specify the format options listed in the 
 |**Print Group Totals**|Select this field to print preliminary group totals.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Item Obligatory Acts](item-obligatory-acts.md)

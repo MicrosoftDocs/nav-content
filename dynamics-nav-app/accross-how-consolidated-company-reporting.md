@@ -129,6 +129,6 @@ The exported entries contain the following fields: **Account No.**, **Posting Da
 4. The XML files also contain the currency exchange rates in the consolidation period. These rates are included in a separate section at the beginning of the file.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Exporting Your Business Data to Excel](about-export-data.md)

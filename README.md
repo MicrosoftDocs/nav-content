@@ -1,5 +1,5 @@
 # nav-content
-**IMPORTANT**: This content is no longer actively maintained. We encourage you to check out Microsoft Dynamics 365 Business Central documentation for recent updates. Dynamics 365 Business Central is the next version of Dynamics NAV and adds more capabilities, including the option to migrate to the cloud. For more information, see [Welcome to Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central) and [Configuring the Help Experience for Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/configure-help).
+**IMPORTANT**: This content is no longer actively maintained. We encourage you to check out Microsoft Dynamics 365 Business Central documentation for recent updates. Dynamics 365 Business Central is the next version of Dynamics NAV and adds more capabilities, including the option to migrate to the cloud. For more information, see [Welcome to Dynamics 365 Business Central](/dynamics365/business-central) and [Configuring the Help Experience for Dynamics 365 Business Central](/en-us/dynamics365/business-central/dev-itpro/deployment/configure-help).
 
 ## Source files for documentation
 

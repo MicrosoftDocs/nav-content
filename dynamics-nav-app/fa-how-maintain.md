@@ -81,7 +81,7 @@ In the **Maintenance - Details** report, you can view or print maintenance ledge
 3. Choose the **Print** or **Preview** button.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](fa-manage.md)  
 [Setting Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  

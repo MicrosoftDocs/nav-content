@@ -30,6 +30,6 @@ You can add VAT setup information to journal lines if needed. If you enter items
 6.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [United Kingdom Local Functionality](united-kingdom-local-functionality.md)   
 [How To: Report VAT to Tax Authorities](../../finance-how-report-vat.md)

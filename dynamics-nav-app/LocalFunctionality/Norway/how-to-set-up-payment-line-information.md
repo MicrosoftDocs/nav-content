@@ -59,7 +59,7 @@ Payment journal line information for the remittance payment is set up in the **P
 6.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)   
  [How to: Set Up Remittance Agreements](how-to-set-up-remittance-agreements.md)   
  [How to: Create Remittance Accounts](how-to-create-remittance-accounts.md)   

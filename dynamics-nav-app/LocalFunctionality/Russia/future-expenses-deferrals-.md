@@ -30,7 +30,7 @@ To account for future period expenses, you must:
 - Create and post purchase invoices for the future expense.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Create Future Expense Journals](how-to-create-future-expense-journals.md)   
  [How to: Create and Post a Purchase Invoice on a Future Expense](how-to-create-and-post-a-purchase-invoice-on-a-future-expense.md)   
  [How to: Set Up a Future Expense Card](how-to-set-up-a-future-expense-card.md)   

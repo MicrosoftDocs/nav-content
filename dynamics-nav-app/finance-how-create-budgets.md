@@ -42,7 +42,7 @@ In cost accounting, you work with cost budgets in a similar way. For more inform
 >  On the **Filters** FastTab, you can filter the budget information by budget dimensions you have set up under the budget name.   
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finance](finance.md)  
 [Business Intelligence](bi.md)  
 [Setting Up Finance](finance-setup-finance.md)  

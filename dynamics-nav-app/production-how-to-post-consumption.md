@@ -28,7 +28,7 @@ You can also set the system up to automatically post (*flush*) components when y
 3.  Choose the **Post** action to post the consumption. The related item ledger entries are reduced.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Manufacturing](production-manage-manufacturing.md)    
 [Setting Up Manufacturing](production-configure-production-processes.md)  
 [Planning](production-planning.md)      

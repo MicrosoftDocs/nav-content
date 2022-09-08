@@ -33,7 +33,7 @@ You can export or write Lastschrift Verfahren (LSV+) files that contain payments
 5.  All related lines are transferred to the LSV journal. The LSV file is generated in the predetermined folder.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Electronic Payments Using LSV+](swiss-electronic-payments-using-lsv-.md)   
  [How to: Process an LSV Collection](how-to-process-an-lsv-collection.md)   
  [How to: Close an LSV Collection](how-to-close-an-lsv-collection.md)   

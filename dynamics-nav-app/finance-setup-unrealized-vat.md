@@ -49,5 +49,5 @@ To use accounts for unrealized VAT, follow these steps:
    >   The VAT amount will be posted to this account, and stay there until the customer payment is posted. The amount is then transferred to the account for sales VAT.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Value Added Tax](finance-setup-vat.md)

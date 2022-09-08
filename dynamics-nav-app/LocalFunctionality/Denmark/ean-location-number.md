@@ -28,7 +28,7 @@ A European Article Numbering (EAN) location number is an electronic address that
  EAN numbers start with a 3-digit prefix allocated by EAN International. For Denmark, the first three numbers are **579**. The EAN number ends with a check digit that is calculated based on the first 12 digits.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Denmark Local Functionality](denmark-local-functionality.md)  
  [OIOUBL Electronic Invoicing Overview](oioubl-electronic-invoicing-overview.md)   
  [How to: Set Up Customers for OIOUBL](how-to-set-up-customers-for-oioubl.md)

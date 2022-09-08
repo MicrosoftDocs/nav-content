@@ -96,7 +96,7 @@ The following procedure describes to re-create inbox transactions, but the same 
   2.  In the **Handled IC Inbox Transactions** window, select the line with the transaction that you want to re-create in the inbox, and then choose the **Re-create Inbox Transaction** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Intercompany Transactions](intercompany-manage.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  

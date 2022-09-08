@@ -29,7 +29,7 @@ The following are some examples of the settings that you can apply to service ma
 2. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Fault Reporting](service-how-setup-fault-reporting.md)  
 [How to: Set Up Resource Allocation](service-how-setup-resource-allocation.md)  
 [How to: Set Up Codes for Standard Services](service-how-setup-service-coding.md)  

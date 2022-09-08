@@ -63,6 +63,6 @@ The following table describes the calculations.
 |**Minimum**|This means that you put a lower limit on the charge to your customer, regardless of the real costs or regular charges. Selecting this option means that the service price adjustment will only be performed if the total amount is less than the amount specified on the service price group.|  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Pricing and Additional Costs for Services](service-how-setup-service-costs-pricing.md)  
 [Setting Up Service Management](service-setup-service.md)  

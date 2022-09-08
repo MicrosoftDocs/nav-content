@@ -109,7 +109,7 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can export payment journ
 >  You can only post the payment order after you have successfully exported the electronic payments.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Payments – AEB N34.1](electronic-payments-aeb-n341.md)   
  Export Electronic Payments   
  [How to: Set Up Bank Accounts for Electronic Payments](how-to-set-up-bank-accounts-for-electronic-payments.md)   

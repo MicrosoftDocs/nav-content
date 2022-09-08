@@ -29,7 +29,7 @@ For information about how to automatically transfer statements, see [How to: Aut
 5.  Choose the **Post** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [CODA Bank Statements](coda-bank-statements.md)   
  [How to: Import CODA Statements](how-to-import-coda-statements.md)   

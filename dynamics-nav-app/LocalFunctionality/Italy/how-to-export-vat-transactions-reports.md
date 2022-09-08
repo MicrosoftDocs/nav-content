@@ -54,5 +54,5 @@ It is only possible to change the lines and fields when the document has the sta
     >  You can modify a report that has the status of Submitted only if you have enabled the **Modify Submitted Reports** check box in the **VAT Report Setup** window.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Correct VAT Transactions Reports](how-to-correct-vat-transactions-reports.md)

@@ -40,7 +40,7 @@ The number of job responsibilities you have assigned to the contact is displayed
 After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments. For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Creating Contact Persons](marketing-create-contact-persons.md)  
 [Creating Contact Companies](marketing-create-contact-companies.md)  
 [Working with Dynamics NAV](ui-work-product.md)

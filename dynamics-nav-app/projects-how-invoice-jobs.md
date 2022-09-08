@@ -70,7 +70,7 @@ When you have completed all activities for a job, including usage posting and in
      The job WIP general ledger entries created by running the batch job will have the **Job Complete** check box selected to show they are completion entries.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Projects](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Purchasing](purchasing-manage-purchasing.md)         

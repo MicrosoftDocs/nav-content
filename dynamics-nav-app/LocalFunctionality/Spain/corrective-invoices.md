@@ -32,5 +32,5 @@ The corrective invoice must meet the following requirements:
 - You can post a corrective invoice without corrected invoice numbers only when the corrections are necessary due to discounts or volume rebates.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)

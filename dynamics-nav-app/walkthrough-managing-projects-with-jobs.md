@@ -479,7 +479,7 @@ This walkthrough focuses on CRONUS International Ltd., a design and consultancy 
  This walkthrough has taken you through some of the basic steps of working with jobs in [!INCLUDE[d365fin](includes/d365fin_md.md)]. You have learned about how to create a new job, how to copy a job, and how to handle payments. Also, you have seen a demonstration of how to track hours and create invoices.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)   
  [Setting Up Project Management](projects-setup-projects.md)   
  [How to: Use Resources](projects-how-use-resources.md)   

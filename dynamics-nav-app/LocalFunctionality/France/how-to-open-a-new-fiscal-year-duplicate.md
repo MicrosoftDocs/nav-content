@@ -34,7 +34,7 @@ After the last period in the fiscal year, an accounting period is inserted with 
 >  In concordance with French law no more than two open fiscal years are allowed.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Specify Posting Periods](how-to-specify-posting-periods.md)   
  [How to: Close Years](how-to-close-years.md)   
  [How to: Post the Year-End Closing Entry](how-to-post-the-year-end-closing-entry.md)   

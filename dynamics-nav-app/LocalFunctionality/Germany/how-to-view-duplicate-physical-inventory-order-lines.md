@@ -29,7 +29,7 @@ The combination of the Item No., Variant Code, Location Code, and Bin Code field
 Any duplicate physical inventory order lines are displayed.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Enter Physical Inventory Orders](how-to-enter-physical-inventory-orders.md)   
  [How to: Finish a Physical Inventory Recording](how-to-finish-a-physical-inventory-recording.md)   
  [Physical Inventory Recording - Counting Physical Inventory](physical-inventory-recording-counting-physical-inventory.md)

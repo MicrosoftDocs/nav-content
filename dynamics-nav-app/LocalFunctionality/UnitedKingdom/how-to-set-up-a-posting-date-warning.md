@@ -28,5 +28,5 @@ A warning message will be displayed when you post or batch post sales and purcha
     >  A warning message displays when you post or batch post documents with a posting date not same as the work date. If you select **Replace Posting Date** check box while batch posting, you will be warned about the replacing posting date not being the same as the work date.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [United Kingdom Local Functionality](united-kingdom-local-functionality.md)

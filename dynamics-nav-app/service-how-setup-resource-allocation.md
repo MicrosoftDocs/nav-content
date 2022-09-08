@@ -76,7 +76,7 @@ If you want to change the skill codes assigned to items, for example from **PC**
     * Delete the skill codes or update their relation: Select this option if you want to change the skill code on this item only. The skill code on the related service items will be reassigned, that is, the **Assigned From** field will be updated.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Allocate Resources](service-how-to-allocate-resources.md)  
 [How to: Set Up Work Hours and Service Hours](service-how-setup-work-service-hours.md)  
 [How to: Set Up Fault Reporting](service-how-setup-fault-reporting.md)  

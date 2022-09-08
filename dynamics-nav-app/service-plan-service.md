@@ -31,7 +31,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Use statistics to analyze your service processes. | [Viewing Service Statistics](service-service-statistics.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fulfilling Service Contracts](service-fulfill-service-contracts.md)  
 [Delivering Service](service-deliver-service.md)  
 [How to: Set Up Pricing and Additional Costs for Services](service-how-setup-service-costs-pricing.md)  

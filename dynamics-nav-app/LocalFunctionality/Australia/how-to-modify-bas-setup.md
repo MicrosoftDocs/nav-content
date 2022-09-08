@@ -29,7 +29,7 @@ To complete the Business Activity Statement (BAS) setup, you must map fuel tax c
 7.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [BAS Fuel Tax Credits](bas-fuel-tax-credits.md)   
  [How to: Set Up BAS XML Fields](how-to-set-up-bas-xml-fields.md)   
  [Business Activity Statements](business-activity-statements.md)

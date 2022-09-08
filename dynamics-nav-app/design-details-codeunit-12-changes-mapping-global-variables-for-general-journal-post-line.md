@@ -106,5 +106,5 @@ The following changes have been implemented in this release of [!INCLUDE[d365fin
 ||CrCardTransactionEntryNo@1013 : Integer;|Added|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Codeunit 12 Changes: Changes in General Journal Post Procedures](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)

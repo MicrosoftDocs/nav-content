@@ -29,7 +29,7 @@ You can set up each vendor so that unpaid invoices from that vendor are automati
 4.  Choose the **OK** button.  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [Belgian Electronic Payments](belgian-electronic-payments.md)   
  [How to: Set Up Electronic Banking](how-to-set-up-electronic-banking.md)   

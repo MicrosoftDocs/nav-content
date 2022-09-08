@@ -33,7 +33,7 @@ The date on the lines that the batch job inserts in the journal is always a clos
 The **Close Income Statement** batch job can be used several times. You can post in a previous fiscal year, even after the income statement accounts have been closed, if you run the batch job again.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Closing Books](year-close-books.md)  
 [How to: Post the Year-End Closing Entry](year-how-post-year-end-close-entry.md)  
 [How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)  

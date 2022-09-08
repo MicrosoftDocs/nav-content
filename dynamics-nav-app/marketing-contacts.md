@@ -31,7 +31,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | Create a contact card for each contact person who works for the companies that you interact with. |[Creating Contact Persons](marketing-create-contact-persons.md) |
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
 [Setting Up Relationship Management](marketing-setup-marketing.md)  
 [Working with Dynamics NAV](ui-work-product.md)  

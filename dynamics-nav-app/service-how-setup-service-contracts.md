@@ -54,5 +54,5 @@ Before you can work with contracts, you must set up the following:
 5. Fill in the **Gen. Bus. Posting Group** and **Customer Posting Group** fields.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Service Management](service-setup-service.md)

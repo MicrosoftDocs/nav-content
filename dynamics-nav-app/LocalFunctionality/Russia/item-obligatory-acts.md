@@ -33,6 +33,6 @@ The following table provides the list of reports and how to print the reports.
 |Sales Shipment M-15|To print Sales Shipment M-15 from the sales order<br /><br /> -   Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, select an order, choose **Print**, and then select the **Sales Shipment M-15** check box.<br /><br /> To print Sales Shipment M-15 from the sales invoice<br /><br /> -   Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Invoices**, select an invoice, choose **Print**, and then select the **Sales Shipment M-15** check box.<br /><br /> To print from the posted sales invoice<br /><br /> -   Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Posted Sales Invoices**, select an invoice, choose **Print**, and then select the **Sales Shipment M-15** check box.<br /><br /> This report is usually printed at the time of shipment of materials out of the company.<br /><br /> For more information, see Sales Shipment M-15 and Posted Sales Shipment M-15.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Item Documents](item-documents.md)   
  [Item General Ledger Turnover](item-general-ledger-turnover.md)

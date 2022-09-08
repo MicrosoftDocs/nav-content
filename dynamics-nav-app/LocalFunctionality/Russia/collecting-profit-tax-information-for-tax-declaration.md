@@ -29,7 +29,7 @@ In the tax accounting module, the following synthetic registers of the Profit Ta
 - Supplement 7 to Sheet 02. Non – Sales Costs and Losses to be understood as non–sale  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Tax Accounting](tax-accounting.md)   
  [How to: Set Up Tax Register Sections](how-to-set-up-tax-register-sections.md)   
  [How to: Create Tax Registers](how-to-create-tax-registers.md)   

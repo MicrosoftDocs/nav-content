@@ -35,7 +35,7 @@ Unlike for entries that are posted with documents, which require a credit memo p
 5. Choose the **Post** action to record the transactions on the specified G/L accounts.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with General Journals](ui-work-general-journals.md)  
 [How to: Record and Reimburse Employees' Expenses](finance-how-record-reimburse-employee-expenses.md)  
 [How to: Reverse Postings](finance-how-reverse-journal-posting.md)  

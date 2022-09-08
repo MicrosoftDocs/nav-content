@@ -34,7 +34,7 @@ You can generate a file for electronic payment using the Elektronischer Zahlungs
 5.  Choose the **OK** button. The EZAG file is generated.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   
  [How to: Suggest DTA Payment for Vendors](how-to-suggest-dta-payment-for-vendors.md)   
  [How to: Verify a List of Vendors for DTA Payments](how-to-verify-a-list-of-vendors-for-dta-payments.md)   

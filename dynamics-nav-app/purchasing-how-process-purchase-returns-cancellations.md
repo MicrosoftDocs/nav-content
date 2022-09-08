@@ -178,7 +178,7 @@ When return shipments are combined on a credit memo and posted, then a posted pu
 3.  Alternatively, delete the individual purchase return orders manually.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)  
 [How to: How to: Correct or Cancel Unpaid Purchase Invoices](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  

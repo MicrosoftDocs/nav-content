@@ -52,6 +52,6 @@ The following procedure uses a posted service invoice as an example, but the sam
     The **Service Order Statistics** window opens. The window displays information such as quantity, amount, VAT, cost, profit, and customer credit limit for the posted document.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Post Service Orders](service-how-to-post-service-orders.md)   
 [How to: Create Service Orders](service-how-to-create-service-orders.md)

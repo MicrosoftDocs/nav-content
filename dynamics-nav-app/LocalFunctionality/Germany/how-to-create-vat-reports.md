@@ -68,6 +68,6 @@ After you create the VAT report, you have to submit it to the tax authorities.
 4.  Choose the **Mark as Submitted** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Correct VAT Reports](how-to-correct-vat-reports.md)   
  [How to: Set Up VAT Reports](how-to-set-up-vat-reports.md)

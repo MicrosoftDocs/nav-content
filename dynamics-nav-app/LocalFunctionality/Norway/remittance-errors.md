@@ -40,7 +40,7 @@ If there is an error or information is missing with a payment that was sent to t
 If there is a rejection, the error code from the bank and an explanation is displayed for the payment in the **Waiting Journal** window. You will have to handle the rejection based how the remittance agreement was set up. For more information, see [How to: Set Up Remittance Agreements](how-to-set-up-remittance-agreements.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Electronic Payments to Vendors in Norway](electronic-payments-to-vendors-in-norway.md)   
  [How to: Set Up Remittance Agreements](how-to-set-up-remittance-agreements.md)   
  [How to: Create Remittance Accounts](how-to-create-remittance-accounts.md)   

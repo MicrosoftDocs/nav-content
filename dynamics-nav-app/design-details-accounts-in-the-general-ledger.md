@@ -92,7 +92,7 @@ The following table shows how the amounts to post to the general ledger are calc
 |Expected Cost|Cost Amount (Expected) –  Expected Cost Posted to G/L|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Inventory Costing](design-details-inventory-costing.md)   
  [Design Details: Inventory Posting](design-details-inventory-posting.md)   
  [Design Details: Expected Cost Posting](design-details-expected-cost-posting.md)  

@@ -59,7 +59,7 @@ The list of bank data formats that are supported by the bank data conversion ser
 You have now signed up for the bank data conversion service. Proceed to reflect the sign-up information on every bank account that will use the service.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Banking](bank-setup-banking.md)  
 [Managing Bank Accounts](bank-manage-bank-accounts.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -33,5 +33,5 @@ After an invoice has been created you can allocate and post fixed asset charges.
 3.  Choose the **OK** button, and then post the invoice. If the fixed asset has already been released, lines with the relevant general ledger account will be displayed.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Fixed Assets](../../fa-manage.md) 

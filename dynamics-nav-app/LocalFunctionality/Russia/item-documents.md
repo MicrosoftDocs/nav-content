@@ -159,7 +159,7 @@ The following procedure shows how to create a report based on a posted transfer 
     Choose the **Print** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Inventory Setup](inventory-setup.md)   
  [Item Obligatory Acts](item-obligatory-acts.md)   
  [Item General Ledger Turnover](item-general-ledger-turnover.md)

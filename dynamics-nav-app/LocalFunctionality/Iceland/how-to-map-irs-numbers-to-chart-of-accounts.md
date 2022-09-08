@@ -33,5 +33,5 @@ Companies in Iceland are required to send the tax authority a data file in a pre
 3.  In the **IRS Number** field, select an IRS number from the list.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Special Data Output and Reports for the Tax Authority](special-data-output-and-reports-for-the-tax-authority.md) 

@@ -99,7 +99,7 @@ Administrators can define periods of time during which specified users are able 
 4. Fill in the fields as necessary.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Getting Ready for Doing Business](ui-get-ready-business.md)  
 [Setup and Administration in Dynamics NAV](admin-setup-and-administration.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  

@@ -40,6 +40,6 @@ The import bank statement is supported by the following protocols:
 The electronic bank statement is imported into the bank or giro journals. For more information, see [Dutch Electronic Banking](dutch-electronic-banking.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Dutch Electronic Banking](dutch-electronic-banking.md)   
  [Applying Payments Automatically and Reconcile Bank Accounts](../../receivables-apply-payments-auto-reconcile-bank-accounts.md)

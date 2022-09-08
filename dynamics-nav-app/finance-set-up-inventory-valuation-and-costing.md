@@ -34,7 +34,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up the rounding rules to apply when adjusting or suggesting item prices and when adjusting or suggesting standard costs.|**Rounding Method** page|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Managing Inventory Costs](finance-manage-inventory-costs.md)  
 [Working with Dynamics NAV](ui-work-product.md)  
 [Finance](finance.md)  

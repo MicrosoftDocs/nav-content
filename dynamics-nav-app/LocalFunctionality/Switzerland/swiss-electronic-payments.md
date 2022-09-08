@@ -42,7 +42,7 @@ LSV+ is a direct debit service that is used for processing payments. Companies c
 To export payments according to the SEPA standard, you must use a bank account. To make sure that the related general ledger entries are consistent with those generated for local Swiss payment methods (see above), the value in the **Bank Acc. Posting Group** field in the **Bank Account Card** window must point to the relevant general ledger account. For more information about how to export SEPA payments, see [How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](../../finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Import Swiss Bank Clearing Numbers](how-to-import-swiss-bank-clearing-numbers.md)   
  [Swiss Electronic Payments Using DTA](swiss-electronic-payments-using-dta.md)   
  [Swiss Electronic Payments Using ESR](swiss-electronic-payments-using-esr.md)   

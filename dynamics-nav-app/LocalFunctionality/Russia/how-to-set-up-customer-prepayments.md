@@ -44,6 +44,6 @@ Prepayments are advance payments on sales orders that are received, invoiced, an
 You can now invoice and collect advance payments from customers and post the payments to the correct invoices and accounts.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Invoicing Prepayments](../../finance-invoice-prepayments.md)  
 [Walkthrough: Setting Up and Invoicing Sales Prepayments](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md)

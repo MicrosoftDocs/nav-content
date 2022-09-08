@@ -40,7 +40,7 @@ For more information, see [How to: Post Red Storno Corrections](how-to-post-red-
 If you select the Enable Red Storno field in the **Inventory Setup** window, then negative deviations are posted according to red storno when you run the **Adjust Cost - Item Entries** batch job.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Item Documents](item-documents.md)   
  [Item Obligatory Acts](item-obligatory-acts.md)   
  [How to: Post Red Storno Corrections](how-to-post-red-storno-corrections.md)   

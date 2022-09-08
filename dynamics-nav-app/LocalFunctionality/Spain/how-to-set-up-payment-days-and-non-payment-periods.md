@@ -64,5 +64,5 @@ For sales and purchase invoices, the customer and vendor payment days and non-pa
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Spain Local Functionality](spain-local-functionality.md)

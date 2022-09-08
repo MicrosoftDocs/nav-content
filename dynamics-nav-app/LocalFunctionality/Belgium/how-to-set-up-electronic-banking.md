@@ -82,7 +82,7 @@ Optionally, you can assign bank accounts to each customer and vendor. This helps
 4.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Isabel website](https://go.microsoft.com/fwlink/?LinkId=210323)   
  [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [Belgian Electronic Payments](belgian-electronic-payments.md)   

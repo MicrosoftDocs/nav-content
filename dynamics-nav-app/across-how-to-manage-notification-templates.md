@@ -71,7 +71,7 @@ Parameter values are automatically inserted in notifications according to the no
  ![NAV&#95;notification&#95;overdue&#95;type](media/nav_notification_overdue_type.png "NAV_notification_overdue_type")  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Workflow Notifications](across-setting-up-workflow-notifications.md)   
  [How to: Set up Email](madeira-how-setup-email.md)   
  [How to: Set Up Workflow Users](across-how-to-set-up-workflow-users.md)   

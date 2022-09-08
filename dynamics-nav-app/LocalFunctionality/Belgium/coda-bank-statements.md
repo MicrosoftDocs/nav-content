@@ -44,7 +44,7 @@ You can run the process as many times as you like. Only statement lines with a b
 When you have applied all statement lines to a general ledger account or to a matching customer ledger entry or vendor ledger entry, you are ready to post the CODA statement lines. For more information, see [How to: Automatically Transfer and Post CODA Statements](how-to-manually-transfer-and-post-coda-statements.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgian Electronic Banking](belgian-electronic-banking.md)   
  [How to: Set Up Bank Accounts for CODA](how-to-set-up-bank-accounts-for-coda.md)   
  [How to: Set Up IBLC-BLWI Transaction Codes](how-to-set-up-iblc-blwi-transaction-codes.md)   

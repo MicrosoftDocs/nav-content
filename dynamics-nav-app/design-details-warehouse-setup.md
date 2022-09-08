@@ -126,6 +126,6 @@ When picking by FEFO, the available items that expire first are gathered in a te
 The put-away template can be assigned to an item and to a location. The put-away template specifies a set of prioritized rules that must be respected when creating put-aways. For example, a put-away template may require that the item is placed in a bin with bin content that matches the UOM, and if a similar bin with enough capacity cannot be found, then the item must be placed in an empty bin.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Warehouse Management](design-details-warehouse-management.md)   
 [Design Details: Availability in the Warehouse](design-details-availability-in-the-warehouse.md)

@@ -25,5 +25,5 @@ In the [!INCLUDE[d365fin](includes/d365fin_md.md)] posting interface structure, 
 * UnapplyVendLedgEntry – post unapply of vendor application, called from codeunit 227 VendEntry-Apply Posted Entries  
   
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Design Details: Posting Engine Structure](design-details-posting-engine-structure.md)

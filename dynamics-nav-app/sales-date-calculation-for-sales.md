@@ -40,7 +40,7 @@ If you do not specify a requested delivery date on the sales order line, or if t
 
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Date Calculation for Purchases](purchasing-date-calculation-for-purchases.md)   
  [How to: Calculate Order Promising Dates](sales-how-to-calculate-order-promising-dates.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

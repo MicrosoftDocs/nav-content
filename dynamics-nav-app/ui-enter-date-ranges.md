@@ -38,7 +38,7 @@ You can also combine the various format types.
 Note that we have used the US date format MMDDYY here. As [!INCLUDE[d365fin](includes/d365fin_md.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [Entering Criteria in Filters ](ui-enter-criteria-filters.md)  
 [General Business Functionality](ui-across-business-areas.md)

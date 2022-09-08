@@ -41,5 +41,5 @@ To manually download CODA files, log  on to the Isabel server and select the fil
      After the CODA files have been downloaded, the **Process Status** field will display **Created** in the **IBS Logs** window. You can log on to the Isabel server to manually retrieve the files. For more information, see [How to: Import CODA Statements](how-to-import-coda-statements.md).  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Belgium Local Functionality](belgium-local-functionality.md)

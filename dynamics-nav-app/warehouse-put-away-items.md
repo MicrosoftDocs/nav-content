@@ -38,7 +38,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Get immediate access to put-aways that are assigned to you as a warehouse worker.|[How to: Find Your Warehouse Assignments](warehouse-how-to-find-your-warehouse-assignments.md)|    
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Warehouse Management](warehouse-manage-warehouse.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     

@@ -52,6 +52,6 @@ Currently, there are two sets of URLs that are provided by the Dutch Tax Adminis
 - Digipoort Status URL: https://preprod.procesinfrastructuur.nl/wus/2.0/statusinformatieservice/1.2  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Submit Electronic VAT and ICP Declarations](how-to-submit-electronic-vat-and-icp-declarations.md)   
  [How to: Process Response Messages from Tax Authorities](how-to-process-response-messages-from-tax-authorities.md)

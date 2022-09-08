@@ -28,5 +28,5 @@ The completed entries can be sent in a file to the Intrastat authorities, or you
 4.  Choose the **Print** action.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [How to: Set Up Intrastat Reporting](../../finance-how-setup-report-intrastat.md)

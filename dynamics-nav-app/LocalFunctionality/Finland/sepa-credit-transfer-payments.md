@@ -19,6 +19,6 @@
 [!INCLUDE[navnow](../../includes/navnow_md.md)] includes Finnish enhancements to allow you to create Single Euro Payments Area (SEPA) credit transfer files to send vendor payments to banks. A SEPA credit transfer is a payment that is transferred according to the file format specified by the European Payments Commission.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Finland Local Functionality](finland-local-functionality.md)   
  [How to: Set Up Bank Reference Files](how-to-set-up-bank-reference-files.md)

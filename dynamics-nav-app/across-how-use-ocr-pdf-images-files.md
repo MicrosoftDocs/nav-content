@@ -119,7 +119,7 @@ The **OCR Data Correction** window, which you open from the **Incoming Document*
 The fields on the **Financial Information** FastTab in the **Incoming Document** window are updated with any new values that you entered in step 4.
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Purchasing](purchasing-manage-purchasing.md)  

@@ -35,6 +35,6 @@ Cash accounts are similar to bank accounts and are created identically. You can 
 3.  Choose the **OK** button.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Petty Cash Management](petty-cash-management.md)   
  [Bank and Cash Management](bank-and-cash-management.md)

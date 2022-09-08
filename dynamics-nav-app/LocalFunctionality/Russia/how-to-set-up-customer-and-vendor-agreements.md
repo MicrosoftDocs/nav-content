@@ -62,6 +62,6 @@ On the **Navigate** tab, you can find the following functions:
 The agreements are fully synchronized with dimensions. You can post transactions and choose the dimension value code of the appropriate agreement from the list of agreements.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Russian Receivables Reports](russian-receivables-reports.md)   
  [Russian Payables Reports](russian-payables-reports.md)

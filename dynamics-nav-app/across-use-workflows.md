@@ -34,7 +34,7 @@ You can set up and use workflows that connect business-process tasks performed b
 |Delete a workflow that you are sure will no longer be used.|[How to: Delete Workflows](across-how-to-delete-workflows.md)|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Setting Up Workflows](across-set-up-workflows.md)   
 [Workflow](across-workflow.md)   
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

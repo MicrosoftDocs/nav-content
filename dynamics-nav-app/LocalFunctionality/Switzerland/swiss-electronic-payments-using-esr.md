@@ -38,7 +38,7 @@ When you set up number series for invoices, you must follow these guidelines:
 - Do not precede numbers with zeros.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [Swiss Electronic Payments](swiss-electronic-payments.md)   
  [How to: Print ESR Invoices](how-to-print-esr-invoices.md)   
  [How to: Import ESR Payments](how-to-import-esr-payments.md)   

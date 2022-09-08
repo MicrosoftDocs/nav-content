@@ -48,7 +48,7 @@ For more information, see the [Spanish Tax Agency](https://go.microsoft.com/fwli
 You can now submit the VAT statement to the tax authorities.  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [VAT Reports](vat-reports.md)   
  [How to: Create Templates for Telematic VAT Statements in Text File Format](how-to-create-templates-for-telematic-vat-statements-in-text-file-format.md)   
  [How to: Export VAT Statements in XML Format](how-to-export-vat-statements-in-xml-format.md)

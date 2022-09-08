@@ -46,7 +46,7 @@ This topic defines the key terms that are used in cost accounting.
 |Variant|A variant is used as an optional user-defined label for allocations. The purpose of the label is to filter groups of allocation.|  
 
 ## See Also
-[Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/)  
+[Dynamics 365 Business Central](/dynamics365/business-central/)  
 [About Cost Accounting](finance-about-cost-accounting.md)   
  [Accounting for Costs](finance-manage-cost-accounting.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
