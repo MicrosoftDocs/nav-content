@@ -20,7 +20,7 @@ Companies must submit periodic VAT and ICP declarations.
 
 VAT declarations must be submitted on a monthly or quarterly basis.  
 
-Companies that sell goods or services to European Union (EU) countries must submit Intracommunautaire leveringen (ICP) declarations on a quarterly basis. Purchases are not included in this declaration. For these intracommunautaire transactions, it is required that the merchandise have crossed the border physically. It is not enough that the location of an invoice address or the office of the vendor or customer is in another EU country or region.  
+Companies that sell goods or services to European Union (EU) countries/regions must submit Intracommunautaire leveringen (ICP) declarations on a quarterly basis. Purchases are not included in this declaration. For these intracommunautaire transactions, it is required that the merchandise have crossed the border physically. It is not enough that the location of an invoice address or the office of the vendor or customer is in another EU country or region.  
 
 > [!NOTE]  
 >  Before you can send electronic declarations to the tax authorities you must register your company for electronic declaration. The information that the tax authorities need depends on the sign method your company will use, PIN or PKI. For both methods, you have to send the form "Aanmeldingsformulier voor elektronisch berichtenverkeer met de belastingdienst" to the tax authorities.  

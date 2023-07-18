@@ -19,13 +19,13 @@ This topic describes the reports in [!INCLUDE[d365fin](includes/d365fin_md.md)] 
 
 You can use the following reports :
 
-* The **EC Sales List** European Community (EC) Sales List report lists the value added tax (VAT) amounts that you have collected for sales to VAT-registered customers in the European Union (EU) countries.  
-* The **VAT Return** report includes VAT for sales and purchases to customers in all countries that use VAT.
+* The **EC Sales List** European Community (EC) Sales List report lists the value added tax (VAT) amounts that you have collected for sales to VAT-registered customers in the European Union (EU) countries/regions.  
+* The **VAT Return** report includes VAT for sales and purchases to customers in all countries/regions that use VAT.
 
 If you want to view a complete history of VAT entries, every posting that involves VAT creates an entry on the **VAT Entries** page. These entries are used to calculate your VAT settlement amount, such as your payment and refund, for a specific period. To view VAT entries, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **VAT Entries**, and then choose the related link.
 
 ## About the EC Sales List report
-In the EU, all companies that sell goods and services to VAT-registered customers, including customers in other European Union (EU) countries, must submit an electronic version of the European Community (EC) Sales List report in XML format through their local tax authority's website, for example in UK, Her Majesty's Revenue and Customs (HMRC). The EC Sales List report works only for countries in the EU.
+In the EU, all companies that sell goods and services to VAT-registered customers, including customers in other European Union (EU) countries/regions, must submit an electronic version of the European Community (EC) Sales List report in XML format through their local tax authority's website, for example in UK, Her Majesty's Revenue and Customs (HMRC). The EC Sales List report works only for countries/regions in the EU.
 
 The report includes one line for each type of transaction with the customer, and displays the total amount for each type of transactions. There are three types of transactions that the report can include:  
 
@@ -79,7 +79,7 @@ To report VAT to a tax authority electronically, you need to connect [!INCLUDE[d
 After you submit the report, [!INCLUDE[d365fin](includes/d365fin_md.md)] monitors the service and keeps a record of your communications. The **Status** field indicates where the report is in the process. For example, when the authorities process your report, the status of the report changes to **Succeeded**. If the tax authority found mistakes in the report you submitted, the status of the report will be **Failed**. You can view the errors under **Errors and Warnings**, correct them, and then submit the report again. To view a list of all your EC Sales List reports, go to the **EC Sales List Reports** page.  
 
 ## Viewing communications with your tax authority
-In some countries, you exchange messages with the tax authority when you submit reports. You can view the first and the last message you sent or received by choosing the **Download Submission Message** and **Download Response Message** actions.  
+In some countries/regions, you exchange messages with the tax authority when you submit reports. You can view the first and the last message you sent or received by choosing the **Download Submission Message** and **Download Response Message** actions.  
 
 ## Submitting VAT reports manually
 If you use another method to submit the report, for example by exporting the XML and uploading it to a tax authority website, afterward you can choose **Mark as Submitted** to close the reporting period. When you mark the report as released, it becomes non-editable. If you must change the report after you mark it as released, you must reopen it.

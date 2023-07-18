@@ -1,6 +1,6 @@
 ---
     title: How to File Non-Euro SEPA Payments
-    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can file non-euro SEPA payments with the bank. This is useful when you make payments to other countries that do not use SEPA and for currencies other than the euro.
+    description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can file non-euro SEPA payments with the bank. This is useful when you make payments to other countries/regions that do not use SEPA and for currencies other than the euro.
 
     documentationcenter: ''
     author: SorenGP
