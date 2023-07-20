@@ -88,7 +88,7 @@ The topic contains the following procedures:
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**GLN**|Identify the customer.<br /><br /> For example, when you send electronic invoices in the PEPPOL format, the value in this field is used to populate the **EndPointID** element under the **AccountingCustomerParty** node in the file. The number is based on the GS1 standard, which is compliant with ISO 6523.<br /><br /> If the **GLN** field is blank, the value in the **VAT Registration No.** field is used.|  
-    |**VAT Registration No.**|Specify the customer's VAT registration number. **Tip:**  Choose the DrillDown button to use the web service that verifies if the number exists in the country’s company register.|  
+    |**VAT Registration No.**|Specify the customer's VAT registration number. **Tip:**  Choose the DrillDown button to use the web service that verifies if the number exists in the country/region’s company register.|  
     |**Responsibility Center**|If the customer is set up with a responsibility center, make sure that the **Country/Region Code** field is filled.|  
 
     You can set up each customer with a preferred method of sending business documents, so that you do not have to select a sending option every time that you send a document to the customer. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).  
