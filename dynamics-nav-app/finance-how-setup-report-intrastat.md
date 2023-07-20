@@ -1,6 +1,6 @@
 ---
 title: Set Up and Report Intrastat
-description: Learn how to set up Intrastat reporting features, and how to report trade with companies in other EU countries.
+description: Learn how to set up Intrastat reporting features, and how to report trade with companies in other EU countries/regions.
 
 documentationcenter: ''
 author: bholtorf
@@ -30,7 +30,7 @@ Optionally, you can also set up:
 
 * **Transaction specifications**: Use these to supplement the descriptions from the transaction types.  
 * **Areas**: Use these to supplement information about countries and regions.  
-* **Entry/exit points**: Use these to specify the locations where you ship or receive items to or from other countries. Heathrow Airport is an example of an entry or exit point. You enter entry or exit points on sales and purchase documents on the **Foreign Trade** FastTab. This information will also be copied from the item entries when you create the Intrastat journal.  
+* **Entry/exit points**: Use these to specify the locations where you ship or receive items to or from other countries/regions. Heathrow Airport is an example of an entry or exit point. You enter entry or exit points on sales and purchase documents on the **Foreign Trade** FastTab. This information will also be copied from the item entries when you create the Intrastat journal.  
 
 ### To set up Intrastat templates and batches
 The Intrastat batch jobs include only item entries, and not general ledger entries. If you have general ledger entries that qualify for Intrastat reporting, you must enter them manually. For example, if you purchase a computer from another EU country or region, the computer is not placed in inventory, but is posted to a general ledger account. You must manually enter this type of entry in the Intrastat journal.  

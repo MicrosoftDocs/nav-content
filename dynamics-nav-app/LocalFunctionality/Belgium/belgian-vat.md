@@ -22,7 +22,7 @@
 
 -   VAT annual listing (on paper/disk) - This report is used to annually report all amounts invoiced for both goods and services to all Belgian companies with a registered VAT number.  
 
--   VAT-VIES listing (on paper/disk) - This report is used to report the sales of goods to other countries.  
+-   VAT-VIES listing (on paper/disk) - This report is used to report the sales of goods to other countries/regions.  
 
 You are also required to provide a printed statement detailing the VAT transactions to the Belgian tax authorities. For more information, see VAT Statement.  
 
