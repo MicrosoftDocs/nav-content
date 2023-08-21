@@ -63,7 +63,7 @@ The topic contains the following procedures:
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
-    |**VAT Scheme**|Identify the national body that issues the VAT registration number for the country\/region in connection with electronic document sending.<br /><br /> For example, when you send electronic invoices in the PEPPOL format, the value in this field is used to populate the **SchemeID** attribute for the **EndPointID** element under both the **AccountingSupplierParty** node and the **AccountingCustomerParty** in the file.<br /><br /> The **VAT Scheme** field is only used if the **GLN** field in the **Company Information** window is not filled. **Note:**  The value in the **Code** field in the **Countries\/Regions** window must comply with ISO 3166\-1:Alpha2.|  
+    |**VAT Scheme**|Identify the national/regional body that issues the VAT registration number for the country\/region in connection with electronic document sending.<br /><br /> For example, when you send electronic invoices in the PEPPOL format, the value in this field is used to populate the **SchemeID** attribute for the **EndPointID** element under both the **AccountingSupplierParty** node and the **AccountingCustomerParty** in the file.<br /><br /> The **VAT Scheme** field is only used if the **GLN** field in the **Company Information** window is not filled. **Note:**  The value in the **Code** field in the **Countries\/Regions** window must comply with ISO 3166\-1:Alpha2.|  
 
 ### To set up items for electronic document sending and receiving  
 1. In the **Search** box, enter **Items**, and then choose the related link.  

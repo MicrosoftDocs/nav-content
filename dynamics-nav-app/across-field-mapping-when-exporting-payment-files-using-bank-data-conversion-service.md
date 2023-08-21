@@ -25,7 +25,7 @@ The following table lists the fields in [!INCLUDE[d365fin](includes/d365fin_md.m
 |------------------|--------------------|-----------|---------------------------------------|  
 |Creditor No.|Creditor No.|Bank Account|The identifier assigned to your company by your bank to collect payments|  
 |Sender Bank Account No.|Bank Account No./IBAN|Bank Account|Your company's bank account number (IBAN or other) that is specified on the bank account card|  
-|Sender Bank Clearing Standard|Bank Clearing Standard|Bank Account|The national bank names register used for the sender bank account|  
+|Sender Bank Clearing Standard|Bank Clearing Standard|Bank Account|The national/regional bank names register used for the sender bank account|  
 |Sender Bank Clearing Code|Bank Clearing Code|Bank Account|The identifier of the sender's bank in relation to the bank names register used|  
 |Sender Bank BIC|SWIFT Code|Bank Account|The SWIFT identifier of the sender bank account|  
 |Sender Bank Account Currency|Currency Code|Bank Account|The sender bank account Currency Code|  
@@ -40,7 +40,7 @@ The following table lists the fields in [!INCLUDE[d365fin](includes/d365fin_md.m
 |Recipient Country/Region Code|Country/Region Code|Customer/Vendor|The recipient country/region code that is specified on the customer or vendor card|  
 |Recipient Post Code|Post Code|Customer/Vendor|The recipient post code that is specified on the customer or vendor card|  
 |Recipient Bank Acc. No.|Bank Account No./IBAN|Customer Bank Account/Vendor Bank Account|The recipient bank account number (IBAN or other) that is specified on the customer or vendor bank account card|  
-|Recipient Bank Clearing Code|Bank Clearing Standard|Customer Bank Account/Vendor Bank Account|The national bank names register used for the recipient bank account|  
+|Recipient Bank Clearing Code|Bank Clearing Standard|Customer Bank Account/Vendor Bank Account|The national/regional bank names register used for the recipient bank account|  
 |Recipient Bank Clearing Std.|Bank Clearing Code|Customer Bank Account/Vendor Bank Account|The identifier of the recipient bank account in relation to the bank names register that is used|  
 |Recipient Email Address|E-Mail|Customer/Vendor|The email address of the recipient|  
 |Message To Recipient 1|Message to Recipient|General Journal Line|The message to recipient that is specified on the payment line|  
