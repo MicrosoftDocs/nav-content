@@ -10,7 +10,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.prod: excel 
+ms.service: excel
 ---
 
 # Responding to Requests About Personal Data  
