@@ -4,7 +4,7 @@ description: Getting insight, business intelligence, and KPIs from your Dynamics
 author: edupont04
 
 ms.prod: "dynamics-nav-2018"
-ms.topic: get-started-article
+ms.topic: get-started
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
