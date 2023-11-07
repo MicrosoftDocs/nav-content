@@ -14,6 +14,7 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: edupont
 
+description: Learn how to find and manage posted documents without incoming records in Microsoft Dynamics NAV. Step-by-step guide included.
 ---
 # How to: Find Posted Documents without Incoming Document Records
 From the **Chart of Accounts** and **General Ledger Entries** windows, you can use a search function to find general ledger entries for posted purchase and sales documents that do not have incoming document records and then centrally link to existing records or create new ones with attached document files.
