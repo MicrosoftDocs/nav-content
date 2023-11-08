@@ -1,10 +1,7 @@
 ---
 title: Search for Documents without Attachments
-Description: You can search for general ledger entries for posted purchase and sales documents that do not have incoming electronic documents, such as imported invoices.
-
-documentationcenter: ''
+description: Learn how to find and manage posted documents without incoming records in Microsoft Dynamics NAV. Step-by-step guide included.
 author: SorenGP
-
 ms.prod: "dynamics-nav-2018"
 ms.topic: article
 ms.devlang: na
@@ -13,8 +10,8 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 06/02/2017
 ms.author: edupont
-
 ---
+
 # How to: Find Posted Documents without Incoming Document Records
 From the **Chart of Accounts** and **General Ledger Entries** windows, you can use a search function to find general ledger entries for posted purchase and sales documents that do not have incoming document records and then centrally link to existing records or create new ones with attached document files.
 
